@@ -2297,5 +2297,254 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Myanmar Military Calls for Temporary Truce After Earthquake",
+        "abstract": "It remains unclear whether the cease-fire would be honored. It comes a day after soldiers fired at a Chinese Red Cross aid convoy, and amid multiple airstrikes.",
+        "url": "https://www.nytimes.com/2025/04/02/world/asia/myanmar-quake-aid.html",
+        "uri": "nyt://article/70f45068-a997-5ee5-b771-c938c6377165",
+        "byline": "By Sui-Lee Wee",
+        "item_type": "Article",
+        "updated_date": "2025-04-02T12:18:57-04:00",
+        "created_date": "2025-04-02T00:26:56-04:00",
+        "published_date": "2025-04-02T00:26:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Myanmar Earthquake (March 28, 2025)",
+            "War and Armed Conflicts",
+            "Defense and Military Forces",
+            "Humanitarian Aid"
+        ],
+        "org_facet": [
+            "Ta'ang National Liberation Army",
+            "International Committee of the Red Cross"
+        ],
+        "per_facet": [
+            "Min Aung Hlaing"
+        ],
+        "geo_facet": [
+            "Mandalay (Myanmar)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02int-myanmar-redcross-qkcw/02int-myanmar-redcross-qkcw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Chinese Red Cross during a rescue operation in Mandalay, Myanmar, on Monday, in a photo released by Chinese state media.",
+                "copyright": "Myo Kyaw Soe/Xinhua, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02int-myanmar-redcross-qkcw/02int-myanmar-redcross-qkcw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Chinese Red Cross during a rescue operation in Mandalay, Myanmar, on Monday, in a photo released by Chinese state media.",
+                "copyright": "Myo Kyaw Soe/Xinhua, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02int-myanmar-redcross-qkcw/02int-myanmar-redcross-qkcw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Chinese Red Cross during a rescue operation in Mandalay, Myanmar, on Monday, in a photo released by Chinese state media.",
+                "copyright": "Myo Kyaw Soe/Xinhua, via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "",
+        "title": "A Remote Spot in Saudi Arabia That Won’t Be Remote for Long",
+        "abstract": "Hotel construction and public art projects already are changing the vast desert landscape of Al-Ula in the country’s northwest.",
+        "url": "https://www.nytimes.com/2025/04/02/world/travel-al-ula-saudi-arabia.html",
+        "uri": "nyt://article/35a24d0d-b12b-533b-8acb-6df97b727c09",
+        "byline": "By David Belcher",
+        "item_type": "Article",
+        "updated_date": "2025-04-02T12:13:47-04:00",
+        "created_date": "2025-04-02T05:00:41-04:00",
+        "published_date": "2025-04-02T05:00:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Travel and Vacations",
+            "Tombs and Tombstones",
+            "Hotels and Travel Lodgings",
+            "your-feed-fashion"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Nouvel, Jean"
+        ],
+        "geo_facet": [
+            "Al Ula (Saudi Arabia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03sp-travel-saudi-inyt-wblc/03sp-travel-saudi-inyt-wblc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Al-Ula, Saudi Arabia, features sandstone and granite formations.",
+                "copyright": "Stephen Hiltner/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03sp-travel-saudi-inyt-wblc/03sp-travel-saudi-inyt-wblc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Al-Ula, Saudi Arabia, features sandstone and granite formations.",
+                "copyright": "Stephen Hiltner/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03sp-travel-saudi-inyt-wblc/03sp-travel-saudi-inyt-wblc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Al-Ula, Saudi Arabia, features sandstone and granite formations.",
+                "copyright": "Stephen Hiltner/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Already Seen Kyoto? Expand Your Itinerary in Japan",
+        "abstract": "Everyone goes to Tokyo, Kyoto and Osaka. Why not try spots like the bustling port of Yokohama or the serene monasteries of Koyasan instead?",
+        "url": "https://www.nytimes.com/2025/04/02/world/asia/travel-japan-destinations.html",
+        "uri": "nyt://article/98b3135f-5e0c-5b44-a1b8-2852c0e60203",
+        "byline": "By Vivian Morelli and Andrew Faulk",
+        "item_type": "Article",
+        "updated_date": "2025-04-02T12:14:57-04:00",
+        "created_date": "2025-04-02T05:00:38-04:00",
+        "published_date": "2025-04-02T05:00:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Travel and Vacations",
+            "Monasteries and Monks",
+            "Noodles",
+            "Gardens and Gardening",
+            "Hot Springs",
+            "your-feed-fashion"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Fukuoka (Japan)",
+            "Koyasan (Japan)",
+            "Yokohama (Japan)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03sp-travel-destinations-inyt-jwqt/03sp-travel-destinations-inyt-jwqt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Monks performing morning rites in Koyasan, Japan.",
+                "copyright": "Andrew Faulk for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03sp-travel-destinations-inyt-jwqt/03sp-travel-destinations-inyt-jwqt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Monks performing morning rites in Koyasan, Japan.",
+                "copyright": "Andrew Faulk for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03sp-travel-destinations-inyt-jwqt/03sp-travel-destinations-inyt-jwqt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Monks performing morning rites in Koyasan, Japan.",
+                "copyright": "Andrew Faulk for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "dining",
+        "subsection": "",
+        "title": "Eating Your Way Through Europe. Or Anywhere, Really.",
+        "abstract": "Lots of travelers say supermarket tourism, the experience of trying local foods or variations of well-known items, has become a key part of any trip.",
+        "url": "https://www.nytimes.com/2025/04/02/dining/travel-supermarket-tourism.html",
+        "uri": "nyt://article/652d55fc-7827-5fa3-8a29-9123e53126ef",
+        "byline": "By Penelope Colston",
+        "item_type": "Article",
+        "updated_date": "2025-04-02T12:15:37-04:00",
+        "created_date": "2025-04-02T05:00:33-04:00",
+        "published_date": "2025-04-02T05:00:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Travel and Vacations",
+            "Supermarkets and Grocery Stores",
+            "Food",
+            "your-feed-fashion"
+        ],
+        "org_facet": [
+            "7-Eleven",
+            "Carrefour SA",
+            "Walmart Stores Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03sp-travel-food-inyt-01-zjql/03sp-travel-food-inyt-01-zjql-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1367,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Keith Crockford, the chief executive of the Bucket List Company, in a local Indian supermarket in the English county of Devon, where he lives.",
+                "copyright": "Jeremie Souteyrat for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03sp-travel-food-inyt-01-zjql/03sp-travel-food-inyt-01-zjql-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Keith Crockford, the chief executive of the Bucket List Company, in a local Indian supermarket in the English county of Devon, where he lives.",
+                "copyright": "Jeremie Souteyrat for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03sp-travel-food-inyt-01-zjql/03sp-travel-food-inyt-01-zjql-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Keith Crockford, the chief executive of the Bucket List Company, in a local Indian supermarket in the English county of Devon, where he lives.",
+                "copyright": "Jeremie Souteyrat for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
