@@ -2546,5 +2546,74 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Entire Staff Is Fired at Office That Helps Poorer Americans Pay for Heating",
+        "abstract": "The move threatens to paralyze the Low Income Home Energy Assistance Program, which helps to offset high utility bills for roughly 6.2 million people nationwide.",
+        "url": "https://www.nytimes.com/2025/04/02/climate/trump-layoffs-energy-assistance-liheap.html",
+        "uri": "nyt://article/9a9ced2f-0f57-5318-be8f-04e3c7dd9193",
+        "byline": "By Brad Plumer",
+        "item_type": "Article",
+        "updated_date": "2025-04-02T13:02:09-04:00",
+        "created_date": "2025-04-02T12:49:33-04:00",
+        "published_date": "2025-04-02T12:49:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "United States Politics and Government",
+            "Poverty",
+            "Federal-State Relations (US)",
+            "Heating",
+            "Layoffs and Job Reductions",
+            "Heat and Heat Waves",
+            "Air Conditioning"
+        ],
+        "org_facet": [
+            "Low Income Home Energy Assistance Program (LIHEAP)",
+            "Health and Human Services Department"
+        ],
+        "per_facet": [
+            "Kennedy, Robert F Jr"
+        ],
+        "geo_facet": [
+            "Maine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/climate/02cli-heating-assistance/02cli-heating-assistance-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A delivery of heating oil in Farmington, Me., in 2023. The program, known as LIHEAP, also helps to cover bills for cooling in summer. ",
+                "copyright": "Robert F. Bukaty/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/climate/02cli-heating-assistance/02cli-heating-assistance-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A delivery of heating oil in Farmington, Me., in 2023. The program, known as LIHEAP, also helps to cover bills for cooling in summer. ",
+                "copyright": "Robert F. Bukaty/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/climate/02cli-heating-assistance/02cli-heating-assistance-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A delivery of heating oil in Farmington, Me., in 2023. The program, known as LIHEAP, also helps to cover bills for cooling in summer. ",
+                "copyright": "Robert F. Bukaty/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
