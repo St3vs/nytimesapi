@@ -29,8 +29,8 @@ jobs:
 
       - name: Commit dos dados coletados
         run: |
-          git config --global user.name "St3vs"
-          git config --global user.email "rodrigoesteves30@gmail.com"
-          git add dados.json
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add dados.json ficheiro.log
           git commit -m "Atualização automática de artigos do NYTimes" || echo "Nada para commitar"
-          git push https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/St3vs/nytimesapi.git
+          git push
