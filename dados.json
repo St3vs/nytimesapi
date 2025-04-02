@@ -3052,5 +3052,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Coal Plant Ranked as Nation’s Dirtiest Asks for Pollution Exemption",
+        "abstract": "The facility, in Colstrip, Mont., used a new E.P.A. system for requesting special waivers from President Trump.",
+        "url": "https://www.nytimes.com/2025/04/02/climate/coal-plant-colstrip-epa-email-pollution-exemption.html",
+        "uri": "nyt://article/dd086f72-dc91-5dfb-b42d-1d0dd2686f34",
+        "byline": "By Hiroko Tabuchi",
+        "item_type": "Article",
+        "updated_date": "2025-04-02T18:32:03-04:00",
+        "created_date": "2025-04-02T18:32:03-04:00",
+        "published_date": "2025-04-02T18:32:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Air Pollution",
+            "Regulation and Deregulation of Industry",
+            "Coal",
+            "Environment"
+        ],
+        "org_facet": [
+            "Environmental Protection Agency"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Montana"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02CLI-COAL-lwvk/02CLI-COAL-lwvk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The coal plant in Colstrip, Mont., is ranked by the Environmental Protection Agency as the worst emitter of harmful particulate matter.",
+                "copyright": "Kristina Barker for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02CLI-COAL-lwvk/02CLI-COAL-lwvk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The coal plant in Colstrip, Mont., is ranked by the Environmental Protection Agency as the worst emitter of harmful particulate matter.",
+                "copyright": "Kristina Barker for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02CLI-COAL-lwvk/02CLI-COAL-lwvk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The coal plant in Colstrip, Mont., is ranked by the Environmental Protection Agency as the worst emitter of harmful particulate matter.",
+                "copyright": "Kristina Barker for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
