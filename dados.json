@@ -2680,5 +2680,195 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "What to Know About Israel’s Expanded Offensive in Gaza",
+        "abstract": "A top official said “large areas” of the enclave would be seized, suggesting that Israel intended to hold on to more territory.",
+        "url": "https://www.nytimes.com/2025/03/18/world/middleeast/israel-attack-gaza-hamas.html",
+        "uri": "nyt://article/88d7e83f-579a-5c98-919f-7189a4df148b",
+        "byline": "By Aaron Boxerman, Ephrat Livni and Matthew Mpoke Bigg",
+        "item_type": "Article",
+        "updated_date": "2025-04-02T15:46:37-04:00",
+        "created_date": "2025-03-18T11:01:00-04:00",
+        "published_date": "2025-03-18T11:01:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Palestinians",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/18/multimedia/18int-israel-gaza-wwk-02-tpfm/18int-israel-gaza-wwk-02-tpfm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising west of Gaza City in March.",
+                "copyright": "Omar Al-Qattaa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/18/multimedia/18int-israel-gaza-wwk-02-tpfm/18int-israel-gaza-wwk-02-tpfm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising west of Gaza City in March.",
+                "copyright": "Omar Al-Qattaa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/18/multimedia/18int-israel-gaza-wwk-02-tpfm/18int-israel-gaza-wwk-02-tpfm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising west of Gaza City in March.",
+                "copyright": "Omar Al-Qattaa/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Senators Denounce Trump Administration’s Response to Myanmar Quake",
+        "abstract": "Democratic senators said in a letter that the administration was failing its first test of humanitarian aid as China and Russia send teams to help.",
+        "url": "https://www.nytimes.com/2025/04/02/us/politics/trump-aid-myanmar-earthquake.html",
+        "uri": "nyt://article/ff9688d1-d4ee-5d54-a1a1-dfc991e9f6ef",
+        "byline": "By Edward Wong",
+        "item_type": "Article",
+        "updated_date": "2025-04-02T16:12:24-04:00",
+        "created_date": "2025-04-02T15:49:43-04:00",
+        "published_date": "2025-04-02T15:49:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Aid",
+            "International Relations",
+            "Myanmar Earthquake (March 28, 2025)",
+            "United States International Relations",
+            "Embargoes and Sanctions",
+            "Government Employees"
+        ],
+        "org_facet": [
+            "United States Agency for International Development",
+            "Treasury Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Coons, Christopher A"
+        ],
+        "geo_facet": [
+            "Bangkok (Thailand)",
+            "Myanmar"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02dc-myanmar-usaid-topart-qgfl/02dc-myanmar-usaid-topart-qgfl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1067,
+                "width": 1600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China and Russia have sent rescue and relief teams to Myanmar in the wake of an earthquake that killed hundreds of people. ",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02dc-myanmar-usaid-topart-qgfl/02dc-myanmar-usaid-topart-qgfl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China and Russia have sent rescue and relief teams to Myanmar in the wake of an earthquake that killed hundreds of people. ",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02dc-myanmar-usaid-topart-qgfl/02dc-myanmar-usaid-topart-qgfl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China and Russia have sent rescue and relief teams to Myanmar in the wake of an earthquake that killed hundreds of people. ",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The War on Nature in Ukraine",
+        "abstract": "Fires and smoke foul the air. Toxins seep into the earth and water. Habitats for wildlife disappear. Experts call it ecocide.",
+        "url": "https://www.nytimes.com/interactive/2025/04/02/world/europe/ukraine-russia-war-environment.html",
+        "uri": "nyt://interactive/78602220-e647-5c39-a295-70bb47cbdbf1",
+        "byline": "",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-02T15:22:40-04:00",
+        "created_date": "2025-04-02T15:22:40-04:00",
+        "published_date": "2025-04-02T15:22:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-design",
+            "vis-photo",
+            "Russian Invasion of Ukraine (2022)",
+            "Environment"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/world/xxukraine-ecocide-static-promo/xxukraine-ecocide-static-promo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Hoffman"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/world/xxukraine-ecocide-static-promo/xxukraine-ecocide-static-promo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Hoffman"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/world/xxukraine-ecocide-static-promo/xxukraine-ecocide-static-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Hoffman"
+            }
+        ],
+        "short_url": ""
     }
 ]
