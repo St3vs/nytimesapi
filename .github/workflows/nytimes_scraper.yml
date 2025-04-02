@@ -33,4 +33,4 @@ jobs:
           git config --global user.email "rodrigoesteves30@gmail.com"
           git add dados.json
           git commit -m "Atualização automática de artigos do NYTimes" || echo "Nada para commitar"
-          git push
+          git push https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/St3vs/nytimesapi.git
