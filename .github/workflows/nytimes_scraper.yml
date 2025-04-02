@@ -9,6 +9,10 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write  # Permite o GitHub Actions realizar push de conteúdo
+      pull-requests: write  # Se for necessário para abrir pull requests
+
     steps:
       - name: Checkout do código
         uses: actions/checkout@v3
