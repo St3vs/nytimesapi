@@ -59,3 +59,14 @@ def save_articles(new_articles):
       logging.info(f"{len(filtered_articles)} novos artigos adicionados. Total: {len(existing_data)}")
    else:
       logging.info("Nenhum novo artigo encontrado.")
+
+def main():
+   logging.info("A iniciar scraping de artigos do NYTimes...")
+   articles = fetch_articles()
+   if articles:
+      save_articles(articles)
+   logging.info("Execucao finalizada.")
+
+if __name__ == "__main__":
+   main()
+
