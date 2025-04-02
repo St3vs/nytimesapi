@@ -2870,5 +2870,187 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "media",
+        "title": "Richard Bernstein Dies at 80; Times Correspondent, Critic and Author",
+        "abstract": "He wrote from Europe and Asia, served as a book critic and produced a raft of books, on subjects ranging from the French condition to multiculturalism.",
+        "url": "https://www.nytimes.com/2025/04/02/business/media/richard-bernstein-dead.html",
+        "uri": "nyt://article/fd2bcd9a-4eab-503d-a778-b3aee1c8e8f9",
+        "byline": "By Roger Cohen",
+        "item_type": "Article",
+        "updated_date": "2025-04-02T18:07:24-04:00",
+        "created_date": "2025-04-02T17:54:52-04:00",
+        "published_date": "2025-04-02T17:54:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Books and Literature",
+            "Writing and Writers",
+            "Newspapers",
+            "News and News Media",
+            "Human Rights and Human Rights Violations",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "New York Times"
+        ],
+        "per_facet": [
+            "Bernstein, Richard (1944-2025)"
+        ],
+        "geo_facet": [
+            "Berlin (Germany)",
+            "Far East, South and Southeast Asia and Pacific Areas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02Bernstein--01-whpz/02Bernstein--01-whpz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Richard Bernstein’s journalism had an elegiac sense of the tragic inherent in human affairs and often a subtly crafted argumentation rooted in thorough on-the-ground reporting.",
+                "copyright": "via Bernstein family"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02Bernstein--01-whpz/02Bernstein--01-whpz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Richard Bernstein’s journalism had an elegiac sense of the tragic inherent in human affairs and often a subtly crafted argumentation rooted in thorough on-the-ground reporting.",
+                "copyright": "via Bernstein family"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02Bernstein--01-whpz/02Bernstein--01-whpz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Richard Bernstein’s journalism had an elegiac sense of the tragic inherent in human affairs and often a subtly crafted argumentation rooted in thorough on-the-ground reporting.",
+                "copyright": "via Bernstein family"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "With Trump’s Tariffs, the Chasm Between Allies and the U.S. Widens",
+        "abstract": "President Trump announced sweeping levies on countries across the world. Washington’s partners have been bracing for the fallout.",
+        "url": "https://www.nytimes.com/2025/04/02/world/europe/trump-tariffs-reciprocal-reaction-trade-war.html",
+        "uri": "nyt://article/ccaf1a6c-1e84-5d35-a81b-8ce9dc0e9575",
+        "byline": "By Jeanna Smialek and Natalie Kitroeff",
+        "item_type": "Article",
+        "updated_date": "2025-04-02T17:42:11-04:00",
+        "created_date": "2025-04-02T17:38:33-04:00",
+        "published_date": "2025-04-02T17:38:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "International Trade and World Market"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Canada",
+            "United States",
+            "China",
+            "Mexico"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02int-tariffs-diplo-lgch/02int-tariffs-diplo-lgch-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump announcing new tariffs at the White House on Wednesday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02int-tariffs-diplo-lgch/02int-tariffs-diplo-lgch-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump announcing new tariffs at the White House on Wednesday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02int-tariffs-diplo-lgch/02int-tariffs-diplo-lgch-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump announcing new tariffs at the White House on Wednesday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Thursday Briefing: Trump’s Global Tariffs",
+        "abstract": "Plus, David Hockney’s biggest show.",
+        "url": "https://www.nytimes.com/2025/04/02/briefing/trump-tariffs-israel-gaza-musk-tesla-sales.html",
+        "uri": "nyt://article/18ddc265-2c8e-598e-bdea-613a6b1863d4",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-02T17:30:03-04:00",
+        "created_date": "2025-04-02T17:30:03-04:00",
+        "published_date": "2025-04-02T17:30:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03themorning-nl-Trump1-mjzq/03themorning-nl-Trump1-mjzq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump at the White House Rose Garden, yesterday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03themorning-nl-Trump1-mjzq/03themorning-nl-Trump1-mjzq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump at the White House Rose Garden, yesterday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03themorning-nl-Trump1-mjzq/03themorning-nl-Trump1-mjzq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump at the White House Rose Garden, yesterday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
