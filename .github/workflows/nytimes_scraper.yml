@@ -35,6 +35,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions@github.com"
-          git add dados.json  # Apenas dados.json
+          git add dados.json  ficheiro.log
           git commit -m "Atualização automática de artigos do NYTimes" || echo "Nada para commitar"
           git push https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/St3vs/nytimesapi.git
