@@ -4822,5 +4822,188 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Hungary Says It Will Withdraw From I.C.C. as Orban Hosts Netanyahu",
+        "abstract": "Prime Minister Benjamin Netanyahu of Israel, who is visiting Hungary despite facing an international arrest warrant, praised the move.",
+        "url": "https://www.nytimes.com/2025/04/03/world/europe/hungary-icc-netanyahu.html",
+        "uri": "nyt://article/2e24213c-3564-585a-9492-4680c0a519b4",
+        "byline": "By Andrew Higgins and Marlise Simons",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T11:38:43-04:00",
+        "created_date": "2025-04-03T04:38:37-04:00",
+        "published_date": "2025-04-03T04:38:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "International Criminal Court"
+        ],
+        "per_facet": [
+            "Orban, Viktor",
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Hungary"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-hungary-icc-01-bqzh/03int-hungary-icc-01-bqzh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Viktor Orban of Hungary and Prime Minister Benjamin Netanyahu of Israel in Budapest on Thursday.",
+                "copyright": "Janos Kummer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-hungary-icc-01-bqzh/03int-hungary-icc-01-bqzh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Viktor Orban of Hungary and Prime Minister Benjamin Netanyahu of Israel in Budapest on Thursday.",
+                "copyright": "Janos Kummer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-hungary-icc-01-bqzh/03int-hungary-icc-01-bqzh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Viktor Orban of Hungary and Prime Minister Benjamin Netanyahu of Israel in Budapest on Thursday.",
+                "copyright": "Janos Kummer/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Ex-Yankees Player Brett Gardner’s Son Died From Carbon Monoxide, Officials Say",
+        "abstract": "Miller Gardner, who was 14, died last month at a resort in Costa Rica.",
+        "url": "https://www.nytimes.com/2025/04/03/world/americas/miller-gardner-carbon-monoxide-poisoning-cause-death.html",
+        "uri": "nyt://article/01114fea-e9a4-5bd6-9cd4-67544bc952c4",
+        "byline": "By Victor Mather",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T12:14:48-04:00",
+        "created_date": "2025-04-03T12:14:48-04:00",
+        "published_date": "2025-04-03T12:14:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Carbon Monoxide",
+            "Baseball"
+        ],
+        "org_facet": [
+            "New York Yankees"
+        ],
+        "per_facet": [
+            "Gardner, Brett"
+        ],
+        "geo_facet": [
+            "Costa Rica"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03xp-gardner-htfw/03xp-gardner-htfw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1638,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A moment of silence is observed for Miller Gardner, the son of the former New York Yankees player Brett Gardner, before the start of an opening-day baseball game between the Yankees and the Milwaukee Brewers at Yankee Stadium last week.",
+                "copyright": "Seth Wenig/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03xp-gardner-htfw/03xp-gardner-htfw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A moment of silence is observed for Miller Gardner, the son of the former New York Yankees player Brett Gardner, before the start of an opening-day baseball game between the Yankees and the Milwaukee Brewers at Yankee Stadium last week.",
+                "copyright": "Seth Wenig/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03xp-gardner-htfw/03xp-gardner-htfw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A moment of silence is observed for Miller Gardner, the son of the former New York Yankees player Brett Gardner, before the start of an opening-day baseball game between the Yankees and the Milwaukee Brewers at Yankee Stadium last week.",
+                "copyright": "Seth Wenig/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "How Trump’s Tariffs Could Hobble the Fastest-Growing Energy Technology",
+        "abstract": "Across the country, companies have been installing giant batteries that help them use more wind and solar power. That’s about to get much harder.",
+        "url": "https://www.nytimes.com/2025/04/03/climate/trump-tariffs-battery-storage.html",
+        "uri": "nyt://article/f31e8067-1140-57c9-8648-eda160d8cbe8",
+        "byline": "By Brad Plumer",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T12:18:42-04:00",
+        "created_date": "2025-04-03T12:14:48-04:00",
+        "published_date": "2025-04-03T12:14:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Solar Energy",
+            "Alternative and Renewable Energy",
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Wind Power",
+            "Batteries",
+            "Energy and Power",
+            "Lithium (Metal)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/science/03cli-batteries/03cli-batteries-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An energy storage site in Coolidge, Ariz., that uses lithium-ion batteries.",
+                "copyright": "Ross D. Franklin/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/science/03cli-batteries/03cli-batteries-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An energy storage site in Coolidge, Ariz., that uses lithium-ion batteries.",
+                "copyright": "Ross D. Franklin/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/science/03cli-batteries/03cli-batteries-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An energy storage site in Coolidge, Ariz., that uses lithium-ion batteries.",
+                "copyright": "Ross D. Franklin/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
