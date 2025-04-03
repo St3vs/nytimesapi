@@ -5067,5 +5067,121 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Tariffs Send Wall Street Tumbling Toward Worst Day Since 2022",
+        "abstract": "Stocks fell sharply in the U.S., Asia and Europe. Allies and adversaries alike criticized President Trump’s action and weighed their responses.",
+        "url": "https://www.nytimes.com/live/2025/04/03/business/trump-tariffs",
+        "uri": "nyt://promo/44224c99-8005-5dc5-90de-8028ea217317",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-03T15:09:50-04:00",
+        "created_date": "2025-04-03T03:08:38-04:00",
+        "published_date": "2025-04-03T03:08:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03tariffs-200-mwfz/03tariffs-200-mwfz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03tariffs-200-mwfz/03tariffs-200-mwfz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03tariffs-200-mwfz/03tariffs-200-mwfz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What Is the I.C.C.? What to Know After Hungary’s Move to Withdraw",
+        "abstract": "Hungary said it would pull out of the International Criminal Court as Prime Minister Benjamin Netanyahu of Israel visited the country.",
+        "url": "https://www.nytimes.com/2025/04/03/world/europe/icc-international-criminal-court-what-is.html",
+        "uri": "nyt://article/06e5ca97-6b6f-52d4-adb0-2f0dbde03796",
+        "byline": "By Amelia Nierenberg and Marlise Simons",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T14:53:24-04:00",
+        "created_date": "2025-04-03T09:31:40-04:00",
+        "published_date": "2025-04-03T09:31:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Content Type: Service",
+            "Assets, Frozen",
+            "Courts and the Judiciary",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Israel-Gaza War (2023- )",
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [
+            "International Criminal Court"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Hungary"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-icc-explainer-hltk/03int-icc-explainer-hltk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Viktor Orban of Hungary, left, receiving Prime Minister Benjamin Netanyahu of Israel in Budapest on Thursday.",
+                "copyright": "Janos Kummer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-icc-explainer-hltk/03int-icc-explainer-hltk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Viktor Orban of Hungary, left, receiving Prime Minister Benjamin Netanyahu of Israel in Budapest on Thursday.",
+                "copyright": "Janos Kummer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-icc-explainer-hltk/03int-icc-explainer-hltk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Viktor Orban of Hungary, left, receiving Prime Minister Benjamin Netanyahu of Israel in Budapest on Thursday.",
+                "copyright": "Janos Kummer/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
