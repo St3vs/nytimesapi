@@ -3606,5 +3606,192 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Not Even a Royal Invite Spared the U.K. From Trump’s Tariffs",
+        "abstract": "In spite of a prolonged charm offensive by Prime Minister Keir Starmer, President Trump said that Britain would be hit with the universal base rate levied on all countries.",
+        "url": "https://www.nytimes.com/2025/04/03/world/europe/uk-trump-tariffs.html",
+        "uri": "nyt://article/59c8b926-6288-58d3-94f4-1abe119ca318",
+        "byline": "By Mark Landler and Eshe Nelson",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T05:11:06-04:00",
+        "created_date": "2025-04-03T05:11:06-04:00",
+        "published_date": "2025-04-03T05:11:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Customs (Tariff)",
+            "International Relations",
+            "Automobiles",
+            "United States Economy"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Starmer, Keir"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03uk-tariff-1-zclt/03uk-tariff-1-zclt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain gave President Trump a state visit invitation from King Charles in the Oval Office in February.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03uk-tariff-1-zclt/03uk-tariff-1-zclt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain gave President Trump a state visit invitation from King Charles in the Oval Office in February.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03uk-tariff-1-zclt/03uk-tariff-1-zclt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain gave President Trump a state visit invitation from King Charles in the Oval Office in February.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "What is ‘Qatargate,’ the Latest Furor Embroiling Israel?",
+        "abstract": "This week, the police questioned Prime Minister Benjamin Netanyahu amid claims that members of his team worked simultaneously for the state of Qatar. He is not a suspect, but two of his media advisers have been arrested.",
+        "url": "https://www.nytimes.com/2025/04/03/world/middleeast/israel-qatar-netanyahu.html",
+        "uri": "nyt://article/659dfec5-bcda-5189-8bf0-c4d306b4cfcb",
+        "byline": "By Patrick Kingsley, Johnatan Reiss and Ronen Bergman",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T05:10:23-04:00",
+        "created_date": "2025-04-03T05:10:23-04:00",
+        "published_date": "2025-04-03T05:10:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Conflicts of Interest",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Shin Bet"
+        ],
+        "per_facet": [
+            "Netanyahu, Benjamin",
+            "Bar, Ronen (1965- )"
+        ],
+        "geo_facet": [
+            "Israel",
+            "Qatar"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-israel-qatargate-ctkb/01int-israel-qatargate-ctkb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu has dismissed the case as a “political manhunt.” ",
+                "copyright": "Menahem Kahana/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-israel-qatargate-ctkb/01int-israel-qatargate-ctkb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu has dismissed the case as a “political manhunt.” ",
+                "copyright": "Menahem Kahana/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-israel-qatargate-ctkb/01int-israel-qatargate-ctkb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu has dismissed the case as a “political manhunt.” ",
+                "copyright": "Menahem Kahana/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Hungary Says It Will Withdraw From I.C.C.",
+        "abstract": "The announcement came hours after Prime Minister Benjamin Netanyahu of Israel arrived in the country for a visit despite facing an international arrest warrant.",
+        "url": "https://www.nytimes.com/2025/04/03/world/europe/hungary-icc-netanyahu.html",
+        "uri": "nyt://article/2e24213c-3564-585a-9492-4680c0a519b4",
+        "byline": "By Andrew Higgins",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T04:47:44-04:00",
+        "created_date": "2025-04-03T04:38:37-04:00",
+        "published_date": "2025-04-03T04:38:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "International Criminal Court"
+        ],
+        "per_facet": [
+            "Orban, Viktor",
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Hungary"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-hungary-icc-tkfp/03int-hungary-icc-tkfp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1334,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Viktor Orban of Hungary and Prime Minister Benjamin Netanyahu of Israel in Budapest on Thursday.",
+                "copyright": "Bernadett Szabo/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-hungary-icc-tkfp/03int-hungary-icc-tkfp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Viktor Orban of Hungary and Prime Minister Benjamin Netanyahu of Israel in Budapest on Thursday.",
+                "copyright": "Bernadett Szabo/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-hungary-icc-tkfp/03int-hungary-icc-tkfp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Viktor Orban of Hungary and Prime Minister Benjamin Netanyahu of Israel in Budapest on Thursday.",
+                "copyright": "Bernadett Szabo/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
