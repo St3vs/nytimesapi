@@ -3115,5 +3115,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Some Aid Workers Killed in Gaza Were Shot Multiple Times, Officials Say",
+        "abstract": "The Palestinian Red Crescent Society said that nearly all of the 15 bodies recovered had gunshot wounds.",
+        "url": "https://www.nytimes.com/2025/04/02/world/middleeast/gaza-aid-workers-gunshot-wounds.html",
+        "uri": "nyt://article/3eb55309-741a-5995-b51e-90067c4576df",
+        "byline": "By Farnaz Fassihi",
+        "item_type": "Article",
+        "updated_date": "2025-04-02T19:14:48-04:00",
+        "created_date": "2025-04-02T19:14:48-04:00",
+        "published_date": "2025-04-02T19:14:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Humanitarian Aid",
+            "Defense and Military Forces",
+            "Civilian Casualties",
+            "Deaths (Fatalities)",
+            "Palestinians"
+        ],
+        "org_facet": [
+            "International Federation of Red Cross and Red Crescent Societies",
+            "United Nations"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/multimedia/02int-un-massgrave/01int-gaza-medics-01-flvg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Palestine Red Crescent Society and other emergency services prayed over the bodies of fellow rescuers killed a week earlier.",
+                "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/multimedia/02int-un-massgrave/01int-gaza-medics-01-flvg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Palestine Red Crescent Society and other emergency services prayed over the bodies of fellow rescuers killed a week earlier.",
+                "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/01/multimedia/02int-un-massgrave/01int-gaza-medics-01-flvg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Palestine Red Crescent Society and other emergency services prayed over the bodies of fellow rescuers killed a week earlier.",
+                "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
