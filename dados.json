@@ -4272,5 +4272,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Insulin Test Used to Convict Lucy Letby in Babies’ Deaths Was Unreliable, Experts Say",
+        "abstract": "A new report by neonatal and toxicology experts casts doubt on the test results that were pivotal to the case against the British nurse.",
+        "url": "https://www.nytimes.com/2025/04/03/us/politics/uk-lucy-letby-insulin-test-evidence.html",
+        "uri": "nyt://article/fc6daaa3-387b-5dc9-ae6c-2e4bbbf5096a",
+        "byline": "By Michael D. Shear",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T08:42:48-04:00",
+        "created_date": "2025-04-03T07:09:24-04:00",
+        "published_date": "2025-04-03T07:09:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Serial Murders",
+            "Poisoning and Poisons",
+            "Insulin",
+            "Murders, Attempted Murders and Homicides",
+            "Tests (Medical)",
+            "Nursing and Nurses",
+            "Hypoglycemia",
+            "Forensic Science"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-uk-letby-qgml/03int-uk-letby-qgml-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark McDonald, Ms. Letby’s lawyer, presented new expert reports on Thursday to Britain’s Criminal Cases Review Commission, an independent body that investigates possible miscarriages of justice.",
+                "copyright": "Alastair Grant/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-uk-letby-qgml/03int-uk-letby-qgml-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark McDonald, Ms. Letby’s lawyer, presented new expert reports on Thursday to Britain’s Criminal Cases Review Commission, an independent body that investigates possible miscarriages of justice.",
+                "copyright": "Alastair Grant/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-uk-letby-qgml/03int-uk-letby-qgml-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark McDonald, Ms. Letby’s lawyer, presented new expert reports on Thursday to Britain’s Criminal Cases Review Commission, an independent body that investigates possible miscarriages of justice.",
+                "copyright": "Alastair Grant/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
