@@ -5183,5 +5183,119 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Tariffs Send Wall Street Tumbling to Worst Day Since Pandemic",
+        "abstract": "The S&P 500 fell almost 5 percent on Thursday, its worst drop since June 2020, as allies and adversaries alike criticized President Trump’s action and weighed their responses.",
+        "url": "https://www.nytimes.com/live/2025/04/03/business/trump-tariffs",
+        "uri": "nyt://promo/44224c99-8005-5dc5-90de-8028ea217317",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-03T16:12:45-04:00",
+        "created_date": "2025-04-03T03:08:38-04:00",
+        "published_date": "2025-04-03T03:08:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03tariffs-310-bmzw/03tariffs-310-bmzw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tom Brenner for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03tariffs-310-bmzw/03tariffs-310-bmzw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tom Brenner for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03tariffs-310-bmzw/03tariffs-310-bmzw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tom Brenner for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Top Trump Aide Hosts White House Meeting With Kremlin Envoy",
+        "abstract": "The meeting between Kirill Dmitriev and Steve Witkoff was apparently the first time in years that a senior Russian official had traveled to the U.S. for talks with an American counterpart.",
+        "url": "https://www.nytimes.com/2025/04/03/world/europe/russia-envoy-us-visit-trump-dmitriev.html",
+        "uri": "nyt://article/28fbb05e-0b2c-5b86-91ee-e30bc16ac41a",
+        "byline": "By Anton Troianovski and Edward Wong",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T15:34:40-04:00",
+        "created_date": "2025-04-03T07:37:04-04:00",
+        "published_date": "2025-04-03T07:37:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Dmitriev, Kirill A (1975- )",
+            "Trump, Donald J",
+            "Witkoff, Steven"
+        ],
+        "geo_facet": [
+            "Russia",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-russia-us-diplo-cwmz/03int-russia-us-diplo-cwmz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kirill Dmitriev, the head of Russia’s sovereign wealth fund and President Vladimir V. Putin’s special representative for investment and economic cooperation, in Saudi Arabia in February.",
+                "copyright": "Maxim Shemetov/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-russia-us-diplo-cwmz/03int-russia-us-diplo-cwmz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kirill Dmitriev, the head of Russia’s sovereign wealth fund and President Vladimir V. Putin’s special representative for investment and economic cooperation, in Saudi Arabia in February.",
+                "copyright": "Maxim Shemetov/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-russia-us-diplo-cwmz/03int-russia-us-diplo-cwmz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kirill Dmitriev, the head of Russia’s sovereign wealth fund and President Vladimir V. Putin’s special representative for investment and economic cooperation, in Saudi Arabia in February.",
+                "copyright": "Maxim Shemetov/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
