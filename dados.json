@@ -3180,5 +3180,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Myanmar Military Declares Temporary Truce After Earthquake",
+        "abstract": "It was unclear whether the cease-fire would be honored. It came a day after soldiers fired at a Chinese Red Cross aid convoy, and amid multiple airstrikes.",
+        "url": "https://www.nytimes.com/2025/04/02/world/asia/myanmar-quake-aid.html",
+        "uri": "nyt://article/70f45068-a997-5ee5-b771-c938c6377165",
+        "byline": "By Sui-Lee Wee",
+        "item_type": "Article",
+        "updated_date": "2025-04-02T22:37:32-04:00",
+        "created_date": "2025-04-02T00:26:56-04:00",
+        "published_date": "2025-04-02T00:26:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Myanmar Earthquake (March 28, 2025)",
+            "War and Armed Conflicts",
+            "Defense and Military Forces",
+            "Humanitarian Aid"
+        ],
+        "org_facet": [
+            "Ta'ang National Liberation Army",
+            "International Committee of the Red Cross"
+        ],
+        "per_facet": [
+            "Min Aung Hlaing"
+        ],
+        "geo_facet": [
+            "Mandalay (Myanmar)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02int-myanmar-redcross-qkcw/02int-myanmar-redcross-qkcw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Chinese Red Cross during a rescue operation in Mandalay, Myanmar, on Monday, in a photo released by Chinese state media.",
+                "copyright": "Myo Kyaw Soe/Xinhua, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02int-myanmar-redcross-qkcw/02int-myanmar-redcross-qkcw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Chinese Red Cross during a rescue operation in Mandalay, Myanmar, on Monday, in a photo released by Chinese state media.",
+                "copyright": "Myo Kyaw Soe/Xinhua, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02int-myanmar-redcross-qkcw/02int-myanmar-redcross-qkcw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Chinese Red Cross during a rescue operation in Mandalay, Myanmar, on Monday, in a photo released by Chinese state media.",
+                "copyright": "Myo Kyaw Soe/Xinhua, via Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
