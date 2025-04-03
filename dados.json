@@ -4035,5 +4035,242 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Global Markets Reel From Shock of Trump Tariffs",
+        "abstract": "Stocks tumbled in Asia and Europe, and the losses were expected to continue when Wall Street opens. Allies and adversaries alike were weighing their responses.",
+        "url": "https://www.nytimes.com/live/2025/04/03/business/trump-tariffs",
+        "uri": "nyt://promo/44224c99-8005-5dc5-90de-8028ea217317",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-03T08:38:44-04:00",
+        "created_date": "2025-04-03T03:08:38-04:00",
+        "published_date": "2025-04-03T03:08:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03tariffs-live-promo2/03tariffs-live-header2-mkbj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Arne Dedert/DPA, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03tariffs-live-promo2/03tariffs-live-header2-mkbj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Arne Dedert/DPA, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03tariffs-live-promo2/03tariffs-live-header2-mkbj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Arne Dedert/DPA, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Britain Tried Everything, Including a Royal Invite. It Got a 10% Tariff.",
+        "abstract": "In spite of a prolonged charm offensive by Prime Minister Keir Starmer, President Trump said that the U.K. would be hit with the universal base rate levied on all countries.",
+        "url": "https://www.nytimes.com/2025/04/03/world/europe/uk-trump-tariffs.html",
+        "uri": "nyt://article/59c8b926-6288-58d3-94f4-1abe119ca318",
+        "byline": "By Mark Landler and Eshe Nelson",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T08:34:40-04:00",
+        "created_date": "2025-04-03T05:11:06-04:00",
+        "published_date": "2025-04-03T05:11:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Customs (Tariff)",
+            "International Relations",
+            "Automobiles",
+            "United States Economy"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Starmer, Keir"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03uk-tariff-1-zclt/03uk-tariff-1-zclt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain gave President Trump a state visit invitation from King Charles in the Oval Office in February.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03uk-tariff-1-zclt/03uk-tariff-1-zclt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain gave President Trump a state visit invitation from King Charles in the Oval Office in February.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03uk-tariff-1-zclt/03uk-tariff-1-zclt-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain gave President Trump a state visit invitation from King Charles in the Oval Office in February.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Hits Syria With New Strikes and Ground Raid as Tensions Soar",
+        "abstract": "Israel defended the moves as necessary security measures, but Syria accused it of trying to destabilize the country.",
+        "url": "https://www.nytimes.com/2025/04/03/world/middleeast/israel-syria-airstrikes-ground-operation.html",
+        "uri": "nyt://article/f7c8714d-0cb2-51cd-a364-24a868b8e379",
+        "byline": "By Carlotta Gall",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T08:37:15-04:00",
+        "created_date": "2025-04-03T08:37:15-04:00",
+        "published_date": "2025-04-03T08:37:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Syria",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-syria-Israel-02-wfpq/03int-syria-Israel-02-wfpq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The site of an Israeli airstrike in the southern Hama governorate in Syria on Thursday. ",
+                "copyright": "Abdulaziz Ketaz/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-syria-Israel-02-wfpq/03int-syria-Israel-02-wfpq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The site of an Israeli airstrike in the southern Hama governorate in Syria on Thursday. ",
+                "copyright": "Abdulaziz Ketaz/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-syria-Israel-02-wfpq/03int-syria-Israel-02-wfpq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The site of an Israeli airstrike in the southern Hama governorate in Syria on Thursday. ",
+                "copyright": "Abdulaziz Ketaz/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Kremlin Envoy Says He’s in U.S. for Talks With Trump Administration",
+        "abstract": "Kirill Dmitriev wrote on social media that his meetings were about restoring a U.S.-Russian dialogue that was “completely destroyed under the Biden administration.”",
+        "url": "https://www.nytimes.com/2025/04/03/world/europe/russia-envoy-us-visit-trump-dmitriev.html",
+        "uri": "nyt://article/28fbb05e-0b2c-5b86-91ee-e30bc16ac41a",
+        "byline": "By Anton Troianovski",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T08:04:52-04:00",
+        "created_date": "2025-04-03T07:37:04-04:00",
+        "published_date": "2025-04-03T07:37:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Dmitriev, Kirill A (1975- )",
+            "Trump, Donald J",
+            "Witkoff, Steven"
+        ],
+        "geo_facet": [
+            "Russia",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-russia-us-diplo-cwmz/03int-russia-us-diplo-cwmz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kirill Dmitriev, the head of Russia’s sovereign wealth fund and President Vladimir V. Putin’s special representative for investment and economic cooperation, in Saudi Arabia in February.",
+                "copyright": "Maxim Shemetov/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-russia-us-diplo-cwmz/03int-russia-us-diplo-cwmz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kirill Dmitriev, the head of Russia’s sovereign wealth fund and President Vladimir V. Putin’s special representative for investment and economic cooperation, in Saudi Arabia in February.",
+                "copyright": "Maxim Shemetov/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-russia-us-diplo-cwmz/03int-russia-us-diplo-cwmz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kirill Dmitriev, the head of Russia’s sovereign wealth fund and President Vladimir V. Putin’s special representative for investment and economic cooperation, in Saudi Arabia in February.",
+                "copyright": "Maxim Shemetov/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
