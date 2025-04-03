@@ -4333,5 +4333,248 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Wall Street Reels From Shock of Trump Tariffs",
+        "abstract": "Stocks tumbled in the U.S., Asia and Europe. Allies and adversaries alike were weighing their responses.",
+        "url": "https://www.nytimes.com/live/2025/04/03/business/trump-tariffs",
+        "uri": "nyt://promo/44224c99-8005-5dc5-90de-8028ea217317",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-03T10:18:01-04:00",
+        "created_date": "2025-04-03T03:08:38-04:00",
+        "published_date": "2025-04-03T03:08:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02tariff-1000-tjqc/02tariff-1000-tjqc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Scott McIntyre for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02tariff-1000-tjqc/02tariff-1000-tjqc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Scott McIntyre for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02tariff-1000-tjqc/02tariff-1000-tjqc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Scott McIntyre for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Europe Has Economic Power. Can It Use It Against Trump’s Tariffs?",
+        "abstract": "European leaders have said they would prefer to negotiate. If that fails, their response could go beyond anything they’ve tried before.",
+        "url": "https://www.nytimes.com/2025/04/03/world/europe/tariffs-response-trump.html",
+        "uri": "nyt://article/abc56c6b-6e7b-583b-95b6-7e28c2de9297",
+        "byline": "By Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T09:21:45-04:00",
+        "created_date": "2025-04-03T09:21:45-04:00",
+        "published_date": "2025-04-03T09:21:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Protectionism (Trade)",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "European Commission",
+            "European Union"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "von der Leyen, Ursula"
+        ],
+        "geo_facet": [
+            "Europe",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-europe-tariffs-response-pbvf/03int-europe-tariffs-response-pbvf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1473,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ursula von der Leyen, president of the E.U. executive arm, said Europeans felt “let down by our oldest ally.”",
+                "copyright": "Vyacheslav Oseledko/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-europe-tariffs-response-pbvf/03int-europe-tariffs-response-pbvf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ursula von der Leyen, president of the E.U. executive arm, said Europeans felt “let down by our oldest ally.”",
+                "copyright": "Vyacheslav Oseledko/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-europe-tariffs-response-pbvf/03int-europe-tariffs-response-pbvf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ursula von der Leyen, president of the E.U. executive arm, said Europeans felt “let down by our oldest ally.”",
+                "copyright": "Vyacheslav Oseledko/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What Is the I.C.C.? What to Know After Hungary’s Announced Withdrawal",
+        "abstract": "Hungary said it would pull out of the International Criminal Court as Prime Minister Benjamin Netanyahu of Israel visited the country.",
+        "url": "https://www.nytimes.com/2025/04/03/world/europe/icc-international-criminal-court-what-is.html",
+        "uri": "nyt://article/06e5ca97-6b6f-52d4-adb0-2f0dbde03796",
+        "byline": "By Amelia Nierenberg and Marlise Simons",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T09:57:22-04:00",
+        "created_date": "2025-04-03T09:31:40-04:00",
+        "published_date": "2025-04-03T09:31:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Content Type: Service",
+            "Assets, Frozen",
+            "Courts and the Judiciary",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Israel-Gaza War (2023- )",
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [
+            "International Criminal Court"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Hungary"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-icc-explainer-hltk/03int-icc-explainer-hltk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Viktor Orban of Hungary, left, receiving Prime Minister Benjamin Netanyahu of Israel in Budapest on Thursday.",
+                "copyright": "Janos Kummer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-icc-explainer-hltk/03int-icc-explainer-hltk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Viktor Orban of Hungary, left, receiving Prime Minister Benjamin Netanyahu of Israel in Budapest on Thursday.",
+                "copyright": "Janos Kummer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03int-icc-explainer-hltk/03int-icc-explainer-hltk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Viktor Orban of Hungary, left, receiving Prime Minister Benjamin Netanyahu of Israel in Budapest on Thursday.",
+                "copyright": "Janos Kummer/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "How to Become Trump’s ‘Favorite President’: Nonstop Praise.",
+        "abstract": "Javier Milei of Argentina might not be that useful for the United States on economics or geopolitics — but he can help to fight the culture wars.",
+        "url": "https://www.nytimes.com/2025/04/03/world/americas/argentina-javier-milei-trump.html",
+        "uri": "nyt://article/fe2bbcf2-4634-5828-aeed-2b7bbcf0675e",
+        "byline": "By Jack Nicas",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T09:58:31-04:00",
+        "created_date": "2025-04-03T09:58:31-04:00",
+        "published_date": "2025-04-03T09:58:31-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States International Relations",
+            "Politics and Government",
+            "Lithium (Metal)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Milei, Javier",
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Argentina"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03argentina-trump-analysis-tzfg/03argentina-trump-analysis-tzfg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1393,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Javier Milei of Argentina, center right, at Mar-a-Lago in Palm Beach, Fla., last year. Mr. Milei has repeatedly and publicly lauded President Trump. ",
+                "copyright": "Joe Raedle/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03argentina-trump-analysis-tzfg/03argentina-trump-analysis-tzfg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Javier Milei of Argentina, center right, at Mar-a-Lago in Palm Beach, Fla., last year. Mr. Milei has repeatedly and publicly lauded President Trump. ",
+                "copyright": "Joe Raedle/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03argentina-trump-analysis-tzfg/03argentina-trump-analysis-tzfg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Javier Milei of Argentina, center right, at Mar-a-Lago in Palm Beach, Fla., last year. Mr. Milei has repeatedly and publicly lauded President Trump. ",
+                "copyright": "Joe Raedle/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
