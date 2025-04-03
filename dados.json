@@ -3244,5 +3244,367 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "The Hindu Nation Was Fake. But Its Land Grab in Bolivia Was Real.",
+        "abstract": "Emissaries of the “United States of Kailasa,” led by a fugitive holy man, were deported after negotiating 1,000-year deals with Indigenous groups.",
+        "url": "https://www.nytimes.com/2025/04/03/world/asia/united-states-of-kailasa-bolivia.html",
+        "uri": "nyt://article/59e32d8e-62de-5eb2-9df1-0be37f7d40f6",
+        "byline": "By Mujib Mashal, María Silvia Trigo and Pragati K.B.",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T00:01:06-04:00",
+        "created_date": "2025-04-03T00:01:06-04:00",
+        "published_date": "2025-04-03T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Hinduism",
+            "Indigenous People"
+        ],
+        "org_facet": [
+            "united states of kailasa"
+        ],
+        "per_facet": [
+            "Baraka, Ras"
+        ],
+        "geo_facet": [
+            "Bolivia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/world/00int-india-guru/00int-india-guru-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1480,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The guru known as Swami Nithyananda after appearing at his bail hearing near Bengaluru, India, in 2012. A fugitive holy man, he has claimed miracle powers.",
+                "copyright": "Manjunath Kiran/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/world/00int-india-guru/00int-india-guru-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The guru known as Swami Nithyananda after appearing at his bail hearing near Bengaluru, India, in 2012. A fugitive holy man, he has claimed miracle powers.",
+                "copyright": "Manjunath Kiran/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/world/00int-india-guru/00int-india-guru-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The guru known as Swami Nithyananda after appearing at his bail hearing near Bengaluru, India, in 2012. A fugitive holy man, he has claimed miracle powers.",
+                "copyright": "Manjunath Kiran/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Surfers Take What They Can Get in Hong Kong’s Unexciting Waters",
+        "abstract": "The scene in the Chinese territory is concentrated at a few beaches with inconsistent swell. One intrepid surfer says it’s all about “turning nothing into something.”",
+        "url": "https://www.nytimes.com/2025/04/03/world/asia/hong-kong-surfers.html",
+        "uri": "nyt://article/5d46667f-1f8c-5f1c-8b56-17845ce2f453",
+        "byline": "By Erin Mendell",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T00:01:09-04:00",
+        "created_date": "2025-04-03T00:01:09-04:00",
+        "published_date": "2025-04-03T00:01:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Beaches",
+            "Surfing",
+            "Hobbies"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Hong Kong",
+            "Guangdong Province (China)",
+            "South China Sea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/02/12/00vid-hk-surf-63965-cover/00vid-hk-surf-63965-cover-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1152,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/12/00vid-hk-surf-63965-cover/00vid-hk-surf-63965-cover-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/12/00vid-hk-surf-63965-cover/00vid-hk-surf-63965-cover-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Netanyahu Arrives in Hungary, Finding a Rare Welcome in Europe",
+        "abstract": "The visit comes as the Israeli prime minister faces an arrest warrant against him by the International Criminal Court.",
+        "url": "https://www.nytimes.com/2025/04/02/world/middleeast/netanyahu-hungary-orban.html",
+        "uri": "nyt://article/8ef84002-cfa1-5a44-99ba-1dea6fbd8ee5",
+        "byline": "By Andrew Higgins",
+        "item_type": "Article",
+        "updated_date": "2025-04-02T23:27:08-04:00",
+        "created_date": "2025-04-02T23:27:08-04:00",
+        "published_date": "2025-04-02T23:27:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "International Relations",
+            "War Crimes, Genocide and Crimes Against Humanity"
+        ],
+        "org_facet": [
+            "International Criminal Court"
+        ],
+        "per_facet": [
+            "Netanyahu, Benjamin",
+            "Orban, Viktor",
+            "Trump, Donald J",
+            "Meloni, Giorgia (1977- )"
+        ],
+        "geo_facet": [
+            "Budapest (Hungary)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02hungary-netanyahu-1-plwg/02hungary-netanyahu-1-plwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel.",
+                "copyright": "Pool photo by Yair Sagi"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02hungary-netanyahu-1-plwg/02hungary-netanyahu-1-plwg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel.",
+                "copyright": "Pool photo by Yair Sagi"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/02hungary-netanyahu-1-plwg/02hungary-netanyahu-1-plwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel.",
+                "copyright": "Pool photo by Yair Sagi"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Thursday Briefing",
+        "abstract": "The start of a global trade war.",
+        "url": "https://www.nytimes.com/2025/04/03/briefing/tariffs-gaza-hockney.html",
+        "uri": "nyt://article/d92dc2a4-10bd-5268-b240-86bb2895451d",
+        "byline": "By Natasha Frost",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T00:01:35-04:00",
+        "created_date": "2025-04-03T00:01:35-04:00",
+        "published_date": "2025-04-03T00:01:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/03ambriefing-europe-tariffs/03ambriefing-europe-tariffs-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump signed an executive order on tariffs in the White House Rose Garden on Wednesday.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/03ambriefing-europe-tariffs/03ambriefing-europe-tariffs-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump signed an executive order on tariffs in the White House Rose Garden on Wednesday.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/03ambriefing-europe-tariffs/02tariffs-live-header515p-qfjw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump signed an executive order on tariffs in the White House Rose Garden on Wednesday.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Rubio Visits NATO Amid European Alarm Over Trump’s Agenda",
+        "abstract": "The secretary of state’s trip comes amid an abrupt shift in relations between the United States and Europe after close cooperation during the Biden era.",
+        "url": "https://www.nytimes.com/2025/04/03/us/politics/rubio-visits-nato.html",
+        "uri": "nyt://article/331cb011-025e-5fd1-ada8-ca849c460698",
+        "byline": "By Michael Crowley",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T00:01:29-04:00",
+        "created_date": "2025-04-03T00:01:29-04:00",
+        "published_date": "2025-04-03T00:01:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Russian Invasion of Ukraine (2022)",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [
+            "European Union",
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Rubio, Marco",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/dc-rubio-bjzg/dc-rubio-bjzg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio is expected to press President Trump’s call for a swift end to the war in Ukraine, an approach that alarms many European leaders who overwhelmingly support Kyiv and fear that Mr. Trump will wind up appeasing Russia.",
+                "copyright": "Maansi Srivastava for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/dc-rubio-bjzg/dc-rubio-bjzg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio is expected to press President Trump’s call for a swift end to the war in Ukraine, an approach that alarms many European leaders who overwhelmingly support Kyiv and fear that Mr. Trump will wind up appeasing Russia.",
+                "copyright": "Maansi Srivastava for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/dc-rubio-bjzg/dc-rubio-bjzg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio is expected to press President Trump’s call for a swift end to the war in Ukraine, an approach that alarms many European leaders who overwhelmingly support Kyiv and fear that Mr. Trump will wind up appeasing Russia.",
+                "copyright": "Maansi Srivastava for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Accusations Fly in South Korean Dating Scandal After Actress’s Suicide",
+        "abstract": "The death of the actress Kim Sae-ron has plunged her former boyfriend, the superstar actor Kim Soo-hyun, into the biggest crisis of his career.",
+        "url": "https://www.nytimes.com/2025/04/02/world/asia/kim-sae-ron-suicide-soo-hyun.html",
+        "uri": "nyt://article/a044f207-1aea-5cdf-8bef-56375c0b6981",
+        "byline": "By Choe Sang-Hun",
+        "item_type": "Article",
+        "updated_date": "2025-04-02T23:15:08-04:00",
+        "created_date": "2025-04-02T23:15:08-04:00",
+        "published_date": "2025-04-02T23:15:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Actors and Actresses",
+            "Celebrities",
+            "Suicides and Suicide Attempts",
+            "Dating and Relationships"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kim Sae-ron (2000-25)",
+            "Kim Soo-hyun"
+        ],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/Kim-Sae-ron-01-cqgk/Kim-Sae-ron-01-cqgk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "South Korean actor Kim Soo-hyun gave a tearful news conference on Monday to respond to the controversy over his relationship with actress Kim Sae-ron, who was found dead in February.",
+                "copyright": "Soo-Hyeon Kim/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/Kim-Sae-ron-01-cqgk/Kim-Sae-ron-01-cqgk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "South Korean actor Kim Soo-hyun gave a tearful news conference on Monday to respond to the controversy over his relationship with actress Kim Sae-ron, who was found dead in February.",
+                "copyright": "Soo-Hyeon Kim/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/Kim-Sae-ron-01-cqgk/Kim-Sae-ron-01-cqgk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "South Korean actor Kim Soo-hyun gave a tearful news conference on Monday to respond to the controversy over his relationship with actress Kim Sae-ron, who was found dead in February.",
+                "copyright": "Soo-Hyeon Kim/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
