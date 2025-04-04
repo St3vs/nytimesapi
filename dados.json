@@ -6031,5 +6031,132 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Seoul Erupts With Emotion After Yoon Is Removed From Office",
+        "abstract": "Still, after four months of political uncertainty, many people expressed apprehension about what lies ahead for the country.",
+        "url": "https://www.nytimes.com/2025/04/04/world/asia/yoon-impeachment-reaction-seoul.html",
+        "uri": "nyt://article/39fa11bf-2f98-5311-b7b7-c81c353629c8",
+        "byline": "By John Yoon and Yan Zhuang",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T02:07:50-04:00",
+        "created_date": "2025-04-04T00:41:40-04:00",
+        "published_date": "2025-04-04T00:41:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Demonstrations, Protests and Riots",
+            "Impeachment"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Yoon Suk-yeol"
+        ],
+        "geo_facet": [
+            "South Korea",
+            "Seoul (South Korea)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-scene-mvlz/04skorea-yoon-scene-mvlz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students from Ewha Womans University cheering the Constitutional Court’s decision to remove President Yoon, in Seoul on Friday.",
+                "copyright": "Jun Michael Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-scene-mvlz/04skorea-yoon-scene-mvlz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students from Ewha Womans University cheering the Constitutional Court’s decision to remove President Yoon, in Seoul on Friday.",
+                "copyright": "Jun Michael Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-scene-mvlz/04skorea-yoon-scene-mvlz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students from Ewha Womans University cheering the Constitutional Court’s decision to remove President Yoon, in Seoul on Friday.",
+                "copyright": "Jun Michael Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "What to Know About the Removal of South Korea’s President",
+        "abstract": "The country’s Constitutional Court on Friday upheld the impeachment of Yoon Suk Yeol, dismissing him from office four months after his short-lived imposition of martial law.",
+        "url": "https://www.nytimes.com/2025/04/04/world/asia/yoon-south-korea-impeachment-ruling.html",
+        "uri": "nyt://article/297d303e-0f88-57f5-b18e-b1361fdac6c1",
+        "byline": "By Jin Yu Young",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T02:08:45-04:00",
+        "created_date": "2025-04-04T00:16:11-04:00",
+        "published_date": "2025-04-04T00:16:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Martial Law",
+            "Politics and Government",
+            "Impeachment",
+            "Demonstrations, Protests and Riots"
+        ],
+        "org_facet": [
+            "People Power Party"
+        ],
+        "per_facet": [
+            "Yoon Suk-yeol",
+            "Han Duck-soo",
+            "Lee Jae-myung"
+        ],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-WWK-tpcw/04skorea-yoon-WWK-tpcw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters opposed to Yoon Suk Yeol cheered the Constitutional Court’s decision on Friday to remove him as president.",
+                "copyright": "Jun Michael Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-WWK-tpcw/04skorea-yoon-WWK-tpcw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters opposed to Yoon Suk Yeol cheered the Constitutional Court’s decision on Friday to remove him as president.",
+                "copyright": "Jun Michael Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-WWK-tpcw/04skorea-yoon-WWK-tpcw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters opposed to Yoon Suk Yeol cheered the Constitutional Court’s decision on Friday to remove him as president.",
+                "copyright": "Jun Michael Park for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
