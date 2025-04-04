@@ -6548,5 +6548,192 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Risking Reprisals, Protesters in Gaza Call on Hamas to Step Aside",
+        "abstract": "Demanding an end to the war, hundreds pressed the militants to relinquish control of the enclave, a rare demonstration against a group that has suppressed dissent with violence.",
+        "url": "https://www.nytimes.com/2025/04/04/world/middleeast/gaza-protests-hamas.html",
+        "uri": "nyt://article/61a7cbbc-36f3-5be6-a051-077a7b881fa3",
+        "byline": "By Vivian Yee, Bilal Shbair and Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:32:59-04:00",
+        "created_date": "2025-04-04T05:26:14-04:00",
+        "published_date": "2025-04-04T05:26:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Demonstrations, Protests and Riots",
+            "Israel-Gaza War (2023- )",
+            "Palestinians"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-hamas-protests-khzv/04int-hamas-protests-khzv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An antiwar rally in Beit Lahia, in the northern Gaza Strip, on March 26.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-hamas-protests-khzv/04int-hamas-protests-khzv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An antiwar rally in Beit Lahia, in the northern Gaza Strip, on March 26.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-hamas-protests-khzv/04int-hamas-protests-khzv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An antiwar rally in Beit Lahia, in the northern Gaza Strip, on March 26.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Welcome to Birmingham, England — Mind the Rats",
+        "abstract": "A standoff between garbage collectors and municipal officials in Britain’s second largest city has left an estimated 17,000 tons of trash on the streets.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/garbage-strike-birmingham-uk.html",
+        "uri": "nyt://article/abf8e25a-37f9-5a79-8342-5e634096cb99",
+        "byline": "By Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:40:23-04:00",
+        "created_date": "2025-04-04T05:14:12-04:00",
+        "published_date": "2025-04-04T05:14:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Waste Materials and Disposal",
+            "Strikes",
+            "Rats",
+            "Urban Areas",
+            "Layoffs and Job Reductions",
+            "Organized Labor",
+            "Local Government",
+            "City Councils"
+        ],
+        "org_facet": [
+            "Labour Party (Great Britain)",
+            "Unite"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Birmingham (England)",
+            "Great Britain",
+            "England"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-uk-garbage-01-jfpq/04int-uk-garbage-01-jfpq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1361,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A large pile of trash on the pavement of a street in Birmingham, United Kingdom on March 24.",
+                "copyright": "Phil Noble/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-uk-garbage-01-jfpq/04int-uk-garbage-01-jfpq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A large pile of trash on the pavement of a street in Birmingham, United Kingdom on March 24.",
+                "copyright": "Phil Noble/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-uk-garbage-01-jfpq/04int-uk-garbage-01-jfpq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A large pile of trash on the pavement of a street in Birmingham, United Kingdom on March 24.",
+                "copyright": "Phil Noble/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "As Unexplained Quakes Ease, Santorini Insists It’s Open for Business",
+        "abstract": "The Greek island was shaken by thousands of mostly smaller-scale temblors. Now, residents have returned, and they hope visitors will, too.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/greece-santorini-earthquakes-tourism.html",
+        "uri": "nyt://article/fac73625-42fb-53ac-84f2-e5eda80b74a2",
+        "byline": "By Niki Kitsantonis",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T06:08:20-04:00",
+        "created_date": "2025-04-04T00:01:06-04:00",
+        "published_date": "2025-04-04T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Volcanoes",
+            "Earthquakes",
+            "Travel and Vacations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Santorini (Greece)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00int-greece-quakes-01-jhvq/00int-greece-quakes-01-jhvq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cruise ship arriving at Santorini, Greece, last month.",
+                "copyright": "Stelios Misinas/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00int-greece-quakes-01-jhvq/00int-greece-quakes-01-jhvq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cruise ship arriving at Santorini, Greece, last month.",
+                "copyright": "Stelios Misinas/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00int-greece-quakes-01-jhvq/00int-greece-quakes-01-jhvq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cruise ship arriving at Santorini, Greece, last month.",
+                "copyright": "Stelios Misinas/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
