@@ -7343,5 +7343,148 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump Weighs In, Making Marine Le Pen’s Case Part of the Politics of Grievance",
+        "abstract": "The American president cast the French politician’s conviction as an example of far-right persecution, ignoring ample evidence against her.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/trump-marine-le-pen-conviction.html",
+        "uri": "nyt://article/b0c5225d-0de7-5c2b-93ff-8c100c7ac666",
+        "byline": "By Roger Cohen",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T11:08:46-04:00",
+        "created_date": "2025-04-04T10:52:22-04:00",
+        "published_date": "2025-04-04T10:52:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Politics and Government",
+            "Right-Wing Extremism and Alt-Right",
+            "Presidential Election of 2024",
+            "Decisions and Verdicts",
+            "United States International Relations",
+            "Polls and Public Opinion",
+            "Law and Legislation",
+            "Democracy (Theory and Philosophy)",
+            "Embezzlement",
+            "Demonstrations, Protests and Riots",
+            "Fringe Groups and Movements",
+            "Legislatures and Parliaments",
+            "Corruption (Institutional)"
+        ],
+        "org_facet": [
+            "European Parliament",
+            "National Rally (France)"
+        ],
+        "per_facet": [
+            "Fillon, Francois",
+            "Le Pen, Jean-Marie",
+            "Le Pen, Marine",
+            "Musk, Elon",
+            "Putin, Vladimir V",
+            "Sarkozy, Nicolas",
+            "Trump, Donald J",
+            "Vance, J D"
+        ],
+        "geo_facet": [
+            "Europe",
+            "France"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04trump-lepen-01-qmwf/04trump-lepen-01-qmwf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marine Le Pen, a far-right French politician, was a leading candidate to become the country’s next president, but has now been barred from running for public office for five years.",
+                "copyright": "Dmitry Kostyukov for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04trump-lepen-01-qmwf/04trump-lepen-01-qmwf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marine Le Pen, a far-right French politician, was a leading candidate to become the country’s next president, but has now been barred from running for public office for five years.",
+                "copyright": "Dmitry Kostyukov for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04trump-lepen-01-qmwf/04trump-lepen-01-qmwf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marine Le Pen, a far-right French politician, was a leading candidate to become the country’s next president, but has now been barred from running for public office for five years.",
+                "copyright": "Dmitry Kostyukov for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israeli Military Expands Ground Operations in Gaza City",
+        "abstract": "The advance and a new evacuation order came not long after Palestinian health authorities said dozens of people, including children, were killed in strikes on a school turned shelter. Israel said it had targeted militants.",
+        "url": "https://www.nytimes.com/2025/04/04/world/middleeast/israel-gaza-hamas-evacuation.html",
+        "uri": "nyt://article/82a59c75-64df-5fcd-a3d2-b027c790815d",
+        "byline": "By Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T10:59:38-04:00",
+        "created_date": "2025-04-04T07:36:09-04:00",
+        "published_date": "2025-04-04T07:36:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Evacuations and Evacuees"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip",
+            "Shajaiye (Gaza Strip)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04israel-gaza-01-jmcl/04israel-gaza-01-jmcl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians fleeing the Shajaiye neighborhood of Gaza City after the Israeli military issued evacuation orders on Thursday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04israel-gaza-01-jmcl/04israel-gaza-01-jmcl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians fleeing the Shajaiye neighborhood of Gaza City after the Israeli military issued evacuation orders on Thursday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04israel-gaza-01-jmcl/04israel-gaza-01-jmcl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians fleeing the Shajaiye neighborhood of Gaza City after the Israeli military issued evacuation orders on Thursday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
