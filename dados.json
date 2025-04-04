@@ -6735,5 +6735,245 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Jubilation in South Korea After President Who Declared Martial Law Is Ousted",
+        "abstract": "The nation’s top court unanimously upheld the impeachment of Yoon Suk Yeol, clearing the way for the election of a new president.",
+        "url": "https://www.nytimes.com/live/2025/04/03/world/south-korea-yoon",
+        "uri": "nyt://promo/effa5ef5-d50b-518b-a2f1-d69710ad2f9a",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-04T07:04:56-04:00",
+        "created_date": "2025-04-04T06:22:09-04:00",
+        "published_date": "2025-04-04T06:22:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-promo-vftm/04skorea-yoon-promo-vftm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jun Michael Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-promo-vftm/04skorea-yoon-promo-vftm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jun Michael Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-promo-vftm/04skorea-yoon-promo-vftm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jun Michael Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Trump’s Trade War Escalates as China Retaliates With 34% Tariffs",
+        "abstract": "The Chinese government said it would match President Trump’s tariff, and also barred a group of American companies from doing business in China.",
+        "url": "https://www.nytimes.com/2025/04/04/business/china-trump-tariffs-retaliation.html",
+        "uri": "nyt://article/0e4ead96-b1c5-52ff-82a7-27622c838627",
+        "byline": "By Keith Bradsher",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T06:59:14-04:00",
+        "created_date": "2025-04-04T06:23:33-04:00",
+        "published_date": "2025-04-04T06:23:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Ministry of Commerce (China)"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04Biz-China-Retaliate-ghkv/04Biz-China-Retaliate-ghkv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1295,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A container ship from China’s largest shipping line at the Port Of Long Beach in California on Tuesday.",
+                "copyright": "Mario Tama/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04Biz-China-Retaliate-ghkv/04Biz-China-Retaliate-ghkv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A container ship from China’s largest shipping line at the Port Of Long Beach in California on Tuesday.",
+                "copyright": "Mario Tama/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04Biz-China-Retaliate-ghkv/04Biz-China-Retaliate-ghkv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A container ship from China’s largest shipping line at the Port Of Long Beach in California on Tuesday.",
+                "copyright": "Mario Tama/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India Passes Contentious Bill Increasing Oversight of Muslim Land Trusts",
+        "abstract": "The legislation passed by Parliament on Friday would allow non-Muslims to help administer so-called Waqfs. The move fueled concerns that the rights of Muslims are being infringed on.",
+        "url": "https://www.nytimes.com/2025/04/04/world/asia/india-bill-muslim-land-waqfs.html",
+        "uri": "nyt://article/900c851e-bb31-5a6f-aa79-5fe06788e06f",
+        "byline": "By Mujib Mashal and Hari Kumar",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T06:36:00-04:00",
+        "created_date": "2025-04-04T06:36:00-04:00",
+        "published_date": "2025-04-04T06:36:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Law and Legislation",
+            "Religion-State Relations",
+            "Muslims and Islam",
+            "Legislatures and Parliaments",
+            "Politics and Government",
+            "Land Use Policies"
+        ],
+        "org_facet": [
+            "Bharatiya Janata Party"
+        ],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "India"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-india-land-vkbt/04int-india-land-vkbt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Waqf board office in New Delhi in April.",
+                "copyright": "Money Sharma/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-india-land-vkbt/04int-india-land-vkbt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Waqf board office in New Delhi in April.",
+                "copyright": "Money Sharma/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-india-land-vkbt/04int-india-land-vkbt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Waqf board office in New Delhi in April.",
+                "copyright": "Money Sharma/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Who is Yoon Suk Yeol, and What Comes Next for Him?",
+        "abstract": "South Korea’s former president still faces criminal charges of leading an insurrection when he declared martial law. If found guilty, he could be imprisoned for life.",
+        "url": "https://www.nytimes.com/2025/04/04/world/asia/skorea-yoon-next.html",
+        "uri": "nyt://article/e0514a42-8423-507f-888d-af8782a426ca",
+        "byline": "By Jin Yu Young and Choe Sang-Hun",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T07:04:54-04:00",
+        "created_date": "2025-04-04T03:37:11-04:00",
+        "published_date": "2025-04-04T03:37:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Politics and Government",
+            "Impeachment",
+            "Martial Law"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Yoon Suk-yeol"
+        ],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-skorea-yoon-next-pwqj/04int-skorea-yoon-next-pwqj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of impeached President Yoon Suk Yeol waved a flag with his image after the Constitutional Court announced the verdict today in Seoul, upholding the impeachment.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-skorea-yoon-next-pwqj/04int-skorea-yoon-next-pwqj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of impeached President Yoon Suk Yeol waved a flag with his image after the Constitutional Court announced the verdict today in Seoul, upholding the impeachment.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-skorea-yoon-next-pwqj/04int-skorea-yoon-next-pwqj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of impeached President Yoon Suk Yeol waved a flag with his image after the Constitutional Court announced the verdict today in Seoul, upholding the impeachment.",
+                "copyright": "Chang W. Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
