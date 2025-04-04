@@ -7749,5 +7749,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "At Least 14 Dead in Russian Strike on Zelensky’s Hometown, Ukraine Says",
+        "abstract": "The missile strike was the latest in a series of Russian attacks on urban centers that have caused significant civilian casualties despite ongoing cease-fire talks.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/ukraine-russia-strike-zelensky-hometown.html",
+        "uri": "nyt://article/bcfa52ae-3c10-52d4-83bb-c07013e9daa3",
+        "byline": "By Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T14:23:38-04:00",
+        "created_date": "2025-04-04T14:23:38-04:00",
+        "published_date": "2025-04-04T14:23:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Civilian Casualties",
+            "Russian Invasion of Ukraine (2022)",
+            "Missiles and Missile Defense Systems",
+            "Deaths (Fatalities)",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kryvyi Rih (Ukraine)",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/world/04int-ukraine-attack/04int-ukraine-attack-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 900,
+                "width": 1350,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Russian missile attack on the central Ukrainian city of Kryvyi Rih on Friday killed at least 14 people and left dozens of others wounded, officials said.",
+                "copyright": "EyePress News, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/world/04int-ukraine-attack/04int-ukraine-attack-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Russian missile attack on the central Ukrainian city of Kryvyi Rih on Friday killed at least 14 people and left dozens of others wounded, officials said.",
+                "copyright": "EyePress News, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/world/04int-ukraine-attack/04int-ukraine-attack-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Russian missile attack on the central Ukrainian city of Kryvyi Rih on Friday killed at least 14 people and left dozens of others wounded, officials said.",
+                "copyright": "EyePress News, via Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
