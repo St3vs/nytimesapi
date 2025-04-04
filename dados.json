@@ -6158,5 +6158,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "australia",
+        "title": "Faced With a Changed Ally, Australia Debates the Need for a ‘Plan B’",
+        "abstract": "The country has doubled down on its defense relationship with the United States in recent years. President Trump’s treatment of allies is prompting some to question the wisdom of that path.",
+        "url": "https://www.nytimes.com/2025/04/04/world/australia/us-trump-security-alliance.html",
+        "uri": "nyt://article/3d5675f6-cb8c-50f4-b26a-476b74fa6ce6",
+        "byline": "By Victoria Kim",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T02:54:21-04:00",
+        "created_date": "2025-04-04T02:36:39-04:00",
+        "published_date": "2025-04-04T02:36:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "International Trade and World Market",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [
+            "AUKUS"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Albanese, Anthony (1963- )",
+            "Turnbull, Malcolm (1954- )"
+        ],
+        "geo_facet": [
+            "Australia",
+            "Far East, South and Southeast Asia and Pacific Areas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-oz-us-alliance01-photo-bmjf/04int-oz-us-alliance01-photo-bmjf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A U.S. submarine sailing off the coast of Western Australia in March.",
+                "copyright": "Pool photo by Colin Murty"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-oz-us-alliance01-photo-bmjf/04int-oz-us-alliance01-photo-bmjf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A U.S. submarine sailing off the coast of Western Australia in March.",
+                "copyright": "Pool photo by Colin Murty"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-oz-us-alliance01-photo-bmjf/04int-oz-us-alliance01-photo-bmjf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A U.S. submarine sailing off the coast of Western Australia in March.",
+                "copyright": "Pool photo by Colin Murty"
+            }
+        ],
+        "short_url": ""
     }
 ]
