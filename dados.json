@@ -7939,5 +7939,124 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russian Strike Kills 16, including Six Children, Ukraine Says",
+        "abstract": "The missile strike was the latest in a series of attacks that have caused civilian casualties, despite ongoing cease-fire talks. Russia said it had targeted a meeting of Western military instructors.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/ukraine-russia-strike-zelensky-hometown.html",
+        "uri": "nyt://article/bcfa52ae-3c10-52d4-83bb-c07013e9daa3",
+        "byline": "By Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T17:21:34-04:00",
+        "created_date": "2025-04-04T14:23:38-04:00",
+        "published_date": "2025-04-04T14:23:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Civilian Casualties",
+            "Russian Invasion of Ukraine (2022)",
+            "Missiles and Missile Defense Systems",
+            "Deaths (Fatalities)",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kryvyi Rih (Ukraine)",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-ukraine-attack-wjbh/04int-ukraine-attack-wjbh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency personnel work next to a body lying on the ground, at the site of a Russian missile strike in a residential area of Kryvyi Rih, Ukraine, on Friday.",
+                "copyright": "Violeta Santos Moura/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-ukraine-attack-wjbh/04int-ukraine-attack-wjbh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency personnel work next to a body lying on the ground, at the site of a Russian missile strike in a residential area of Kryvyi Rih, Ukraine, on Friday.",
+                "copyright": "Violeta Santos Moura/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-ukraine-attack-wjbh/04int-ukraine-attack-wjbh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency personnel work next to a body lying on the ground, at the site of a Russian missile strike in a residential area of Kryvyi Rih, Ukraine, on Friday.",
+                "copyright": "Violeta Santos Moura/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "",
+        "title": "Map: Earthquake Near Papua New Guinea Prompts Tsunami Alert",
+        "abstract": "View the location of the quake’s epicenter and shake area.",
+        "url": "https://www.nytimes.com/interactive/2025/04/04/world/earthquake-papua-new-guinea.html",
+        "uri": "nyt://interactive/317096cc-1ae9-5828-83ff-eed085d37e37",
+        "byline": "By William B. Davis, Madison Dong, Judson Jones, John Keefe and Bea Malsky",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-04T18:16:14-04:00",
+        "created_date": "2025-04-04T17:58:19-04:00",
+        "published_date": "2025-04-04T17:58:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Earthquakes",
+            "Tidal Waves and Tsunamis"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Papua New Guinea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/world/04wea-quake-tracker-solomon-sea-nyt8i2s1-index/04wea-quake-tracker-solomon-sea-nyt8i2s1-index-superJumbo-v9.jpg",
+                "format": "Super Jumbo",
+                "height": 1332,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/world/04wea-quake-tracker-solomon-sea-nyt8i2s1-index/04wea-quake-tracker-solomon-sea-nyt8i2s1-index-threeByTwoSmallAt2X-v10.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/world/04wea-quake-tracker-solomon-sea-nyt8i2s1-index/04wea-quake-tracker-solomon-sea-nyt8i2s1-index-thumbLarge-v9.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
