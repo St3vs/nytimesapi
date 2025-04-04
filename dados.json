@@ -6975,5 +6975,252 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israeli Military Orders New Evacuation of Gaza City Neighborhoods",
+        "abstract": "The order came not long after Palestinian health authorities said dozens of people, including children, were killed in strikes on a school turned shelter. Israel said it was looking into the reports.",
+        "url": "https://www.nytimes.com/2025/04/04/world/middleeast/israel-gaza-hamas-evacuation.html",
+        "uri": "nyt://article/82a59c75-64df-5fcd-a3d2-b027c790815d",
+        "byline": "By Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T08:09:45-04:00",
+        "created_date": "2025-04-04T07:36:09-04:00",
+        "published_date": "2025-04-04T07:36:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Evacuations and Evacuees"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip",
+            "Shajaiye (Gaza Strip)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04israel-gaza-01-jmcl/04israel-gaza-01-jmcl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians fleeing the Shajaiye neighborhood of Gaza City after the Israeli military issued evacuation orders on Thursday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04israel-gaza-01-jmcl/04israel-gaza-01-jmcl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians fleeing the Shajaiye neighborhood of Gaza City after the Israeli military issued evacuation orders on Thursday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04israel-gaza-01-jmcl/04israel-gaza-01-jmcl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians fleeing the Shajaiye neighborhood of Gaza City after the Israeli military issued evacuation orders on Thursday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Will Trump’s Tariffs Drive Europe Into China’s Arms, or Into a Fight?",
+        "abstract": "The European Union is deepening other trade partnerships as U.S. relations sour. But with China, the relationship could get closer — or more combative.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/trump-tariffs-china.html",
+        "uri": "nyt://article/4ddad0e5-4a24-5616-b594-471481df3096",
+        "byline": "By Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T07:59:00-04:00",
+        "created_date": "2025-04-04T07:24:36-04:00",
+        "published_date": "2025-04-04T07:24:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "European Union"
+        ],
+        "per_facet": [
+            "von der Leyen, Ursula",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-europe-china-01-bpwt/04int-europe-china-01-bpwt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The production line at a Chinese electric vehicle maker, Nio, in Hefei, China, on Wednesday. The E.U. imposed higher tariffs on China-made electrical vehicles last year, but China’s commerce ministry said at a news conference on Thursday that the two sides had agreed to restart negotiations.",
+                "copyright": "Florence Lo/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-europe-china-01-bpwt/04int-europe-china-01-bpwt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The production line at a Chinese electric vehicle maker, Nio, in Hefei, China, on Wednesday. The E.U. imposed higher tariffs on China-made electrical vehicles last year, but China’s commerce ministry said at a news conference on Thursday that the two sides had agreed to restart negotiations.",
+                "copyright": "Florence Lo/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-europe-china-01-bpwt/04int-europe-china-01-bpwt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The production line at a Chinese electric vehicle maker, Nio, in Hefei, China, on Wednesday. The E.U. imposed higher tariffs on China-made electrical vehicles last year, but China’s commerce ministry said at a news conference on Thursday that the two sides had agreed to restart negotiations.",
+                "copyright": "Florence Lo/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "South Korea Removes Its Impeached President and Regains Direction",
+        "abstract": "The country’s Constitutional Court formally ended the presidency of Yoon Suk Yeol for declaring martial law, ending months of turmoil. But the country remains deeply divided.",
+        "url": "https://www.nytimes.com/2025/04/04/world/asia/south-korea-removes-impeached-president.html",
+        "uri": "nyt://article/48e6c270-28ce-5b0b-8cfd-097277f94ce6",
+        "byline": "By Choe Sang-Hun, John Yoon, Yan Zhuang and Jin Yu Young",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T07:16:26-04:00",
+        "created_date": "2025-04-04T07:16:26-04:00",
+        "published_date": "2025-04-04T07:16:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Decisions and Verdicts",
+            "Martial Law",
+            "Impeachment",
+            "Demonstrations, Protests and Riots"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Yoon Suk-yeol"
+        ],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-skorea-yoon-ledeall-01-wjhp/04int-skorea-yoon-ledeall-01-wjhp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At a rally of supporters of Mr. Yoon, there was loud booing after the Constitutional Court delivered its ruling. Many of them left, dejected, soon after.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-skorea-yoon-ledeall-01-wjhp/04int-skorea-yoon-ledeall-01-wjhp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At a rally of supporters of Mr. Yoon, there was loud booing after the Constitutional Court delivered its ruling. Many of them left, dejected, soon after.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-skorea-yoon-ledeall-01-wjhp/04int-skorea-yoon-ledeall-01-wjhp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At a rally of supporters of Mr. Yoon, there was loud booing after the Constitutional Court delivered its ruling. Many of them left, dejected, soon after.",
+                "copyright": "Chang W. Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Who Is Yoon Suk Yeol, and What Comes Next for Him?",
+        "abstract": "South Korea’s former president still faces criminal charges of leading an insurrection when he declared martial law. If found guilty, he could be imprisoned for life.",
+        "url": "https://www.nytimes.com/2025/04/04/world/asia/skorea-yoon-next.html",
+        "uri": "nyt://article/e0514a42-8423-507f-888d-af8782a426ca",
+        "byline": "By Jin Yu Young and Choe Sang-Hun",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T07:35:28-04:00",
+        "created_date": "2025-04-04T03:37:11-04:00",
+        "published_date": "2025-04-04T03:37:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Politics and Government",
+            "Impeachment",
+            "Martial Law"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Yoon Suk-yeol"
+        ],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-skorea-yoon-next-pwqj/04int-skorea-yoon-next-pwqj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of impeached President Yoon Suk Yeol waved a flag with his image after the Constitutional Court announced the verdict today in Seoul, upholding the impeachment.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-skorea-yoon-next-pwqj/04int-skorea-yoon-next-pwqj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of impeached President Yoon Suk Yeol waved a flag with his image after the Constitutional Court announced the verdict today in Seoul, upholding the impeachment.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-skorea-yoon-next-pwqj/04int-skorea-yoon-next-pwqj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of impeached President Yoon Suk Yeol waved a flag with his image after the Constitutional Court announced the verdict today in Seoul, upholding the impeachment.",
+                "copyright": "Chang W. Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
