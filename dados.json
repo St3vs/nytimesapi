@@ -7811,5 +7811,71 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "YouTuber Is Arrested After Leaving Diet Coke on Isolated Tribe’s Island",
+        "abstract": "A 24-year-old American man went to a far-flung island in hopes of filming an encounter with the Sentinelese, the Indian authorities said. It is illegal to make contact with the tribe.",
+        "url": "https://www.nytimes.com/2025/04/04/world/asia/north-sentinel-island-us-man-arrested.html",
+        "uri": "nyt://article/c1f975c9-3366-549f-8f1e-d6b107ad1805",
+        "byline": "By Christine Hauser and Hari Kumar",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T16:05:33-04:00",
+        "created_date": "2025-04-04T16:05:33-04:00",
+        "published_date": "2025-04-04T16:05:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Travel and Vacations",
+            "Video Recordings, Downloads and Streaming",
+            "Social Media",
+            "Islands"
+        ],
+        "org_facet": [
+            "YouTube.com",
+            "GoPro"
+        ],
+        "per_facet": [
+            "Polyakov, Mykhailo Viktorovych"
+        ],
+        "geo_facet": [
+            "North Sentinel Island (India)",
+            "Indian Ocean",
+            "India"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04xp-island-wkbg/04xp-island-wkbg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1338,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Indian authorities said they had arrested the man when he returned to land, and that he appeared to have recorded his journey on a GoPro and used GPS. ",
+                "copyright": "Gautam Singh/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04xp-island-wkbg/04xp-island-wkbg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Indian authorities said they had arrested the man when he returned to land, and that he appeared to have recorded his journey on a GoPro and used GPS. ",
+                "copyright": "Gautam Singh/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04xp-island-wkbg/04xp-island-wkbg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Indian authorities said they had arrested the man when he returned to land, and that he appeared to have recorded his journey on a GoPro and used GPS. ",
+                "copyright": "Gautam Singh/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
