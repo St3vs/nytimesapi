@@ -7486,5 +7486,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How ‘Free Speech’ Became a New Flashpoint Between Europe and U.S.",
+        "abstract": "The two have long been divided on whether speech can be restricted, and when. Under the Trump administration, the gap is widening.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/european-union-free-speech-x-facebook-elon-musk.html",
+        "uri": "nyt://article/056ab463-a893-56bb-b29e-11389eafbf1e",
+        "byline": "By Jeanna Smialek and Adam Satariano",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T11:58:01-04:00",
+        "created_date": "2025-04-04T11:58:01-04:00",
+        "published_date": "2025-04-04T11:58:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Freedom of Speech and Expression",
+            "Social Media",
+            "Computers and the Internet"
+        ],
+        "org_facet": [
+            "European Union",
+            "Meta Platforms Inc",
+            "X (Formerly Twitter)"
+        ],
+        "per_facet": [
+            "Musk, Elon"
+        ],
+        "geo_facet": [
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-europe-free-speech-01-kfph/04int-europe-free-speech-01-kfph-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1381,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Margrethe Vestager and Thierry Breton, then E.U. officials, announcing the Digital Services Act in 2020. The law is meant to prevent the spread of illegal content and disinformation.",
+                "copyright": "Pool photo by Olivier Matthys"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-europe-free-speech-01-kfph/04int-europe-free-speech-01-kfph-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Margrethe Vestager and Thierry Breton, then E.U. officials, announcing the Digital Services Act in 2020. The law is meant to prevent the spread of illegal content and disinformation.",
+                "copyright": "Pool photo by Olivier Matthys"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-europe-free-speech-01-kfph/04int-europe-free-speech-01-kfph-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Margrethe Vestager and Thierry Breton, then E.U. officials, announcing the Digital Services Act in 2020. The law is meant to prevent the spread of illegal content and disinformation.",
+                "copyright": "Pool photo by Olivier Matthys"
+            }
+        ],
+        "short_url": ""
     }
 ]
