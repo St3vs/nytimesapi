@@ -5714,5 +5714,261 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "What to Know About the Ruling on South Korea’s President",
+        "abstract": "The country’s Constitutional Court on Friday upheld the impeachment of Yoon Suk Yeol, removing him from office four months after his short-lived imposition of martial law.",
+        "url": "https://www.nytimes.com/2025/04/04/world/asia/yoon-south-korea-impeachment-ruling.html",
+        "uri": "nyt://article/297d303e-0f88-57f5-b18e-b1361fdac6c1",
+        "byline": "By Jin Yu Young",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T00:16:10-04:00",
+        "created_date": "2025-04-04T00:16:10-04:00",
+        "published_date": "2025-04-04T00:16:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Martial Law",
+            "Politics and Government",
+            "Impeachment",
+            "Demonstrations, Protests and Riots"
+        ],
+        "org_facet": [
+            "People Power Party"
+        ],
+        "per_facet": [
+            "Yoon Suk-yeol",
+            "Han Duck-soo",
+            "Lee Jae-myung"
+        ],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-WWK-tpcw/04skorea-yoon-WWK-tpcw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters opposed to Yoon Suk Yeol cheered the Constitutional Court’s decision on Friday to remove him as president.",
+                "copyright": "Jun Michael Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-WWK-tpcw/04skorea-yoon-WWK-tpcw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters opposed to Yoon Suk Yeol cheered the Constitutional Court’s decision on Friday to remove him as president.",
+                "copyright": "Jun Michael Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-WWK-tpcw/04skorea-yoon-WWK-tpcw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters opposed to Yoon Suk Yeol cheered the Constitutional Court’s decision on Friday to remove him as president.",
+                "copyright": "Jun Michael Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "U.S. Strikes in Yemen Burning Through Munitions With Limited Success",
+        "abstract": "In just three weeks, the Pentagon has used $200 million worth of munitions in Operation Rough Rider against the Houthi militia, officials said.",
+        "url": "https://www.nytimes.com/2025/04/04/us/politics/us-strikes-yemen-houthis.html",
+        "uri": "nyt://article/d02fde02-8537-599b-b79d-e8d623057d10",
+        "byline": "By Eric Schmitt, Edward Wong and John Ismay",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T00:01:19-04:00",
+        "created_date": "2025-04-04T00:01:19-04:00",
+        "published_date": "2025-04-04T00:01:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Defense and Military Forces",
+            "Terrorism",
+            "Civilian Casualties",
+            "Drones (Pilotless Planes)",
+            "Signal Chat Leak (Trump Administration)",
+            "Piracy at Sea"
+        ],
+        "org_facet": [
+            "Houthis",
+            "Defense Department"
+        ],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Hegseth, Pete",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Red Sea",
+            "Yemen"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03DC-MILITARY-HOUTHIS-qpjw/03DC-MILITARY-HOUTHIS-qpjw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Damage from overnight strikes in Yemen on Wednesday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03DC-MILITARY-HOUTHIS-qpjw/03DC-MILITARY-HOUTHIS-qpjw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Damage from overnight strikes in Yemen on Wednesday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03DC-MILITARY-HOUTHIS-qpjw/03DC-MILITARY-HOUTHIS-qpjw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Damage from overnight strikes in Yemen on Wednesday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "They Fought to Save Lives in Myanmar. The Earthquake Claimed Theirs.",
+        "abstract": "Five friends defied the junta to care for people injured in the military coup. One returned from the battlefield to find his four friends among the dead in the March 28 earthquake.",
+        "url": "https://www.nytimes.com/2025/04/04/world/asia/myanmar-earthquake-doctors.html",
+        "uri": "nyt://article/50f4e401-62ef-5712-a405-fb94e47ed9f7",
+        "byline": "By Hannah Beech",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T00:01:13-04:00",
+        "created_date": "2025-04-04T00:01:13-04:00",
+        "published_date": "2025-04-04T00:01:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Myanmar Earthquake (March 28, 2025)",
+            "Health Care Workers",
+            "War and Armed Conflicts",
+            "Civilian Casualties",
+            "Demonstrations, Protests and Riots",
+            "Coups D'Etat and Attempted Coups D'Etat",
+            "Earthquakes",
+            "Humanitarian Aid"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Mandalay (Myanmar)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-myanmar-doctor-hcqw/04int-myanmar-doctor-hcqw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A patient at Mandalay General Hospital, three days after the deadly Myanmar earthquake.",
+                "copyright": "Sai Aung Main/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-myanmar-doctor-hcqw/04int-myanmar-doctor-hcqw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A patient at Mandalay General Hospital, three days after the deadly Myanmar earthquake.",
+                "copyright": "Sai Aung Main/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-myanmar-doctor-hcqw/04int-myanmar-doctor-hcqw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A patient at Mandalay General Hospital, three days after the deadly Myanmar earthquake.",
+                "copyright": "Sai Aung Main/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "As Unexplained Quakes Ease, Tourist Island Insists It’s Open for Business",
+        "abstract": "The Greek island of Santorini was shaken by thousands of mostly smaller-scale temblors. Now, residents have returned, and they hope visitors will, too.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/greece-santorini-earthquakes-tourism.html",
+        "uri": "nyt://article/fac73625-42fb-53ac-84f2-e5eda80b74a2",
+        "byline": "By Niki Kitsantonis",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T00:08:09-04:00",
+        "created_date": "2025-04-04T00:01:06-04:00",
+        "published_date": "2025-04-04T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Volcanoes",
+            "Earthquakes",
+            "Travel and Vacations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Santorini (Greece)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00int-greece-quakes-01-jhvq/00int-greece-quakes-01-jhvq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cruise ship arriving at Santorini, Greece, last month.",
+                "copyright": "Stelios Misinas/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00int-greece-quakes-01-jhvq/00int-greece-quakes-01-jhvq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cruise ship arriving at Santorini, Greece, last month.",
+                "copyright": "Stelios Misinas/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00int-greece-quakes-01-jhvq/00int-greece-quakes-01-jhvq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cruise ship arriving at Santorini, Greece, last month.",
+                "copyright": "Stelios Misinas/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
