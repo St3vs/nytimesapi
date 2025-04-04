@@ -6223,5 +6223,330 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Welcome to Birmingham — Mind the Rats",
+        "abstract": "A standoff between garbage collectors and municipal officials in Britain’s second largest city has left an estimated 17,000 tons of trash on the streets.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/birmingham-bin-strike-garbage-rats.html",
+        "uri": "nyt://article/abf8e25a-37f9-5a79-8342-5e634096cb99",
+        "byline": "By Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:14:11-04:00",
+        "created_date": "2025-04-04T05:14:11-04:00",
+        "published_date": "2025-04-04T05:14:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Waste Materials and Disposal",
+            "Strikes",
+            "Rats",
+            "Urban Areas",
+            "Layoffs and Job Reductions",
+            "Organized Labor",
+            "Local Government",
+            "City Councils"
+        ],
+        "org_facet": [
+            "Labour Party (Great Britain)",
+            "Unite"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Birmingham (England)",
+            "Great Britain",
+            "England"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-uk-garbage-01-jfpq/04int-uk-garbage-01-jfpq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1361,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A large pile of trash on the pavement of a street in Birmingham, United Kingdom on March 24.",
+                "copyright": "Phil Noble/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-uk-garbage-01-jfpq/04int-uk-garbage-01-jfpq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A large pile of trash on the pavement of a street in Birmingham, United Kingdom on March 24.",
+                "copyright": "Phil Noble/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-uk-garbage-01-jfpq/04int-uk-garbage-01-jfpq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A large pile of trash on the pavement of a street in Birmingham, United Kingdom on March 24.",
+                "copyright": "Phil Noble/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Cockles, Mussels and Bodyguards: Dublin Acts to Protect Molly Malone Statue",
+        "abstract": "The city said it would provide stewards for its statue of the folk song figure — and repair its bust, which has been damaged by excessive touching.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/dublin-molly-malone-statue.html",
+        "uri": "nyt://article/3bb4bb42-bc81-518f-9019-b8f61d3e9da4",
+        "byline": "By Lynsey Chutel",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:03:14-04:00",
+        "created_date": "2025-04-04T05:02:02-04:00",
+        "published_date": "2025-04-04T05:02:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Sexual Harassment",
+            "Vandalism",
+            "Sculpture",
+            "City Councils"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Molly Malone"
+        ],
+        "geo_facet": [
+            "Dublin (Ireland)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-ireland-malone-wtfc/04int-ireland-malone-wtfc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Posing for photos with the statue of Molly Malone last month during the St. Patrick’s Day parade in Dublin.",
+                "copyright": "Clodagh Kilcoyne/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-ireland-malone-wtfc/04int-ireland-malone-wtfc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Posing for photos with the statue of Molly Malone last month during the St. Patrick’s Day parade in Dublin.",
+                "copyright": "Clodagh Kilcoyne/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-ireland-malone-wtfc/04int-ireland-malone-wtfc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Posing for photos with the statue of Molly Malone last month during the St. Patrick’s Day parade in Dublin.",
+                "copyright": "Clodagh Kilcoyne/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "When Left Is Too Left in a Canada Rattled by Trump",
+        "abstract": "As Canada faces an election defined by President Trump’s threats, its progressive party, the New Democrats, finds itself losing support and confronting an existential crisis.",
+        "url": "https://www.nytimes.com/2025/04/04/world/americas/canada-new-democratic-party-jagmeet-singh.html",
+        "uri": "nyt://article/ae6c05de-4561-5f9b-bb53-46deb0de8fd6",
+        "byline": "By Vjosa Isai",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:00:48-04:00",
+        "created_date": "2025-04-04T05:00:48-04:00",
+        "published_date": "2025-04-04T05:00:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "Politics and Government",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)",
+            "New Democratic Party (Canada)"
+        ],
+        "per_facet": [
+            "Poilievre, Pierre",
+            "Singh, Jagmeet",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States",
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00int-canada-party-fading-jpfk/00int-canada-party-fading-jpfk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jagmeet Singh, the leader of Canada’s New Democratic Party, speaking in Ontario. Several public opinion polls show support for the New Democrats in the single digits.",
+                "copyright": "Blair Gable/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00int-canada-party-fading-jpfk/00int-canada-party-fading-jpfk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jagmeet Singh, the leader of Canada’s New Democratic Party, speaking in Ontario. Several public opinion polls show support for the New Democrats in the single digits.",
+                "copyright": "Blair Gable/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00int-canada-party-fading-jpfk/00int-canada-party-fading-jpfk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jagmeet Singh, the leader of Canada’s New Democratic Party, speaking in Ontario. Several public opinion polls show support for the New Democrats in the single digits.",
+                "copyright": "Blair Gable/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia Executes P.O.W.s Without Caring Who Watches, Ukraine Says",
+        "abstract": "Live drone footage allows Ukraine to observe what it views as war crimes unfold in real time, soldiers say.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/russia-ukraine-pow-executions.html",
+        "uri": "nyt://article/51eaddea-acb5-509d-9b4d-c208103bab05",
+        "byline": "By Kim Barker, Sanjana Varghese and Yurii Shyvala",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:16:52-04:00",
+        "created_date": "2025-04-04T05:00:22-04:00",
+        "published_date": "2025-04-04T05:00:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Drones (Pilotless Planes)",
+            "Defense and Military Forces",
+            "Video Recordings, Downloads and Streaming",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Prisoners of War",
+            "Human Rights and Human Rights Violations",
+            "United States International Relations",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kursk (Russia)",
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-ukraine-POWshootings-vglm/04int-ukraine-POWshootings-vglm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1145,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Screengrab from drone footage showing Russian soldiers executing Ukrainian prisoners of war near the village of Novoivanovka in the Kursk region of Russia.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-ukraine-POWshootings-vglm/04int-ukraine-POWshootings-vglm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 399,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Screengrab from drone footage showing Russian soldiers executing Ukrainian prisoners of war near the village of Novoivanovka in the Kursk region of Russia.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-ukraine-POWshootings-vglm/04int-ukraine-POWshootings-vglm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Screengrab from drone footage showing Russian soldiers executing Ukrainian prisoners of war near the village of Novoivanovka in the Kursk region of Russia.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "When Kenyan Maids Sought Help Overseas, Diplomats Demanded Sex",
+        "abstract": "Women say that embassy officials added a new level of indignity to the abuse they suffered while working abroad.",
+        "url": "https://www.nytimes.com/2025/04/04/world/africa/when-kenyan-maids-sought-help-overseas-diplomats-demanded-sex.html",
+        "uri": "nyt://article/9c416e61-8f98-53e8-94a0-7d0bdfb19cf8",
+        "byline": "By Justin Scheck and Abdi Latif Dahir",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T05:00:07-04:00",
+        "created_date": "2025-04-04T05:00:07-04:00",
+        "published_date": "2025-04-04T05:00:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Workers",
+            "Labor and Jobs"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Ruto, William"
+        ],
+        "geo_facet": [
+            "Saudi Arabia",
+            "Kenya",
+            "Nairobi (Kenya)",
+            "Africa",
+            "Riyadh (Saudi Arabia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/31/multimedia/00gulf-domestics-4-gpkj/00gulf-domestics-4-gpkj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Faith Gathuo.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/31/multimedia/00gulf-domestics-4-gpkj/00gulf-domestics-4-gpkj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Faith Gathuo.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/31/multimedia/00gulf-domestics-4-gpkj/00gulf-domestics-4-gpkj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Faith Gathuo.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
