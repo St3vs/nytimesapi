@@ -5536,5 +5536,131 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Police Shut Area Near Seoul Court as Protesters Amass Before Ruling",
+        "abstract": "More than 14,000 police officers have been deployed ahead of Friday’s decision by the Constitutional Court in the impeachment case of President Yoon Suk Yeol.",
+        "url": "https://www.nytimes.com/2025/04/03/world/asia/seoul-protests-yoon-south-korea.html",
+        "uri": "nyt://article/2c0f23fa-bd98-5427-ad3c-8140c568c2ac",
+        "byline": "By Andrés R. Martínez",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T21:20:04-04:00",
+        "created_date": "2025-04-03T20:47:24-04:00",
+        "published_date": "2025-04-03T20:47:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Demonstrations, Protests and Riots",
+            "Police",
+            "Impeachment"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Yoon Suk-yeol"
+        ],
+        "geo_facet": [
+            "Seoul (South Korea)",
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-security-03-pjzg/04skorea-yoon-security-03-pjzg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On Thursday, police locked up the streets with buses near the Constitutional Court in Seoul, which will decide the fate of President Yoon Suk Yeol.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-security-03-pjzg/04skorea-yoon-security-03-pjzg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On Thursday, police locked up the streets with buses near the Constitutional Court in Seoul, which will decide the fate of President Yoon Suk Yeol.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04skorea-yoon-security-03-pjzg/04skorea-yoon-security-03-pjzg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On Thursday, police locked up the streets with buses near the Constitutional Court in Seoul, which will decide the fate of President Yoon Suk Yeol.",
+                "copyright": "Chang W. Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Workers Forced to Leave Foreign Policy Center as Trump Presses Shutdown",
+        "abstract": "About 130 employees of the Wilson Center were told they were being put on leave, just four days after workers for Elon Musk’s team entered the center.",
+        "url": "https://www.nytimes.com/2025/04/03/us/politics/wilson-center-shutdown-musk.html",
+        "uri": "nyt://article/7aff2462-ed4f-513c-81f7-f16bdddf4dd1",
+        "byline": "By Aishvarya Kavi and Edward Wong",
+        "item_type": "Article",
+        "updated_date": "2025-04-03T20:44:51-04:00",
+        "created_date": "2025-04-03T20:05:21-04:00",
+        "published_date": "2025-04-03T20:05:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Federal Aid (US)",
+            "Shutdowns (Institutional)",
+            "Executive Orders and Memorandums",
+            "Scholarships and Fellowships",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Wilson, Woodrow, Center"
+        ],
+        "per_facet": [
+            "Green, Mark J",
+            "Musk, Elon",
+            "Trump, Donald J",
+            "Wilson, Woodrow"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-wilsoncenter-topart-fphw/03dc-wilsoncenter-topart-fphw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Only five employees of the Wilson Center will remain at their posts, after President Trump signed an executive order directing the center to be gutted.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-wilsoncenter-topart-fphw/03dc-wilsoncenter-topart-fphw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Only five employees of the Wilson Center will remain at their posts, after President Trump signed an executive order directing the center to be gutted.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/03dc-wilsoncenter-topart-fphw/03dc-wilsoncenter-topart-fphw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Only five employees of the Wilson Center will remain at their posts, after President Trump signed an executive order directing the center to be gutted.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
