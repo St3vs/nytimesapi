@@ -7222,5 +7222,126 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "",
+        "title": "Russell Brand Is Charged With Rape and Sexual Assault in U.K.",
+        "abstract": "British prosecutors said that they had charged the comedian and actor with offenses between 1999 and 2005 involving four women.",
+        "url": "https://www.nytimes.com/2025/04/04/arts/russell-brand-rape-sexual-assault-charges.html",
+        "uri": "nyt://article/cc3ccbe1-60f3-5402-88fa-b2e02de5a625",
+        "byline": "By Alex Marshall",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T09:42:11-04:00",
+        "created_date": "2025-04-04T09:23:45-04:00",
+        "published_date": "2025-04-04T09:23:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Sex Crimes",
+            "Assaults"
+        ],
+        "org_facet": [
+            "Crown Prosecution Service"
+        ],
+        "per_facet": [
+            "Brand, Russell"
+        ],
+        "geo_facet": [
+            "London (England)",
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/world/04int-uk-russell-brand/04int-uk-russell-brand-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russell Brand in London in 2023.",
+                "copyright": "James Manning/Press Association, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/world/04int-uk-russell-brand/04int-uk-russell-brand-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russell Brand in London in 2023.",
+                "copyright": "James Manning/Press Association, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/world/04int-uk-russell-brand/04int-uk-russell-brand-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russell Brand in London in 2023.",
+                "copyright": "James Manning/Press Association, via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A Mass Grave of the Roman Empire Is Found Under a Vienna Soccer Field",
+        "abstract": "Archaeologists found the remains of at least 129 people, many of them bearing the injuries of battle, dating to when Rome battled Germanic people nearly 2,000 years ago.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/roman-empire-grave-vienna.html",
+        "uri": "nyt://article/e1629540-bc58-5a4e-a909-a291cd46c5d2",
+        "byline": "By Eve Sampson",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T09:44:32-04:00",
+        "created_date": "2025-04-04T09:44:32-04:00",
+        "published_date": "2025-04-04T09:44:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Roman Civilization",
+            "Historic Buildings and Sites",
+            "Skeletons"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Danube River",
+            "Vienna (Austria)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-austria-grave-02-zmpv/04int-austria-grave-02-zmpv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1152,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People work on the excavation of a Roman mass grave from the end of the 1st century A.D., in the Simmering district of Vienna, in November.",
+                "copyright": "A. Slonek/Novetus, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-austria-grave-02-zmpv/04int-austria-grave-02-zmpv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People work on the excavation of a Roman mass grave from the end of the 1st century A.D., in the Simmering district of Vienna, in November.",
+                "copyright": "A. Slonek/Novetus, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-austria-grave-02-zmpv/04int-austria-grave-02-zmpv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People work on the excavation of a Roman mass grave from the end of the 1st century A.D., in the Simmering district of Vienna, in November.",
+                "copyright": "A. Slonek/Novetus, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
