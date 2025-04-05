@@ -8058,5 +8058,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Video Shows Aid Workers Killed in Gaza Under Gunfire Barrage, With Ambulance Lights On",
+        "abstract": "The U.N. has said Israel killed the workers. The video appears to contradict Israel’s version of the incident, which described the vehicles as “advancing suspiciously” without headlights or emergency signals.",
+        "url": "https://www.nytimes.com/2025/04/04/world/middleeast/gaza-israel-aid-workers-deaths-video.html",
+        "uri": "nyt://article/8cda9f20-1d95-59bb-83a4-994efe27779c",
+        "byline": "By Farnaz Fassihi and Christoph Koettl",
+        "item_type": "Article",
+        "updated_date": "2025-04-04T20:40:49-04:00",
+        "created_date": "2025-04-04T20:25:42-04:00",
+        "published_date": "2025-04-04T20:25:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Defense and Military Forces",
+            "Humanitarian Aid",
+            "Israel-Gaza War (2023- )",
+            "Civilian Casualties",
+            "Deaths (Fatalities)",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "International Relations"
+        ],
+        "org_facet": [
+            "International Federation of Red Cross and Red Crescent Societies",
+            "United Nations"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel",
+            "Rafah (Gaza Strip)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/autossell/04-aid-worker-video-still/04-aid-worker-video-still-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/autossell/04-aid-worker-video-still/04-aid-worker-video-still-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/autossell/04-aid-worker-video-still/04-aid-worker-video-still-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
