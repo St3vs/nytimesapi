@@ -9068,5 +9068,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "U.K. Labour Lawmaker Suspended From Party After Arrest",
+        "abstract": "Dan Norris, a lawmaker who won a seat in Parliament last year, was swiftly suspended from Britain’s governing party.",
+        "url": "https://www.nytimes.com/2025/04/05/world/europe/uk-parliament-dan-norris-suspended.html",
+        "uri": "nyt://article/8cfdd8a9-20cb-584d-bbd4-d8480770a2f7",
+        "byline": "By Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T17:15:32-04:00",
+        "created_date": "2025-04-05T17:15:32-04:00",
+        "published_date": "2025-04-05T17:15:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Labour Party (Great Britain)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "England",
+            "Great Britain",
+            "Somerset (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/world/05INT-UK-LABOUR/05INT-UK-LABOUR-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dan Norris, a member of the Labour Party, speaking at the University of Bath in July in England.",
+                "copyright": "Finnbarr Webster/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/world/05INT-UK-LABOUR/05INT-UK-LABOUR-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dan Norris, a member of the Labour Party, speaking at the University of Bath in July in England.",
+                "copyright": "Finnbarr Webster/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/world/05INT-UK-LABOUR/05INT-UK-LABOUR-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dan Norris, a member of the Labour Party, speaking at the University of Bath in July in England.",
+                "copyright": "Finnbarr Webster/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
