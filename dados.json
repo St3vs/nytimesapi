@@ -8760,5 +8760,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Trump Envoy Visits Lebanon Amid Fears Over a Shaky Cease-Fire",
+        "abstract": "Morgan Ortagus, President Trump’s deputy Middle East envoy, met with senior officials as tensions with Israel threaten the truce.",
+        "url": "https://www.nytimes.com/2025/04/05/world/middleeast/lebanon-us-israel-hezbollah.html",
+        "uri": "nyt://article/f97b956d-55c3-533b-8aab-63192e94dda7",
+        "byline": "By Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T06:21:24-04:00",
+        "created_date": "2025-04-05T06:21:24-04:00",
+        "published_date": "2025-04-05T06:21:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "War and Armed Conflicts",
+            "Iran-Israel Proxy Conflict",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [
+            "Hezbollah"
+        ],
+        "per_facet": [
+            "Morgan Ortagus"
+        ],
+        "geo_facet": [
+            "Lebanon",
+            "Israel",
+            "Middle East"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-lebanon-01-jzcl/05int-lebanon-01-jzcl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Morgan Ortagus, the U.S. deputy envoy for the Middle East, center, meeting with Prime Minister Nawaf Salam of Lebanon in Beirut on Saturday. ",
+                "copyright": "Mohamed Azakir/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-lebanon-01-jzcl/05int-lebanon-01-jzcl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Morgan Ortagus, the U.S. deputy envoy for the Middle East, center, meeting with Prime Minister Nawaf Salam of Lebanon in Beirut on Saturday. ",
+                "copyright": "Mohamed Azakir/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-lebanon-01-jzcl/05int-lebanon-01-jzcl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Morgan Ortagus, the U.S. deputy envoy for the Middle East, center, meeting with Prime Minister Nawaf Salam of Lebanon in Beirut on Saturday. ",
+                "copyright": "Mohamed Azakir/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
