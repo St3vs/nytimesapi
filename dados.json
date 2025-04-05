@@ -8125,5 +8125,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Detained in The Hague, Duterte Pursues a Political Comeback at Home",
+        "abstract": "Rodrigo Duterte, the former Philippine president who is facing charges of crimes against humanity, is running for mayor in a race analysts say he could win.",
+        "url": "https://www.nytimes.com/2025/04/05/world/asia/duterte-mayor-davao.html",
+        "uri": "nyt://article/da2bdca2-df4a-5afe-a5d5-e6586d3ca551",
+        "byline": "By Aie Balagtas See",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T00:04:50-04:00",
+        "created_date": "2025-04-05T00:01:07-04:00",
+        "published_date": "2025-04-05T00:01:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Demonstrations, Protests and Riots",
+            "Politics and Government",
+            "War Crimes, Genocide and Crimes Against Humanity"
+        ],
+        "org_facet": [
+            "International Criminal Court"
+        ],
+        "per_facet": [
+            "Duterte, Rodrigo",
+            "Duterte, Sara",
+            "Marcos, Ferdinand Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/30/multimedia/xxxphilippines-duterte-01-chqt/xxxphilippines-duterte-01-chqt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of Rodrigo Duterte, the arrested former Philippine president, gathered on his 80th birthday on March 28 in Davao City, the Philippines.",
+                "copyright": "Eloisa Lopez/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/30/multimedia/xxxphilippines-duterte-01-chqt/xxxphilippines-duterte-01-chqt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of Rodrigo Duterte, the arrested former Philippine president, gathered on his 80th birthday on March 28 in Davao City, the Philippines.",
+                "copyright": "Eloisa Lopez/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/30/multimedia/xxxphilippines-duterte-01-chqt/xxxphilippines-duterte-01-chqt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of Rodrigo Duterte, the arrested former Philippine president, gathered on his 80th birthday on March 28 in Davao City, the Philippines.",
+                "copyright": "Eloisa Lopez/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
