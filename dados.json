@@ -9128,5 +9128,127 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Says Its Account of Rescue Workers Killed in Gaza Was Partly ‘Mistaken’",
+        "abstract": "The Israeli military had previously asserted that the workers had been “advancing suspiciously” toward its troops. A video obtained by The New York Times on Friday appeared to contradict that account.",
+        "url": "https://www.nytimes.com/2025/04/05/world/middleeast/israel-killing-rescue-workers-gaza.html",
+        "uri": "nyt://article/6579720d-14f6-5088-86ff-0e200dc60a7b",
+        "byline": "By Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T18:57:17-04:00",
+        "created_date": "2025-04-05T18:57:17-04:00",
+        "published_date": "2025-04-05T18:57:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Civilian Casualties",
+            "Humanitarian Aid",
+            "Defense and Military Forces",
+            "Palestinians"
+        ],
+        "org_facet": [
+            "Hamas",
+            "International Federation of Red Cross and Red Crescent Societies"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Rafah (Gaza Strip)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/world/05int-IDF-inquiry/05int-IDF-inquiry-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A screenshot from a video captured the moment Israeli troops opened fire on a group of medics in Gaza, in late March.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/world/05int-IDF-inquiry/05int-IDF-inquiry-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 401,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A screenshot from a video captured the moment Israeli troops opened fire on a group of medics in Gaza, in late March.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/world/05int-IDF-inquiry/05int-IDF-inquiry-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A screenshot from a video captured the moment Israeli troops opened fire on a group of medics in Gaza, in late March.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "After Trump’s Tariffs, Stocks Plunged but Penguin Memes Ticked Up",
+        "abstract": "The internet poked fun at the Trump administration’s decision to impose new tariffs on Heard Island and McDonald Islands, Australian territories near Antarctica where many penguins but no people live.",
+        "url": "https://www.nytimes.com/2025/04/05/world/americas/penguins-tariffs-island.html",
+        "uri": "nyt://article/4aedd256-cf9c-5372-8132-095304eb9f59",
+        "byline": "By Eve Sampson",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T18:16:17-04:00",
+        "created_date": "2025-04-05T18:16:17-04:00",
+        "published_date": "2025-04-05T18:16:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "Social Media",
+            "Penguins"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Heard Island and McDonald Islands"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-tariffs-penguins-kbgj/05int-tariffs-penguins-kbgj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1325,
+                "width": 1988,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by the Australian Antarctic Division shows a group of King penguins standing on the shores of Corinthian Bay in the Australian territory of Heard Island.",
+                "copyright": "Matt Curnock/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-tariffs-penguins-kbgj/05int-tariffs-penguins-kbgj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by the Australian Antarctic Division shows a group of King penguins standing on the shores of Corinthian Bay in the Australian territory of Heard Island.",
+                "copyright": "Matt Curnock/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-tariffs-penguins-kbgj/05int-tariffs-penguins-kbgj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by the Australian Antarctic Division shows a group of King penguins standing on the shores of Corinthian Bay in the Australian territory of Heard Island.",
+                "copyright": "Matt Curnock/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
