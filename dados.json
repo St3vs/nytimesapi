@@ -8316,5 +8316,261 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The Predatory Friend: Trump Treats Europe as Anything but an Ally",
+        "abstract": "President Trump has shown a willingness to fracture the trans-Atlantic alliance with his tariffs and demands for higher military spending.",
+        "url": "https://www.nytimes.com/2025/04/05/world/europe/trump-europe-tariffs-defense.html",
+        "uri": "nyt://article/18c495cc-89d7-590e-934c-80c605d8f386",
+        "byline": "By Steven Erlanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T05:03:38-04:00",
+        "created_date": "2025-04-05T05:03:38-04:00",
+        "published_date": "2025-04-05T05:03:38-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "International Trade and World Market",
+            "Russian Invasion of Ukraine (2022)",
+            "International Relations",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "European Union",
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-europe-assess-zjkm/05int-europe-assess-zjkm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s antagonism toward Europe has been public for decades.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-europe-assess-zjkm/05int-europe-assess-zjkm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s antagonism toward Europe has been public for decades.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-europe-assess-zjkm/05int-europe-assess-zjkm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s antagonism toward Europe has been public for decades.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Surprising Allies for Syria’s New Leaders: Some Jews Who Fled Long Ago",
+        "abstract": "A group of Jews who left Syria decades ago wants sanctions relief for a government with former ties to Al Qaeda, despite wariness from other Jewish groups and from Israel.",
+        "url": "https://www.nytimes.com/2025/04/05/world/middleeast/syria-jews-new-government.html",
+        "uri": "nyt://article/d4ec491c-8628-5cae-ac2d-830026c6bcc7",
+        "byline": "By Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T05:05:37-04:00",
+        "created_date": "2025-04-05T05:03:07-04:00",
+        "published_date": "2025-04-05T05:03:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Jews and Judaism",
+            "Embargoes and Sanctions",
+            "United States International Relations",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+            "Assad, Bashar al-",
+            "Trump, Donald J",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-Syria-Jews-lzwj/04int-Syria-Jews-lzwj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Henry Hamra, a Syrian Jew, in a meeting with lawmakers in Washington on Tuesday. Mr. Hamra is working with Syrian American advocacy groups in lobbying the United States to lift sanctions.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-Syria-Jews-lzwj/04int-Syria-Jews-lzwj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Henry Hamra, a Syrian Jew, in a meeting with lawmakers in Washington on Tuesday. Mr. Hamra is working with Syrian American advocacy groups in lobbying the United States to lift sanctions.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-Syria-Jews-lzwj/04int-Syria-Jews-lzwj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Henry Hamra, a Syrian Jew, in a meeting with lawmakers in Washington on Tuesday. Mr. Hamra is working with Syrian American advocacy groups in lobbying the United States to lift sanctions.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Female Senator Faces Down a ‘Classic Abuse of Power’ in Nigeria",
+        "abstract": "Senator Natasha Akpoti-Uduaghan said Nigeria’s third most powerful politician punished her for not heeding his advances, but that she won’t be stopped.",
+        "url": "https://www.nytimes.com/2025/04/05/world/africa/nigeria-sexual-harassment.html",
+        "uri": "nyt://article/6c1e8857-f1f1-58b7-a159-91e49c476dbe",
+        "byline": "By Elian Peltier",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T05:01:35-04:00",
+        "created_date": "2025-04-05T05:01:35-04:00",
+        "published_date": "2025-04-05T05:01:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Sexual Harassment",
+            "Discrimination",
+            "Women's Rights",
+            "Politics and Government",
+            "Ethics and Official Misconduct"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Tinubu, Bola Ahmed"
+        ],
+        "geo_facet": [
+            "Nigeria",
+            "Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00nigeria-harrassment-1-ftlj/00nigeria-harrassment-1-ftlj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1367,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Natasha Akpoti-Uduaghan last week at home in Abuja, Nigeria.",
+                "copyright": "Taibat Ajiboye for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00nigeria-harrassment-1-ftlj/00nigeria-harrassment-1-ftlj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Natasha Akpoti-Uduaghan last week at home in Abuja, Nigeria.",
+                "copyright": "Taibat Ajiboye for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/02/multimedia/00nigeria-harrassment-1-ftlj/00nigeria-harrassment-1-ftlj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Natasha Akpoti-Uduaghan last week at home in Abuja, Nigeria.",
+                "copyright": "Taibat Ajiboye for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "‘I Hope Trump Won’t Deceive Us’: Ukrainians Are Wary of U.S. Minerals Deal",
+        "abstract": "In a major mining region of Ukraine, President Trump’s proposal to collect profits from mineral wealth is meeting with a mix of skepticism and weary acceptance.",
+        "url": "https://www.nytimes.com/2025/04/05/world/europe/ukraine-russia-trump-minerals.html",
+        "uri": "nyt://article/ba6b99f0-22dc-5c05-8ddc-ca0bdb825423",
+        "byline": "By Kim Barker and Oleksandra Mykolyshyn",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T05:00:29-04:00",
+        "created_date": "2025-04-05T05:00:29-04:00",
+        "published_date": "2025-04-05T05:00:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Mines and Mining",
+            "Metals and Minerals",
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/05int-ukraine-geologist-promo/00int-ukraine-geologist-mktb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Volodymyr Savytskyi, a geologist, says Ukraine should cut a deal that gives his country its “fair share.”",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/05int-ukraine-geologist-promo/00int-ukraine-geologist-mktb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Volodymyr Savytskyi, a geologist, says Ukraine should cut a deal that gives his country its “fair share.”",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/05int-ukraine-geologist-promo/05int-ukraine-geologist-mktb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Volodymyr Savytskyi, a geologist, says Ukraine should cut a deal that gives his country its “fair share.”",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
