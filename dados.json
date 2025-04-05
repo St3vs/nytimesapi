@@ -8825,5 +8825,64 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Skeletons of the Roman Empire Are Found Under a Vienna Soccer Field",
+        "abstract": "Archaeologists found the remains of at least 129 people, many of them bearing the injuries of battle, dating to when Rome battled Germanic people nearly 2,000 years ago.",
+        "url": "https://www.nytimes.com/2025/04/04/world/europe/roman-empire-grave-vienna.html",
+        "uri": "nyt://article/e1629540-bc58-5a4e-a909-a291cd46c5d2",
+        "byline": "By Eve Sampson",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T09:00:53-04:00",
+        "created_date": "2025-04-04T09:44:33-04:00",
+        "published_date": "2025-04-04T09:44:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Roman Civilization",
+            "Historic Buildings and Sites",
+            "Skeletons"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Danube River",
+            "Vienna (Austria)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-austria-grave-02-zmpv/04int-austria-grave-02-zmpv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1152,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People work on the excavation of a Roman mass grave from the end of the 1st century A.D., in the Simmering district of Vienna, in November.",
+                "copyright": "A. Slonek/Novetus, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-austria-grave-02-zmpv/04int-austria-grave-02-zmpv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People work on the excavation of a Roman mass grave from the end of the 1st century A.D., in the Simmering district of Vienna, in November.",
+                "copyright": "A. Slonek/Novetus, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/04/multimedia/04int-austria-grave-02-zmpv/04int-austria-grave-02-zmpv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People work on the excavation of a Roman mass grave from the end of the 1st century A.D., in the Simmering district of Vienna, in November.",
+                "copyright": "A. Slonek/Novetus, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
