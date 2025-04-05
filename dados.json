@@ -8249,5 +8249,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Senate Approves G.O.P. Budget Plan After Overnight Vote-a-Thon",
+        "abstract": "Republicans pushed through their blueprint for tax and spending cuts after Democrats forced them to cast politically painful votes into the early morning on every element of President Trump’s agenda.",
+        "url": "https://www.nytimes.com/2025/04/05/world/europe/senate-budget.html",
+        "uri": "nyt://article/9b115a2e-f7b4-5c94-a283-c3da529b12ca",
+        "byline": "By Catie Edmondson and Maya C. Miller",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T03:07:23-04:00",
+        "created_date": "2025-04-05T03:07:23-04:00",
+        "published_date": "2025-04-05T03:07:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Federal Budget (US)",
+            "Law and Legislation",
+            "Taxation",
+            "Medicaid"
+        ],
+        "org_facet": [
+            "Senate",
+            "Republican Party",
+            "Democratic Party",
+            "Government Efficiency Department (US)"
+        ],
+        "per_facet": [
+            "Thune, John R",
+            "Schumer, Charles E",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05dc-budget-lmhf/05dc-budget-lmhf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1367,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Approval of the Republicans’ budget blueprint came only after an hourslong series of votes that pushed into the night.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05dc-budget-lmhf/05dc-budget-lmhf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Approval of the Republicans’ budget blueprint came only after an hourslong series of votes that pushed into the night.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05dc-budget-lmhf/05dc-budget-lmhf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Approval of the Republicans’ budget blueprint came only after an hourslong series of votes that pushed into the night.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
