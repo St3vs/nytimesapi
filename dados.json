@@ -9000,5 +9000,73 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Chemical Industry Asks Trump for Exemption From Pollution Limits",
+        "abstract": "The Biden-era limits were designed to reduce emissions of toxic pollutants, including a cancer-causing ingredient used in antifreeze and plastics.",
+        "url": "https://www.nytimes.com/2025/04/05/climate/chemical-industry-trump-pollution-exemption.html",
+        "uri": "nyt://article/fc710dbb-f52e-5f91-8983-3cddf5cd2400",
+        "byline": "By Hiroko Tabuchi and Lisa Friedman",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T13:18:38-04:00",
+        "created_date": "2025-04-05T13:18:38-04:00",
+        "published_date": "2025-04-05T13:18:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Regulation and Deregulation of Industry",
+            "Air Pollution",
+            "Hazardous and Toxic Substances",
+            "Chemicals"
+        ],
+        "org_facet": [
+            "American Chemistry Council",
+            "Environmental Defense Fund",
+            "Environmental Protection Agency",
+            "American Fuel & Petrochemical Manufacturers"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Zeldin, Lee M",
+            "Biden, Joseph R Jr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05cli-toxic-pollution-fgkz/05cli-toxic-pollution-fgkz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The OxyVinyls chemical plant in La Porte, Texas.",
+                "copyright": "Mark Felix for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05cli-toxic-pollution-fgkz/05cli-toxic-pollution-fgkz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The OxyVinyls chemical plant in La Porte, Texas.",
+                "copyright": "Mark Felix for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05cli-toxic-pollution-fgkz/05cli-toxic-pollution-fgkz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The OxyVinyls chemical plant in La Porte, Texas.",
+                "copyright": "Mark Felix for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
