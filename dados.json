@@ -8939,5 +8939,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Netanyahu Will Meet Trump in Washington in a Sign of Their Strong Ties",
+        "abstract": "Prime Minister Benjamin Netanyahu’s expected visit, his second since January, underscores how the Israeli leader has seen his diplomatic standing in Washington shift since President Trump’s return to power",
+        "url": "https://www.nytimes.com/2025/04/05/world/middleeast/netanyahu-trump-washington.html",
+        "uri": "nyt://article/ee2dbe9f-bada-5a66-9e37-7b7e2ed4c0c2",
+        "byline": "By Zolan Kanno-Youngs and Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T13:06:47-04:00",
+        "created_date": "2025-04-05T10:03:06-04:00",
+        "published_date": "2025-04-05T10:03:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Israel",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-israel-us-netanyahu-bvzt/05int-israel-us-netanyahu-bvzt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1413,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel in Budapest on Friday, where he met with Hungary’s leader, Viktor Orban.",
+                "copyright": "Marton Monus/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-israel-us-netanyahu-bvzt/05int-israel-us-netanyahu-bvzt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel in Budapest on Friday, where he met with Hungary’s leader, Viktor Orban.",
+                "copyright": "Marton Monus/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-israel-us-netanyahu-bvzt/05int-israel-us-netanyahu-bvzt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel in Budapest on Friday, where he met with Hungary’s leader, Viktor Orban.",
+                "copyright": "Marton Monus/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
