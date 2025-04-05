@@ -8884,5 +8884,60 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Netanyahu Will Meet Trump in Washington",
+        "abstract": "The Israeli prime minister will visit President Trump at the White House on Monday amid his nation’s renewed campaign in Gaza.",
+        "url": "https://www.nytimes.com/2025/04/05/world/middleeast/netanyahu-trump-washington.html",
+        "uri": "nyt://article/ee2dbe9f-bada-5a66-9e37-7b7e2ed4c0c2",
+        "byline": "By Zolan Kanno-Youngs and Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T10:07:17-04:00",
+        "created_date": "2025-04-05T10:03:06-04:00",
+        "published_date": "2025-04-05T10:03:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-israel-us-netanyahu-bvzt/05int-israel-us-netanyahu-bvzt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1413,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel in Budapest on Friday.",
+                "copyright": "Marton Monus/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-israel-us-netanyahu-bvzt/05int-israel-us-netanyahu-bvzt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel in Budapest on Friday.",
+                "copyright": "Marton Monus/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/05/multimedia/05int-israel-us-netanyahu-bvzt/05int-israel-us-netanyahu-bvzt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel in Budapest on Friday.",
+                "copyright": "Marton Monus/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
