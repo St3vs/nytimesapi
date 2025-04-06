@@ -10180,5 +10180,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "What We Know About the Case of Gaza Aid Workers Killed by Israeli Gunfire",
+        "abstract": "The Israeli military, confronted with video evidence contradicting its initial account, now says it was “mistaken.”",
+        "url": "https://www.nytimes.com/2025/04/06/world/middleeast/gaza-aid-workers-killed-israel.html",
+        "uri": "nyt://article/2b56fe81-6052-566e-82ef-972dfc81ec07",
+        "byline": "By Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T13:29:08-04:00",
+        "created_date": "2025-04-06T13:29:08-04:00",
+        "published_date": "2025-04-06T13:29:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "American Red Cross",
+            "Hamas",
+            "International Committee of the Red Cross",
+            "International Federation of Red Cross and Red Crescent Societies"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel",
+            "Rafah (Gaza Strip)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-wwk-israel-prcs-bglw/06int-wwk-israel-prcs-bglw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Palestine Red Crescent and other emergency services last Monday carrying the bodies of rescue workers killed a week earlier by Israeli forces in Gaza.",
+                "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-wwk-israel-prcs-bglw/06int-wwk-israel-prcs-bglw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Palestine Red Crescent and other emergency services last Monday carrying the bodies of rescue workers killed a week earlier by Israeli forces in Gaza.",
+                "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-wwk-israel-prcs-bglw/06int-wwk-israel-prcs-bglw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Palestine Red Crescent and other emergency services last Monday carrying the bodies of rescue workers killed a week earlier by Israeli forces in Gaza.",
+                "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
