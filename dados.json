@@ -9250,5 +9250,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Administration Revokes Visas of South Sudanese in Clash Over Deportees",
+        "abstract": "Secretary of State Marco Rubio said he was making the move because the transitional government of South Sudan had refused to accept its citizens in a timely manner.",
+        "url": "https://www.nytimes.com/2025/04/05/us/politics/trump-administration-revokes-visas-of-south-sudanese-in-clash-over-deportees.html",
+        "uri": "nyt://article/dced19b6-1d1c-5b6a-a2a0-556be35bee7f",
+        "byline": "By Edward Wong and Hamed Aleaziz",
+        "item_type": "Article",
+        "updated_date": "2025-04-05T19:46:37-04:00",
+        "created_date": "2025-04-05T19:46:07-04:00",
+        "published_date": "2025-04-05T19:46:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Visas"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [
+            "South Sudan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/07/multimedia/05dc-rubio-southsudan/07southsudan-1-mtqh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1537,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A billboard showing President Salva Kiir of South Sudan in Juba, the country’s capital, last year. Secretary of State Marco Rubio said he would revoke the visas of all South Sudanese passport holders over the country’s failure to accept the return of its repatriated citizens.",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/07/multimedia/05dc-rubio-southsudan/07southsudan-1-mtqh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A billboard showing President Salva Kiir of South Sudan in Juba, the country’s capital, last year. Secretary of State Marco Rubio said he would revoke the visas of all South Sudanese passport holders over the country’s failure to accept the return of its repatriated citizens.",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/07/multimedia/05dc-rubio-southsudan/07southsudan-1-mtqh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A billboard showing President Salva Kiir of South Sudan in Juba, the country’s capital, last year. Secretary of State Marco Rubio said he would revoke the visas of all South Sudanese passport holders over the country’s failure to accept the return of its repatriated citizens.",
+                "copyright": "Ivor Prickett for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
