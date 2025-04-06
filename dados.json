@@ -9995,5 +9995,127 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia Strikes Kyiv as Ukraine Mourns Deadly Attack on Zelensky’s Hometown",
+        "abstract": "While Russian missile and drone bombardments have been unrelenting over more than three years of war, they have intensified in recent weeks amid U.S.-led peace talks.",
+        "url": "https://www.nytimes.com/2025/04/06/world/europe/ukraine-kyiv-attack-russia.html",
+        "uri": "nyt://article/3dbe9c1f-d3df-582b-b5dd-672d75e9eb5c",
+        "byline": "By Andrew E. Kramer",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T07:49:55-04:00",
+        "created_date": "2025-04-06T07:06:21-04:00",
+        "published_date": "2025-04-06T07:06:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Trump, Donald J",
+            "Brink, Bridget"
+        ],
+        "geo_facet": [
+            "Black Sea",
+            "Kryvyi Rih (Ukraine)",
+            "Kyiv (Ukraine)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-ukraine-attacks-wkhz/06int-ukraine-attacks-wkhz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising in Kyiv, Ukraine, on Sunday after a Russian attack. One person was killed and seven wounded, officials said.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-ukraine-attacks-wkhz/06int-ukraine-attacks-wkhz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising in Kyiv, Ukraine, on Sunday after a Russian attack. One person was killed and seven wounded, officials said.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-ukraine-attacks-wkhz/06int-ukraine-attacks-wkhz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising in Kyiv, Ukraine, on Sunday after a Russian attack. One person was killed and seven wounded, officials said.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Recovering Pope Surprises Pilgrims With a Public Appearance",
+        "abstract": "Pope Francis was wheeled through a crowd that included health care workers from around the world, who had been told he was watching their Jubilee Mass on television.",
+        "url": "https://www.nytimes.com/2025/04/06/world/europe/pope-francis-surprise-public-appearance.html",
+        "uri": "nyt://article/6438c899-fab8-5689-8bac-bf146ef91d65",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T08:32:47-04:00",
+        "created_date": "2025-04-06T08:32:47-04:00",
+        "published_date": "2025-04-06T08:32:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Pilgrimages",
+            "Popes",
+            "Health Care Workers"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-pope-hgmz/06int-pope-hgmz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Thunderous applause and cheers greeted Pope Francis on Sunday, as he made his first public appearance since leaving a Rome hospital two weeks ago.",
+                "copyright": "Alberto Pizzoli/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-pope-hgmz/06int-pope-hgmz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Thunderous applause and cheers greeted Pope Francis on Sunday, as he made his first public appearance since leaving a Rome hospital two weeks ago.",
+                "copyright": "Alberto Pizzoli/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-pope-hgmz/06int-pope-hgmz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Thunderous applause and cheers greeted Pope Francis on Sunday, as he made his first public appearance since leaving a Rome hospital two weeks ago.",
+                "copyright": "Alberto Pizzoli/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
