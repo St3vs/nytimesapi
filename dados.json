@@ -9870,5 +9870,130 @@
         ],
         "multimedia": null,
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Vietnam Offers to Drop U.S. Tariffs to Zero. Will That Be Enough for Trump?",
+        "abstract": "In recent years, Vietnam has forged strategic and economic links with the United States, its former foe, making the steep tariff rate all the more of a shock.",
+        "url": "https://www.nytimes.com/2025/04/06/world/asia/vietnam-trump-tariff-delay.html",
+        "uri": "nyt://article/29f469ba-5647-5d19-8049-3e7ab3cf4b7d",
+        "byline": "By Tung Ngo and Sui-Lee Wee",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T07:07:50-04:00",
+        "created_date": "2025-04-06T04:31:04-04:00",
+        "published_date": "2025-04-06T04:31:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Customs (Tariff)",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "NIKE Inc"
+        ],
+        "per_facet": [
+            "Lam, To",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Vietnam"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06vietnam-tariffs-bqfk/06vietnam-tariffs-bqfk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "To Lam, Vietnam’s top leader, in Hanoi last month. He was one of the first world leaders to reach out to President Trump after details of the new tariffs were announced.",
+                "copyright": "Pool photo by Minh Hoang"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06vietnam-tariffs-bqfk/06vietnam-tariffs-bqfk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "To Lam, Vietnam’s top leader, in Hanoi last month. He was one of the first world leaders to reach out to President Trump after details of the new tariffs were announced.",
+                "copyright": "Pool photo by Minh Hoang"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06vietnam-tariffs-bqfk/06vietnam-tariffs-bqfk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "To Lam, Vietnam’s top leader, in Hanoi last month. He was one of the first world leaders to reach out to President Trump after details of the new tariffs were announced.",
+                "copyright": "Pool photo by Minh Hoang"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia Strikes Kyiv as Ukraine Reels From Deadly Attack on Zelensky’s Hometown",
+        "abstract": "While Russian missile and drone attacks have been unrelenting over more than three years of war, they have intensified in recent weeks amid U.S.-led peace talks.",
+        "url": "https://www.nytimes.com/2025/04/06/world/europe/ukraine-kyiv-attack-russia.html",
+        "uri": "nyt://article/3dbe9c1f-d3df-582b-b5dd-672d75e9eb5c",
+        "byline": "By Andrew E. Kramer",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T07:06:55-04:00",
+        "created_date": "2025-04-06T07:06:21-04:00",
+        "published_date": "2025-04-06T07:06:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Trump, Donald J",
+            "Brink, Bridget"
+        ],
+        "geo_facet": [
+            "Black Sea",
+            "Kryvyi Rih (Ukraine)",
+            "Kyiv (Ukraine)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-ukraine-attacks-wkhz/06int-ukraine-attacks-wkhz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising in Kyiv, Ukraine, on Sunday after a Russian attack. One person was killed and seven wounded, officials said.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-ukraine-attacks-wkhz/06int-ukraine-attacks-wkhz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising in Kyiv, Ukraine, on Sunday after a Russian attack. One person was killed and seven wounded, officials said.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-ukraine-attacks-wkhz/06int-ukraine-attacks-wkhz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising in Kyiv, Ukraine, on Sunday after a Russian attack. One person was killed and seven wounded, officials said.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
