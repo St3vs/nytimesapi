@@ -10307,5 +10307,119 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Eyewitnesses Recount Deadly Israeli Attack on Medics in Gaza",
+        "abstract": "The New York Times interviewed two people who described being detained by Israeli soldiers and looking on as they opened fire on ambulances and a fire truck, killing 15.",
+        "url": "https://www.nytimes.com/2025/04/06/world/middleeast/gaza-medics-killed-israel.html",
+        "uri": "nyt://article/836791e8-101e-5461-a8b2-3699a2664c6d",
+        "byline": "By Vivian Yee and Bilal Shbair",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T17:07:47-04:00",
+        "created_date": "2025-04-06T17:07:47-04:00",
+        "published_date": "2025-04-06T17:07:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Civilian Casualties",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "International Federation of Red Cross and Red Crescent Societies",
+            "United Nations"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip",
+            "Rafah (Gaza Strip)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-gaza-medics-ptqv/06int-gaza-medics-ptqv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1188,
+                "width": 1531,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Munther Abed, a volunteer paramedic, said he survived an Israeli attack on his ambulance.",
+                "copyright": "Bilal Shbair for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-gaza-medics-ptqv/06int-gaza-medics-ptqv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Munther Abed, a volunteer paramedic, said he survived an Israeli attack on his ambulance.",
+                "copyright": "Bilal Shbair for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/06int-gaza-medics-ptqv/06int-gaza-medics-ptqv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Munther Abed, a volunteer paramedic, said he survived an Israeli attack on his ambulance.",
+                "copyright": "Bilal Shbair for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Monday Briefing: Trump’s Team Defends Tariffs",
+        "abstract": "Plus, meet a robot butler.",
+        "url": "https://www.nytimes.com/2025/04/06/briefing/trump-tariffs-israel-gaza-aid-deaths-syria-chemical-weapons.html",
+        "uri": "nyt://article/e33a97c2-a754-5d16-b943-96a26ecacff9",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T17:01:27-04:00",
+        "created_date": "2025-04-06T17:01:27-04:00",
+        "published_date": "2025-04-06T17:01:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/07ambriefing-asia-tariffs/07ambriefing-asia-tariffs-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent at the White House on Wednesday.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/07ambriefing-asia-tariffs/07ambriefing-asia-tariffs-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent at the White House on Wednesday.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/07ambriefing-asia-tariffs/06trump-news-tariffs1-pfjc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent at the White House on Wednesday.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
