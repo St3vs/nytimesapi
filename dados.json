@@ -10688,5 +10688,57 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Monday Briefing",
+        "abstract": "Uncertainty roils markets.",
+        "url": "https://www.nytimes.com/2025/04/07/briefing/markets-tariffs-syria-israel.html",
+        "uri": "nyt://article/60768665-3b39-5d8b-b02a-4163c6365140",
+        "byline": "By Natasha Frost",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T00:27:02-04:00",
+        "created_date": "2025-04-07T00:27:02-04:00",
+        "published_date": "2025-04-07T00:27:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/07ambriefing-europe-nl-top/06biz-wallstreet-worries-kzpg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange on Friday. ",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/07ambriefing-europe-nl-top/06biz-wallstreet-worries-kzpg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange on Friday. ",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/06/multimedia/07ambriefing-europe-nl-top/06biz-wallstreet-worries-kzpg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The New York Stock Exchange on Friday. ",
+                "copyright": "Karsten Moran for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
