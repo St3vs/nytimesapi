@@ -10986,5 +10986,123 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Stocks in Asia and Europe Fall Further as Trump Defends Tariffs",
+        "abstract": "U.S. markets were also set to open lower as President Trump said that he would not back off his trade war, reinforcing fears of a global economic downturn.",
+        "url": "https://www.nytimes.com/live/2025/04/07/business/trump-tariffs-stock-market",
+        "uri": "nyt://promo/9d225d0c-5ab1-5d45-bce5-a913c129c6ce",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-07T08:39:40-04:00",
+        "created_date": "2025-04-07T06:08:52-04:00",
+        "published_date": "2025-04-07T06:08:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-promo3-zlqj/07markets-tariffs-promo3-zlqj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1282,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ole Berg-Rusten/NTB, via Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-promo3-zlqj/07markets-tariffs-promo3-zlqj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ole Berg-Rusten/NTB, via Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-promo3-zlqj/07markets-tariffs-promo3-zlqj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ole Berg-Rusten/NTB, via Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Putin Calls N.H.L. Star’s Record-Setting Goal a Reason for Russia to Celebrate",
+        "abstract": "Alex Ovechkin’s feat put a fresh spotlight on the hockey star’s past support for Russia’s leader and on his stance on the war in Ukraine.",
+        "url": "https://www.nytimes.com/2025/04/07/world/europe/ovechkin-putin-russia-nhl.html",
+        "uri": "nyt://article/63ff27e3-a1cc-552f-b707-fbdfd5b04618",
+        "byline": "By Nataliya Vasilyeva",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T08:09:52-04:00",
+        "created_date": "2025-04-07T08:09:52-04:00",
+        "published_date": "2025-04-07T08:09:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Hockey, Ice",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Instagram Inc",
+            "National Hockey League",
+            "Telegram LLC",
+            "Washington Capitals"
+        ],
+        "per_facet": [
+            "Gretzky, Wayne",
+            "Kasatkina, Daria (1997- )",
+            "Ovechkin, Alex (1985- )",
+            "Putin, Vladimir V"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/world/07int-russia-ovechkin-putin-001/07int-russia-ovechkin-putin-001-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alex Ovechkin celebrates after scoring his 895th career goal on Sunday in Elmont, N.Y. ",
+                "copyright": "Bruce Bennett/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/world/07int-russia-ovechkin-putin-001/07int-russia-ovechkin-putin-001-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alex Ovechkin celebrates after scoring his 895th career goal on Sunday in Elmont, N.Y. ",
+                "copyright": "Bruce Bennett/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/world/07int-russia-ovechkin-putin-001/07int-russia-ovechkin-putin-001-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alex Ovechkin celebrates after scoring his 895th career goal on Sunday in Elmont, N.Y. ",
+                "copyright": "Bruce Bennett/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
