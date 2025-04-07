@@ -11703,5 +11703,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Global Leaders Rush to Woo Trump, Hoping to Sway Him on Tariffs",
+        "abstract": "Dozens of foreign governments were trying to appeal to the president to have steep tariffs rolled back, but the president and his advisers have indicated negotiations could be difficult.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/trump-tariffs-foreign-governments-negotiations.html",
+        "uri": "nyt://article/bb1f39c5-d9bf-5b71-aecf-4cebc126f6a2",
+        "byline": "By Ana Swanson, Alexandra Stevenson, Damien Cave and Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T16:11:38-04:00",
+        "created_date": "2025-04-07T15:33:12-04:00",
+        "published_date": "2025-04-07T15:33:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Customs (Tariff)",
+            "Politics and Government",
+            "United States International Relations",
+            "United States Economy",
+            "Factories and Manufacturing",
+            "Protectionism (Trade)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-tariffs-outreach-htpq/07dc-tariffs-outreach-htpq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with the press pool on Air Force One as he traveled from West Palm Beach, Fla., to Joint Base Andrews in Maryland on Sunday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-tariffs-outreach-htpq/07dc-tariffs-outreach-htpq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with the press pool on Air Force One as he traveled from West Palm Beach, Fla., to Joint Base Andrews in Maryland on Sunday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-tariffs-outreach-htpq/07dc-tariffs-outreach-htpq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with the press pool on Air Force One as he traveled from West Palm Beach, Fla., to Joint Base Andrews in Maryland on Sunday.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
