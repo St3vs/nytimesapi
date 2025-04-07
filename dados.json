@@ -11764,5 +11764,57 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Tuesday Briefing: Trump’s Tariff Threat to China",
+        "abstract": "Plus, “The White Lotus” finale.",
+        "url": "https://www.nytimes.com/2025/04/07/briefing/trump-china-tariffs-us-iran-ukraine-navy-black-sea.html",
+        "uri": "nyt://article/b30b32ae-74f7-5b54-ae70-31a225513174",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T17:08:44-04:00",
+        "created_date": "2025-04-07T17:08:44-04:00",
+        "published_date": "2025-04-07T17:08:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/08ambreifing-asia-china/08ambreifing-asia-china-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The business district in Beijing. Chinese companies could see the cost of their U.S. imports double.",
+                "copyright": "Jade Gao/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/08ambreifing-asia-china/08ambreifing-asia-china-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The business district in Beijing. Chinese companies could see the cost of their U.S. imports double.",
+                "copyright": "Jade Gao/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/08ambreifing-asia-china/07markets-tariffs-china-ultimatum-ghjb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The business district in Beijing. Chinese companies could see the cost of their U.S. imports double.",
+                "copyright": "Jade Gao/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
