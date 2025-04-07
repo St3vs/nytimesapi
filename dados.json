@@ -10805,5 +10805,71 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "In Odesa, Many Wonder About the Benefits of a Black Sea Cease-Fire With Russia",
+        "abstract": "Ukrainian Navy officers and business owners in the port city pondered what Kyiv could gain from a truce after it pushed back Russian vessels and resumed commercial shipping.",
+        "url": "https://www.nytimes.com/2025/04/07/world/europe/ukraine-russia-black-sea-truce.html",
+        "uri": "nyt://article/22352548-97a7-5266-8c33-ad5eef58d91c",
+        "byline": "By Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T05:01:56-04:00",
+        "created_date": "2025-04-07T05:01:56-04:00",
+        "published_date": "2025-04-07T05:01:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Embargoes and Sanctions",
+            "Ships and Shipping",
+            "Ports",
+            "Defense and Military Forces",
+            "Peace Process"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Black Sea",
+            "Odessa (Ukraine)",
+            "Ukraine",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07int-ukraine-blacksea-02-mhfc/07int-ukraine-blacksea-02-mhfc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ukrainian sailors aboard a navy patrol boat on the Black Sea this month. Russia and Ukraine have said they are committed to stop fighting in the Black Sea, with caveats.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07int-ukraine-blacksea-02-mhfc/07int-ukraine-blacksea-02-mhfc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ukrainian sailors aboard a navy patrol boat on the Black Sea this month. Russia and Ukraine have said they are committed to stop fighting in the Black Sea, with caveats.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07int-ukraine-blacksea-02-mhfc/07int-ukraine-blacksea-02-mhfc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ukrainian sailors aboard a navy patrol boat on the Black Sea this month. Russia and Ukraine have said they are committed to stop fighting in the Black Sea, with caveats.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
