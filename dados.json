@@ -11584,5 +11584,124 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Uncertainty Over Tariffs Leads to Wild Swings in Markets",
+        "abstract": "The S&P 500 slipped into bear market territory in early trading but climbed back close to where it opened by the afternoon. President Trump said he would not back off his trade war, reinforcing fears of a global economic downturn.",
+        "url": "https://www.nytimes.com/live/2025/04/07/business/trump-tariffs-stock-market",
+        "uri": "nyt://promo/9d225d0c-5ab1-5d45-bce5-a913c129c6ce",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-07T15:12:03-04:00",
+        "created_date": "2025-04-07T06:08:52-04:00",
+        "published_date": "2025-04-07T06:08:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-200-bglv/07markets-200-bglv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-200-bglv/07markets-200-bglv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-200-bglv/07markets-200-bglv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "As Netanyahu Meets With Trump, He Finds an ‘Unshackled’ Ally",
+        "abstract": "President Trump and Prime Minister Benjamin Netanyahu are using similar playbooks as they face turmoil.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/netanyahu-trump-israel-gaza.html",
+        "uri": "nyt://article/aba1aec1-898c-5cbf-87f9-686fd6d1143e",
+        "byline": "By Luke Broadwater",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T14:58:44-04:00",
+        "created_date": "2025-04-07T00:01:07-04:00",
+        "published_date": "2025-04-07T00:01:07-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Israel-Gaza War (2023- )",
+            "Foreign Aid",
+            "Peace Process",
+            "Civilian Casualties",
+            "Palestinians",
+            "Courts and the Judiciary"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/21/multimedia/00dc-netanyahu-trump-zfmj/00dc-netanyahu-trump-zfmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Prime Minister Benjamin Netanyahu’s view, the first term of the Trump administration was a boon for Israel.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/21/multimedia/00dc-netanyahu-trump-zfmj/00dc-netanyahu-trump-zfmj-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Prime Minister Benjamin Netanyahu’s view, the first term of the Trump administration was a boon for Israel.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/21/multimedia/00dc-netanyahu-trump-zfmj/00dc-netanyahu-trump-zfmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Prime Minister Benjamin Netanyahu’s view, the first term of the Trump administration was a boon for Israel.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
