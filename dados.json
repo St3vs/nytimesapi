@@ -10487,5 +10487,206 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "In a Strongman State, a Trump Order Extinguishes Flickers of Freedom",
+        "abstract": "Cambodia’s authoritarian dynasty had silenced almost all of the country’s independent media. The remaining few are facing extinction because of an executive directive from President Trump.",
+        "url": "https://www.nytimes.com/2025/04/07/world/asia/in-a-strongman-state-a-trump-order-extinguishes-flickers-of-freedom.html",
+        "uri": "nyt://article/0f7e77f0-e0ca-5325-ad3a-03cefeea498e",
+        "byline": "By Hannah Beech and Sun Narin",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T00:01:07-04:00",
+        "created_date": "2025-04-07T00:01:07-04:00",
+        "published_date": "2025-04-07T00:01:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Aid",
+            "Politics and Government",
+            "Freedom of Speech and Expression",
+            "United States International Relations",
+            "Media"
+        ],
+        "org_facet": [
+            "Cambodian People's Party",
+            "Radio Free Asia",
+            "United States Agency for International Development",
+            "Voice of America",
+            "Voice of Democracy (News Service)"
+        ],
+        "per_facet": [
+            "Hun Manet (1977- )",
+            "Hun Sen",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Cambodia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/int-cambodia-01-hpfz/int-cambodia-01-hpfz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1409,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Uon Chhin, left, and Yeang Sothearin, former journalists with Radio Free Asia, arriving at a court in Phnom Penh, Cambodia, in 2019.",
+                "copyright": "Samrang Pring/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/int-cambodia-01-hpfz/int-cambodia-01-hpfz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Uon Chhin, left, and Yeang Sothearin, former journalists with Radio Free Asia, arriving at a court in Phnom Penh, Cambodia, in 2019.",
+                "copyright": "Samrang Pring/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/int-cambodia-01-hpfz/int-cambodia-01-hpfz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Uon Chhin, left, and Yeang Sothearin, former journalists with Radio Free Asia, arriving at a court in Phnom Penh, Cambodia, in 2019.",
+                "copyright": "Samrang Pring/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "As Netanyahu Heads to Washington, He Finds an Ally in Trump",
+        "abstract": "President Trump and Prime Minister Benjamin Netanyahu are using similar playbooks as they face turmoil.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/netanyahu-trump-israel-gaza.html",
+        "uri": "nyt://article/aba1aec1-898c-5cbf-87f9-686fd6d1143e",
+        "byline": "By Luke Broadwater",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T00:01:06-04:00",
+        "created_date": "2025-04-07T00:01:06-04:00",
+        "published_date": "2025-04-07T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Israel-Gaza War (2023- )",
+            "Foreign Aid",
+            "Peace Process",
+            "Civilian Casualties",
+            "Palestinians",
+            "Courts and the Judiciary"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/21/multimedia/00dc-netanyahu-trump-zfmj/00dc-netanyahu-trump-zfmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Prime Minister Benjamin Netanyahu’s view, the first term of the Trump administration was a boon for Israel.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/21/multimedia/00dc-netanyahu-trump-zfmj/00dc-netanyahu-trump-zfmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Prime Minister Benjamin Netanyahu’s view, the first term of the Trump administration was a boon for Israel.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/21/multimedia/00dc-netanyahu-trump-zfmj/00dc-netanyahu-trump-zfmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Prime Minister Benjamin Netanyahu’s view, the first term of the Trump administration was a boon for Israel.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "energy-environment",
+        "title": "Oil Prices Tumble Further as Trump’s Tariffs Weigh on Economic Outlook",
+        "abstract": "Crude oil now costs around 15 percent less than it did before the president revealed his plans to impose stiff new tariffs on imports from most countries.",
+        "url": "https://www.nytimes.com/2025/04/06/business/energy-environment/oil-prices-trump-tariffs.html",
+        "uri": "nyt://article/07262fbb-ea1f-52f8-bb72-89e9969f293b",
+        "byline": "By Rebecca F. Elliott",
+        "item_type": "Article",
+        "updated_date": "2025-04-06T23:52:47-04:00",
+        "created_date": "2025-04-06T23:51:09-04:00",
+        "published_date": "2025-04-06T23:51:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Prices (Fares, Fees and Rates)",
+            "Oil (Petroleum) and Gasoline",
+            "United States Politics and Government",
+            "United States Economy",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Natural Gas"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-oil-qpbh/07markets-tariffs-oil-qpbh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An oil field pump jack in Seminole, Texas, in February.",
+                "copyright": "Julio Cortez/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-oil-qpbh/07markets-tariffs-oil-qpbh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An oil field pump jack in Seminole, Texas, in February.",
+                "copyright": "Julio Cortez/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-oil-qpbh/07markets-tariffs-oil-qpbh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An oil field pump jack in Seminole, Texas, in February.",
+                "copyright": "Julio Cortez/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
