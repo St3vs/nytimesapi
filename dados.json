@@ -10740,5 +10740,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "China Tries to Downplay the Trade War’s Effects on Its Economy",
+        "abstract": "Faced with economic disruption, Beijing is presenting itself as too powerful to succumb to U.S. pressure. It is also censoring criticism at home.",
+        "url": "https://www.nytimes.com/2025/04/07/world/asia/china-trade-war-tariffs.html",
+        "uri": "nyt://article/4eb99b97-5a09-557e-9a99-e81002ddd302",
+        "byline": "By David Pierson, Claire Fu and Vivian Wang",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T02:39:05-04:00",
+        "created_date": "2025-04-07T02:01:29-04:00",
+        "published_date": "2025-04-07T02:01:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "United States International Relations",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Communist Party of China",
+            "People's Daily"
+        ],
+        "per_facet": [
+            "Xi Jinping",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-china-reaction-lkch/07markets-tariffs-china-reaction-lkch-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1429,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shoppers in Beijing on Friday. The trade war will be painful, but it is nothing that the country cannot handle, China says.",
+                "copyright": "Kevin Frayer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-china-reaction-lkch/07markets-tariffs-china-reaction-lkch-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shoppers in Beijing on Friday. The trade war will be painful, but it is nothing that the country cannot handle, China says.",
+                "copyright": "Kevin Frayer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-china-reaction-lkch/07markets-tariffs-china-reaction-lkch-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shoppers in Beijing on Friday. The trade war will be painful, but it is nothing that the country cannot handle, China says.",
+                "copyright": "Kevin Frayer/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
