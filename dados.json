@@ -11450,5 +11450,139 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Video Shows Search for Missing Gaza Paramedics Before Israelis Shoot Rescuers",
+        "abstract": "The Palestine Red Crescent released a video made by a paramedic before he was killed, and called the deaths of 15 rescue workers “a full-fledged war crime.” Israel has said it is investigating.",
+        "url": "https://www.nytimes.com/2025/04/07/world/middleeast/gaza-paramedics-video.html",
+        "uri": "nyt://article/dcf0ac5b-b179-5cab-bf9a-da61452fcd2a",
+        "byline": "By Vivian Yee and Fatima AbdulKarim",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T13:15:03-04:00",
+        "created_date": "2025-04-07T13:15:03-04:00",
+        "published_date": "2025-04-07T13:15:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Ambulances",
+            "Fires and Firefighters",
+            "Emergency Medical Treatment"
+        ],
+        "org_facet": [
+            "United Nations",
+            "International Federation of Red Cross and Red Crescent Societies",
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel",
+            "West Bank"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07gaza-medics-1-mcfj/07gaza-medics-1-mcfj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic moments before he and other rescue workers were killed by Israelis in Gaza on March 23, and released by the Palestine Red Crescent. ",
+                "copyright": "Palestinian Red Crescent"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07gaza-medics-1-mcfj/07gaza-medics-1-mcfj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic moments before he and other rescue workers were killed by Israelis in Gaza on March 23, and released by the Palestine Red Crescent. ",
+                "copyright": "Palestinian Red Crescent"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07gaza-medics-1-mcfj/07gaza-medics-1-mcfj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic moments before he and other rescue workers were killed by Israelis in Gaza on March 23, and released by the Palestine Red Crescent. ",
+                "copyright": "Palestinian Red Crescent"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "Scientists Revive the Dire Wolf, or Something Close",
+        "abstract": "Dire wolves, made famous by “Game of Thrones,” went extinct some 13,000 years ago. Now, researchers have bred gray-wolf pups that carry genes of their ancient cousins.",
+        "url": "https://www.nytimes.com/2025/04/07/science/colossal-dire-wolf-deextinction.html",
+        "uri": "nyt://article/1e4b372f-fcda-55f9-92e4-8ee73771ea35",
+        "byline": "By Carl Zimmer",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T12:33:23-04:00",
+        "created_date": "2025-04-07T12:33:23-04:00",
+        "published_date": "2025-04-07T12:33:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Endangered and Extinct Species",
+            "Hunting and Trapping",
+            "Paleontology",
+            "Genetics and Heredity",
+            "Animals",
+            "Fossils",
+            "Cloning",
+            "Wolves",
+            "DNA (Deoxyribonucleic Acid)",
+            "Conservation of Resources",
+            "Biodiversity",
+            "Mammoths (Animals)"
+        ],
+        "org_facet": [
+            "Colossal Laboratories and Biosciences"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08HS-DIREWOLF-01-wgjm/08HS-DIREWOLF-01-wgjm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A 6-month-old wolf pup is one of three that carry dire-wolf genes, including genes for a white coat and a large body. The three animals, bred by scientists at Colossal Biosciences, live in captivity in the northern United States.",
+                "copyright": "Colossal Biosciences"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08HS-DIREWOLF-01-wgjm/08HS-DIREWOLF-01-wgjm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A 6-month-old wolf pup is one of three that carry dire-wolf genes, including genes for a white coat and a large body. The three animals, bred by scientists at Colossal Biosciences, live in captivity in the northern United States.",
+                "copyright": "Colossal Biosciences"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08HS-DIREWOLF-01-wgjm/08HS-DIREWOLF-01-wgjm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A 6-month-old wolf pup is one of three that carry dire-wolf genes, including genes for a white coat and a large body. The three animals, bred by scientists at Colossal Biosciences, live in captivity in the northern United States.",
+                "copyright": "Colossal Biosciences"
+            }
+        ],
+        "short_url": ""
     }
 ]
