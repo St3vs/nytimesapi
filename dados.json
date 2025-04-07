@@ -11104,5 +11104,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Europe Gears Up to Make Its First Countermove to Trump Tariffs",
+        "abstract": "European Union officials will vet and vote on a list of retaliatory tariffs this week, while contemplating what comes next.",
+        "url": "https://www.nytimes.com/2025/04/07/world/europe/europe-tariffs-trump-response.html",
+        "uri": "nyt://article/18c44f7f-e4f2-5263-996c-bbe429e1b9fc",
+        "byline": "By Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T09:15:30-04:00",
+        "created_date": "2025-04-07T06:32:14-04:00",
+        "published_date": "2025-04-07T06:32:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "United States International Relations",
+            "International Relations"
+        ],
+        "org_facet": [
+            "European Union"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07europe-tariffs-HFO-mfcg/07europe-tariffs-HFO-mfcg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parts of BMW car bodies emerging from a machine at a plant in Munich. Auto manufacturing is Germany’s largest industry, and the United States is the sector’s biggest export market.",
+                "copyright": "Laetitia Vancon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07europe-tariffs-HFO-mfcg/07europe-tariffs-HFO-mfcg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parts of BMW car bodies emerging from a machine at a plant in Munich. Auto manufacturing is Germany’s largest industry, and the United States is the sector’s biggest export market.",
+                "copyright": "Laetitia Vancon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07europe-tariffs-HFO-mfcg/07europe-tariffs-HFO-mfcg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parts of BMW car bodies emerging from a machine at a plant in Munich. Auto manufacturing is Germany’s largest industry, and the United States is the sector’s biggest export market.",
+                "copyright": "Laetitia Vancon for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
