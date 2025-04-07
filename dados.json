@@ -11167,5 +11167,121 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Wall Street Slumps Further as Trump Defends His Tariffs",
+        "abstract": "The S&P 500 tumbled, entering bear market territory, after more losses in Asia and Europe. President Trump said he would not back off his trade war, reinforcing fears of a global economic downturn.",
+        "url": "https://www.nytimes.com/live/2025/04/07/business/trump-tariffs-stock-market",
+        "uri": "nyt://promo/9d225d0c-5ab1-5d45-bce5-a913c129c6ce",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-07T10:15:46-04:00",
+        "created_date": "2025-04-07T06:08:52-04:00",
+        "published_date": "2025-04-07T06:08:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-promo3-zlqj/07markets-tariffs-promo3-zlqj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1282,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ole Berg-Rusten/NTB, via Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-promo3-zlqj/07markets-tariffs-promo3-zlqj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ole Berg-Rusten/NTB, via Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07markets-tariffs-promo3-zlqj/07markets-tariffs-promo3-zlqj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ole Berg-Rusten/NTB, via Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "U.S. Visa Ban Adds to South Sudan’s Mounting Troubles",
+        "abstract": "The Trump administration’s revocation of all visas held by South Sudanese nationals comes as the East African nation faces the threat of renewed war.",
+        "url": "https://www.nytimes.com/2025/04/07/world/africa/south-sudan-visas-trump.html",
+        "uri": "nyt://article/528efc70-719f-5f74-9511-867ecc2de8e4",
+        "byline": "By Abdi Latif Dahir",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T09:47:59-04:00",
+        "created_date": "2025-04-07T09:47:59-04:00",
+        "published_date": "2025-04-07T09:47:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Visas"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Rubio, Marco",
+            "Machar, Riek",
+            "Kiir Mayardit, Salva",
+            "Museveni, Yoweri",
+            "Christopher Landau"
+        ],
+        "geo_facet": [
+            "South Sudan",
+            "Juba (South Sudan)",
+            "Uganda"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07southsudan-new1-fbzv/07southsudan-new1-fbzv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1537,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The international airport in South Sudan’s capital, Juba. The Trump administration has not said whether it would seek to deport South Sudanese nationals whose visas had been revoked.",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07southsudan-new1-fbzv/07southsudan-new1-fbzv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The international airport in South Sudan’s capital, Juba. The Trump administration has not said whether it would seek to deport South Sudanese nationals whose visas had been revoked.",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07southsudan-new1-fbzv/07southsudan-new1-fbzv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The international airport in South Sudan’s capital, Juba. The Trump administration has not said whether it would seek to deport South Sudanese nationals whose visas had been revoked.",
+                "copyright": "Ivor Prickett for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
