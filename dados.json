@@ -13082,5 +13082,64 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Is Being Royal a Job? This Prince Says Yes, and He Wants a Pension.",
+        "abstract": "A court case by the Belgian king’s younger brother argued that he was entitled to a state pension to keep his wife and adult children financially safe.",
+        "url": "https://www.nytimes.com/2025/04/08/world/europe/belgium-prince-social-security-benefits-ruling.html",
+        "uri": "nyt://article/241f1a2a-c535-5aa8-8777-c60f3dc8d9cc",
+        "byline": "By Lynsey Chutel",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T10:20:05-04:00",
+        "created_date": "2025-04-08T10:13:46-04:00",
+        "published_date": "2025-04-08T10:13:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Royal Families",
+            "Decisions and Verdicts"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Prince Laurent of Belgium"
+        ],
+        "geo_facet": [
+            "Belgium"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/08int-belgium-prince/08int-belgium-prince-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Laurent of Belgium at a parade in Brussels in July.",
+                "copyright": "Geert Vanden Wijngaert/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/08int-belgium-prince/08int-belgium-prince-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Laurent of Belgium at a parade in Brussels in July.",
+                "copyright": "Geert Vanden Wijngaert/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/08int-belgium-prince/08int-belgium-prince-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Laurent of Belgium at a parade in Brussels in July.",
+                "copyright": "Geert Vanden Wijngaert/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
