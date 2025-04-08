@@ -13453,5 +13453,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Trump to Sign Order Aimed at Reviving a Struggling Coal Industry",
+        "abstract": "The moves include loosening environmental rules, but it is unclear how much they can help reverse the sharp decline in coal power over the last two decades.",
+        "url": "https://www.nytimes.com/2025/04/08/climate/trump-order-coal-mining.html",
+        "uri": "nyt://article/aabc9cef-7c3f-5514-8ea9-fd7b135c8dba",
+        "byline": "By Brad Plumer and Mira Rojanasakul",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T14:12:14-04:00",
+        "created_date": "2025-04-08T14:12:14-04:00",
+        "published_date": "2025-04-08T14:12:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "United States Politics and Government",
+            "Regulation and Deregulation of Industry",
+            "Coal",
+            "Electric Light and Power",
+            "Executive Orders and Memorandums",
+            "Environment",
+            "Carbon Dioxide",
+            "Data Centers"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08cli-coal-vglh/08cli-coal-vglh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1478,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A coal facility outside Welch, W.Va., last month.",
+                "copyright": "Evelyn Hockstein/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08cli-coal-vglh/08cli-coal-vglh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A coal facility outside Welch, W.Va., last month.",
+                "copyright": "Evelyn Hockstein/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08cli-coal-vglh/08cli-coal-vglh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A coal facility outside Welch, W.Va., last month.",
+                "copyright": "Evelyn Hockstein/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
