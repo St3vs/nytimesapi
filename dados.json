@@ -12771,5 +12771,258 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Red Carpet for an Accused War Criminal: Why is the I.C.C. Under Fire?",
+        "abstract": "The leaders of Israel, Hungary and the United States have moved to neutralize the judiciary both at home and abroad.",
+        "url": "https://www.nytimes.com/2025/04/08/world/europe/icc-hungary-us-israel.html",
+        "uri": "nyt://article/582a6bf4-973f-593f-95ed-694a35daf454",
+        "byline": "By Katrin Bennhold",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T07:46:46-04:00",
+        "created_date": "2025-04-08T00:01:08-04:00",
+        "published_date": "2025-04-08T00:01:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States International Relations",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "International Criminal Court"
+        ],
+        "per_facet": [
+            "Orban, Viktor",
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Hungary",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-authoritanians-1-pqmh/08int-authoritanians-1-pqmh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel and Prime Minister Viktor Orban of Hungary in Budapest last week.",
+                "copyright": "Janos Kummer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-authoritanians-1-pqmh/08int-authoritanians-1-pqmh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel and Prime Minister Viktor Orban of Hungary in Budapest last week.",
+                "copyright": "Janos Kummer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-authoritanians-1-pqmh/08int-authoritanians-1-pqmh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel and Prime Minister Viktor Orban of Hungary in Budapest last week.",
+                "copyright": "Janos Kummer/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Some Israelis Favor Attacking Iran, Expressing Skepticism About Talks",
+        "abstract": "Many Israelis were surprised when President Trump announced that the United States would engage in “direct” negotiations with Iran in an effort to rein in the country’s nuclear program.",
+        "url": "https://www.nytimes.com/2025/04/08/world/middleeast/israel-iran-reaction.html",
+        "uri": "nyt://article/a751a13a-5f4d-5925-b330-e4851edd8fdf",
+        "byline": "By Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T08:22:30-04:00",
+        "created_date": "2025-04-08T08:14:39-04:00",
+        "published_date": "2025-04-08T08:14:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Iran-Israel Proxy Conflict",
+            "Nuclear Weapons"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Israel",
+            "Iran"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-israel-iran-mbjf/08int-israel-iran-mbjf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel and President Trump in the Oval Office on Monday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-israel-iran-mbjf/08int-israel-iran-mbjf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel and President Trump in the Oval Office on Monday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-israel-iran-mbjf/08int-israel-iran-mbjf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel and President Trump in the Oval Office on Monday.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "An Explosive Clock Is Ticking on Iran and Its Nuclear Program",
+        "abstract": "Expected talks between Iran and the United States would be a late, and perhaps last, opportunity to control Tehran’s nuclear ambitions and avoid war.",
+        "url": "https://www.nytimes.com/2025/04/08/world/europe/iran-nuclear-sanctions-trump.html",
+        "uri": "nyt://article/f9dd970d-0883-5adb-8c34-44e375b17149",
+        "byline": "By Steven Erlanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T07:59:23-04:00",
+        "created_date": "2025-04-08T07:59:23-04:00",
+        "published_date": "2025-04-08T07:59:23-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States International Relations",
+            "Nuclear Weapons",
+            "Arms Control and Limitation and Disarmament",
+            "Nuclear Nonproliferation Treaty"
+        ],
+        "org_facet": [
+            "International Atomic Energy Agency",
+            "United Nations"
+        ],
+        "per_facet": [
+            "Khamenei, Ali",
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Iran",
+            "Israel",
+            "Middle East"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-mideast-diplo-assess-01-wpzq/08int-mideast-diplo-assess-01-wpzq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1469,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A street crossing in Tehran in November near a poster of Iranian scientists.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-mideast-diplo-assess-01-wpzq/08int-mideast-diplo-assess-01-wpzq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A street crossing in Tehran in November near a poster of Iranian scientists.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-mideast-diplo-assess-01-wpzq/08int-mideast-diplo-assess-01-wpzq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A street crossing in Tehran in November near a poster of Iranian scientists.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Roof Collapses at Dominican Republic Nightclub, Killing at Least 13",
+        "abstract": "The authorities said search and rescue operations were continuing at the Jet Set nightclub in Santo Domingo, the capital.",
+        "url": "https://www.nytimes.com/2025/04/08/world/americas/dominican-republic-nightclub-collapse.html",
+        "uri": "nyt://article/6d669300-c80a-5283-89fe-7fafa51511ab",
+        "byline": "By Amelia Nierenberg and Jonathan Wolfe",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T08:07:52-04:00",
+        "created_date": "2025-04-08T07:29:16-04:00",
+        "published_date": "2025-04-08T07:29:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bars and Nightclubs",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Dominican Republic",
+            "Santo Domingo (Dominican Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/00social-logo-promo/00social-logo-promo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 522,
+                "width": 1000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/00social-logo-promo/00social-logo-promo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/00social-logo-promo/00social-logo-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
