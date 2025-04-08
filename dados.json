@@ -11898,5 +11898,378 @@
         ],
         "multimedia": null,
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Prince Harry’s Court Case Over Security in the U.K., Explained",
+        "abstract": "A two-day hearing is set to begin on Tuesday in London’s Court of Appeal, as Harry challenges the government over his security protection in Britain.",
+        "url": "https://www.nytimes.com/2025/04/08/world/europe/prince-harry-security-hearing-court.html",
+        "uri": "nyt://article/5dc21bb9-b42e-5770-b130-12c0fecf11a6",
+        "byline": "By Lizzie Dearden",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T00:01:15-04:00",
+        "created_date": "2025-04-08T00:01:15-04:00",
+        "published_date": "2025-04-08T00:01:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Royal Families",
+            "Police"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Harry, Duke of Sussex",
+            "Markle, Meghan"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08INT-UK-HARRY-SECURITY-qjzw/08INT-UK-HARRY-SECURITY-qjzw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1458,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Harry during the Invictus Games in February in Vancouver, British Columbia. Part of the appeal hearings this week will be conducted in private because of the sensitive nature of evidence around security processes and risk assessments.",
+                "copyright": "Jennifer Gauthier/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08INT-UK-HARRY-SECURITY-qjzw/08INT-UK-HARRY-SECURITY-qjzw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Harry during the Invictus Games in February in Vancouver, British Columbia. Part of the appeal hearings this week will be conducted in private because of the sensitive nature of evidence around security processes and risk assessments.",
+                "copyright": "Jennifer Gauthier/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08INT-UK-HARRY-SECURITY-qjzw/08INT-UK-HARRY-SECURITY-qjzw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Harry during the Invictus Games in February in Vancouver, British Columbia. Part of the appeal hearings this week will be conducted in private because of the sensitive nature of evidence around security processes and risk assessments.",
+                "copyright": "Jennifer Gauthier/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "How Japan Built a 3D-Printed Train Station in 6 Hours",
+        "abstract": "As Japan’s population shrinks, maintaining rail service in remote small towns is becoming a challenge. Is this the answer?",
+        "url": "https://www.nytimes.com/2025/04/08/world/asia/japan-3d-station.html",
+        "uri": "nyt://article/e1921a96-3a8a-5f60-a1b0-faa42f8a28c2",
+        "byline": "By Kiuko Notoya and Noriko Hayashi",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T00:01:08-04:00",
+        "created_date": "2025-04-08T00:01:08-04:00",
+        "published_date": "2025-04-08T00:01:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "3-D Printers",
+            "Stations and Terminals (Passenger)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Japan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/27/multimedia/00int-japan-station-bhlz/00int-japan-station-bhlz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The new Hatsushima train station was printed at a factory, shipped to the Japanese city of Arida and assembled overnight. ",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/27/multimedia/00int-japan-station-bhlz/00int-japan-station-bhlz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The new Hatsushima train station was printed at a factory, shipped to the Japanese city of Arida and assembled overnight. ",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/27/multimedia/00int-japan-station-bhlz/00int-japan-station-bhlz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The new Hatsushima train station was printed at a factory, shipped to the Japanese city of Arida and assembled overnight. ",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Leaders Flex Muscles Against International Criminal Court",
+        "abstract": "The leaders of Israel, Hungary and the United States have moved to neutralize the judiciary both at home and abroad.",
+        "url": "https://www.nytimes.com/2025/04/08/world/europe/icc-hungary-us-israel.html",
+        "uri": "nyt://article/582a6bf4-973f-593f-95ed-694a35daf454",
+        "byline": "By Katrin Bennhold",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T00:01:07-04:00",
+        "created_date": "2025-04-08T00:01:07-04:00",
+        "published_date": "2025-04-08T00:01:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States International Relations",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "International Criminal Court"
+        ],
+        "per_facet": [
+            "Orban, Viktor",
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Hungary",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-authoritanians-1-pqmh/08int-authoritanians-1-pqmh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel and Prime Minister Viktor Orban of Hungary in Budapest last week.",
+                "copyright": "Janos Kummer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-authoritanians-1-pqmh/08int-authoritanians-1-pqmh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel and Prime Minister Viktor Orban of Hungary in Budapest last week.",
+                "copyright": "Janos Kummer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-authoritanians-1-pqmh/08int-authoritanians-1-pqmh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel and Prime Minister Viktor Orban of Hungary in Budapest last week.",
+                "copyright": "Janos Kummer/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "South Korea Sets New Presidential Election for June 3",
+        "abstract": "Polls show the main opposition leader, Lee Jae-myung, is the front-runner to replace Yoon Suk Yeol, who was removed from office for declaring martial law.",
+        "url": "https://www.nytimes.com/2025/04/07/world/asia/south-korea-election.html",
+        "uri": "nyt://article/4c8d9c3e-9a57-5785-a356-a3d96e6f1cd8",
+        "byline": "By Choe Sang-Hun",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T23:24:16-04:00",
+        "created_date": "2025-04-07T23:24:16-04:00",
+        "published_date": "2025-04-07T23:24:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Elections",
+            "Impeachment",
+            "Martial Law"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Lee Jae-myung",
+            "Han Duck-soo",
+            "Yoon Suk-yeol"
+        ],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-skorea-election-qglc/08int-skorea-election-qglc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A candlelight concert took place to celebrate the removal of Yoon Suk Yeol as South Korea’s president on Friday.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-skorea-election-qglc/08int-skorea-election-qglc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A candlelight concert took place to celebrate the removal of Yoon Suk Yeol as South Korea’s president on Friday.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-skorea-election-qglc/08int-skorea-election-qglc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A candlelight concert took place to celebrate the removal of Yoon Suk Yeol as South Korea’s president on Friday.",
+                "copyright": "Chang W. Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "China Says It Will ‘Fight to the End’ After Trump Threatens More Tariffs",
+        "abstract": "The country’s commerce ministry called President Trump’s threat to escalate tariffs on China by another 50 percent “blackmail.”",
+        "url": "https://www.nytimes.com/2025/04/07/world/asia/china-trump-tariffs.html",
+        "uri": "nyt://article/84484484-84b7-557d-9ab2-72d62d07e33f",
+        "byline": "By David Pierson",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T23:14:49-04:00",
+        "created_date": "2025-04-07T23:14:49-04:00",
+        "published_date": "2025-04-07T23:14:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Threats and Threatening Messages"
+        ],
+        "org_facet": [
+            "Ministry of Commerce (China)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-china-diplo-tqcw/08int-china-diplo-tqcw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Monitoring stock prices at a securities company in Shanghai on Tuesday.",
+                "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-china-diplo-tqcw/08int-china-diplo-tqcw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Monitoring stock prices at a securities company in Shanghai on Tuesday.",
+                "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-china-diplo-tqcw/08int-china-diplo-tqcw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Monitoring stock prices at a securities company in Shanghai on Tuesday.",
+                "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "U.S. and Iran Will Hold Nuclear Talks on Saturday",
+        "abstract": "President Trump pulled out of the last Iran nuclear accord in 2018, and negotiators from the two nations have not met face-to-face since. Now he faces the challenge of dismantling the Iranian program.",
+        "url": "https://www.nytimes.com/2025/04/07/us/politics/iran-nuclear-talks-trump.html",
+        "uri": "nyt://article/6dc6bd6c-914a-5451-abe8-9581363aace7",
+        "byline": "By David E. Sanger and Farnaz Fassihi",
+        "item_type": "Article",
+        "updated_date": "2025-04-07T23:17:51-04:00",
+        "created_date": "2025-04-07T17:50:53-04:00",
+        "published_date": "2025-04-07T17:50:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Nuclear Weapons"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Iran",
+            "Tehran (Iran)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-prexy-topart-fjch/07dc-prexy-topart-fjch-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump announced the talks during a visit by Prime Minister Benjamin Netanyahu of Israel to the White House on Monday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-prexy-topart-fjch/07dc-prexy-topart-fjch-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump announced the talks during a visit by Prime Minister Benjamin Netanyahu of Israel to the White House on Monday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/07dc-prexy-topart-fjch/07dc-prexy-topart-fjch-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump announced the talks during a visit by Prime Minister Benjamin Netanyahu of Israel to the White House on Monday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
