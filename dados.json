@@ -13141,5 +13141,194 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Zelensky Claims Capture of 2 Chinese Citizens Fighting for Russia",
+        "abstract": "The Ukrainian president did not suggest that they had been sent by Beijing’s military, but he pointed to their presence as further evidence that Moscow was not truly interested in peace.",
+        "url": "https://www.nytimes.com/2025/04/08/world/europe/zelensky-russia-chinese-belgorod.html",
+        "uri": "nyt://article/0cc8c03b-ba96-5dd9-8ca9-a888fa475fde",
+        "byline": "By Maria Varenikova and David Pierson",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T10:48:31-04:00",
+        "created_date": "2025-04-08T10:48:31-04:00",
+        "published_date": "2025-04-08T10:48:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Prisoners of War"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Xi Jinping",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-ukraine-belgorod-hjwg/08int-ukraine-belgorod-hjwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine addressing a news conference in Kyiv on Tuesday.",
+                "copyright": "Genya Savilov/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-ukraine-belgorod-hjwg/08int-ukraine-belgorod-hjwg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine addressing a news conference in Kyiv on Tuesday.",
+                "copyright": "Genya Savilov/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-ukraine-belgorod-hjwg/08int-ukraine-belgorod-hjwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine addressing a news conference in Kyiv on Tuesday.",
+                "copyright": "Genya Savilov/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Pilots Discussed Alternate Ways to Land Before Deadly Jeju Air Crash",
+        "abstract": "The pilots’ conversation with air traffic controllers, revealed in a partial transcript, could offer clues to what caused the disaster in South Korea, which killed 179 people.",
+        "url": "https://www.nytimes.com/2025/04/08/world/asia/jeju-crash-communications.html",
+        "uri": "nyt://article/b781ebdf-c208-5fc5-a501-6b796e767376",
+        "byline": "By Grace Moon and Selam Gebrekidan",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T10:34:36-04:00",
+        "created_date": "2025-04-08T10:34:36-04:00",
+        "published_date": "2025-04-08T10:34:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Jeju Air Flight 2216",
+            "Aviation Accidents, Safety and Disasters",
+            "Airlines and Airplanes",
+            "Air Traffic Control",
+            "Pilots"
+        ],
+        "org_facet": [
+            "Jeju Air Co Ltd",
+            "Muan International Airport"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-Jeju-tower-01-vhpl/08int-Jeju-tower-01-vhpl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jeju Air Flight 2216 crashed at Muan International Airport in South Korea on Dec. 29.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-Jeju-tower-01-vhpl/08int-Jeju-tower-01-vhpl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jeju Air Flight 2216 crashed at Muan International Airport in South Korea on Dec. 29.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-Jeju-tower-01-vhpl/08int-Jeju-tower-01-vhpl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jeju Air Flight 2216 crashed at Muan International Airport in South Korea on Dec. 29.",
+                "copyright": "Chang W. Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Red Carpet for an Accused War Criminal: Why Is the I.C.C. Under Fire?",
+        "abstract": "The leaders of Israel, Hungary and the United States have moved to neutralize the judiciary both at home and abroad.",
+        "url": "https://www.nytimes.com/2025/04/08/world/europe/icc-hungary-us-israel.html",
+        "uri": "nyt://article/582a6bf4-973f-593f-95ed-694a35daf454",
+        "byline": "By Katrin Bennhold",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T11:17:24-04:00",
+        "created_date": "2025-04-08T00:01:08-04:00",
+        "published_date": "2025-04-08T00:01:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States International Relations",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "International Criminal Court"
+        ],
+        "per_facet": [
+            "Orban, Viktor",
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Hungary",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-authoritanians-1-pqmh/08int-authoritanians-1-pqmh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel and Prime Minister Viktor Orban of Hungary in Budapest last week.",
+                "copyright": "Janos Kummer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-authoritanians-1-pqmh/08int-authoritanians-1-pqmh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel and Prime Minister Viktor Orban of Hungary in Budapest last week.",
+                "copyright": "Janos Kummer/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-authoritanians-1-pqmh/08int-authoritanians-1-pqmh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel and Prime Minister Viktor Orban of Hungary in Budapest last week.",
+                "copyright": "Janos Kummer/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
