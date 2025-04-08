@@ -12706,5 +12706,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "With Trump’s Return, Netanyahu Faces Fewer Restraints On Gaza Than Ever",
+        "abstract": "On the war, President Trump is more aligned than his predecessor with the aims of Prime Minister Benjamin Netanyahu of Israel and his right-wing coalition.",
+        "url": "https://www.nytimes.com/2025/04/08/world/middleeast/trump-netanyahu-israel-gaza.html",
+        "uri": "nyt://article/ee73c443-1c68-5990-8b19-f728babab0bd",
+        "byline": "By Michael D. Shear and Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T06:33:24-04:00",
+        "created_date": "2025-04-08T06:33:24-04:00",
+        "published_date": "2025-04-08T06:33:24-04:00",
+        "material_type_facet": "",
+        "kicker": "news analysis",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "United States International Relations",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel",
+            "Middle East",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-ISRAEL-EMBOLDENED-jgbv/08int-ISRAEL-EMBOLDENED-jgbv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump with Prime Minister Benjamin Netanyahu of Israel after their meeting at the White House on Monday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-ISRAEL-EMBOLDENED-jgbv/08int-ISRAEL-EMBOLDENED-jgbv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump with Prime Minister Benjamin Netanyahu of Israel after their meeting at the White House on Monday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-ISRAEL-EMBOLDENED-jgbv/08int-ISRAEL-EMBOLDENED-jgbv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump with Prime Minister Benjamin Netanyahu of Israel after their meeting at the White House on Monday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
