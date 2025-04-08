@@ -12271,5 +12271,57 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Tuesday Briefing",
+        "abstract": "The global response to President Trump’s tariffs.",
+        "url": "https://www.nytimes.com/2025/04/08/briefing/tariffs-iran-russia.html",
+        "uri": "nyt://article/d842c674-5fe1-5ced-aa81-eda404d227be",
+        "byline": "By Natasha Frost",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T01:07:35-04:00",
+        "created_date": "2025-04-08T01:05:17-04:00",
+        "published_date": "2025-04-08T01:05:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/08ambriefing-europe-nl-trump/08ambriefing-europe-nl-trump-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with the press pool on Air Force One on Sunday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/08ambriefing-europe-nl-trump/08ambriefing-europe-nl-trump-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with the press pool on Air Force One on Sunday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/08ambriefing-europe-nl-trump/07dc-tariffs-outreach-htpq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with the press pool on Air Force One on Sunday.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
