@@ -13388,5 +13388,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Will Retaliation Work for Europe? It’s a Gamble.",
+        "abstract": "Europe wants to negotiate, but it is also trying to project strength. As Trump warns nations against retaliation, that strategy could be perilous.",
+        "url": "https://www.nytimes.com/2025/04/08/world/europe/europe-trump-tariff-retaliation.html",
+        "uri": "nyt://article/86ed9aec-7a65-5d98-879e-0848dfe751cc",
+        "byline": "By Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T12:23:35-04:00",
+        "created_date": "2025-04-08T12:23:35-04:00",
+        "published_date": "2025-04-08T12:23:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "United States International Relations",
+            "Protectionism (Trade)"
+        ],
+        "org_facet": [
+            "European Union"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "von der Leyen, Ursula"
+        ],
+        "geo_facet": [
+            "Europe",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-eu-strategy-01-hqbt/08int-eu-strategy-01-hqbt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ursula von der Leyen, president of the European Commission, in Brussels, on Monday.",
+                "copyright": "Virginia Mayo/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-eu-strategy-01-hqbt/08int-eu-strategy-01-hqbt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ursula von der Leyen, president of the European Commission, in Brussels, on Monday.",
+                "copyright": "Virginia Mayo/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-eu-strategy-01-hqbt/08int-eu-strategy-01-hqbt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ursula von der Leyen, president of the European Commission, in Brussels, on Monday.",
+                "copyright": "Virginia Mayo/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
