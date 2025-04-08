@@ -13766,5 +13766,308 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Frantic Search for Survivors as Roof Collapse in Dominican Republic Kills at Least 58",
+        "abstract": "Heavy machinery and drones were part of a large search and rescue operation at the Jet Set nightclub in Santo Domingo, the capital.",
+        "url": "https://www.nytimes.com/2025/04/08/world/americas/dominican-republic-nightclub-collapse.html",
+        "uri": "nyt://article/6d669300-c80a-5283-89fe-7fafa51511ab",
+        "byline": "By Frances Robles and Hogla Enecia Pérez",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T17:17:25-04:00",
+        "created_date": "2025-04-08T07:29:16-04:00",
+        "published_date": "2025-04-08T07:29:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bars and Nightclubs",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Dominican Republic",
+            "Santo Domingo (Dominican Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-dominican-collapse-gphf/08int-dominican-collapse-gphf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1395,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers searching for survivors at the Jet Set nightclub after its roof collapsed during a merengue concert on Tuesday in Santo Domingo, Dominican Republic.",
+                "copyright": "Eddy Vittini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-dominican-collapse-gphf/08int-dominican-collapse-gphf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers searching for survivors at the Jet Set nightclub after its roof collapsed during a merengue concert on Tuesday in Santo Domingo, Dominican Republic.",
+                "copyright": "Eddy Vittini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-dominican-collapse-gphf/08int-dominican-collapse-gphf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers searching for survivors at the Jet Set nightclub after its roof collapsed during a merengue concert on Tuesday in Santo Domingo, Dominican Republic.",
+                "copyright": "Eddy Vittini/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Guterres, at U.N., Denounces Israel’s Gaza Aid Blockade",
+        "abstract": "“The floodgates of horror” have been opened for Palestinians since the collapse of the temporary cease-fire, Secretary General António Guterres said.",
+        "url": "https://www.nytimes.com/2025/04/08/world/middleeast/guterres-israel-gaza-blockade.html",
+        "uri": "nyt://article/45660ad1-5b7b-56eb-9b45-74632b8189f0",
+        "byline": "By Nick Cumming-Bruce",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T17:17:25-04:00",
+        "created_date": "2025-04-08T17:17:25-04:00",
+        "published_date": "2025-04-08T17:17:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Humanitarian Aid",
+            "Civilian Casualties",
+            "International Relations"
+        ],
+        "org_facet": [
+            "United Nations"
+        ],
+        "per_facet": [
+            "Guterres, Antonio"
+        ],
+        "geo_facet": [
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08un-gaza-1-gftm/08un-gaza-1-gftm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Food distribution in Jabaliya, in the northern Gaza Strip, on Tuesday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08un-gaza-1-gftm/08un-gaza-1-gftm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Food distribution in Jabaliya, in the northern Gaza Strip, on Tuesday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08un-gaza-1-gftm/08un-gaza-1-gftm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Food distribution in Jabaliya, in the northern Gaza Strip, on Tuesday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Wednesday Briefing: Bracing for More Tariffs",
+        "abstract": "Plus, the International Booker Prize shortlist.",
+        "url": "https://www.nytimes.com/2025/04/08/briefing/trump-tariffs-iran-us-congo-floods.html",
+        "uri": "nyt://article/97c82252-fcaa-5fa7-8aa0-0386f154372f",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T17:04:53-04:00",
+        "created_date": "2025-04-08T17:04:53-04:00",
+        "published_date": "2025-04-08T17:04:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09ambriefing-asia-graph/09ambriefing-asia-graph-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 836,
+                "width": 1200,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09ambriefing-asia-graph/09ambriefing-asia-graph-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09ambriefing-asia-graph/09ambriefing-asia-graph-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Dozens Die in Floods Hitting Congo’s Capital",
+        "abstract": "While the Democratic Republic of Congo reels from a new rebel offensive in the east, its capital in the west, Kinshasa,  grapples with deadly floods.",
+        "url": "https://www.nytimes.com/2025/04/08/world/africa/congo-kinshasa-floods.html",
+        "uri": "nyt://article/26103368-aab6-56ca-9047-bbc5d2b6ad09",
+        "byline": "By Saikou Jammeh",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T16:36:46-04:00",
+        "created_date": "2025-04-08T16:36:46-04:00",
+        "published_date": "2025-04-08T16:36:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Floods",
+            "Foreign Aid",
+            "Rain",
+            "Humanitarian Aid",
+            "Global Warming"
+        ],
+        "org_facet": [
+            "United Nations"
+        ],
+        "per_facet": [
+            "Tshisekedi, Felix"
+        ],
+        "geo_facet": [
+            "Congo, Democratic Republic of (Congo-Kinshasa)",
+            "Kinshasa (Democratic Republic of Congo)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08congo-1-hvpz/08congo-1-hvpz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Wading through floodwaters in the Ndjili district of Kinshasa, the Democratic Republic of Congo, on Sunday.",
+                "copyright": "Hardy Bope/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08congo-1-hvpz/08congo-1-hvpz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Wading through floodwaters in the Ndjili district of Kinshasa, the Democratic Republic of Congo, on Sunday.",
+                "copyright": "Hardy Bope/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08congo-1-hvpz/08congo-1-hvpz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Wading through floodwaters in the Ndjili district of Kinshasa, the Democratic Republic of Congo, on Sunday.",
+                "copyright": "Hardy Bope/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Trump Signs Orders Aimed at Reviving a Struggling Coal Industry",
+        "abstract": "The moves include loosening environmental rules, but it is unclear how much they can help reverse the sharp decline in coal power over the last two decades.",
+        "url": "https://www.nytimes.com/2025/04/08/climate/trump-order-coal-mining.html",
+        "uri": "nyt://article/aabc9cef-7c3f-5514-8ea9-fd7b135c8dba",
+        "byline": "By Brad Plumer and Mira Rojanasakul",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T17:13:10-04:00",
+        "created_date": "2025-04-08T14:12:15-04:00",
+        "published_date": "2025-04-08T14:12:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "United States Politics and Government",
+            "Regulation and Deregulation of Industry",
+            "Coal",
+            "Electric Light and Power",
+            "Executive Orders and Memorandums",
+            "Environment",
+            "Carbon Dioxide",
+            "Data Centers"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08cli-coal-vglh/08cli-coal-vglh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1478,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A coal facility outside Welch, W.Va., last month.",
+                "copyright": "Evelyn Hockstein/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08cli-coal-vglh/08cli-coal-vglh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A coal facility outside Welch, W.Va., last month.",
+                "copyright": "Evelyn Hockstein/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08cli-coal-vglh/08cli-coal-vglh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A coal facility outside Welch, W.Va., last month.",
+                "copyright": "Evelyn Hockstein/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
