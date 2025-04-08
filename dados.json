@@ -13024,5 +13024,63 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Roof Collapses at Dominican Republic Nightclub, Killing at Least 15",
+        "abstract": "The authorities said search and rescue operations were continuing at the Jet Set nightclub in Santo Domingo, the capital.",
+        "url": "https://www.nytimes.com/2025/04/08/world/americas/dominican-republic-nightclub-collapse.html",
+        "uri": "nyt://article/6d669300-c80a-5283-89fe-7fafa51511ab",
+        "byline": "By Amelia Nierenberg, Jonathan Wolfe and Frances Robles",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T08:53:04-04:00",
+        "created_date": "2025-04-08T07:29:16-04:00",
+        "published_date": "2025-04-08T07:29:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bars and Nightclubs",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Dominican Republic",
+            "Santo Domingo (Dominican Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/00social-logo-promo/00social-logo-promo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 522,
+                "width": 1000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/00social-logo-promo/00social-logo-promo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/world/00social-logo-promo/00social-logo-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
