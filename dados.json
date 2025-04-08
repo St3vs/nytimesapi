@@ -13518,5 +13518,130 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel’s Supreme Court Pauses Netanyahu’s Attempt to Fire Spy Chief",
+        "abstract": "The hearing opened with unruly scenes as hecklers forced the justices to halt the proceedings and then to resume them without a public audience. The government was handed a deadline to find a compromise.",
+        "url": "https://www.nytimes.com/2025/04/08/world/middleeast/israel-supreme-court-spy-chief.html",
+        "uri": "nyt://article/8482e79d-a705-57cb-a930-f6529d218821",
+        "byline": "By Aaron Boxerman and Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T14:33:59-04:00",
+        "created_date": "2025-04-08T05:16:04-04:00",
+        "published_date": "2025-04-08T05:16:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Israel-Gaza War (2023- )",
+            "Appointments and Executive Changes",
+            "Espionage and Intelligence Services",
+            "Courts and the Judiciary"
+        ],
+        "org_facet": [
+            "Supreme Court of Israel"
+        ],
+        "per_facet": [
+            "Bar, Ronen (1965- )",
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-israel-shinbet-02-bmct/08int-israel-shinbet-02-bmct-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronen Bar, who was fired as head of the Shin Bet last month.",
+                "copyright": "Pool photo by Gil Cohen-Magen"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-israel-shinbet-02-bmct/08int-israel-shinbet-02-bmct-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronen Bar, who was fired as head of the Shin Bet last month.",
+                "copyright": "Pool photo by Gil Cohen-Magen"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-israel-shinbet-02-bmct/08int-israel-shinbet-02-bmct-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronen Bar, who was fired as head of the Shin Bet last month.",
+                "copyright": "Pool photo by Gil Cohen-Magen"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "‘Getting Heavier’: Climate Change Primes Storms to Drop More Rain",
+        "abstract": "With rising temperatures, the atmosphere can hold more moisture, meaning precipitation has a tendency to fall at more extreme levels.",
+        "url": "https://www.nytimes.com/2025/04/08/climate/rain-floods-climate-change.html",
+        "uri": "nyt://article/fd99f8d7-a874-5520-b885-7510c5ffedf6",
+        "byline": "By Christina Kelso",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T15:01:12-04:00",
+        "created_date": "2025-04-08T14:55:32-04:00",
+        "published_date": "2025-04-08T14:55:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Rain",
+            "Floods",
+            "Disasters and Emergencies"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Southeastern States (US)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08cli-rainfall-patterns-vcmf/08cli-rainfall-patterns-vcmf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A flooded neighborhood in Bowling Green, Ky., on Saturday.",
+                "copyright": "Austin Anthony for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08cli-rainfall-patterns-vcmf/08cli-rainfall-patterns-vcmf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A flooded neighborhood in Bowling Green, Ky., on Saturday.",
+                "copyright": "Austin Anthony for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08cli-rainfall-patterns-vcmf/08cli-rainfall-patterns-vcmf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A flooded neighborhood in Bowling Green, Ky., on Saturday.",
+                "copyright": "Austin Anthony for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
