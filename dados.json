@@ -12323,5 +12323,323 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Is This America’s Liz Truss Moment?",
+        "abstract": "Ms. Truss, Britain’s prime minister for 44 days, was forced out after her radical policies caused a market meltdown. But there are some key differences with President Trump.",
+        "url": "https://www.nytimes.com/2025/04/08/world/europe/trump-tariffs-markets-liz-truss.html",
+        "uri": "nyt://article/a793286a-0f76-513a-85b1-e852f3112d84",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T05:13:47-04:00",
+        "created_date": "2025-04-08T05:01:57-04:00",
+        "published_date": "2025-04-08T05:01:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Politics and Government",
+            "Banking and Financial Institutions",
+            "International Trade and World Market",
+            "Government Bonds",
+            "Customs (Tariff)",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Rogoff, Kenneth S",
+            "Trump, Donald J",
+            "Truss, Elizabeth (1975- )",
+            "Kwarteng, Kwasi"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "England",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2022/10/25/world/08uk-tariffs-truss/merlin_215439720_ffc1fb7a-086e-4a2f-9197-4907234611bd-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1408,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Liz Truss after her resignation speech in October 2022. She was forced out of office by her own Conservative Party in little more than six weeks, the shortest tenure for a prime minister in British history.",
+                "copyright": "Justin Tallis/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2022/10/25/world/08uk-tariffs-truss/08uk-tariffs-truss-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Liz Truss after her resignation speech in October 2022. She was forced out of office by her own Conservative Party in little more than six weeks, the shortest tenure for a prime minister in British history.",
+                "copyright": "Justin Tallis/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2022/10/25/world/08uk-tariffs-truss/08uk-tariffs-truss-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Liz Truss after her resignation speech in October 2022. She was forced out of office by her own Conservative Party in little more than six weeks, the shortest tenure for a prime minister in British history.",
+                "copyright": "Justin Tallis/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "travel",
+        "subsection": "",
+        "title": "How to Protect Yourself in an Earthquake",
+        "abstract": "Many popular vacation destinations, like California, Italy, Japan, Mexico, Thailand and the Caribbean are in active quake zones. Here are tips for staying safe.",
+        "url": "https://www.nytimes.com/2025/04/08/travel/earthquake-safety.html",
+        "uri": "nyt://article/08858472-ac96-5898-b60f-9c3a21202d52",
+        "byline": "By Maya Wei-Haas",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T05:01:34-04:00",
+        "created_date": "2025-04-08T05:01:34-04:00",
+        "published_date": "2025-04-08T05:01:34-04:00",
+        "material_type_facet": "",
+        "kicker": "travel 101",
+        "des_facet": [
+            "Earthquakes",
+            "Content Type: Service",
+            "Travel and Vacations",
+            "Disasters and Emergencies",
+            "Hotels and Travel Lodgings"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/travel/00travel101-quakes-illo/00travel101-quakes-illo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Weston Wei"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/travel/00travel101-quakes-illo/00travel101-quakes-illo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Weston Wei"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/travel/00travel101-quakes-illo/00travel101-quakes-illo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Weston Wei"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Panama Canal Ship Pilot Navigates Tricky Waters, and Trump",
+        "abstract": "For over 40 years, Capt. Efrain Hallax, 73, has been steering vessels through the canal, and he has seen it all, from a dictator’s fall to the rise of U.S. interest in retaking the waterway.",
+        "url": "https://www.nytimes.com/2025/04/08/world/americas/panama-canal-ship-pilot.html",
+        "uri": "nyt://article/efcbff29-ff7f-5d16-906b-9cd7ffd10626",
+        "byline": "By Silvana Paternostro and Nathalia Angarita",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T05:00:24-04:00",
+        "created_date": "2025-04-08T05:00:24-04:00",
+        "published_date": "2025-04-08T05:00:24-04:00",
+        "material_type_facet": "",
+        "kicker": "The Global Profile",
+        "des_facet": [
+            "Ships and Shipping",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Efrain Hallax",
+            "Trump, Donald J",
+            "Noriega, Manuel Antonio"
+        ],
+        "geo_facet": [
+            "Panama Canal and Canal Zone",
+            "Panama"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/14/world/00PanamaCanal-BoatPilot-Profile-promo/00PanamaCanal-BoatPilot-Profile-05-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Capt. Efrain Hallax is one of 316 pilots authorized by the Authority of the Panama Canal to steer a ship through the canal.",
+                "copyright": "Nathalia Angarita for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/14/world/00PanamaCanal-BoatPilot-Profile-promo/00PanamaCanal-BoatPilot-Profile-05-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Capt. Efrain Hallax is one of 316 pilots authorized by the Authority of the Panama Canal to steer a ship through the canal.",
+                "copyright": "Nathalia Angarita for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/14/world/00PanamaCanal-BoatPilot-Profile-promo/00PanamaCanal-BoatPilot-Profile-05-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Capt. Efrain Hallax is one of 316 pilots authorized by the Authority of the Panama Canal to steer a ship through the canal.",
+                "copyright": "Nathalia Angarita for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "Ideology May Not Be What You Think but How You’re Wired",
+        "abstract": "In her new book, “The Ideological Brain,” the neuroscientist Leor Zmigrod outlines what makes some people prone to rigid thinking.",
+        "url": "https://www.nytimes.com/2025/04/08/science/ideology-neuroscience-politics-zmigord.html",
+        "uri": "nyt://article/615bb385-cacc-592d-8318-1956b705ca0e",
+        "byline": "By Matt Richtel",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T05:00:12-04:00",
+        "created_date": "2025-04-08T05:00:12-04:00",
+        "published_date": "2025-04-08T05:00:12-04:00",
+        "material_type_facet": "",
+        "kicker": "A Conversation With",
+        "des_facet": [
+            "Brain",
+            "Psychology and Psychologists",
+            "Dopamine",
+            "Books and Literature",
+            "Conservatism (US Politics)",
+            "Emotions"
+        ],
+        "org_facet": [
+            "Cambridge University"
+        ],
+        "per_facet": [
+            "Zmigrod, Leor"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00SCI-QNA-ZMIGORD-01-wgvj/00SCI-QNA-ZMIGORD-01-wgvj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tom Jamieson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00SCI-QNA-ZMIGORD-01-wgvj/00SCI-QNA-ZMIGORD-01-wgvj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tom Jamieson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00SCI-QNA-ZMIGORD-01-wgvj/00SCI-QNA-ZMIGORD-01-wgvj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tom Jamieson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "For Xi, China’s Strongman Leader, Ceding to Trump Is Not an Option",
+        "abstract": "China sees little to gain in capitulating to President Trump’s tariff threats, labeling them “blackmail” and vowing to “fight to the end.”",
+        "url": "https://www.nytimes.com/2025/04/07/world/asia/china-trump-tariffs.html",
+        "uri": "nyt://article/84484484-84b7-557d-9ab2-72d62d07e33f",
+        "byline": "By David Pierson and Berry Wang",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T05:14:04-04:00",
+        "created_date": "2025-04-07T23:14:50-04:00",
+        "published_date": "2025-04-07T23:14:50-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Threats and Threatening Messages"
+        ],
+        "org_facet": [
+            "Ministry of Commerce (China)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-china-diplo-tqcw/08int-china-diplo-tqcw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Monitoring stock prices at a securities company in Shanghai on Tuesday.",
+                "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-china-diplo-tqcw/08int-china-diplo-tqcw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Monitoring stock prices at a securities company in Shanghai on Tuesday.",
+                "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-china-diplo-tqcw/08int-china-diplo-tqcw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Monitoring stock prices at a securities company in Shanghai on Tuesday.",
+                "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
