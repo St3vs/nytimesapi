@@ -15899,5 +15899,237 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: China and Europe Hit Back as U.S. Tariffs Kick In",
+        "abstract": "Stock markets wobbled, and turmoil spread to the bond market, after President Trump imposed a 104 percent tariff on Chinese goods and Beijing announced a levy on U.S. goods of 84 percent. The European Union also approved trade retaliation against the U.S.",
+        "url": "https://www.nytimes.com/live/2025/04/08/business/trump-tariffs-china-stock-market",
+        "uri": "nyt://promo/fcdddf6f-408d-57da-9d9e-139f5d75f077",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-09T11:24:59-04:00",
+        "created_date": "2025-04-09T03:25:45-04:00",
+        "published_date": "2025-04-09T03:25:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-1100-zbqj/09markets-1100-zbqj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Mcdermid/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-1100-zbqj/09markets-1100-zbqj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Mcdermid/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-1100-zbqj/09markets-1100-zbqj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Mcdermid/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "European Officials Approve Retaliatory Tariffs Against the U.S.",
+        "abstract": "The tariffs will take effect starting on April 15 and hit back at President Trump’s steel and aluminum levies. Further measures could come next.",
+        "url": "https://www.nytimes.com/2025/04/09/world/europe/eu-tariffs-trump.html",
+        "uri": "nyt://article/4c840077-7c5b-56ad-82f2-4a23cf07a880",
+        "byline": "By Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T10:48:52-04:00",
+        "created_date": "2025-04-09T05:04:30-04:00",
+        "published_date": "2025-04-09T05:04:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Aluminum",
+            "United States Politics and Government",
+            "United States International Relations",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "European Union"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-eu-tariffs-vbmg/09int-eu-tariffs-vbmg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The European Union is not in the business of responding “cent for cent,” said Maros Sefcovic, its trade commissioner. But officials say all options are on the table.",
+                "copyright": "Jean-Christophe Verhaegen/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-eu-tariffs-vbmg/09int-eu-tariffs-vbmg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The European Union is not in the business of responding “cent for cent,” said Maros Sefcovic, its trade commissioner. But officials say all options are on the table.",
+                "copyright": "Jean-Christophe Verhaegen/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-eu-tariffs-vbmg/09int-eu-tariffs-vbmg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The European Union is not in the business of responding “cent for cent,” said Maros Sefcovic, its trade commissioner. But officials say all options are on the table.",
+                "copyright": "Jean-Christophe Verhaegen/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Death Toll in Dominican Republic Roof Collapse Reaches 124",
+        "abstract": "The scene at a nightclub in Santo Domingo was increasingly grim as bodies but no more survivors were recovered.",
+        "url": "https://www.nytimes.com/2025/04/09/world/americas/dominican-republic-roof-collapse.html",
+        "uri": "nyt://article/369cee23-5230-5055-a708-808a72554071",
+        "byline": "By Frances Robles",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T11:07:44-04:00",
+        "created_date": "2025-04-09T07:37:33-04:00",
+        "published_date": "2025-04-09T07:37:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Fatalities)",
+            "Roofs",
+            "Bars and Nightclubs"
+        ],
+        "org_facet": [
+            "Major League Baseball"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Dominican Republic",
+            "Santo Domingo (Dominican Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-domincan-collapse-fhjl/09int-domincan-collapse-fhjl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue teams at Jet Set, the popular dance club in Santo Domingo, Dominican Republic, where the roof collapsed on Tuesday.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-domincan-collapse-fhjl/09int-domincan-collapse-fhjl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue teams at Jet Set, the popular dance club in Santo Domingo, Dominican Republic, where the roof collapsed on Tuesday.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-domincan-collapse-fhjl/09int-domincan-collapse-fhjl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue teams at Jet Set, the popular dance club in Santo Domingo, Dominican Republic, where the roof collapsed on Tuesday.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "Scientists Map Miles of Wiring in a Speck of Mouse Brain",
+        "abstract": "Scientists achieved “a milestone” by charting the activity and structure of 200,000 cells in a mouse brain and their 523 million connections.",
+        "url": "https://www.nytimes.com/2025/04/09/science/neuroscience-brain-mice-map.html",
+        "uri": "nyt://article/06a036b6-1e51-5cbb-a85a-46aa6fee8fb4",
+        "byline": "By Carl Zimmer",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T11:00:07-04:00",
+        "created_date": "2025-04-09T11:00:07-04:00",
+        "published_date": "2025-04-09T11:00:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "your-feed-science"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09hs-sci-mousebrain-01-hmjg/09hs-sci-mousebrain-01-hmjg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small fraction of the neurons that were mapped in one cubic millimeter of mouse brain.",
+                "copyright": "Allen Institute"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09hs-sci-mousebrain-01-hmjg/09hs-sci-mousebrain-01-hmjg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small fraction of the neurons that were mapped in one cubic millimeter of mouse brain.",
+                "copyright": "Allen Institute"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09hs-sci-mousebrain-01-hmjg/09hs-sci-mousebrain-01-hmjg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small fraction of the neurons that were mapped in one cubic millimeter of mouse brain.",
+                "copyright": "Allen Institute"
+            }
+        ],
+        "short_url": ""
     }
 ]
