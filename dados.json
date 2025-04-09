@@ -15526,5 +15526,194 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israeli Airstrike in Gaza City Leaves Many Dead, Health Officials There Say",
+        "abstract": "The strike on a home left other bodies buried under the rubble, according to the Gazan authorities. The Israeli military said it had been targeting a Hamas operative.",
+        "url": "https://www.nytimes.com/2025/04/09/world/middleeast/israel-gaza-city-strike-hamas.html",
+        "uri": "nyt://article/40c82349-0485-5e0a-9274-8e320ca84893",
+        "byline": "By Vivian Yee, Ameera Harouda, Rawan Sheikh Ahmad and Saher Alghorra",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T09:21:24-04:00",
+        "created_date": "2025-04-09T09:21:24-04:00",
+        "published_date": "2025-04-09T09:21:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip",
+            "Shajaiye (Gaza Strip)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-gaza-strike-01-czvw-promo/09int-gaza-strike-01-czvw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-gaza-strike-01-czvw-promo/09int-gaza-strike-01-czvw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-gaza-strike-01-czvw-promo/09int-gaza-strike-01-czvw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Congo Repatriates 3 Americans Sentenced to Death Over Failed Coup",
+        "abstract": "The men recently had their sentences commuted to life imprisonment for their role in an attempted coup last May in the central African nation.",
+        "url": "https://www.nytimes.com/2025/04/09/world/africa/congo-americans-coup.html",
+        "uri": "nyt://article/1b04ed1e-9d65-5ce0-a4e3-a27460418c32",
+        "byline": "By Elian Peltier",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T08:58:14-04:00",
+        "created_date": "2025-04-09T08:45:49-04:00",
+        "published_date": "2025-04-09T08:45:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Conflict Minerals and Resources"
+        ],
+        "org_facet": [
+            "State Department",
+            "March 23 Movement"
+        ],
+        "per_facet": [
+            "Malanga, Christian (1983-2024)",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Africa",
+            "Congo, Democratic Republic of (Congo-Kinshasa)",
+            "Kinshasa (Democratic Republic of Congo)",
+            "United States",
+            "Goma (Congo, Democratic Republic of)",
+            "Rwanda"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-congo-americans-jzfk/09int-congo-americans-jzfk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Benjamin Zalman-Polun, Marcel Malanga and Tyler Thompson waiting in September to hear the court verdict about the coup attempt, in Kinshasa, Democratic Republic of Congo.",
+                "copyright": "Samy Ntumba Shambuyi/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-congo-americans-jzfk/09int-congo-americans-jzfk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Benjamin Zalman-Polun, Marcel Malanga and Tyler Thompson waiting in September to hear the court verdict about the coup attempt, in Kinshasa, Democratic Republic of Congo.",
+                "copyright": "Samy Ntumba Shambuyi/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-congo-americans-jzfk/09int-congo-americans-jzfk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Benjamin Zalman-Polun, Marcel Malanga and Tyler Thompson waiting in September to hear the court verdict about the coup attempt, in Kinshasa, Democratic Republic of Congo.",
+                "copyright": "Samy Ntumba Shambuyi/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Death Toll in Dominican Republic Roof Collapse Reaches 113",
+        "abstract": "The scene at a nightclub in Santo Domingo was increasingly grim as bodies but no more survivors were recovered.",
+        "url": "https://www.nytimes.com/2025/04/09/world/americas/dominican-republic-roof-collapse.html",
+        "uri": "nyt://article/369cee23-5230-5055-a708-808a72554071",
+        "byline": "By Frances Robles",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T08:56:44-04:00",
+        "created_date": "2025-04-09T07:37:33-04:00",
+        "published_date": "2025-04-09T07:37:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Fatalities)",
+            "Roofs",
+            "Bars and Nightclubs"
+        ],
+        "org_facet": [
+            "Major League Baseball"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Dominican Republic",
+            "Santo Domingo (Dominican Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-domincan-collapse-fhjl/09int-domincan-collapse-fhjl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue teams at Jet Set, the popular dance club in Santo Domingo, Dominican Republic, where the roof collapsed on Tuesday.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-domincan-collapse-fhjl/09int-domincan-collapse-fhjl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue teams at Jet Set, the popular dance club in Santo Domingo, Dominican Republic, where the roof collapsed on Tuesday.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-domincan-collapse-fhjl/09int-domincan-collapse-fhjl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue teams at Jet Set, the popular dance club in Santo Domingo, Dominican Republic, where the roof collapsed on Tuesday.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
