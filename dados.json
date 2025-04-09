@@ -15715,5 +15715,189 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Tariff Live Updates: Wall Street Wobbles as Trump’s Trade War Escalates",
+        "abstract": "After President Trump imposed a 104 percent tariff on Chinese goods, Beijing announced a levy on U.S. goods of 84 percent. Stocks and bonds slumped as the European Union also approved trade retaliation against the United States.",
+        "url": "https://www.nytimes.com/live/2025/04/08/business/trump-tariffs-china-stock-market",
+        "uri": "nyt://promo/fcdddf6f-408d-57da-9d9e-139f5d75f077",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-09T10:14:37-04:00",
+        "created_date": "2025-04-09T03:25:45-04:00",
+        "published_date": "2025-04-09T03:25:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-update-qkpv/09markets-update-qkpv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Athit Perawongmetha/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-update-qkpv/09markets-update-qkpv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Athit Perawongmetha/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-update-qkpv/09markets-update-qkpv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Athit Perawongmetha/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Britain Lost Out on Euro Disney. Now It’s Getting a Universal Theme Park.",
+        "abstract": "A yet-to-be-named Universal Studios theme park will be the country’s largest tourist attraction when it opens in 2031. But studio executives have not yet said which characters will be featured.",
+        "url": "https://www.nytimes.com/2025/04/09/world/europe/britain-universal-theme-park.html",
+        "uri": "nyt://article/3312c900-2fd6-5117-a918-85f4a70049b1",
+        "byline": "By Michael D. Shear",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T09:55:42-04:00",
+        "created_date": "2025-04-09T09:53:29-04:00",
+        "published_date": "2025-04-09T09:53:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Amusement and Theme Parks",
+            "Travel and Vacations",
+            "Economic Conditions and Trends",
+            "Harry Potter (Fictional Character)"
+        ],
+        "org_facet": [
+            "Universal Pictures"
+        ],
+        "per_facet": [
+            "Nandy, Lisa (1979- )",
+            "Starmer, Keir"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "London (England)",
+            "Bedfordshire"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-UK-Theme-Park-mgcl/09int-UK-Theme-Park-mgcl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain, center, with renderings of the proposed Universal Studios theme park.",
+                "copyright": "Pool photo John Sibley"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-UK-Theme-Park-mgcl/09int-UK-Theme-Park-mgcl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain, center, with renderings of the proposed Universal Studios theme park.",
+                "copyright": "Pool photo John Sibley"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-UK-Theme-Park-mgcl/09int-UK-Theme-Park-mgcl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain, center, with renderings of the proposed Universal Studios theme park.",
+                "copyright": "Pool photo John Sibley"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Coalition Deal in Germany Clears Way for Friedrich Merz to Become Chancellor",
+        "abstract": "The agreement was concluded relatively quickly but still took about six and half weeks, during which the country had been virtually rudderless at a critical moment for Europe.",
+        "url": "https://www.nytimes.com/2025/04/09/world/europe/friedrich-merz-chancellor-coalition-deal.html",
+        "uri": "nyt://article/773130fb-8d8e-5f9a-96c6-dddf84cdb2cb",
+        "byline": "By Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T09:51:32-04:00",
+        "created_date": "2025-04-09T09:51:32-04:00",
+        "published_date": "2025-04-09T09:51:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Right-Wing Extremism and Alt-Right",
+            "International Relations",
+            "Elections"
+        ],
+        "org_facet": [
+            "Alternative for Germany",
+            "Christian Democratic Union (Germany)",
+            "Social Democratic Party (Germany)"
+        ],
+        "per_facet": [
+            "Merz, Friedrich"
+        ],
+        "geo_facet": [
+            "Germany",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-germany-coalition-01-mhzg/09int-germany-coalition-01-mhzg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz speaking in the Parliament in Berlin last month. He has been under tremendous pressure to get a coalition government moving.",
+                "copyright": "Liesa Johannssen/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-germany-coalition-01-mhzg/09int-germany-coalition-01-mhzg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz speaking in the Parliament in Berlin last month. He has been under tremendous pressure to get a coalition government moving.",
+                "copyright": "Liesa Johannssen/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-germany-coalition-01-mhzg/09int-germany-coalition-01-mhzg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz speaking in the Parliament in Berlin last month. He has been under tremendous pressure to get a coalition government moving.",
+                "copyright": "Liesa Johannssen/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
