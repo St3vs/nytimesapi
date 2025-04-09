@@ -14069,5 +14069,131 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Frantic Search for Survivors as Roof Collapse in Dominican Republic Kills at Least 79",
+        "abstract": "Heavy machinery and drones were part of a large search and rescue operation at the Jet Set nightclub in Santo Domingo, the capital.",
+        "url": "https://www.nytimes.com/2025/04/08/world/americas/dominican-republic-nightclub-collapse.html",
+        "uri": "nyt://article/6d669300-c80a-5283-89fe-7fafa51511ab",
+        "byline": "By Frances Robles and Hogla Enecia Pérez",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T20:39:16-04:00",
+        "created_date": "2025-04-08T07:29:16-04:00",
+        "published_date": "2025-04-08T07:29:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bars and Nightclubs",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Dominican Republic",
+            "Santo Domingo (Dominican Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-dominican-collapse-gphf/08int-dominican-collapse-gphf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1395,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers searching for survivors at the Jet Set nightclub after its roof collapsed during a merengue concert Tuesday in Santo Domingo, Dominican Republic.",
+                "copyright": "Eddy Vittini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-dominican-collapse-gphf/08int-dominican-collapse-gphf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers searching for survivors at the Jet Set nightclub after its roof collapsed during a merengue concert Tuesday in Santo Domingo, Dominican Republic.",
+                "copyright": "Eddy Vittini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-dominican-collapse-gphf/08int-dominican-collapse-gphf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers searching for survivors at the Jet Set nightclub after its roof collapsed during a merengue concert Tuesday in Santo Domingo, Dominican Republic.",
+                "copyright": "Eddy Vittini/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "U.S. Commanders Worry Yemen Campaign Will Drain Arms Needed to Deter China",
+        "abstract": "American military officials say the Pentagon might need to dip into stockpiles in Asia to replenish supplies in the Middle East, congressional aides say.",
+        "url": "https://www.nytimes.com/2025/04/08/us/politics/china-weapons-yemen-bombing.html",
+        "uri": "nyt://article/4dc28751-86a2-5f5b-864f-7dc369f840b9",
+        "byline": "By Edward Wong and Eric Schmitt",
+        "item_type": "Article",
+        "updated_date": "2025-04-08T19:10:18-04:00",
+        "created_date": "2025-04-08T19:10:18-04:00",
+        "published_date": "2025-04-08T19:10:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Defense and Military Forces",
+            "United States International Relations",
+            "Stockpiling",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "People's Liberation Army (China)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "East Asia",
+            "Far East, South and Southeast Asia and Pacific Areas",
+            "Red Sea",
+            "Middle East",
+            "Yemen"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-military-china1-vjzl/08dc-military-china1-vjzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A B-2 Spirit stealth bomber. The Pentagon has deployed two aircraft carriers, additional B-2 stealth bombers and fighter jets, as well as Patriot and THAAD air defenses to the Middle East.",
+                "copyright": "Carlos Barria/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-military-china1-vjzl/08dc-military-china1-vjzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A B-2 Spirit stealth bomber. The Pentagon has deployed two aircraft carriers, additional B-2 stealth bombers and fighter jets, as well as Patriot and THAAD air defenses to the Middle East.",
+                "copyright": "Carlos Barria/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08dc-military-china1-vjzl/08dc-military-china1-vjzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A B-2 Spirit stealth bomber. The Pentagon has deployed two aircraft carriers, additional B-2 stealth bombers and fighter jets, as well as Patriot and THAAD air defenses to the Middle East.",
+                "copyright": "Carlos Barria/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
