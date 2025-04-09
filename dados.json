@@ -14810,5 +14810,307 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Markets Slide Further as U.S. Imposes Punishing Tariffs",
+        "abstract": "President Trump’s latest moves included a 104 percent tariff on Chinese goods. Markets in Asia and Europe slumped as Beijing hit back with its own levies and European leaders were set to vote on retaliation measures.",
+        "url": "https://www.nytimes.com/live/2025/04/08/business/trump-tariffs-china-stock-market",
+        "uri": "nyt://promo/fcdddf6f-408d-57da-9d9e-139f5d75f077",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-09T06:21:07-04:00",
+        "created_date": "2025-04-09T03:25:45-04:00",
+        "published_date": "2025-04-09T03:25:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-promo-525am-hwvj/09markets-tariffs-promo-525am-hwvj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1150,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-promo-525am-hwvj/09markets-tariffs-promo-525am-hwvj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-promo-525am-hwvj/09markets-tariffs-promo-525am-hwvj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "For U.S. and China, a Risky Game of Chicken With No Off-Ramp in Sight",
+        "abstract": "Neither side wants to look weak by backing down on tariffs. But if their trade relationship collapses, the global consequences could be profound.",
+        "url": "https://www.nytimes.com/2025/04/09/world/asia/china-us-tariff-trade.html",
+        "uri": "nyt://article/ef66f17d-afd0-5188-a4e4-1bf5a088a9f1",
+        "byline": "By David Pierson and Berry Wang",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T06:03:33-04:00",
+        "created_date": "2025-04-09T05:56:11-04:00",
+        "published_date": "2025-04-09T05:56:11-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Relations",
+            "United States International Relations",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "Communist Party of China",
+            "Politburo Standing Committee of the Communist Party of China"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-diplo-hvlb/09int-china-diplo-hvlb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small factory in Guangzhou, China, that makes restaurant appliances. The Trump administration’s tariffs will ravage export-oriented companies along China’s eastern seaboard.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-diplo-hvlb/09int-china-diplo-hvlb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small factory in Guangzhou, China, that makes restaurant appliances. The Trump administration’s tariffs will ravage export-oriented companies along China’s eastern seaboard.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-diplo-hvlb/09int-china-diplo-hvlb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small factory in Guangzhou, China, that makes restaurant appliances. The Trump administration’s tariffs will ravage export-oriented companies along China’s eastern seaboard.",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "American Is Arrested in Thailand on Charges of Criticizing Royalty",
+        "abstract": "The U.S. State Department said it was alarmed at the arrest of Paul Chambers, a lecturer in civil-military relations, under Thailand’s strict lèse-majesté laws.",
+        "url": "https://www.nytimes.com/2025/04/09/us/paul-chambers-thailand-monarchy-arrest.html",
+        "uri": "nyt://article/0e45300f-e14f-53c3-9b7b-5d62b8a6c5a5",
+        "byline": "By Isabella Kwai",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T06:01:43-04:00",
+        "created_date": "2025-04-09T06:00:46-04:00",
+        "published_date": "2025-04-09T06:00:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Libel and Slander",
+            "Human Rights and Human Rights Violations",
+            "United States International Relations",
+            "Royal Families",
+            "Law and Legislation"
+        ],
+        "org_facet": [
+            "State Department"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Thailand"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09xp-thailand-mbzl/09xp-thailand-mbzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1600,
+                "width": 1200,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Paul Chambers, left, a lecturer in civil-military relations at Naresuan University, outside a police station in Phitsanulok, Thailand, on Tuesday.",
+                "copyright": "Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09xp-thailand-mbzl/09xp-thailand-mbzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Paul Chambers, left, a lecturer in civil-military relations at Naresuan University, outside a police station in Phitsanulok, Thailand, on Tuesday.",
+                "copyright": "Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09xp-thailand-mbzl/09xp-thailand-mbzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Paul Chambers, left, a lecturer in civil-military relations at Naresuan University, outside a police station in Phitsanulok, Thailand, on Tuesday.",
+                "copyright": "Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "China Dismisses Ukraine’s Assertion That ‘Many’ Chinese Are Fighting for Russia",
+        "abstract": "President Volodymyr Zelensky of Ukraine said that two Chinese men fighting alongside Russian troops had been captured and that there were “many more” on the battlefield.",
+        "url": "https://www.nytimes.com/2025/04/09/world/asia/china-ukraine-russia.html",
+        "uri": "nyt://article/4a353edc-07ce-51b0-ba78-fe6b02f7e9f9",
+        "byline": "By Berry Wang and Cassandra Vinograd",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T06:22:12-04:00",
+        "created_date": "2025-04-09T06:22:12-04:00",
+        "published_date": "2025-04-09T06:22:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Mercenaries and Private Military Contractors"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Xi Jinping",
+            "Zelensky, Volodymyr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-ukraine-gmpl/09int-china-ukraine-gmpl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1372,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lin Jian, a spokesman for China’s foreign ministry, said on Wednesday that Beijing was “verifying the relevant situation” about the two Chinese men captured fighting alongside Russian troops.",
+                "copyright": "Jessica Lee/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-ukraine-gmpl/09int-china-ukraine-gmpl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lin Jian, a spokesman for China’s foreign ministry, said on Wednesday that Beijing was “verifying the relevant situation” about the two Chinese men captured fighting alongside Russian troops.",
+                "copyright": "Jessica Lee/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-ukraine-gmpl/09int-china-ukraine-gmpl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lin Jian, a spokesman for China’s foreign ministry, said on Wednesday that Beijing was “verifying the relevant situation” about the two Chinese men captured fighting alongside Russian troops.",
+                "copyright": "Jessica Lee/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "U.S. Bond Sell-Off is Another Worrisome Echo of the Liz Truss Fiasco",
+        "abstract": "Yields on U.S. Treasuries rose Wednesday as investors sold government bonds, usually a haven. In Britain, a sustained version of that trend in 2022 led to a prime minister’s downfall.",
+        "url": "https://www.nytimes.com/2025/04/09/business/economy/us-bonds-trump-truss-treasury-yield.html",
+        "uri": "nyt://article/b915af54-c73e-51c7-8097-9808cb304985",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T06:08:15-04:00",
+        "created_date": "2025-04-09T06:05:45-04:00",
+        "published_date": "2025-04-09T06:05:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Stocks and Bonds",
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Truss, Elizabeth (1975- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-trump-truss-cmkt/09markets-tariffs-trump-truss-cmkt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former British Prime Minister Liz Truss triggered market turmoil in 2022 after she proposed sweeping tax cuts. She was forced to step down after 44 days in office.",
+                "copyright": "Tolga Akmen/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-trump-truss-cmkt/09markets-tariffs-trump-truss-cmkt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former British Prime Minister Liz Truss triggered market turmoil in 2022 after she proposed sweeping tax cuts. She was forced to step down after 44 days in office.",
+                "copyright": "Tolga Akmen/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-trump-truss-cmkt/09markets-tariffs-trump-truss-cmkt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former British Prime Minister Liz Truss triggered market turmoil in 2022 after she proposed sweeping tax cuts. She was forced to step down after 44 days in office.",
+                "copyright": "Tolga Akmen/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
     }
 ]
