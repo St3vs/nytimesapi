@@ -16247,5 +16247,119 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Tariff Live Updates: Trump Backs Down on Reciprocal Tariffs for 90 Days",
+        "abstract": "Stocks immediately made steep gains after President Trump’s reversal. But he said China would not be included, raising tariffs on its exports to 125 percent after Beijing announced a new round of retaliation.",
+        "url": "https://www.nytimes.com/live/2025/04/08/business/trump-tariffs-china-stock-market",
+        "uri": "nyt://promo/fcdddf6f-408d-57da-9d9e-139f5d75f077",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-09T14:24:54-04:00",
+        "created_date": "2025-04-09T03:25:45-04:00",
+        "published_date": "2025-04-09T03:25:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-200-jpbc/09markets-200-jpbc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1536,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-200-jpbc/09markets-200-jpbc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-200-jpbc/09markets-200-jpbc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "An Advance in Brain Research That Was Once Considered Impossible",
+        "abstract": "Scientists achieved “a milestone” by charting the activity and structure of 200,000 cells in a mouse brain and their 523 million connections.",
+        "url": "https://www.nytimes.com/2025/04/09/science/neuroscience-brain-mice-map.html",
+        "uri": "nyt://article/06a036b6-1e51-5cbb-a85a-46aa6fee8fb4",
+        "byline": "By Carl Zimmer",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T14:29:50-04:00",
+        "created_date": "2025-04-09T11:00:08-04:00",
+        "published_date": "2025-04-09T11:00:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "your-feed-science",
+            "Brain",
+            "Mice",
+            "Research"
+        ],
+        "org_facet": [
+            "Nature (Journal)",
+            "Allen Institute for Brain Science",
+            "Baylor College of Medicine",
+            "Princeton University"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09hs-sci-mousebrain-01-hmjg/09hs-sci-mousebrain-01-hmjg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small fraction of the neurons that were mapped in one cubic millimeter of mouse brain.",
+                "copyright": "Allen Institute"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09hs-sci-mousebrain-01-hmjg/09hs-sci-mousebrain-01-hmjg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small fraction of the neurons that were mapped in one cubic millimeter of mouse brain.",
+                "copyright": "Allen Institute"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09hs-sci-mousebrain-01-hmjg/09hs-sci-mousebrain-01-hmjg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A small fraction of the neurons that were mapped in one cubic millimeter of mouse brain.",
+                "copyright": "Allen Institute"
+            }
+        ],
+        "short_url": ""
     }
 ]
