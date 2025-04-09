@@ -15284,5 +15284,247 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Trade War Escalates as China Hits Back Again at U.S.",
+        "abstract": "After President Trump imposed a 104 percent tariff on Chinese goods, Beijing announced a levy on U.S. goods of 84 percent. Stocks and bonds slumped as Europe also prepared to retaliate against the United States.",
+        "url": "https://www.nytimes.com/live/2025/04/08/business/trump-tariffs-china-stock-market",
+        "uri": "nyt://promo/fcdddf6f-408d-57da-9d9e-139f5d75f077",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-09T08:42:50-04:00",
+        "created_date": "2025-04-09T03:25:45-04:00",
+        "published_date": "2025-04-09T03:25:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-live-promo720a-qjvw/09markets-tariffs-live-promo720a-qjvw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-live-promo720a-qjvw/09markets-tariffs-live-promo720a-qjvw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-live-promo720a-qjvw/09markets-tariffs-live-promo720a-qjvw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Netanyahu Sticks By Trump’s Brazen Proposal for Gazans to Leave",
+        "abstract": "Prime Minister Benjamin Netanyahu of Israel said his government was serious about “voluntary” migration, after an Oval Office meeting where President Trump appeared to have lost interest.",
+        "url": "https://www.nytimes.com/2025/04/09/world/middleeast/netanyahu-trump-gaza.html",
+        "uri": "nyt://article/9b263364-2b05-5a5d-ba05-82693a30dce0",
+        "byline": "By Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T08:16:17-04:00",
+        "created_date": "2025-04-09T08:16:17-04:00",
+        "published_date": "2025-04-09T08:16:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "United States International Relations",
+            "International Relations",
+            "Palestinians",
+            "Refugees and Displaced Persons",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Netanyahu, Benjamin",
+            "Trump, Donald J",
+            "Prabowo Subianto"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel",
+            "Indonesia",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-gaza-depopulation-01-cmhz/09int-gaza-depopulation-01-cmhz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1370,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Asked on Monday about Gaza emigration, President Trump said it was “a concept that I had,” and passed the question to Prime Minister Benjamin Netanyahu of Israel.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-gaza-depopulation-01-cmhz/09int-gaza-depopulation-01-cmhz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Asked on Monday about Gaza emigration, President Trump said it was “a concept that I had,” and passed the question to Prime Minister Benjamin Netanyahu of Israel.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-gaza-depopulation-01-cmhz/09int-gaza-depopulation-01-cmhz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Asked on Monday about Gaza emigration, President Trump said it was “a concept that I had,” and passed the question to Prime Minister Benjamin Netanyahu of Israel.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Paddington Returns to His Bench. Order Is Restored.",
+        "abstract": "Two men vandalized a statue of England’s beloved storybook bear last month. On Wednesday, he was returned to his bench in the town of Newbury — with a marmalade sandwich, of course.",
+        "url": "https://www.nytimes.com/2025/04/09/world/europe/paddington-bear-statue-stolen-newbury-uk.html",
+        "uri": "nyt://article/bc83e040-d167-5d0e-8e27-1f3ea4892236",
+        "byline": "By Claire Moses",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T07:58:35-04:00",
+        "created_date": "2025-04-09T07:58:35-04:00",
+        "published_date": "2025-04-09T07:58:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Vandalism",
+            "Sculpture",
+            "Restoration and Renovation",
+            "A Bear Called Paddington (Book)",
+            "Paddington (Movie)",
+            "Paddington in Peru (Movie)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "England"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09xp-paddington/09xp-paddington-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Paddington Bear is back in Newbury, England, enjoying a marmalade sandwich and the sunny weather.",
+                "copyright": "David Hartley/Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09xp-paddington/09xp-paddington-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Paddington Bear is back in Newbury, England, enjoying a marmalade sandwich and the sunny weather.",
+                "copyright": "David Hartley/Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09xp-paddington/09xp-paddington-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Paddington Bear is back in Newbury, England, enjoying a marmalade sandwich and the sunny weather.",
+                "copyright": "David Hartley/Shutterstock"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Death Toll in Dominican Republic Roof Collapse Hits 113",
+        "abstract": "The scene at a nightclub in Santo Domingo was increasingly grim, as bodies but no more survivors were recovered.",
+        "url": "https://www.nytimes.com/2025/04/09/world/americas/dominican-republic-roof-collapse.html",
+        "uri": "nyt://article/369cee23-5230-5055-a708-808a72554071",
+        "byline": "By Frances Robles",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T07:37:33-04:00",
+        "created_date": "2025-04-09T07:37:33-04:00",
+        "published_date": "2025-04-09T07:37:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Fatalities)",
+            "Roofs",
+            "Bars and Nightclubs"
+        ],
+        "org_facet": [
+            "Major League Baseball"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Dominican Republic",
+            "Santo Domingo (Dominican Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-domincan-collapse-fhjl/09int-domincan-collapse-fhjl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue teams at Jet Set, the popular dance club in Santo Domingo, Dominican Republic, where the roof collapsed on Tuesday.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-domincan-collapse-fhjl/09int-domincan-collapse-fhjl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue teams at Jet Set, the popular dance club in Santo Domingo, Dominican Republic, where the roof collapsed on Tuesday.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-domincan-collapse-fhjl/09int-domincan-collapse-fhjl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue teams at Jet Set, the popular dance club in Santo Domingo, Dominican Republic, where the roof collapsed on Tuesday.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
