@@ -14253,5 +14253,125 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Where Ukrainian Children Once Played, Piles of Toys Memorialize the Dead",
+        "abstract": "A Russian missile strike near a playground in central Ukraine killed 19 people, including nine children. The attack was a painful reminder that a cease-fire remains as distant as ever.",
+        "url": "https://www.nytimes.com/2025/04/09/world/europe/ukraine-kryvyi-ri-attack.html",
+        "uri": "nyt://article/9f537875-0c7c-5b78-9bf6-2f527bc899cb",
+        "byline": "By Constant Méheut, Evelina Riabenko, Daria Mitiuk and Finbarr O’Reilly",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T00:01:15-04:00",
+        "created_date": "2025-04-09T00:01:15-04:00",
+        "published_date": "2025-04-09T00:01:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Civilian Casualties",
+            "Deaths (Fatalities)",
+            "Funerals and Memorials",
+            "vis-photo"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Kryvyi Rih (Ukraine)",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09ukraine-strike-1-ljwq/09ukraine-strike-1-ljwq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A woman prays at a makeshift memorial in Kryvyi Rih, Ukraine, where a Russian Strike on Friday killed 19 people, including nine children.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09ukraine-strike-1-ljwq/09ukraine-strike-1-ljwq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A woman prays at a makeshift memorial in Kryvyi Rih, Ukraine, where a Russian Strike on Friday killed 19 people, including nine children.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09ukraine-strike-1-ljwq/09ukraine-strike-1-ljwq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A woman prays at a makeshift memorial in Kryvyi Rih, Ukraine, where a Russian Strike on Friday killed 19 people, including nine children.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "What Will Happen to the Handbags?",
+        "abstract": "As tariffs on the European Union take effect, luxury goods makers are “biting their nails” over their treasured “Made in France” or “Made in Italy” products.",
+        "url": "https://www.nytimes.com/2025/04/09/style/tariffs-eu-luxury-fashion.html",
+        "uri": "nyt://article/dd6c1c82-bddc-59d2-bec1-586c88e3159c",
+        "byline": "By Vanessa Friedman and Jacob Bernstein",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T00:00:06-04:00",
+        "created_date": "2025-04-09T00:00:06-04:00",
+        "published_date": "2025-04-09T00:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Fashion and Apparel",
+            "Luxury Goods and Services",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09biz-tariff-luxury-01-qvpc/09biz-tariff-luxury-01-qvpc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "American shoppers were behind 24 percent of global consumer spending on luxury goods last year.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09biz-tariff-luxury-01-qvpc/09biz-tariff-luxury-01-qvpc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "American shoppers were behind 24 percent of global consumer spending on luxury goods last year.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09biz-tariff-luxury-01-qvpc/09biz-tariff-luxury-01-qvpc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "American shoppers were behind 24 percent of global consumer spending on luxury goods last year.",
+                "copyright": "Karsten Moran for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
