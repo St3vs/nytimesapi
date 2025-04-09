@@ -16131,5 +16131,121 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Tariff Live Updates: Trump’s Trade War Escalates as China and Europe Hit Back",
+        "abstract": "President Trump imposed a 104 percent tariff on Chinese goods and Beijing announced a levy on U.S. goods of 84 percent. The European Union also approved trade retaliation against the U.S.",
+        "url": "https://www.nytimes.com/live/2025/04/08/business/trump-tariffs-china-stock-market",
+        "uri": "nyt://promo/fcdddf6f-408d-57da-9d9e-139f5d75f077",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-09T12:27:33-04:00",
+        "created_date": "2025-04-09T03:25:45-04:00",
+        "published_date": "2025-04-09T03:25:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-1100-zbqj/09markets-1100-zbqj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Mcdermid/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-1100-zbqj/09markets-1100-zbqj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Mcdermid/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-1100-zbqj/09markets-1100-zbqj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Mcdermid/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "The Trump Envoy Who Got Close to the ‘World’s Coolest Dictator’",
+        "abstract": "U.S. officials said Ronald Johnson’s actions during his time as ambassador to El Salvador seemed less aligned with U.S. interests and more focused on protecting the country’s president.",
+        "url": "https://www.nytimes.com/2025/04/09/world/americas/ronald-johnson-ambassador-el-salvador.html",
+        "uri": "nyt://article/7d2aed51-6a31-59f2-a6bb-2d9b36259de6",
+        "byline": "By Maria Abi-Habib",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T12:11:33-04:00",
+        "created_date": "2025-04-09T11:54:52-04:00",
+        "published_date": "2025-04-09T11:54:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Gangs"
+        ],
+        "org_facet": [
+            "El Faro",
+            "Mara Salvatrucha (MS-13)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Bukele, Nayib"
+        ],
+        "geo_facet": [
+            "El Salvador",
+            "Mexico",
+            "Latin America"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-Mexico-Ambassador-gwvm/08int-Mexico-Ambassador-gwvm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronald Johnson, President Trump’s nominee to be ambassador to Mexico, during a Senate confirmation hearing last month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-Mexico-Ambassador-gwvm/08int-Mexico-Ambassador-gwvm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronald Johnson, President Trump’s nominee to be ambassador to Mexico, during a Senate confirmation hearing last month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-Mexico-Ambassador-gwvm/08int-Mexico-Ambassador-gwvm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronald Johnson, President Trump’s nominee to be ambassador to Mexico, during a Senate confirmation hearing last month.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
