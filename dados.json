@@ -16982,5 +16982,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "New Generation of African Chocolatiers Would Be Hobbled by U.S. Tariffs",
+        "abstract": "The new levies come as nations on the continent continue to struggle with the fallout of the Trump administration’s dismantling of the U.S. Agency for International Development.",
+        "url": "https://www.nytimes.com/2025/04/09/world/africa/africa-tariffs-cocoa-chocolate.html",
+        "uri": "nyt://article/dcee8efe-8e28-593f-9d4c-d3c0b2ca7660",
+        "byline": "By Elian Peltier",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T17:27:11-04:00",
+        "created_date": "2025-04-09T05:02:20-04:00",
+        "published_date": "2025-04-09T05:02:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "Cocoa",
+            "Economic Conditions and Trends",
+            "Chocolate",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "United States Agency for International Development"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Africa",
+            "Ivory Coast"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08africa-cocoa-tariffs-1-jwcv/08africa-cocoa-tariffs-1-jwcv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dana Mroueh, left, owner of Mon Choco, in Abidjan, Ivory Coast, in 2019.",
+                "copyright": "Luc Gnago/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08africa-cocoa-tariffs-1-jwcv/08africa-cocoa-tariffs-1-jwcv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dana Mroueh, left, owner of Mon Choco, in Abidjan, Ivory Coast, in 2019.",
+                "copyright": "Luc Gnago/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08africa-cocoa-tariffs-1-jwcv/08africa-cocoa-tariffs-1-jwcv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dana Mroueh, left, owner of Mon Choco, in Abidjan, Ivory Coast, in 2019.",
+                "copyright": "Luc Gnago/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
