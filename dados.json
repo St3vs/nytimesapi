@@ -14493,5 +14493,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "China Censors Hashtags Mentioning ‘104%,’ the Size of Trump’s Tariffs",
+        "abstract": "State media drove social media discussions around phrases like: “America is fighting a trade war while begging for eggs.”",
+        "url": "https://www.nytimes.com/2025/04/09/world/asia/china-tariffs-censorship.html",
+        "uri": "nyt://article/22d7d955-f3bc-5915-bad3-c5022672be5c",
+        "byline": "By Vivian Wang",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T02:40:30-04:00",
+        "created_date": "2025-04-09T02:40:30-04:00",
+        "published_date": "2025-04-09T02:40:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Censorship",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "China Central Television",
+            "Communist Party of China",
+            "People's Daily",
+            "Weibo Corporation"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-china-messaging-lhwz/09markets-tariffs-china-messaging-lhwz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People crossing a street next to a screen showing a stocks indicator in Shanghai on Wednesday.",
+                "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-china-messaging-lhwz/09markets-tariffs-china-messaging-lhwz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People crossing a street next to a screen showing a stocks indicator in Shanghai on Wednesday.",
+                "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-china-messaging-lhwz/09markets-tariffs-china-messaging-lhwz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People crossing a street next to a screen showing a stocks indicator in Shanghai on Wednesday.",
+                "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
