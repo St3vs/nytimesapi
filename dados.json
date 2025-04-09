@@ -15112,5 +15112,177 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Trade War Escalates as China Hits Back Again at Trump",
+        "abstract": "After President Trump imposed a 104 percent tariff on Chinese goods, Beijing announced a levy on U.S. goods of 84 percent. Stocks and bonds slumped as Europe also prepared to retaliate against the United States.",
+        "url": "https://www.nytimes.com/live/2025/04/08/business/trump-tariffs-china-stock-market",
+        "uri": "nyt://promo/fcdddf6f-408d-57da-9d9e-139f5d75f077",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-09T07:15:01-04:00",
+        "created_date": "2025-04-09T03:25:45-04:00",
+        "published_date": "2025-04-09T03:25:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-live-promo640a-gmfp/09markets-tariffs-live-promo640a-gmfp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-live-promo640a-gmfp/09markets-tariffs-live-promo640a-gmfp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-live-promo640a-gmfp/09markets-tariffs-live-promo640a-gmfp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Frantic Search for Survivors as Roof Collapse in Dominican Republic Kills at Least 113",
+        "abstract": "Heavy machinery and drones were part of a large search and rescue operation at the Jet Set nightclub in Santo Domingo, the capital.",
+        "url": "https://www.nytimes.com/2025/04/08/world/americas/dominican-republic-nightclub-collapse.html",
+        "uri": "nyt://article/6d669300-c80a-5283-89fe-7fafa51511ab",
+        "byline": "By Frances Robles and Hogla Enecia Pérez",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T07:04:55-04:00",
+        "created_date": "2025-04-08T07:29:16-04:00",
+        "published_date": "2025-04-08T07:29:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bars and Nightclubs",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Dominican Republic",
+            "Santo Domingo (Dominican Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-dominican-collapse-gphf/08int-dominican-collapse-gphf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1395,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers searching for survivors at the Jet Set nightclub after its roof collapsed during a merengue concert Tuesday in Santo Domingo, Dominican Republic.",
+                "copyright": "Eddy Vittini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-dominican-collapse-gphf/08int-dominican-collapse-gphf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers searching for survivors at the Jet Set nightclub after its roof collapsed during a merengue concert Tuesday in Santo Domingo, Dominican Republic.",
+                "copyright": "Eddy Vittini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08int-dominican-collapse-gphf/08int-dominican-collapse-gphf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers searching for survivors at the Jet Set nightclub after its roof collapsed during a merengue concert Tuesday in Santo Domingo, Dominican Republic.",
+                "copyright": "Eddy Vittini/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India’s Millions of New Investors Are Reeling From Tariff Turmoil",
+        "abstract": "Legions of ordinary Indians have gone into stock trading, lured by easy online access and a market boom. Now many of them are getting a rude shock.",
+        "url": "https://www.nytimes.com/2025/04/09/world/asia/india-tariffs-stock-market.html",
+        "uri": "nyt://article/a0f71144-b280-52c9-8cb1-c437bd712e41",
+        "byline": "By Anupreeta Das, Pragati K.B. and Hari Kumar",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T07:10:48-04:00",
+        "created_date": "2025-04-09T07:10:48-04:00",
+        "published_date": "2025-04-09T07:10:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [
+            "Reserve Bank of India"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "India"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-india-tariffs-markets-vgck/09int-india-tariffs-markets-vgck-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Bombay Stock Exchange in Mumbai on Monday, when Indian stocks lost about $170 billion in value.",
+                "copyright": "Punit Paranjpe/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-india-tariffs-markets-vgck/09int-india-tariffs-markets-vgck-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Bombay Stock Exchange in Mumbai on Monday, when Indian stocks lost about $170 billion in value.",
+                "copyright": "Punit Paranjpe/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-india-tariffs-markets-vgck/09int-india-tariffs-markets-vgck-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Bombay Stock Exchange in Mumbai on Monday, when Indian stocks lost about $170 billion in value.",
+                "copyright": "Punit Paranjpe/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
