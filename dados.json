@@ -14554,5 +14554,261 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Islamic State Regains Strength in Syria",
+        "abstract": "The U.S. has sent more forces to Syria, tamping down on the immediate threat, but experts warn that the extremist group could break thousands of hardened fighters out of prison.",
+        "url": "https://www.nytimes.com/2025/04/09/world/middleeast/syria-isis-prisoners.html",
+        "uri": "nyt://article/ce439044-9d69-5530-8c66-b93ee5bddb00",
+        "byline": "By Alissa J. Rubin and Eric Schmitt",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T05:11:31-04:00",
+        "created_date": "2025-04-09T05:11:31-04:00",
+        "published_date": "2025-04-09T05:11:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "Kurds",
+            "United States Defense and Military Forces"
+        ],
+        "org_facet": [
+            "Islamic State in Iraq and Syria (ISIS)",
+            "Syrian Democratic Forces"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Syria",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00int-isis-syria-01-bplk/00int-isis-syria-01-bplk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Men accused of being Islamic State fighters last month in a cell Al-Sina Prison, run by the Syrian Democratic Forces, in Hasaka, Syria.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00int-isis-syria-01-bplk/00int-isis-syria-01-bplk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Men accused of being Islamic State fighters last month in a cell Al-Sina Prison, run by the Syrian Democratic Forces, in Hasaka, Syria.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00int-isis-syria-01-bplk/00int-isis-syria-01-bplk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Men accused of being Islamic State fighters last month in a cell Al-Sina Prison, run by the Syrian Democratic Forces, in Hasaka, Syria.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "European Officials to Vote Today on First Retaliatory Tariffs",
+        "abstract": "The European Union is poised to approve a plan to hit back at President Trump’s steel and aluminum levies. Further measures could come next.",
+        "url": "https://www.nytimes.com/2025/04/09/world/europe/eu-tariffs-trump.html",
+        "uri": "nyt://article/4c840077-7c5b-56ad-82f2-4a23cf07a880",
+        "byline": "By Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T05:04:29-04:00",
+        "created_date": "2025-04-09T05:04:29-04:00",
+        "published_date": "2025-04-09T05:04:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Aluminum",
+            "United States Politics and Government",
+            "United States International Relations",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "European Union"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-eu-tariffs-vbmg/09int-eu-tariffs-vbmg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The European Union is not in the business of responding “cent for cent,” said Maros Sefcovic, its trade commissioner. But officials insist all options are on the table.",
+                "copyright": "Jean-Christophe Verhaegen/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-eu-tariffs-vbmg/09int-eu-tariffs-vbmg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The European Union is not in the business of responding “cent for cent,” said Maros Sefcovic, its trade commissioner. But officials insist all options are on the table.",
+                "copyright": "Jean-Christophe Verhaegen/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-eu-tariffs-vbmg/09int-eu-tariffs-vbmg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The European Union is not in the business of responding “cent for cent,” said Maros Sefcovic, its trade commissioner. But officials insist all options are on the table.",
+                "copyright": "Jean-Christophe Verhaegen/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "New Generation of African Chocolatiers Gets Hobbled by U.S. Tariffs",
+        "abstract": "The new levies come as nations on the continent continue to struggle with the fallout of the Trump administration’s dismantling of the U.S. Agency for International Development.",
+        "url": "https://www.nytimes.com/2025/04/09/world/africa/africa-tariffs-cocoa-chocolate.html",
+        "uri": "nyt://article/dcee8efe-8e28-593f-9d4c-d3c0b2ca7660",
+        "byline": "By Elian Peltier",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T05:02:19-04:00",
+        "created_date": "2025-04-09T05:02:19-04:00",
+        "published_date": "2025-04-09T05:02:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "Cocoa",
+            "Economic Conditions and Trends",
+            "Chocolate",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "United States Agency for International Development"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Africa",
+            "Ivory Coast"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08africa-cocoa-tariffs-1-jwcv/08africa-cocoa-tariffs-1-jwcv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dana Mroueh, left, owner of Mon Choco, in Abidjan, Ivory Coast, in 2019.",
+                "copyright": "Luc Gnago/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08africa-cocoa-tariffs-1-jwcv/08africa-cocoa-tariffs-1-jwcv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dana Mroueh, left, owner of Mon Choco, in Abidjan, Ivory Coast, in 2019.",
+                "copyright": "Luc Gnago/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/08africa-cocoa-tariffs-1-jwcv/08africa-cocoa-tariffs-1-jwcv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dana Mroueh, left, owner of Mon Choco, in Abidjan, Ivory Coast, in 2019.",
+                "copyright": "Luc Gnago/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The Strange Case of an Hermès Heir, an Emir and a Deal Gone Wrong",
+        "abstract": "Nicolas Puech agreed to sell his multibillion-dollar stake in his family’s luxury goods empire to the royal family of Qatar, but then said he couldn’t gain access to his shares.",
+        "url": "https://www.nytimes.com/2025/04/09/world/europe/hermes-qatar-puech-deal.html",
+        "uri": "nyt://article/0f61df03-f877-5ae1-ae6d-829b1856d291",
+        "byline": "By Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T05:02:12-04:00",
+        "created_date": "2025-04-09T05:02:12-04:00",
+        "published_date": "2025-04-09T05:02:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Luxury Goods and Services",
+            "Fashion and Apparel",
+            "Suits and Litigation (Civil)",
+            "Royal Families"
+        ],
+        "org_facet": [
+            "Hermes International SA",
+            "LVMH Moet Hennessy Louis Vuitton SA"
+        ],
+        "per_facet": [
+            "Thani, Tamim bin Hamad al-",
+            "Arnault, Bernard"
+        ],
+        "geo_facet": [
+            "Switzerland",
+            "Qatar"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09hermes-add-mvzt/09hermes-add-mvzt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1358,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nicolas Puech at his hacienda in Aracena, Spain, in 2011.",
+                "copyright": "Bernard Bisson/JDD, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09hermes-add-mvzt/09hermes-add-mvzt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nicolas Puech at his hacienda in Aracena, Spain, in 2011.",
+                "copyright": "Bernard Bisson/JDD, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09hermes-add-mvzt/09hermes-add-mvzt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nicolas Puech at his hacienda in Aracena, Spain, in 2011.",
+                "copyright": "Bernard Bisson/JDD, via Shutterstock"
+            }
+        ],
+        "short_url": ""
     }
 ]
