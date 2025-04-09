@@ -16798,5 +16798,189 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Canada Vows to Use Billions From Trade Retaliation to Aid Workers and Businesses",
+        "abstract": "But exactly what the country will do remains unclear and the scale of the current disruption makes decision-making difficult.",
+        "url": "https://www.nytimes.com/2025/04/09/world/canada/canada-tariffs-business-aid.html",
+        "uri": "nyt://article/79bd958b-1869-58cd-965c-130721f97c9e",
+        "byline": "By Ian Austen",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T17:10:55-04:00",
+        "created_date": "2025-04-09T17:09:22-04:00",
+        "published_date": "2025-04-09T17:09:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Labor and Jobs",
+            "Layoffs and Job Reductions",
+            "United States International Relations",
+            "Factories and Manufacturing"
+        ],
+        "org_facet": [
+            "Business Development Bank of Canada",
+            "Stellantis NV"
+        ],
+        "per_facet": [
+            "Ford, Doug Jr (1964- )",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada",
+            "Ontario (Canada)",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09canada-tariff-relief-zmwf/09canada-tariff-relief-zmwf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A worker waving to his colleagues after finishing one of the final shifts before Stellantis’s Chrysler assembly facility in Windsor, Ontario, shuts down for two weeks.",
+                "copyright": "Carlos Osorio/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09canada-tariff-relief-zmwf/09canada-tariff-relief-zmwf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A worker waving to his colleagues after finishing one of the final shifts before Stellantis’s Chrysler assembly facility in Windsor, Ontario, shuts down for two weeks.",
+                "copyright": "Carlos Osorio/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09canada-tariff-relief-zmwf/09canada-tariff-relief-zmwf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A worker waving to his colleagues after finishing one of the final shifts before Stellantis’s Chrysler assembly facility in Windsor, Ontario, shuts down for two weeks.",
+                "copyright": "Carlos Osorio/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Thursday Briefing: Trump’s Tariff Reversal",
+        "abstract": "Plus, how your brain connects to ideology.",
+        "url": "https://www.nytimes.com/2025/04/09/briefing/tariff-reversal-syria-islamic-state-club-roof-collapse.html",
+        "uri": "nyt://article/3e7de3c7-1d20-5f8f-9df2-32e810215c7c",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T17:01:47-04:00",
+        "created_date": "2025-04-09T17:00:20-04:00",
+        "published_date": "2025-04-09T17:00:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10ambriefing-asia-trump-pzjq/10ambriefing-asia-trump-pzjq-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 2047,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10ambriefing-asia-trump-pzjq/10ambriefing-asia-trump-pzjq-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10ambriefing-asia-trump-pzjq/10ambriefing-asia-trump-pzjq-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Zelensky Doubles Down on Claim That Many Chinese Are Fighting for Russia",
+        "abstract": "Ukrainian President Volodymyr Zelensky said more than 150 Chinese men were fighting for Russia in Ukraine, hours after China dismissed claims that many of its citizens were involved in the war.",
+        "url": "https://www.nytimes.com/2025/04/09/world/asia/china-ukraine-russia.html",
+        "uri": "nyt://article/4a353edc-07ce-51b0-ba78-fe6b02f7e9f9",
+        "byline": "By Berry Wang, Cassandra Vinograd and Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T16:28:14-04:00",
+        "created_date": "2025-04-09T06:22:12-04:00",
+        "published_date": "2025-04-09T06:22:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Mercenaries and Private Military Contractors"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Xi Jinping",
+            "Zelensky, Volodymyr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-ukraine-gmpl/09int-china-ukraine-gmpl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1372,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lin Jian, a spokesman for China’s foreign ministry, disputed a Ukrainian claim that many Chinese volunteers were fighting for Russia in Ukraine, on Wednesday in Beijing.",
+                "copyright": "Jessica Lee/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-ukraine-gmpl/09int-china-ukraine-gmpl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lin Jian, a spokesman for China’s foreign ministry, disputed a Ukrainian claim that many Chinese volunteers were fighting for Russia in Ukraine, on Wednesday in Beijing.",
+                "copyright": "Jessica Lee/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-china-ukraine-gmpl/09int-china-ukraine-gmpl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lin Jian, a spokesman for China’s foreign ministry, disputed a Ukrainian claim that many Chinese volunteers were fighting for Russia in Ukraine, on Wednesday in Beijing.",
+                "copyright": "Jessica Lee/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
     }
 ]
