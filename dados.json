@@ -17045,5 +17045,121 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Markets Soar After Trump Backs Down on Tariffs",
+        "abstract": "The S&P 500 rose 9.5 percent after President Trump announced he would pause his “reciprocal” tariffs for 90 days, but economists warned that American importers were not out of danger.",
+        "url": "https://www.nytimes.com/live/2025/04/08/business/trump-tariffs-china-stock-market",
+        "uri": "nyt://promo/fcdddf6f-408d-57da-9d9e-139f5d75f077",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-09T18:49:18-04:00",
+        "created_date": "2025-04-09T03:25:45-04:00",
+        "published_date": "2025-04-09T03:25:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-promo-6pm-gpvh/09markets-tariffs-promo-6pm-gpvh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-promo-6pm-gpvh/09markets-tariffs-promo-6pm-gpvh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-promo-6pm-gpvh/09markets-tariffs-promo-6pm-gpvh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Trump Administration Cuts Funding and Staff for Flagship Climate Report",
+        "abstract": "The move raises concerns among scientists that the assessment, which is required by Congress, is now in jeopardy.",
+        "url": "https://www.nytimes.com/2025/04/09/climate/trump-national-climate-assessment.html",
+        "uri": "nyt://article/6dcaf68d-c0b1-5d2a-bfb4-27dbdfbebe12",
+        "byline": "By Brad Plumer",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T18:37:45-04:00",
+        "created_date": "2025-04-09T18:00:51-04:00",
+        "published_date": "2025-04-09T18:00:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "United States Politics and Government",
+            "Layoffs and Job Reductions",
+            "Government Contracts and Procurement",
+            "Presidential Election of 2024",
+            "Research"
+        ],
+        "org_facet": [
+            "US Global Change Research Program (USGCRP)"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09cli-assessment-jlvg/09cli-assessment-jlvg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flooding in Frankfort, Ky., this month. The next National Climate Assessment is due in 2027 or 2028.",
+                "copyright": "Michael Swensen/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09cli-assessment-jlvg/09cli-assessment-jlvg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flooding in Frankfort, Ky., this month. The next National Climate Assessment is due in 2027 or 2028.",
+                "copyright": "Michael Swensen/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09cli-assessment-jlvg/09cli-assessment-jlvg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flooding in Frankfort, Ky., this month. The next National Climate Assessment is due in 2027 or 2028.",
+                "copyright": "Michael Swensen/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
