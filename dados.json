@@ -16554,5 +16554,249 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Tariff Live Updates: Markets Soar After Trump Backs Down on Tariffs",
+        "abstract": "The S&P 500 rose 9.5 percent after President Trump announced he would pause his “reciprocal” tariffs for 90 days, but economists warned that American importers were not out of danger.",
+        "url": "https://www.nytimes.com/live/2025/04/08/business/trump-tariffs-china-stock-market",
+        "uri": "nyt://promo/fcdddf6f-408d-57da-9d9e-139f5d75f077",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-09T16:18:06-04:00",
+        "created_date": "2025-04-09T03:25:45-04:00",
+        "published_date": "2025-04-09T03:25:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-300-mzqv/09markets-300-mzqv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-300-mzqv/09markets-300-mzqv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-300-mzqv/09markets-300-mzqv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "A Dominican Club That Drew Bold-Face Names Became a Graveyard in a Flash",
+        "abstract": "The scene at the Jet Set nightclub in Santo Domingo, where the roof collapsed early Tuesday killing at least 144, was increasingly grim as bodies but no more survivors were recovered.",
+        "url": "https://www.nytimes.com/2025/04/09/world/americas/dominican-republic-roof-collapse.html",
+        "uri": "nyt://article/369cee23-5230-5055-a708-808a72554071",
+        "byline": "By Frances Robles",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T16:08:13-04:00",
+        "created_date": "2025-04-09T07:37:33-04:00",
+        "published_date": "2025-04-09T07:37:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Fatalities)",
+            "Roofs",
+            "Bars and Nightclubs"
+        ],
+        "org_facet": [
+            "Major League Baseball"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Dominican Republic",
+            "Santo Domingo (Dominican Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-dominican-collapse-02-mwlb/09int-dominican-collapse-02-mwlb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue teams working at the Jet Set nightclub a day after the collapse of its roof in Santo Domingo on Wednesday.",
+                "copyright": "Alfred Davies/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-dominican-collapse-02-mwlb/09int-dominican-collapse-02-mwlb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue teams working at the Jet Set nightclub a day after the collapse of its roof in Santo Domingo on Wednesday.",
+                "copyright": "Alfred Davies/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-dominican-collapse-02-mwlb/09int-dominican-collapse-02-mwlb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue teams working at the Jet Set nightclub a day after the collapse of its roof in Santo Domingo on Wednesday.",
+                "copyright": "Alfred Davies/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Netanyahu Sticks by Trump’s Brazen Proposal for Gazans to Leave",
+        "abstract": "Prime Minister Benjamin Netanyahu of Israel said his government was serious about “voluntary” migration, after an Oval Office meeting where President Trump appeared to have lost interest.",
+        "url": "https://www.nytimes.com/2025/04/09/world/middleeast/netanyahu-trump-gaza.html",
+        "uri": "nyt://article/9b263364-2b05-5a5d-ba05-82693a30dce0",
+        "byline": "By Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T15:37:10-04:00",
+        "created_date": "2025-04-09T08:16:17-04:00",
+        "published_date": "2025-04-09T08:16:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "United States International Relations",
+            "International Relations",
+            "Palestinians",
+            "Refugees and Displaced Persons",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Netanyahu, Benjamin",
+            "Trump, Donald J",
+            "Prabowo Subianto"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel",
+            "Indonesia",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-gaza-depopulation-01-cmhz/09int-gaza-depopulation-01-cmhz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1370,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Asked on Monday about Gaza emigration, President Trump said it was “a concept that I had,” and passed the question to Prime Minister Benjamin Netanyahu of Israel.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-gaza-depopulation-01-cmhz/09int-gaza-depopulation-01-cmhz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Asked on Monday about Gaza emigration, President Trump said it was “a concept that I had,” and passed the question to Prime Minister Benjamin Netanyahu of Israel.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09int-gaza-depopulation-01-cmhz/09int-gaza-depopulation-01-cmhz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Asked on Monday about Gaza emigration, President Trump said it was “a concept that I had,” and passed the question to Prime Minister Benjamin Netanyahu of Israel.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Reverses Course on Global Tariffs, Announcing 90-Day Pause",
+        "abstract": "The president also further raised already steep tariffs on China, saying that Beijing should not have retaliated against his earlier trade actions.",
+        "url": "https://www.nytimes.com/2025/04/09/us/politics/trump-tariffs-stocks-china.html",
+        "uri": "nyt://article/66852ae4-b61f-5a5c-a3c1-a0e293e08c06",
+        "byline": "By Ana Swanson and Tony Romm",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T16:16:38-04:00",
+        "created_date": "2025-04-09T16:16:38-04:00",
+        "published_date": "2025-04-09T16:16:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "United States Economy",
+            "United States International Relations",
+            "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Bessent, Scott"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09DC-TARIFFS-qlhm/09DC-TARIFFS-qlhm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Port of Los Angeles in San Pedro, California. Just hours after stiff levies went into effect on nearly 60 countries, President Trump said that he would pause them for 90 days.",
+                "copyright": "Maggie Shannon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09DC-TARIFFS-qlhm/09DC-TARIFFS-qlhm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Port of Los Angeles in San Pedro, California. Just hours after stiff levies went into effect on nearly 60 countries, President Trump said that he would pause them for 90 days.",
+                "copyright": "Maggie Shannon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09DC-TARIFFS-qlhm/09DC-TARIFFS-qlhm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Port of Los Angeles in San Pedro, California. Just hours after stiff levies went into effect on nearly 60 countries, President Trump said that he would pause them for 90 days.",
+                "copyright": "Maggie Shannon for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
