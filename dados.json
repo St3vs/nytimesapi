@@ -18470,5 +18470,201 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Plunge in Oil Prices Threatens Russia’s Vast Spending on Ukraine War",
+        "abstract": "The lower revenues, a result in part of President Trump’s trade war, could prove more damaging to the Russian economy than the penalties the United States and its allies have already imposed.",
+        "url": "https://www.nytimes.com/2025/04/10/world/europe/russia-oil-prices.html",
+        "uri": "nyt://article/dc876b0c-2dbd-5c42-9c93-a0dbeec6c859",
+        "byline": "By Anatoly Kurmanaev",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T09:26:47-04:00",
+        "created_date": "2025-04-10T05:02:32-04:00",
+        "published_date": "2025-04-10T05:02:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Embargoes and Sanctions",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Oil (Petroleum) and Gasoline",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Nabiullina, Elvira S",
+            "Putin, Vladimir V",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10russia-1-tpmq/10russia-1-tpmq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1362,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An oil refinery in Omsk, Russia, in 2023.",
+                "copyright": "Alexey Malgavko/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10russia-1-tpmq/10russia-1-tpmq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An oil refinery in Omsk, Russia, in 2023.",
+                "copyright": "Alexey Malgavko/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10russia-1-tpmq/10russia-1-tpmq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An oil refinery in Omsk, Russia, in 2023.",
+                "copyright": "Alexey Malgavko/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Asian Nations, Holding Few Cards, Seek Trade Talks With Trump",
+        "abstract": "Southeast Asian leaders are doubling down on trying to placate the U.S. president. “We may have to comply,” Thailand’s finance minister said of his demands.",
+        "url": "https://www.nytimes.com/2025/04/10/world/asia/trump-asia-trade-leverage.html",
+        "uri": "nyt://article/25271525-799d-50e8-bed8-8ac83d380757",
+        "byline": "By Sui-Lee Wee and Zunaira Saieed",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T09:25:08-04:00",
+        "created_date": "2025-04-10T09:25:08-04:00",
+        "published_date": "2025-04-10T09:25:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Economic Conditions and Trends",
+            "United States Politics and Government",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Assn of Southeast Asian Nations"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Bangkok (Thailand)",
+            "Cambodia",
+            "Malaysia",
+            "Philippines",
+            "Southeast Asia",
+            "Vietnam"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-asean-uncertainty-01-ftjw/10int-asean-uncertainty-01-ftjw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An electronics factory in Svay Rieng Province in Cambodia, near the border with Vietnam.",
+                "copyright": "Roman Knertser for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-asean-uncertainty-01-ftjw/10int-asean-uncertainty-01-ftjw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An electronics factory in Svay Rieng Province in Cambodia, near the border with Vietnam.",
+                "copyright": "Roman Knertser for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-asean-uncertainty-01-ftjw/10int-asean-uncertainty-01-ftjw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An electronics factory in Svay Rieng Province in Cambodia, near the border with Vietnam.",
+                "copyright": "Roman Knertser for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Fridrik Olafsson, Grandmaster Who Led Iceland’s Rise in Chess, Dies at 90",
+        "abstract": "At a time before his country became a chess powerhouse, he defeated four world champions, including Bobby Fischer and another in an unlikely turn of events.",
+        "url": "https://www.nytimes.com/2025/04/10/world/europe/fridrik-olafsson-dead.html",
+        "uri": "nyt://article/1e6891e8-ea1e-574e-b07b-f682dc24c0b7",
+        "byline": "By Dylan Loeb McClain",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T08:52:37-04:00",
+        "created_date": "2025-04-10T08:49:50-04:00",
+        "published_date": "2025-04-10T08:49:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Chess",
+            "Records and Achievements"
+        ],
+        "org_facet": [
+            "International Chess Federation"
+        ],
+        "per_facet": [
+            "Olafsson, Fridrik (1935-2025)",
+            "Karpov, Anatoly",
+            "Korchnoi, Viktor",
+            "Fischer, Bobby"
+        ],
+        "geo_facet": [
+            "Iceland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09Olafsson--02-hvmt/09Olafsson--02-hvmt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1578,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mr. Olafsson in 1976. He had taken a break from playing professionally until his passion for the game was reawakened in 1972 when a world championship tournament came to Iceland.",
+                "copyright": "BNA Photographic/Alamy"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09Olafsson--02-hvmt/09Olafsson--02-hvmt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 401,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mr. Olafsson in 1976. He had taken a break from playing professionally until his passion for the game was reawakened in 1972 when a world championship tournament came to Iceland.",
+                "copyright": "BNA Photographic/Alamy"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09Olafsson--02-hvmt/09Olafsson--02-hvmt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mr. Olafsson in 1976. He had taken a break from playing professionally until his passion for the game was reawakened in 1972 when a world championship tournament came to Iceland.",
+                "copyright": "BNA Photographic/Alamy"
+            }
+        ],
+        "short_url": ""
     }
 ]
