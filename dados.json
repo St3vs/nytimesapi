@@ -18221,5 +18221,254 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "In the English Town That’s Home to Jaguar Land Rover, ‘Everybody Is Nervous’",
+        "abstract": "President Trump’s auto tariffs remain in place even after he paused many other levies. In Solihull, where Jaguar Land Rover employs 9,000 people and has suspended exports to the United States, residents are anxious.",
+        "url": "https://www.nytimes.com/2025/04/10/world/europe/trump-auto-tariffs-uk-jaguar-land-rover.html",
+        "uri": "nyt://article/cceb5e8f-ffb2-5e89-a70c-e87459fbbd79",
+        "byline": "By Lizzie Dearden and Andrew Testa",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T08:23:57-04:00",
+        "created_date": "2025-04-10T05:02:49-04:00",
+        "published_date": "2025-04-10T05:02:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Factories and Manufacturing",
+            "Automobiles",
+            "Customs (Tariff)",
+            "Layoffs and Job Reductions",
+            "Labor and Jobs"
+        ],
+        "org_facet": [
+            "Jaguar Land Rover",
+            "Labour Party (Great Britain)"
+        ],
+        "per_facet": [
+            "Starmer, Keir",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "England",
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10INT-UK-JAGUAR-TARIFFS-promo/10INT-UK-JAGUAR-TARIFFS-01-jmtz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Jaguar Land Rover plant dominates the economy of Solihull.",
+                "copyright": "Andrew Testa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10INT-UK-JAGUAR-TARIFFS-promo/10INT-UK-JAGUAR-TARIFFS-01-jmtz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Jaguar Land Rover plant dominates the economy of Solihull.",
+                "copyright": "Andrew Testa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10INT-UK-JAGUAR-TARIFFS-promo/10INT-UK-JAGUAR-TARIFFS-01-jmtz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Jaguar Land Rover plant dominates the economy of Solihull.",
+                "copyright": "Andrew Testa for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Death Toll in Dominican Republic Nightclub Hits 218",
+        "abstract": "The number of dead in a roof collapse in Santo Domingo keeps rising. Officials have not said how many people were in the club at the time of the disaster.",
+        "url": "https://www.nytimes.com/2025/04/10/world/americas/dominican-republic-nightclub-collapse-deaths.html",
+        "uri": "nyt://article/94ca8c00-6f82-5ce0-b803-24aee9c5682b",
+        "byline": "By Frances Robles",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T08:35:32-04:00",
+        "created_date": "2025-04-10T08:35:32-04:00",
+        "published_date": "2025-04-10T08:35:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bars and Nightclubs",
+            "Deaths (Fatalities)",
+            "Roofs"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Dominican Republic"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-dominican-collapse-chgq/10int-dominican-collapse-chgq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers at the Jet Set nightclub in Santo Domingo, Dominican Republic, on Wednesday, the day after its roof collapsed, killing over 200 people.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-dominican-collapse-chgq/10int-dominican-collapse-chgq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers at the Jet Set nightclub in Santo Domingo, Dominican Republic, on Wednesday, the day after its roof collapsed, killing over 200 people.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-dominican-collapse-chgq/10int-dominican-collapse-chgq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers at the Jet Set nightclub in Santo Domingo, Dominican Republic, on Wednesday, the day after its roof collapsed, killing over 200 people.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Michelle Obama Addresses Divorce Rumors and Public Absences",
+        "abstract": "The former first lady said on a podcast that people “couldn’t even fathom that I was making a choice for myself, that they had to assume that my husband and I are divorcing.”",
+        "url": "https://www.nytimes.com/2025/04/10/us/michelle-obama-divorce-rumors.html",
+        "uri": "nyt://article/4c116ee7-fa98-58ca-8a25-6fae9de4b6e4",
+        "byline": "By Claire Moses",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T07:44:07-04:00",
+        "created_date": "2025-04-10T07:44:07-04:00",
+        "published_date": "2025-04-10T07:44:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Rumors and Misinformation",
+            "Podcasts",
+            "First Ladies (US)",
+            "Divorce, Separations and Annulments"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Bush, Sophia (1982- )",
+            "Obama, Michelle",
+            "Obama, Barack"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-michelle-bklm/10xp-michelle-bklm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Michelle Obama onstage at the South by Southwest Conference and Festival in Austin, Texas, in March.",
+                "copyright": "Marcus Ingram/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-michelle-bklm/10xp-michelle-bklm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Michelle Obama onstage at the South by Southwest Conference and Festival in Austin, Texas, in March.",
+                "copyright": "Marcus Ingram/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-michelle-bklm/10xp-michelle-bklm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Michelle Obama onstage at the South by Southwest Conference and Festival in Austin, Texas, in March.",
+                "copyright": "Marcus Ingram/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Hundreds of Israeli Air Force Reservists Call for Halt to Gaza War",
+        "abstract": "A letter signed by reservists and retired officers accused the government of endangering hostages held by Hamas, highlighting a growing divide over the handling of the war.",
+        "url": "https://www.nytimes.com/2025/04/10/world/middleeast/israel-gaza-hamas-hostages-air-force.html",
+        "uri": "nyt://article/6e190a4c-b43b-5682-b258-d4f20ce363ec",
+        "byline": "By Natan Odenheimer and Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T08:14:01-04:00",
+        "created_date": "2025-04-10T07:32:29-04:00",
+        "published_date": "2025-04-10T07:32:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Defense and Military Forces",
+            "Kidnapping and Hostages"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-israel-reservists-hctg/10int-israel-reservists-hctg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An Israeli air force jet flying over southern Israel last year.",
+                "copyright": "Abir Sultan/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-israel-reservists-hctg/10int-israel-reservists-hctg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An Israeli air force jet flying over southern Israel last year.",
+                "copyright": "Abir Sultan/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-israel-reservists-hctg/10int-israel-reservists-hctg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An Israeli air force jet flying over southern Israel last year.",
+                "copyright": "Abir Sultan/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
     }
 ]
