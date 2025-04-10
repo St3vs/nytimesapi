@@ -19276,5 +19276,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Can Nigeria Help Save the Pangolins Amid a Global Wildlife Crime Crisis?",
+        "abstract": "The country has been known as a hub for the trade in illegal wildlife. But it has been stepping up enforcement as concerns grow about the depletion of certain species and the growing role of international crime groups in animal trafficking.",
+        "url": "https://www.nytimes.com/2025/04/10/world/africa/pangolins-wildlife-trafficking-nigeria.html",
+        "uri": "nyt://article/ec414b86-b628-588e-9c43-5c877362d4a3",
+        "byline": "By Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T14:32:43-04:00",
+        "created_date": "2025-04-10T14:32:43-04:00",
+        "published_date": "2025-04-10T14:32:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Wildlife Trade and Poaching",
+            "Endangered and Extinct Species",
+            "Animals",
+            "Organized Crime",
+            "Pangolins"
+        ],
+        "org_facet": [
+            "Convention on International Trade in Endangered Species",
+            "Interpol (International Criminal Police Organization)",
+            "World Wildlife Fund"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Africa",
+            "Nigeria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10animal-trafficking-1-wkhm/10animal-trafficking-1-wkhm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescued pangolins bought off a wildlife seller in Lagos, Nigeria in 2020.",
+                "copyright": "Seun Sanni/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10animal-trafficking-1-wkhm/10animal-trafficking-1-wkhm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescued pangolins bought off a wildlife seller in Lagos, Nigeria in 2020.",
+                "copyright": "Seun Sanni/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10animal-trafficking-1-wkhm/10animal-trafficking-1-wkhm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescued pangolins bought off a wildlife seller in Lagos, Nigeria in 2020.",
+                "copyright": "Seun Sanni/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
