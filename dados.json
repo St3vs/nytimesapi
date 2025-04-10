@@ -18786,5 +18786,115 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: U.S. Market Tumbles; Trump Says China Tariff Is at Least 145%",
+        "abstract": "Stocks fell 4 percent by midday, as investors assessed the worsening trade war with China. The White House clarified the total new tariffs on Chinese goods now stands at 145 percent.",
+        "url": "https://www.nytimes.com/live/2025/04/10/business/trump-tariffs-stocks",
+        "uri": "nyt://promo/49aa2e1c-0890-5f53-b3b6-35224166f96a",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-10T12:09:37-04:00",
+        "created_date": "2025-04-10T06:08:55-04:00",
+        "published_date": "2025-04-10T06:08:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-11000-ghmv/10markets-11000-ghmv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Maggie Shannon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-11000-ghmv/10markets-11000-ghmv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Maggie Shannon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-11000-ghmv/10markets-11000-ghmv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Maggie Shannon for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Search Ends for Victims in Dominican Republic Collapse That Killed 221",
+        "abstract": "The collapse of the roof at Jet Set, one of Santo Domingo’s most popular nightclubs, killed many prominent Dominicans, including baseball players and politicians.",
+        "url": "https://www.nytimes.com/2025/04/10/world/americas/dominican-republic-nightclub-collapse-deaths.html",
+        "uri": "nyt://article/94ca8c00-6f82-5ce0-b803-24aee9c5682b",
+        "byline": "By Frances Robles",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T12:15:27-04:00",
+        "created_date": "2025-04-10T08:35:33-04:00",
+        "published_date": "2025-04-10T08:35:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bars and Nightclubs",
+            "Deaths (Fatalities)",
+            "Roofs"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Dominican Republic"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-dominican-collapse-chgq/10int-dominican-collapse-chgq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers at the Jet Set nightclub in Santo Domingo, Dominican Republic, on Wednesday, the day after its roof collapsed, killing over 200 people.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-dominican-collapse-chgq/10int-dominican-collapse-chgq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers at the Jet Set nightclub in Santo Domingo, Dominican Republic, on Wednesday, the day after its roof collapsed, killing over 200 people.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-dominican-collapse-chgq/10int-dominican-collapse-chgq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers at the Jet Set nightclub in Santo Domingo, Dominican Republic, on Wednesday, the day after its roof collapsed, killing over 200 people.",
+                "copyright": "Francesco Spotorno/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
