@@ -17675,5 +17675,307 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Markets Rise After Trump Backs Down on Tariffs",
+        "abstract": "Stocks in Asia and Europe rallied after President Trump paused punishing global levies. But U.S.-China trade tensions accelerated, and analysts cautioned that their full effects wouldn’t be felt for weeks.",
+        "url": "https://www.nytimes.com/live/2025/04/10/business/trump-tariffs-stocks",
+        "uri": "nyt://promo/49aa2e1c-0890-5f53-b3b6-35224166f96a",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-10T06:14:20-04:00",
+        "created_date": "2025-04-10T06:08:55-04:00",
+        "published_date": "2025-04-10T06:08:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-tariffs-promo-450am/10markets-tariffs-bzjv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1151,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-tariffs-promo-450am/10markets-tariffs-promo-450am-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-tariffs-promo-450am/10markets-tariffs-promo-450am-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "After Trump’s Pause, the European Union Takes a Moment to Reassess",
+        "abstract": "The bloc was about to enact retaliatory tariffs when President Trump made his last-minute U-turn. What comes next is unclear.",
+        "url": "https://www.nytimes.com/2025/04/10/world/europe/european-union-trump-tariffs-pause.html",
+        "uri": "nyt://article/4d610948-3df8-5a93-a276-03d47487e281",
+        "byline": "By Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T05:36:04-04:00",
+        "created_date": "2025-04-10T05:36:04-04:00",
+        "published_date": "2025-04-10T05:36:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "European Union",
+            "European Commission"
+        ],
+        "per_facet": [
+            "von der Leyen, Ursula",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Brussels (Belgium)",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-eu-pause-vwqb/10int-eu-pause-vwqb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A steel plant in Duisburg, Germany, on Wednesday. Europe’s planned retaliation was in response to metal-sector tariffs, and those levies appeared to be still in place.",
+                "copyright": "Sean Gallup/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-eu-pause-vwqb/10int-eu-pause-vwqb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A steel plant in Duisburg, Germany, on Wednesday. Europe’s planned retaliation was in response to metal-sector tariffs, and those levies appeared to be still in place.",
+                "copyright": "Sean Gallup/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-eu-pause-vwqb/10int-eu-pause-vwqb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A steel plant in Duisburg, Germany, on Wednesday. Europe’s planned retaliation was in response to metal-sector tariffs, and those levies appeared to be still in place.",
+                "copyright": "Sean Gallup/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia Freed a Detained American, Rubio Says",
+        "abstract": "The detainee, Ksenia Karelina, had been sentenced to 12 years in prison over a one-time donation to a Ukrainian charity group.",
+        "url": "https://www.nytimes.com/2025/04/10/world/europe/russia-us-ksenia-karelina-swap.html",
+        "uri": "nyt://article/039c11b0-d361-5823-8e74-5a726537be9a",
+        "byline": "By Nataliya Vasilyeva",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T05:34:58-04:00",
+        "created_date": "2025-04-10T05:34:58-04:00",
+        "published_date": "2025-04-10T05:34:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Karelina, Ksenia",
+            "Biden, Joseph R Jr",
+            "Rubio, Marco",
+            "Trump, Donald J",
+            "Witkoff, Steven",
+            "Putin, Vladimir V"
+        ],
+        "geo_facet": [
+            "Russia",
+            "United States",
+            "Abu Dhabi (United Arab Emirates)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10russia-us-swap-hqzl/10russia-us-swap-hqzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ksenia Karelina at a court in Yekaterinburg, Russia, in August.",
+                "copyright": "EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10russia-us-swap-hqzl/10russia-us-swap-hqzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 399,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ksenia Karelina at a court in Yekaterinburg, Russia, in August.",
+                "copyright": "EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10russia-us-swap-hqzl/10russia-us-swap-hqzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ksenia Karelina at a court in Yekaterinburg, Russia, in August.",
+                "copyright": "EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "How Hamas and the U.S. Tried to Strike a Hostage Deal",
+        "abstract": "Officials met Hamas three times, breaking with a policy against contacting a group the U.S. considers a terrorist organization. But Israeli opposition and shifting positions doomed the effort.",
+        "url": "https://www.nytimes.com/2025/04/10/world/middleeast/trump-israel-hamas-hostages.html",
+        "uri": "nyt://article/8101e4d2-a035-551c-a804-31d3dd05d44f",
+        "byline": "By Adam Rasgon and Ronen Bergman",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T06:03:33-04:00",
+        "created_date": "2025-04-10T05:42:40-04:00",
+        "published_date": "2025-04-10T05:42:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Kidnapping and Hostages",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [
+            "Witkoff, Steven"
+        ],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00int-us-hamas-01-qtvg/00int-us-hamas-01-qtvg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators holding posters of hostages, including Edan Alexander, a dual Israeli and American citizen, in Tel Aviv.",
+                "copyright": "Ahmad Gharabli/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00int-us-hamas-01-qtvg/00int-us-hamas-01-qtvg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators holding posters of hostages, including Edan Alexander, a dual Israeli and American citizen, in Tel Aviv.",
+                "copyright": "Ahmad Gharabli/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/03/multimedia/00int-us-hamas-01-qtvg/00int-us-hamas-01-qtvg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators holding posters of hostages, including Edan Alexander, a dual Israeli and American citizen, in Tel Aviv.",
+                "copyright": "Ahmad Gharabli/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Lawyers for American Scholar Fear Thailand Will Deport Him",
+        "abstract": "The scholar, Paul Chambers, was released on bail Thursday, but without his passport, his lawyers said. He has denied charges of insulting the Thai monarchy.",
+        "url": "https://www.nytimes.com/2025/04/10/world/asia/paul-chambers-thailand-release.html",
+        "uri": "nyt://article/1a530243-3160-5921-95c2-2535b34708f3",
+        "byline": "By John Yoon",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T05:36:53-04:00",
+        "created_date": "2025-04-10T04:31:15-04:00",
+        "published_date": "2025-04-10T04:31:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Libel and Slander"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Thailand"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/10xp-thailand/09xp-thailand-mbzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1600,
+                "width": 1200,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Paul Chambers, left, a lecturer in civil-military relations at Naresuan University, outside a police station in Phitsanulok, Thailand, on Tuesday.",
+                "copyright": "via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/10xp-thailand/10xp-thailand-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Paul Chambers, left, a lecturer in civil-military relations at Naresuan University, outside a police station in Phitsanulok, Thailand, on Tuesday.",
+                "copyright": "via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/10xp-thailand/10xp-thailand-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Paul Chambers, left, a lecturer in civil-military relations at Naresuan University, outside a police station in Phitsanulok, Thailand, on Tuesday.",
+                "copyright": "via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
