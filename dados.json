@@ -19089,5 +19089,192 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Turkey and Israel Aim to Avoid Clashes in Syria as Tensions Rise",
+        "abstract": "The two sides have started talks to prevent conflicts between their troops in Syria, amid a growing rivalry for influence in the region.",
+        "url": "https://www.nytimes.com/2025/04/10/world/middleeast/syria-turkey-israel-talks.html",
+        "uri": "nyt://article/efa215a6-f873-5f2c-9e97-ac8f5fccc24c",
+        "byline": "By Carlotta Gall",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T13:59:24-04:00",
+        "created_date": "2025-04-10T13:59:24-04:00",
+        "published_date": "2025-04-10T13:59:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Syria",
+            "Turkey",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-syria-israel-turkey-talks-lcvf/10int-syria-israel-turkey-talks-lcvf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene of an Israeli strike in Syria’s southern Hama governorate last week.",
+                "copyright": "Abdulaziz Ketaz/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-syria-israel-turkey-talks-lcvf/10int-syria-israel-turkey-talks-lcvf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene of an Israeli strike in Syria’s southern Hama governorate last week.",
+                "copyright": "Abdulaziz Ketaz/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-syria-israel-turkey-talks-lcvf/10int-syria-israel-turkey-talks-lcvf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene of an Israeli strike in Syria’s southern Hama governorate last week.",
+                "copyright": "Abdulaziz Ketaz/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Germany Is Falling Apart (Literally). Here’s How the New Government Might Fix It.",
+        "abstract": "Friedrich Merz, the incoming chancellor, persuaded lawmakers to let him spend more. Infrastructure will be the first order of business.",
+        "url": "https://www.nytimes.com/2025/04/10/world/europe/germany-new-government-infrastructure.html",
+        "uri": "nyt://article/396e9ed5-9f16-5e9a-a9ed-d4075882d94f",
+        "byline": "By Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T13:18:40-04:00",
+        "created_date": "2025-04-10T13:18:40-04:00",
+        "published_date": "2025-04-10T13:18:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Infrastructure (Public Works)",
+            "Urban Areas",
+            "Politics and Government",
+            "Constitutions",
+            "Railroads",
+            "Bridges and Tunnels",
+            "Budgets and Budgeting"
+        ],
+        "org_facet": [
+            "Christian Democratic Union (Germany)"
+        ],
+        "per_facet": [
+            "Merz, Friedrich"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00int-germany-infrastructure-zjwm/00int-germany-infrastructure-zjwm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A portion of a collapsed bridge in Dresden, Germany, in September. Falling bridges are one example of the country’s infrastructure struggles.",
+                "copyright": "Jens Schlueter/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00int-germany-infrastructure-zjwm/00int-germany-infrastructure-zjwm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A portion of a collapsed bridge in Dresden, Germany, in September. Falling bridges are one example of the country’s infrastructure struggles.",
+                "copyright": "Jens Schlueter/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00int-germany-infrastructure-zjwm/00int-germany-infrastructure-zjwm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A portion of a collapsed bridge in Dresden, Germany, in September. Falling bridges are one example of the country’s infrastructure struggles.",
+                "copyright": "Jens Schlueter/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Deepening Trade Fight With China Poses New Threat to U.S. Farmers",
+        "abstract": "Soybean producers warn that farms could go under as the Trump administration hits China with new tariffs of 145 percent.",
+        "url": "https://www.nytimes.com/2025/04/10/business/economy/trump-tariffs-china-farmers.html",
+        "uri": "nyt://article/fb786ded-b99c-571d-be54-6d10c16daf92",
+        "byline": "By Alan Rappeport",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T14:11:48-04:00",
+        "created_date": "2025-04-10T14:10:57-04:00",
+        "published_date": "2025-04-10T14:10:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "Agriculture and Farming",
+            "Soybeans",
+            "Protectionism (Trade)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-us-china-exports-bvlh/09markets-tariffs-us-china-exports-bvlh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1152,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The soybean industry is one of the sectors most concerned about tariff retaliation.",
+                "copyright": "Jim Vondruska/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-us-china-exports-bvlh/09markets-tariffs-us-china-exports-bvlh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The soybean industry is one of the sectors most concerned about tariff retaliation.",
+                "copyright": "Jim Vondruska/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-us-china-exports-bvlh/09markets-tariffs-us-china-exports-bvlh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The soybean industry is one of the sectors most concerned about tariff retaliation.",
+                "copyright": "Jim Vondruska/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
