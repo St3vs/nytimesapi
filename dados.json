@@ -17161,5 +17161,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "U.S. Bond Sell-Off Is Another Worrisome Echo of the Liz Truss Fiasco",
+        "abstract": "Yields on U.S. Treasuries rose Wednesday as investors sold government bonds, usually a haven. In Britain, a sustained version of that trend in 2022 led to a prime minister’s downfall.",
+        "url": "https://www.nytimes.com/2025/04/09/business/economy/us-bonds-trump-truss-treasury-yield.html",
+        "uri": "nyt://article/b915af54-c73e-51c7-8097-9808cb304985",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-09T22:23:01-04:00",
+        "created_date": "2025-04-09T06:05:45-04:00",
+        "published_date": "2025-04-09T06:05:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "Stocks and Bonds",
+            "United States Politics and Government",
+            "International Trade and World Market"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Truss, Elizabeth (1975- )"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-trump-truss-cmkt/09markets-tariffs-trump-truss-cmkt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former British Prime Minister Liz Truss triggered market turmoil in 2022 after she proposed sweeping tax cuts. She was forced to step down after 44 days in office.",
+                "copyright": "Tolga Akmen/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-trump-truss-cmkt/09markets-tariffs-trump-truss-cmkt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former British Prime Minister Liz Truss triggered market turmoil in 2022 after she proposed sweeping tax cuts. She was forced to step down after 44 days in office.",
+                "copyright": "Tolga Akmen/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/09markets-tariffs-trump-truss-cmkt/09markets-tariffs-trump-truss-cmkt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Former British Prime Minister Liz Truss triggered market turmoil in 2022 after she proposed sweeping tax cuts. She was forced to step down after 44 days in office.",
+                "copyright": "Tolga Akmen/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
     }
 ]
