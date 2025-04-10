@@ -18666,5 +18666,125 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: U.S. Market Rally Fades as China Trade Tensions Intensify",
+        "abstract": "Stocks slipped in early trading, as investors assessed the economic impact of trade negotiations. The European Union paused its retaliatory tariffs and said it wanted to give talks with President Trump a chance.",
+        "url": "https://www.nytimes.com/live/2025/04/10/business/trump-tariffs-stocks",
+        "uri": "nyt://promo/49aa2e1c-0890-5f53-b3b6-35224166f96a",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-10T10:13:23-04:00",
+        "created_date": "2025-04-10T06:08:55-04:00",
+        "published_date": "2025-04-10T06:08:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-tariffs-promo-715am-hgbk/10markets-tariffs-promo-715am-hgbk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1535,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-tariffs-promo-715am-hgbk/10markets-tariffs-promo-715am-hgbk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-tariffs-promo-715am-hgbk/10markets-tariffs-promo-715am-hgbk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Jaguar Paused Shipments to America. These Britons Blame Trump.",
+        "abstract": "President Trump’s auto tariffs remain in place even after he paused many other levies. In Solihull, where Jaguar Land Rover employs 9,000 people and has suspended exports to the United States, residents are anxious.",
+        "url": "https://www.nytimes.com/2025/04/10/world/europe/trump-auto-tariffs-uk-jaguar-land-rover.html",
+        "uri": "nyt://article/cceb5e8f-ffb2-5e89-a70c-e87459fbbd79",
+        "byline": "By Lizzie Dearden and Andrew Testa",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T09:31:42-04:00",
+        "created_date": "2025-04-10T05:02:49-04:00",
+        "published_date": "2025-04-10T05:02:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Factories and Manufacturing",
+            "Automobiles",
+            "Customs (Tariff)",
+            "Layoffs and Job Reductions",
+            "Labor and Jobs"
+        ],
+        "org_facet": [
+            "Jaguar Land Rover",
+            "Labour Party (Great Britain)"
+        ],
+        "per_facet": [
+            "Starmer, Keir",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "England",
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10INT-UK-JAGUAR-TARIFFS-promo/10INT-UK-JAGUAR-TARIFFS-01-jmtz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Jaguar Land Rover plant dominates the economy of Solihull.",
+                "copyright": "Andrew Testa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10INT-UK-JAGUAR-TARIFFS-promo/10INT-UK-JAGUAR-TARIFFS-01-jmtz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Jaguar Land Rover plant dominates the economy of Solihull.",
+                "copyright": "Andrew Testa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10INT-UK-JAGUAR-TARIFFS-promo/10INT-UK-JAGUAR-TARIFFS-01-jmtz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Jaguar Land Rover plant dominates the economy of Solihull.",
+                "copyright": "Andrew Testa for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
