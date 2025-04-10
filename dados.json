@@ -19341,5 +19341,185 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Stocks Dive Again as Angst Rises Over Trump’s Trade War",
+        "abstract": "The S&P 500 fell 3.5 percent by the closing bell, erasing part of Wednesday’s recovery, as fears grew the worsening trade war with China will crimp growth.",
+        "url": "https://www.nytimes.com/live/2025/04/10/business/trump-tariffs-stocks",
+        "uri": "nyt://promo/49aa2e1c-0890-5f53-b3b6-35224166f96a",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-10T16:13:11-04:00",
+        "created_date": "2025-04-10T06:08:55-04:00",
+        "published_date": "2025-04-10T06:08:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-400-hqpz/10markets-400-hqpz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-400-hqpz/10markets-400-hqpz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-400-hqpz/10markets-400-hqpz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "U.S. Ambassador to Ukraine Steps Down Amid Strained Ties Under Trump",
+        "abstract": "The departure may complicate the already delicate relationship between Washington and Kyiv, which has been stressed by President Trump’s efforts to end the war.",
+        "url": "https://www.nytimes.com/2025/04/10/world/europe/us-ukraine-ambassador-resigns.html",
+        "uri": "nyt://article/613edfd7-3e74-5ce5-91bc-b9a3af99e8f0",
+        "byline": "By Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T15:35:35-04:00",
+        "created_date": "2025-04-10T15:35:35-04:00",
+        "published_date": "2025-04-10T15:35:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Foreign Aid",
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Brink, Bridget",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Ukraine",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10ukraine-ambassador-1-hwcp/10ukraine-ambassador-1-hwcp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bridget A. Brink, the U.S. ambassador to Ukraine, in Kyiv in 2022.",
+                "copyright": "Christopher Furlong/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10ukraine-ambassador-1-hwcp/10ukraine-ambassador-1-hwcp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bridget A. Brink, the U.S. ambassador to Ukraine, in Kyiv in 2022.",
+                "copyright": "Christopher Furlong/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10ukraine-ambassador-1-hwcp/10ukraine-ambassador-1-hwcp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bridget A. Brink, the U.S. ambassador to Ukraine, in Kyiv in 2022.",
+                "copyright": "Christopher Furlong/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Kim Shin-jo, 82, Failed North Korean Assassin, Dies as Pastor in the South",
+        "abstract": "He famously said the mission of a hit squad sent by Pyongyang in 1968 was to “slit the throat” of the South Korean dictator Park Chung-hee.",
+        "url": "https://www.nytimes.com/2025/04/10/world/asia/kim-shin-jo-dead.html",
+        "uri": "nyt://article/bebc7a17-c0e0-59fd-94b1-8dc0d4655a34",
+        "byline": "By Choe Sang-Hun",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T15:26:43-04:00",
+        "created_date": "2025-04-10T00:22:41-04:00",
+        "published_date": "2025-04-10T00:22:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Assassinations and Attempted Assassinations",
+            "Defectors (Political)",
+            "Cold War Era"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Park Chung-hee",
+            "Kim Il-sung"
+        ],
+        "geo_facet": [
+            "South Korea",
+            "North Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/10int-skorea-obit-jlfq-print1/10int-skorea-obit-jlfq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1373,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Shin-jo, the North Korean commando sent with a hit squad in 1968 to kill the then dictator of South Korea was the only one captured.",
+                "copyright": "United Press International/Bettmann Archive, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/10int-skorea-obit-jlfq-print1/10int-skorea-obit-jlfq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Shin-jo, the North Korean commando sent with a hit squad in 1968 to kill the then dictator of South Korea was the only one captured.",
+                "copyright": "United Press International/Bettmann Archive, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/10int-skorea-obit-jlfq-print1/10int-skorea-obit-jlfq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Shin-jo, the North Korean commando sent with a hit squad in 1968 to kill the then dictator of South Korea was the only one captured.",
+                "copyright": "United Press International/Bettmann Archive, via Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
