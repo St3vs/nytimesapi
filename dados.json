@@ -17223,5 +17223,131 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Kim Shin-jo, a Failed North Korean Assassin, Dies as a Pastor in the South",
+        "abstract": "Kim Shin-jo famously said the mission of a hit squad sent by Pyongyang in 1968 was to “slit the throat” of the then South Korean dictator Park Chung-hee.",
+        "url": "https://www.nytimes.com/2025/04/10/world/asia/kim-shin-jo-dead.html",
+        "uri": "nyt://article/bebc7a17-c0e0-59fd-94b1-8dc0d4655a34",
+        "byline": "By Choe Sang-Hun",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T00:22:40-04:00",
+        "created_date": "2025-04-10T00:22:40-04:00",
+        "published_date": "2025-04-10T00:22:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Assassinations and Attempted Assassinations",
+            "Defectors (Political)",
+            "Cold War Era"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Park Chung-hee",
+            "Kim Il-sung"
+        ],
+        "geo_facet": [
+            "South Korea",
+            "North Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-skorea-obit-jlfq/10int-skorea-obit-jlfq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1373,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Shin-jo, the North Korean commando sent with a hit squad in 1968 to kill the then dictator of South Korea was the only one captured.",
+                "copyright": "United Press International/Bettmann Archive, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-skorea-obit-jlfq/10int-skorea-obit-jlfq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Shin-jo, the North Korean commando sent with a hit squad in 1968 to kill the then dictator of South Korea was the only one captured.",
+                "copyright": "United Press International/Bettmann Archive, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-skorea-obit-jlfq/10int-skorea-obit-jlfq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Shin-jo, the North Korean commando sent with a hit squad in 1968 to kill the then dictator of South Korea was the only one captured.",
+                "copyright": "United Press International/Bettmann Archive, via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How a Ukrainian Teen Became a Suspected Foot Soldier for Russia",
+        "abstract": "The teenager faces terrorism charges in an arson attack on an IKEA store in Lithuania. Investigators say it was part of a Russian sabotage campaign.",
+        "url": "https://www.nytimes.com/2025/04/10/world/europe/lithuania-ikea-fire-russia-sabotage.html",
+        "uri": "nyt://article/6d3dc092-29a7-5701-adfa-5f6cd7134010",
+        "byline": "By Andrew Higgins and Tomas Dapkus",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T00:01:05-04:00",
+        "created_date": "2025-04-10T00:01:05-04:00",
+        "published_date": "2025-04-10T00:01:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Terrorism",
+            "Espionage and Intelligence Services"
+        ],
+        "org_facet": [
+            "GRU (Russia)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Baltic Region",
+            "Kherson (Ukraine)",
+            "Lithuania",
+            "Poland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/world/10int-lithuania-sabotage/10int-lithuania-sabotage-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Ikea in Vilnius, Lithuania, where Daniil Bardadim is accused of planting an incendiary device.",
+                "copyright": "Vytautas Kielaitis/Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/world/10int-lithuania-sabotage/10int-lithuania-sabotage-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Ikea in Vilnius, Lithuania, where Daniil Bardadim is accused of planting an incendiary device.",
+                "copyright": "Vytautas Kielaitis/Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/world/10int-lithuania-sabotage/10int-lithuania-sabotage-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Ikea in Vilnius, Lithuania, where Daniil Bardadim is accused of planting an incendiary device.",
+                "copyright": "Vytautas Kielaitis/Shutterstock"
+            }
+        ],
+        "short_url": ""
     }
 ]
