@@ -17977,5 +17977,249 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: E.U. Pauses New Tariffs on U.S. Goods After Trump Backs Down",
+        "abstract": "The European Union said it wanted to give talks with President Trump a chance. Stocks in Asia and Europe rallied in response to the president’s change of course, but U.S.-China trade tensions accelerated.",
+        "url": "https://www.nytimes.com/live/2025/04/10/business/trump-tariffs-stocks",
+        "uri": "nyt://promo/49aa2e1c-0890-5f53-b3b6-35224166f96a",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-10T07:14:24-04:00",
+        "created_date": "2025-04-10T06:08:55-04:00",
+        "published_date": "2025-04-10T06:08:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-tariffs-promo-630am-wtjl/10markets-tariffs-promo-630am-wtjl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1150,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-tariffs-promo-630am-wtjl/10markets-tariffs-promo-630am-wtjl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-tariffs-promo-630am-wtjl/10markets-tariffs-promo-630am-wtjl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "After Trump’s Pause, E.U. Delays Retaliation to Allow Talks",
+        "abstract": "The bloc had voted to impose tit-for-tat tariffs just before President Trump made his last-minute U-turn. It has now announced a postponement.",
+        "url": "https://www.nytimes.com/2025/04/10/world/europe/european-union-trump-tariffs-pause.html",
+        "uri": "nyt://article/4d610948-3df8-5a93-a276-03d47487e281",
+        "byline": "By Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T07:13:35-04:00",
+        "created_date": "2025-04-10T05:36:05-04:00",
+        "published_date": "2025-04-10T05:36:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "European Union",
+            "European Commission"
+        ],
+        "per_facet": [
+            "von der Leyen, Ursula",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Brussels (Belgium)",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-eu-pause-vwqb/10int-eu-pause-vwqb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A steel plant in Duisburg, Germany, on Wednesday. Europe’s planned retaliation was in response to metal-sector tariffs, and those levies appeared to be still in place.",
+                "copyright": "Sean Gallup/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-eu-pause-vwqb/10int-eu-pause-vwqb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A steel plant in Duisburg, Germany, on Wednesday. Europe’s planned retaliation was in response to metal-sector tariffs, and those levies appeared to be still in place.",
+                "copyright": "Sean Gallup/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-eu-pause-vwqb/10int-eu-pause-vwqb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A steel plant in Duisburg, Germany, on Wednesday. Europe’s planned retaliation was in response to metal-sector tariffs, and those levies appeared to be still in place.",
+                "copyright": "Sean Gallup/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia Frees Jailed American in Prisoner Swap With U.S.",
+        "abstract": "The American, Ksenia Karelina, had been sentenced to prison over a one-time donation to a Ukrainian charity group. She was released in exchange for Arthur Petrov, a citizen of Russia and Germany.",
+        "url": "https://www.nytimes.com/2025/04/10/world/europe/russia-us-ksenia-karelina-swap.html",
+        "uri": "nyt://article/039c11b0-d361-5823-8e74-5a726537be9a",
+        "byline": "By Nataliya Vasilyeva",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T06:30:59-04:00",
+        "created_date": "2025-04-10T05:34:59-04:00",
+        "published_date": "2025-04-10T05:34:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Karelina, Ksenia",
+            "Biden, Joseph R Jr",
+            "Rubio, Marco",
+            "Trump, Donald J",
+            "Witkoff, Steven",
+            "Putin, Vladimir V"
+        ],
+        "geo_facet": [
+            "Russia",
+            "United States",
+            "Abu Dhabi (United Arab Emirates)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10russia-us-swap-hqzl/10russia-us-swap-hqzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ksenia Karelina at a court in Yekaterinburg, Russia, in August.",
+                "copyright": "EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10russia-us-swap-hqzl/10russia-us-swap-hqzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 399,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ksenia Karelina at a court in Yekaterinburg, Russia, in August.",
+                "copyright": "EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10russia-us-swap-hqzl/10russia-us-swap-hqzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ksenia Karelina at a court in Yekaterinburg, Russia, in August.",
+                "copyright": "EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "China Says Its Own Consumers Will Save the Day. But They’re Not Buying.",
+        "abstract": "If sky-high U.S. tariffs hurt China’s exports, domestic spending will help make up for it, Beijing says. But shoppers were skittish even before the trade war.",
+        "url": "https://www.nytimes.com/2025/04/10/world/asia/china-trump-tariffs-consumers.html",
+        "uri": "nyt://article/af2b670f-f832-5e91-b439-8dba94b43b91",
+        "byline": "By Vivian Wang",
+        "item_type": "Article",
+        "updated_date": "2025-04-10T07:07:44-04:00",
+        "created_date": "2025-04-10T07:07:44-04:00",
+        "published_date": "2025-04-10T07:07:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Prices (Fares, Fees and Rates)",
+            "Customs (Tariff)",
+            "Wines"
+        ],
+        "org_facet": [
+            "Communist Party of China",
+            "Ministry of Commerce (China)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00int-china-consumers-01-hfpb/00int-china-consumers-01-hfpb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A night market in Guangzhou, China, on Monday. ",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00int-china-consumers-01-hfpb/00int-china-consumers-01-hfpb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A night market in Guangzhou, China, on Monday. ",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00int-china-consumers-01-hfpb/00int-china-consumers-01-hfpb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A night market in Guangzhou, China, on Monday. ",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
