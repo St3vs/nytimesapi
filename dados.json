@@ -21687,5 +21687,57 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Stocks Post Gains, but Bond Market Signals Investors Are Anxious",
+        "abstract": "The slumping dollar and increase in yields on U.S. government bonds were signs that the world’s faith in the United States economy had been shaken.",
+        "url": "https://www.nytimes.com/live/2025/04/11/business/trump-tariffs-stocks-china",
+        "uri": "nyt://promo/fdcd8bfe-ee8e-5412-b1ad-45f28eb423c1",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-11T19:05:13-04:00",
+        "created_date": "2025-04-11T04:53:09-04:00",
+        "published_date": "2025-04-11T04:53:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11markets-tariffs-live-promo600p-zklq/11markets-tariffs-live-promo600p-zklq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11markets-tariffs-live-promo600p-zklq/11markets-tariffs-live-promo600p-zklq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11markets-tariffs-live-promo600p-zklq/11markets-tariffs-live-promo600p-zklq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
