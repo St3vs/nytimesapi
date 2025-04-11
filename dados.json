@@ -20066,5 +20066,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "A Deadly Earthquake Rocks a Pillar of a Buddhist Nation: Its Monks",
+        "abstract": "The people of Myanmar have often turned to the clergy for aid during natural disasters. But last month’s earthquake was also devastating for monks, many of whom died under the rubble of collapsed monasteries.",
+        "url": "https://www.nytimes.com/2025/04/11/world/asia/myanmar-quake-buddhism.html",
+        "uri": "nyt://article/60552f6a-32d4-5c20-a0b1-21d6ea7c2919",
+        "byline": "By Sui-Lee Wee",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T03:00:05-04:00",
+        "created_date": "2025-04-11T03:00:05-04:00",
+        "published_date": "2025-04-11T03:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Myanmar Earthquake (March 28, 2025)",
+            "Monasteries and Monks",
+            "Buddhism",
+            "Earthquakes",
+            "Disasters and Emergencies",
+            "Clergy",
+            "Funerals and Memorials"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Mandalay (Myanmar)",
+            "Myanmar"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00int-myanmar-monks-01-kplt/00int-myanmar-monks-01-kplt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 853,
+                "width": 1280,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Old Masoeyein monastery, in Mandalay, Myanmar, after it was destroyed by the earthquake.",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00int-myanmar-monks-01-kplt/00int-myanmar-monks-01-kplt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Old Masoeyein monastery, in Mandalay, Myanmar, after it was destroyed by the earthquake.",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00int-myanmar-monks-01-kplt/00int-myanmar-monks-01-kplt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Old Masoeyein monastery, in Mandalay, Myanmar, after it was destroyed by the earthquake.",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
