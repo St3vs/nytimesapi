@@ -20333,5 +20333,129 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Spanish Citizen Who Died in Hudson River Helicopter Crash Was Siemens Executive",
+        "abstract": "Agustín Escobar was killed on Thursday along with his wife and their three children, who have not been publicly named. The pilot also died in the crash, officials said.",
+        "url": "https://www.nytimes.com/2025/04/11/world/europe/hudson-river-helicopter-crash-dead-spain-siemens-agustin-escobar.html",
+        "uri": "nyt://article/e46f228c-1102-5591-9f1e-3040eb918105",
+        "byline": "By José Bautista and Lynsey Chutel",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T05:32:25-04:00",
+        "created_date": "2025-04-11T05:32:25-04:00",
+        "published_date": "2025-04-11T05:32:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Helicopters",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Augustin Escobar"
+        ],
+        "geo_facet": [
+            "New York City",
+            "Spain",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/world/11int-spain-crash-victims/11int-spain-crash-victims-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1610,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Agustín Escobar, shown last year, and four members of his family were killed in a helicopter crash on the Hudson River near Lower Manhattan on Thursday.",
+                "copyright": "Eduardo Parra/Europa Press, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/world/11int-spain-crash-victims/11int-spain-crash-victims-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Agustín Escobar, shown last year, and four members of his family were killed in a helicopter crash on the Hudson River near Lower Manhattan on Thursday.",
+                "copyright": "Eduardo Parra/Europa Press, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/world/11int-spain-crash-victims/11int-spain-crash-victims-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Agustín Escobar, shown last year, and four members of his family were killed in a helicopter crash on the Hudson River near Lower Manhattan on Thursday.",
+                "copyright": "Eduardo Parra/Europa Press, via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Steeling China for a Fight, Xi Faces His Biggest Test Since Covid",
+        "abstract": "Xi Jinping has refused to back down in China’s tariff confrontation with President Trump. But he’ll have to persuade his people that the pain is worth it.",
+        "url": "https://www.nytimes.com/2025/04/11/world/asia/trump-china-tariffs-xi.html",
+        "uri": "nyt://article/9b0e68cb-5135-521d-a663-73a103b56ffe",
+        "byline": "By David Pierson",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T05:54:41-04:00",
+        "created_date": "2025-04-11T05:31:33-04:00",
+        "published_date": "2025-04-11T05:31:33-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "Politics and Government",
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Xi Jinping",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-china-tariff-xi-01-jlwb/11int-china-tariff-xi-01-jlwb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Xi Jinping in 2019, waiting for President Trump to arrive for bilateral talks in Osaka, Japan.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-china-tariff-xi-01-jlwb/11int-china-tariff-xi-01-jlwb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Xi Jinping in 2019, waiting for President Trump to arrive for bilateral talks in Osaka, Japan.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-china-tariff-xi-01-jlwb/11int-china-tariff-xi-01-jlwb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Xi Jinping in 2019, waiting for President Trump to arrive for bilateral talks in Osaka, Japan.",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
