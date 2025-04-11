@@ -20630,5 +20630,131 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "World’s Friendliest Superpower? As Trump Upends Globe, Europe Positions Itself.",
+        "abstract": "Ursula von der Leyen is trying to ensure that if the international trading system is remade, the E.U. is at the center of what comes next.",
+        "url": "https://www.nytimes.com/2025/04/11/world/europe/european-union-trade-tariffs-trump.html",
+        "uri": "nyt://article/153e8146-da81-5fa2-8932-be6888171ee9",
+        "byline": "By Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T08:56:25-04:00",
+        "created_date": "2025-04-11T08:56:25-04:00",
+        "published_date": "2025-04-11T08:56:25-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "European Union",
+            "World Trade Organization",
+            "European Commission"
+        ],
+        "per_facet": [
+            "von der Leyen, Ursula",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11EU-trade-change-uvdl-01-mbpl/11EU-trade-change-uvdl-01-mbpl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ursula von der Leyen, president of the European Commission, in Brussels on Wednesday. Her strategy is intended to leave Europe stronger and less dependent on the United States.",
+                "copyright": "Yves Herman/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11EU-trade-change-uvdl-01-mbpl/11EU-trade-change-uvdl-01-mbpl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ursula von der Leyen, president of the European Commission, in Brussels on Wednesday. Her strategy is intended to leave Europe stronger and less dependent on the United States.",
+                "copyright": "Yves Herman/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11EU-trade-change-uvdl-01-mbpl/11EU-trade-change-uvdl-01-mbpl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ursula von der Leyen, president of the European Commission, in Brussels on Wednesday. Her strategy is intended to leave Europe stronger and less dependent on the United States.",
+                "copyright": "Yves Herman/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Spanish Couple Killed in Hudson River Helicopter Crash Were Executives on Family Vacation",
+        "abstract": "Agustín Escobar and Mercè Camprubí Montal died on Thursday in the accident off New York City along with their three children and the pilot.",
+        "url": "https://www.nytimes.com/2025/04/11/world/europe/hudson-river-helicopter-crash-dead-spain-siemens-agustin-escobar.html",
+        "uri": "nyt://article/e46f228c-1102-5591-9f1e-3040eb918105",
+        "byline": "By José Bautista and Lynsey Chutel",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T08:46:13-04:00",
+        "created_date": "2025-04-11T05:32:25-04:00",
+        "published_date": "2025-04-11T05:32:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Helicopters",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Augustin Escobar"
+        ],
+        "geo_facet": [
+            "New York City",
+            "Spain",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/world/11int-spain-crash-victims/11int-spain-crash-victims-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1610,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Agustín Escobar, shown last year, and four members of his family were killed in a helicopter crash on the Hudson River near Lower Manhattan on Thursday.",
+                "copyright": "Eduardo Parra/Europa Press, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/world/11int-spain-crash-victims/11int-spain-crash-victims-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Agustín Escobar, shown last year, and four members of his family were killed in a helicopter crash on the Hudson River near Lower Manhattan on Thursday.",
+                "copyright": "Eduardo Parra/Europa Press, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/world/11int-spain-crash-victims/11int-spain-crash-victims-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Agustín Escobar, shown last year, and four members of his family were killed in a helicopter crash on the Hudson River near Lower Manhattan on Thursday.",
+                "copyright": "Eduardo Parra/Europa Press, via Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
