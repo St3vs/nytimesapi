@@ -20756,5 +20756,76 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "She Worked in a Harvard Lab to Reverse Aging, Until ICE Jailed Her",
+        "abstract": "President Trump’s immigration crackdown ensnared Kseniia Petrova, a scientist who fled Russia after protesting its invasion of Ukraine. She fears arrest if she is deported there.",
+        "url": "https://www.nytimes.com/2025/04/11/science/russian-scientist-ice-detained-harvard.html",
+        "uri": "nyt://article/193a0126-8721-57db-a267-0459d13fed86",
+        "byline": "By Ellen Barry",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T10:00:21-04:00",
+        "created_date": "2025-04-11T10:00:21-04:00",
+        "published_date": "2025-04-11T10:00:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Immigration Detention",
+            "United States Politics and Government",
+            "Colleges and Universities",
+            "Research",
+            "Politics and Government",
+            "Immigration and Emigration",
+            "Laboratories and Scientific Equipment",
+            "Science and Technology",
+            "Frogs"
+        ],
+        "org_facet": [
+            "Border Patrol (US)",
+            "Harvard Medical School",
+            "Harvard University",
+            "Immigration and Customs Enforcement (US)",
+            "Logan International Airport (Boston, Mass)"
+        ],
+        "per_facet": [
+            "Kseniia Petrova"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11SCIENTIST-DETAINED-01-gfwv/11SCIENTIST-DETAINED-01-gfwv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 853,
+                "width": 1280,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kseniia Petrova, a Harvard scientist, in 2021. She has been in a Louisiana prison since Feb. 16.",
+                "copyright": "Polina Pugacheva"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11SCIENTIST-DETAINED-01-gfwv/11SCIENTIST-DETAINED-01-gfwv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kseniia Petrova, a Harvard scientist, in 2021. She has been in a Louisiana prison since Feb. 16.",
+                "copyright": "Polina Pugacheva"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11SCIENTIST-DETAINED-01-gfwv/11SCIENTIST-DETAINED-01-gfwv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kseniia Petrova, a Harvard scientist, in 2021. She has been in a Louisiana prison since Feb. 16.",
+                "copyright": "Polina Pugacheva"
+            }
+        ],
+        "short_url": ""
     }
 ]
