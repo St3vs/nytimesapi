@@ -21564,5 +21564,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Spanish Family Killed in Helicopter Crash Was Celebrating a Birthday",
+        "abstract": "Agustín Escobar and Mercè Camprubí Montal, both executives from Spain, died on Thursday in a crash near New York City along with their three children and the pilot.",
+        "url": "https://www.nytimes.com/2025/04/11/world/europe/hudson-river-helicopter-crash-dead-spain-siemens-agustin-escobar.html",
+        "uri": "nyt://article/e46f228c-1102-5591-9f1e-3040eb918105",
+        "byline": "By Liam Stack, José Bautista and Lynsey Chutel",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T16:35:00-04:00",
+        "created_date": "2025-04-11T05:32:25-04:00",
+        "published_date": "2025-04-11T05:32:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Aviation Accidents, Safety and Disasters",
+            "Deaths (Fatalities)",
+            "Helicopters"
+        ],
+        "org_facet": [
+            "Siemens AG"
+        ],
+        "per_facet": [
+            "Escobar, Agustin (1975-2025)",
+            "Camprubi Montal, Merce (d 2025)"
+        ],
+        "geo_facet": [
+            "New York City",
+            "Spain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-spain-crash-victims--01-wtlh/11int-spain-crash-victims--01-wtlh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The wreckage of the helicopter was pulled out of the water on Thursday evening.",
+                "copyright": "Dakota Santiago for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-spain-crash-victims--01-wtlh/11int-spain-crash-victims--01-wtlh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The wreckage of the helicopter was pulled out of the water on Thursday evening.",
+                "copyright": "Dakota Santiago for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-spain-crash-victims--01-wtlh/11int-spain-crash-victims--01-wtlh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The wreckage of the helicopter was pulled out of the water on Thursday evening.",
+                "copyright": "Dakota Santiago for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
