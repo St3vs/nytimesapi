@@ -21322,5 +21322,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Con Artists Scamming London Tourists Meet Their Match: Batman and Robin",
+        "abstract": "The police shared video of an unconventional tactic that led to two arrests in London: Going undercover as superheroes.",
+        "url": "https://www.nytimes.com/2025/04/11/world/europe/batman-robin-police-undercover-scams.html",
+        "uri": "nyt://article/471035c6-df58-58e1-be9e-e5235c96e6d1",
+        "byline": "By Lizzie Dearden",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T14:51:40-04:00",
+        "created_date": "2025-04-11T14:49:22-04:00",
+        "published_date": "2025-04-11T14:49:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Gambling",
+            "Police",
+            "Frauds and Swindling",
+            "Costumes"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Westminster (England)",
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-uk-batman01-photo-vjqz/11int-uk-batman01-photo-vjqz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1600,
+                "width": 739,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspector Darren Watson in a photo provided by the London police.",
+                "copyright": "Metropolitan Police Service"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-uk-batman01-photo-vjqz/11int-uk-batman01-photo-vjqz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspector Darren Watson in a photo provided by the London police.",
+                "copyright": "Metropolitan Police Service"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-uk-batman01-photo-vjqz/11int-uk-batman01-photo-vjqz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspector Darren Watson in a photo provided by the London police.",
+                "copyright": "Metropolitan Police Service"
+            }
+        ],
+        "short_url": ""
     }
 ]
