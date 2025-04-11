@@ -21628,5 +21628,64 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "See the Moments Leading Up to the Nightclub Roof Collapse in Santo Domingo",
+        "abstract": "Video taken at the scene shows debris was already falling from the ceiling of the Jet Set nightclub before it caved in.",
+        "url": "https://www.nytimes.com/interactive/2025/04/11/world/americas/nightclub-dominican-republic-collapse.html",
+        "uri": "nyt://interactive/d60fbf30-96fc-52b9-8eb7-1e8c9ec018f9",
+        "byline": "By Helmuth Rosales",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-11T17:44:58-04:00",
+        "created_date": "2025-04-11T17:16:46-04:00",
+        "published_date": "2025-04-11T17:16:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bars and Nightclubs",
+            "Roofs"
+        ],
+        "org_facet": [
+            "Jet Set (Santo Domingo, Dominican Republic, Nightclub)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Santo Domingo (Dominican Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-jetset-dr-collapse-index/2025-04-11-jetset-dr-collapse-index-superJumbo-v3.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-jetset-dr-collapse-index/2025-04-11-jetset-dr-collapse-index-threeByTwoSmallAt2X-v4.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-jetset-dr-collapse-index/2025-04-11-jetset-dr-collapse-index-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
