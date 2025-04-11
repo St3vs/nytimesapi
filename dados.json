@@ -20891,5 +20891,130 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump Envoy Meets With Putin Seeking to Rekindle Ukraine War Talks",
+        "abstract": "Separately in Belgium, nations supporting Ukraine pledged billions more in military aid and raised doubts about Moscow’s desire for peace.",
+        "url": "https://www.nytimes.com/2025/04/11/world/europe/ukraine-trump-witkoff-talks.html",
+        "uri": "nyt://article/f6c1f58c-2861-5e81-837f-f41011c30bd7",
+        "byline": "By Steven Erlanger and Ivan Nechepurenko",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T11:29:27-04:00",
+        "created_date": "2025-04-11T05:05:14-04:00",
+        "published_date": "2025-04-11T05:05:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Witkoff, Steven",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-russia-us-talks-hjtl/11int-russia-us-talks-hjtl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steve Witkoff, President Trump’s senior aide on Russia negotiations, in Washington last month.",
+                "copyright": "Maansi Srivastava for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-russia-us-talks-hjtl/11int-russia-us-talks-hjtl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steve Witkoff, President Trump’s senior aide on Russia negotiations, in Washington last month.",
+                "copyright": "Maansi Srivastava for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-russia-us-talks-hjtl/11int-russia-us-talks-hjtl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steve Witkoff, President Trump’s senior aide on Russia negotiations, in Washington last month.",
+                "copyright": "Maansi Srivastava for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "U.S. and Ukraine Reopen Talks on Contentious Minerals Deal",
+        "abstract": "Kyiv and Washington have been haggling over a deal for resource rights that President Trump sees as a way to “recoup” past U.S. aid to Ukraine.",
+        "url": "https://www.nytimes.com/2025/04/11/world/europe/ukraine-minerals-deal.html",
+        "uri": "nyt://article/6ee33e54-ced7-51ab-82f5-cbd786d7429d",
+        "byline": "By Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T11:26:00-04:00",
+        "created_date": "2025-04-11T11:26:00-04:00",
+        "published_date": "2025-04-11T11:26:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States Politics and Government",
+            "Foreign Aid",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Ukraine",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/10/multimedia/00int-ukraineminerals/00int-ukraine-talks-02-bqwh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine during a contentious White House meeting with President Trump and Vice President JD Vance in February.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/10/multimedia/00int-ukraineminerals/00int-ukraine-talks-02-bqwh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine during a contentious White House meeting with President Trump and Vice President JD Vance in February.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/10/multimedia/00int-ukraineminerals/00int-ukraineminerals-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine during a contentious White House meeting with President Trump and Vice President JD Vance in February.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
