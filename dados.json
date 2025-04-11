@@ -20129,5 +20129,209 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump Envoy Arrives in Russia Seeking to Rekindle Ukraine War Talks",
+        "abstract": "The Kremlin spokesman would not say whether the Trump aide, Steve Witkoff, would meet with President Vladimir V. Putin of Russia.",
+        "url": "https://www.nytimes.com/2025/04/11/world/europe/ukraine-trump-witkoff-talks.html",
+        "uri": "nyt://article/f6c1f58c-2861-5e81-837f-f41011c30bd7",
+        "byline": "By Ivan Nechepurenko",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T05:18:40-04:00",
+        "created_date": "2025-04-11T05:05:14-04:00",
+        "published_date": "2025-04-11T05:05:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Witkoff, Steven"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-russia-us-talks-hjtl/11int-russia-us-talks-hjtl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steve Witkoff, President Trump’s senior aide on Russia negotiations, in Washington last month.",
+                "copyright": "Maansi Srivastava for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-russia-us-talks-hjtl/11int-russia-us-talks-hjtl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steve Witkoff, President Trump’s senior aide on Russia negotiations, in Washington last month.",
+                "copyright": "Maansi Srivastava for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-russia-us-talks-hjtl/11int-russia-us-talks-hjtl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steve Witkoff, President Trump’s senior aide on Russia negotiations, in Washington last month.",
+                "copyright": "Maansi Srivastava for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Marine Le Pen’s ‘Witch Hunt’ Talk Echoes Trump. Will It Work in France?",
+        "abstract": "After years trying to moderate her party’s image, the far-right leader, convicted of embezzlement, now voices Trump-like outrage, at some risk.",
+        "url": "https://www.nytimes.com/2025/04/11/world/europe/le-pen-trump-rhetoric-france.html",
+        "uri": "nyt://article/ff981f17-eff0-512a-a078-5210084b3cbf",
+        "byline": "By Roger Cohen",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T05:05:11-04:00",
+        "created_date": "2025-04-11T05:03:18-04:00",
+        "published_date": "2025-04-11T05:03:18-04:00",
+        "material_type_facet": "",
+        "kicker": "news analysis",
+        "des_facet": [
+            "Embezzlement",
+            "Decisions and Verdicts",
+            "Right-Wing Extremism and Alt-Right",
+            "Politics and Government",
+            "Sentences (Criminal)"
+        ],
+        "org_facet": [
+            "National Rally (France)",
+            "Alternative for Germany",
+            "European Parliament"
+        ],
+        "per_facet": [
+            "Le Pen, Marine",
+            "Le Pen, Jean-Marie",
+            "Bardella, Jordan (1995- )",
+            "Salvini, Matteo",
+            "Trump, Donald J",
+            "Weidel, Alice"
+        ],
+        "geo_facet": [
+            "France",
+            "Paris (France)",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-LePen-Future-blgj/10int-LePen-Future-blgj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marine Le Pen, leader of the National Rally party, after being convicted of embezzlement, speaking at a rally od supporter in Paris last Sunday.",
+                "copyright": "Julien De Rosa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-LePen-Future-blgj/10int-LePen-Future-blgj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marine Le Pen, leader of the National Rally party, after being convicted of embezzlement, speaking at a rally od supporter in Paris last Sunday.",
+                "copyright": "Julien De Rosa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-LePen-Future-blgj/10int-LePen-Future-blgj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marine Le Pen, leader of the National Rally party, after being convicted of embezzlement, speaking at a rally od supporter in Paris last Sunday.",
+                "copyright": "Julien De Rosa/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Why Iran’s Supreme Leader Came Around to Nuclear Talks With the U.S.",
+        "abstract": "Top Iranian officials pressed the country’s leader to reverse his position, arguing that the risk of war with the United States and the worsening economic crisis could topple the regime.",
+        "url": "https://www.nytimes.com/2025/04/11/world/middleeast/us-iran-talks-trump-khamenei.html",
+        "uri": "nyt://article/0590ddce-d2eb-5dcc-b8fe-aab39cd27aa1",
+        "byline": "By Farnaz Fassihi",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T05:01:52-04:00",
+        "created_date": "2025-04-11T05:01:52-04:00",
+        "published_date": "2025-04-11T05:01:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States International Relations",
+            "Embargoes and Sanctions",
+            "War and Armed Conflicts",
+            "Nuclear Weapons",
+            "Defense and Military Forces",
+            "Iran-Israel Proxy Conflict",
+            "Iranian Rial (Currency)"
+        ],
+        "org_facet": [
+            "Islamic Revolutionary Guards Corps"
+        ],
+        "per_facet": [
+            "Khamenei, Ali",
+            "Trump, Donald J",
+            "Witkoff, Steven",
+            "Araghchi, Abbas"
+        ],
+        "geo_facet": [
+            "Iran",
+            "Middle East"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-iran-nuclear-talks-vwlg/11int-iran-nuclear-talks-vwlg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Iran’s supreme leader, Ayatollah Ali Khamenei, has granted his permission for nuclear talks with the United States, at first through an intermediary, and then, if things proceeded well, for direct discussions.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-iran-nuclear-talks-vwlg/11int-iran-nuclear-talks-vwlg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Iran’s supreme leader, Ayatollah Ali Khamenei, has granted his permission for nuclear talks with the United States, at first through an intermediary, and then, if things proceeded well, for direct discussions.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-iran-nuclear-talks-vwlg/11int-iran-nuclear-talks-vwlg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Iran’s supreme leader, Ayatollah Ali Khamenei, has granted his permission for nuclear talks with the United States, at first through an intermediary, and then, if things proceeded well, for direct discussions.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
