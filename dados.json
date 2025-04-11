@@ -20569,5 +20569,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Prince Harry Meets War Victims in Surprise Visit to Ukraine",
+        "abstract": "The prince toured a rehabilitation facility in Lviv for soldiers and civilians wounded in the war. The trip came as his father, King Charles, was in Italy.",
+        "url": "https://www.nytimes.com/2025/04/11/world/europe/prince-harry-ukraine-visit.html",
+        "uri": "nyt://article/66b5bf29-2527-5a64-93f5-28a51cce8bcc",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T07:27:01-04:00",
+        "created_date": "2025-04-11T07:27:01-04:00",
+        "published_date": "2025-04-11T07:27:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Royal Families",
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Harry, Duke of Sussex"
+        ],
+        "geo_facet": [
+            "Ukraine",
+            "Great Britain",
+            "Lviv (Ukraine)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-uk-HARRY-ukraine-01-lzth/11int-uk-HARRY-ukraine-01-lzth-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Harry at the Superhumans Center, a rehabilitation clinic in Lviv, Ukraine, on Thursday with people who were wounded in the war with Russia, in a photo released by the facility.",
+                "copyright": "Superhumans Center, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-uk-HARRY-ukraine-01-lzth/11int-uk-HARRY-ukraine-01-lzth-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Harry at the Superhumans Center, a rehabilitation clinic in Lviv, Ukraine, on Thursday with people who were wounded in the war with Russia, in a photo released by the facility.",
+                "copyright": "Superhumans Center, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-uk-HARRY-ukraine-01-lzth/11int-uk-HARRY-ukraine-01-lzth-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Harry at the Superhumans Center, a rehabilitation clinic in Lviv, Ukraine, on Thursday with people who were wounded in the war with Russia, in a photo released by the facility.",
+                "copyright": "Superhumans Center, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
