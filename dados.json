@@ -20457,5 +20457,117 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: China Raises Tariffs on U.S. to 125% as Tit-For-Tat Trade War Escalates",
+        "abstract": "Beijing’s latest retaliation came after the White House raised its levy on Chinese goods to 125 percent, on top of an existing 20 percent tax. Stocks in Europe were volatile, following losses on Wall Street a day earlier.",
+        "url": "https://www.nytimes.com/live/2025/04/11/business/trump-tariffs-stocks-china",
+        "uri": "nyt://promo/fdcd8bfe-ee8e-5412-b1ad-45f28eb423c1",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-11T07:16:11-04:00",
+        "created_date": "2025-04-11T04:53:09-04:00",
+        "published_date": "2025-04-11T04:53:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/world/11tariffs-markets-live-promo-7am-ET/11tariffs-markets-live-promo-7am-ET-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Maggie Shannon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/world/11tariffs-markets-live-promo-7am-ET/11tariffs-markets-live-promo-7am-ET-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Maggie Shannon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/world/11tariffs-markets-live-promo-7am-ET/11tariffs-markets-live-promo-7am-ET-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Maggie Shannon for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Stay or Go? Israel’s Evacuation Orders Leave Gazans Facing an Excruciating Choice.",
+        "abstract": "A new declaration targeted eastern Gaza City, including several areas that had been declared evacuation zones. The United Nations said 390,000 people had been displaced in recent weeks.",
+        "url": "https://www.nytimes.com/2025/04/11/world/middleeast/israel-gaza-evacuations.html",
+        "uri": "nyt://article/7489b08d-b952-544e-a9a5-452288c3573b",
+        "byline": "By Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T07:10:55-04:00",
+        "created_date": "2025-04-11T07:10:55-04:00",
+        "published_date": "2025-04-11T07:10:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Palestinians",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-gaza-evacuations-01-zhft/11int-gaza-evacuations-01-zhft-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians in the Shajaiye neighborhood of Gaza City last week after an evacuation order.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-gaza-evacuations-01-zhft/11int-gaza-evacuations-01-zhft-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians in the Shajaiye neighborhood of Gaza City last week after an evacuation order.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-gaza-evacuations-01-zhft/11int-gaza-evacuations-01-zhft-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians in the Shajaiye neighborhood of Gaza City last week after an evacuation order.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
