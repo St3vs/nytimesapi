@@ -19639,5 +19639,57 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Stocks Dive Again as Angst Rises Over Trump’s Trade War",
+        "abstract": "The S&P 500 fell 3.5 percent by the closing bell, erasing part of Wednesday’s recovery, as fears grew that the worsening trade war with China would crimp growth.",
+        "url": "https://www.nytimes.com/live/2025/04/10/business/trump-tariffs-stocks",
+        "uri": "nyt://promo/49aa2e1c-0890-5f53-b3b6-35224166f96a",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-10T21:39:39-04:00",
+        "created_date": "2025-04-10T06:08:55-04:00",
+        "published_date": "2025-04-10T06:08:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-tariffs-promo-1910-wtjp/10markets-tariffs-promo-1910-wtjp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-tariffs-promo-1910-wtjp/10markets-tariffs-promo-1910-wtjp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10markets-tariffs-promo-1910-wtjp/10markets-tariffs-promo-1910-wtjp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
