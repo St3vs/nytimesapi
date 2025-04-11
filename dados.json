@@ -19998,5 +19998,73 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "U.S. Military Removes Commander of Greenland Base After Vance Visit",
+        "abstract": "Although the military did not say why the colonel had been dismissed, it said it would not tolerate any subversion of President Trump’s agenda.",
+        "url": "https://www.nytimes.com/2025/04/11/world/europe/greenland-pituffik-vance-miltary-commander.html",
+        "uri": "nyt://article/e452e8e7-56b5-525b-9f8c-c24f01af60ba",
+        "byline": "By Qasim Nauman",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T02:03:02-04:00",
+        "created_date": "2025-04-11T01:44:20-04:00",
+        "published_date": "2025-04-11T01:44:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Defense and Military Forces",
+            "United States International Relations",
+            "Politics and Government",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [
+            "Defense Department",
+            "Military.com",
+            "United States Space Force"
+        ],
+        "per_facet": [
+            "Vance, J D",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Greenland",
+            "Denmark",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-greenland-lpmf/10xp-greenland-lpmf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Col. Susannah Meyers, left, has been removed from her post as the commander of the U.S. Space Force’s Pituffik base in Greenland. ",
+                "copyright": "Jim Watson/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-greenland-lpmf/10xp-greenland-lpmf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Col. Susannah Meyers, left, has been removed from her post as the commander of the U.S. Space Force’s Pituffik base in Greenland. ",
+                "copyright": "Jim Watson/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10xp-greenland-lpmf/10xp-greenland-lpmf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Col. Susannah Meyers, left, has been removed from her post as the commander of the U.S. Space Force’s Pituffik base in Greenland. ",
+                "copyright": "Jim Watson/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
