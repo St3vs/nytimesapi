@@ -20827,5 +20827,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "New Pact Would Require Ships to Cut Emissions or Pay a Fee",
+        "abstract": "A draft global agreement sets a fee for cargo ships, which carry the vast majority of world trade, to pay for their greenhouse gas emissions.",
+        "url": "https://www.nytimes.com/2025/04/11/climate/cargo-shipping-emissions.html",
+        "uri": "nyt://article/7f1e8d34-9e81-50e9-9a50-93da2a9fd5ef",
+        "byline": "By Somini Sengupta",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T11:16:57-04:00",
+        "created_date": "2025-04-11T11:16:57-04:00",
+        "published_date": "2025-04-11T11:16:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "International Trade and World Market",
+            "Fuel Emissions (Transportation)",
+            "Regulation and Deregulation of Industry",
+            "Ships and Shipping",
+            "Freight (Cargo)",
+            "Air Pollution",
+            "Carbon Dioxide"
+        ],
+        "org_facet": [
+            "International Maritime Organization"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11CLI-shipping-mpcb/11CLI-shipping-mpcb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The industry produces about 3 percent of planet-warming emissions globally, on par with aviation. A cargo ship near Vancouver, British Columbia.",
+                "copyright": "Alana Paterson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11CLI-shipping-mpcb/11CLI-shipping-mpcb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The industry produces about 3 percent of planet-warming emissions globally, on par with aviation. A cargo ship near Vancouver, British Columbia.",
+                "copyright": "Alana Paterson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11CLI-shipping-mpcb/11CLI-shipping-mpcb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The industry produces about 3 percent of planet-warming emissions globally, on par with aviation. A cargo ship near Vancouver, British Columbia.",
+                "copyright": "Alana Paterson for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
