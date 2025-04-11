@@ -19757,5 +19757,194 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "French Soccer Icon Mbappé Battles Qatari-Owned Former Club for Millions",
+        "abstract": "A long-simmering dispute pitting one of the world’s top athletes against France’s biggest soccer club has broken out into legal warfare.",
+        "url": "https://www.nytimes.com/2025/04/11/world/europe/kylian-mbappe-psg-qatar.html",
+        "uri": "nyt://article/28fe9e01-dc1f-5623-9918-b0633230586a",
+        "byline": "By Tariq Panja",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T00:01:19-04:00",
+        "created_date": "2025-04-11T00:01:19-04:00",
+        "published_date": "2025-04-11T00:01:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Soccer",
+            "Suits and Litigation (Civil)",
+            "Wages and Salaries",
+            "UEFA Champions League (Soccer)"
+        ],
+        "org_facet": [
+            "Paris St-Germain FC (Soccer Team)",
+            "Real Madrid (Soccer Team)"
+        ],
+        "per_facet": [
+            "al-Khelaifi, Nasser",
+            "Mbappe, Kylian (1998- )"
+        ],
+        "geo_facet": [
+            "Paris (France)",
+            "Qatar"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11mbappe-1-qkpj/11mbappe-1-qkpj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1499,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kylian Mbappé playing for Paris Saint-Germain last May.",
+                "copyright": "Benoit Tessier/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11mbappe-1-qkpj/11mbappe-1-qkpj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kylian Mbappé playing for Paris Saint-Germain last May.",
+                "copyright": "Benoit Tessier/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11mbappe-1-qkpj/11mbappe-1-qkpj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kylian Mbappé playing for Paris Saint-Germain last May.",
+                "copyright": "Benoit Tessier/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Children Seeking Cholera Care Die After U.S. Cuts Aid, Charity Says",
+        "abstract": "The victims died on a grueling three-hour walk in scorching heat as they tried to reach the nearest remaining health facility, officials of Save the Children said.",
+        "url": "https://www.nytimes.com/2025/04/11/world/africa/south-sudan-cholera-children-deaths.html",
+        "uri": "nyt://article/32d3f3db-d488-5a69-b666-612a999aa576",
+        "byline": "By Eve Sampson",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T00:01:14-04:00",
+        "created_date": "2025-04-11T00:01:14-04:00",
+        "published_date": "2025-04-11T00:01:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Aid",
+            "Federal Aid (US)",
+            "Humanitarian Aid"
+        ],
+        "org_facet": [
+            "Government Efficiency Department (US)",
+            "Save the Children",
+            "United States Agency for International Development"
+        ],
+        "per_facet": [
+            "Musk, Elon"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-southsudan-cholera-ptjz/11int-southsudan-cholera-ptjz-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A delivery of aid in South Sudan in 2023. The country is dependent on foreign aid, and its people face the compounding tragedies of war and malnutrition, making recent cholera outbreaks even more deadly.",
+                "copyright": "Jim Huylebroek for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-southsudan-cholera-ptjz/11int-southsudan-cholera-ptjz-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A delivery of aid in South Sudan in 2023. The country is dependent on foreign aid, and its people face the compounding tragedies of war and malnutrition, making recent cholera outbreaks even more deadly.",
+                "copyright": "Jim Huylebroek for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11int-southsudan-cholera-ptjz/11int-southsudan-cholera-ptjz-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A delivery of aid in South Sudan in 2023. The country is dependent on foreign aid, and its people face the compounding tragedies of war and malnutrition, making recent cholera outbreaks even more deadly.",
+                "copyright": "Jim Huylebroek for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Effort to Get Starlink in South Africa Collides With Tension Over Musk",
+        "abstract": "A government official is preparing to ease Black ownership rules that Elon Musk claims are racist and prevent his satellite internet provider from operating in his native country.",
+        "url": "https://www.nytimes.com/2025/04/11/world/africa/effort-to-get-starlink-in-south-africa-collides-with-tension-over-musk.html",
+        "uri": "nyt://article/1c9f2202-40e3-57a5-a209-87208e274174",
+        "byline": "By John Eligon and Zimasa Matiwane",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T00:01:06-04:00",
+        "created_date": "2025-04-11T00:01:06-04:00",
+        "published_date": "2025-04-11T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Race and Ethnicity",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Starlink Satellite Constellation (SpaceX)"
+        ],
+        "per_facet": [
+            "Musk, Elon"
+        ],
+        "geo_facet": [
+            "South Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10safrica-starlink-1-ptgc/10safrica-starlink-1-ptgc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1432,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Cyril Ramaphosa of South Africa answering lawmakers’ questions at Parliament in Cape Town, South Africa, last month.",
+                "copyright": "Esa Alexander/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10safrica-starlink-1-ptgc/10safrica-starlink-1-ptgc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Cyril Ramaphosa of South Africa answering lawmakers’ questions at Parliament in Cape Town, South Africa, last month.",
+                "copyright": "Esa Alexander/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10safrica-starlink-1-ptgc/10safrica-starlink-1-ptgc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Cyril Ramaphosa of South Africa answering lawmakers’ questions at Parliament in Cape Town, South Africa, last month.",
+                "copyright": "Esa Alexander/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
