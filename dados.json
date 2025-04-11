@@ -19946,5 +19946,57 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Friday Briefing",
+        "abstract": "An escalating trade war.",
+        "url": "https://www.nytimes.com/2025/04/11/briefing/trade-war-iran-hamas.html",
+        "uri": "nyt://article/1dce56ec-7f4e-5abc-a79a-b121293d20ac",
+        "byline": "By Natasha Frost",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T01:08:15-04:00",
+        "created_date": "2025-04-11T01:08:15-04:00",
+        "published_date": "2025-04-11T01:08:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/11ambriefing-europe-Biz-Superpower-Tradewar/11ambriefing-europe-Biz-Superpower-Tradewar-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cargo ship at the port of Ningbo-Zhoushan in China’s Zhejiang province last month.",
+                "copyright": "Gilles Sabrie for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/11ambriefing-europe-Biz-Superpower-Tradewar/11ambriefing-europe-Biz-Superpower-Tradewar-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cargo ship at the port of Ningbo-Zhoushan in China’s Zhejiang province last month.",
+                "copyright": "Gilles Sabrie for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/11ambriefing-europe-Biz-Superpower-Tradewar/10Biz-Superpower-Tradewar-01-kpwb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cargo ship at the port of Ningbo-Zhoushan in China’s Zhejiang province last month.",
+                "copyright": "Gilles Sabrie for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
