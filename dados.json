@@ -22843,5 +22843,127 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Sudanese Paramilitaries Kill Entire Clinic Staff in Famine-Struck Camp",
+        "abstract": "Refugees International said nine employees were killed when gunmen stormed the Zamzam camp in El Fasher, in the western Darfur region.",
+        "url": "https://www.nytimes.com/2025/04/12/world/africa/sudan-zamzam-clinic-staff-killed.html",
+        "uri": "nyt://article/a8c3622e-39c1-594a-a073-cf7b14dc646c",
+        "byline": "By Declan Walsh",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T15:50:56-04:00",
+        "created_date": "2025-04-12T15:21:44-04:00",
+        "published_date": "2025-04-12T15:21:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "War and Armed Conflicts",
+            "Famine"
+        ],
+        "org_facet": [
+            "Rapid Support Forces (Sudan)",
+            "Refugees International"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "El Fasher (Sudan)",
+            "Zamzam camp"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-Sudan-zpgb/12int-Sudan-zpgb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A makeshift bunker in El Fasher, the capital of North Darfur state in Sudan. Civilians use these dugout bunkers to hide from fighting between the Rapid Support Forces, a paramilitary group, and the Sudanese army and its allied militias.",
+                "copyright": "Muammar Ibrahim/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-Sudan-zpgb/12int-Sudan-zpgb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A makeshift bunker in El Fasher, the capital of North Darfur state in Sudan. Civilians use these dugout bunkers to hide from fighting between the Rapid Support Forces, a paramilitary group, and the Sudanese army and its allied militias.",
+                "copyright": "Muammar Ibrahim/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-Sudan-zpgb/12int-Sudan-zpgb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A makeshift bunker in El Fasher, the capital of North Darfur state in Sudan. Civilians use these dugout bunkers to hide from fighting between the Rapid Support Forces, a paramilitary group, and the Sudanese army and its allied militias.",
+                "copyright": "Muammar Ibrahim/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Manchester Arena Bomber’s Brother Is Accused of Attack on Prison Guards",
+        "abstract": "Hashem Abedi allegedly stabbed the officers with homemade weapons inside a high-security prison.",
+        "url": "https://www.nytimes.com/2025/04/12/world/europe/manchester-arena-bomber-attack-prison.html",
+        "uri": "nyt://article/14c556df-9f6c-5de2-b6dd-baa7dddc4cf5",
+        "byline": "By Lizzie Dearden",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T15:21:09-04:00",
+        "created_date": "2025-04-12T15:19:32-04:00",
+        "published_date": "2025-04-12T15:19:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Manchester Arena Bombing (May, 2017)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Abedi, Salman (d 2017)",
+            "Abedi, Hashem"
+        ],
+        "geo_facet": [
+            "Durham (England)",
+            "England"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12INT-UK-PRISON-hvzl/12INT-UK-PRISON-hvzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Frankland Prison in Durham, England.",
+                "copyright": "David Goddard/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12INT-UK-PRISON-hvzl/12INT-UK-PRISON-hvzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Frankland Prison in Durham, England.",
+                "copyright": "David Goddard/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12INT-UK-PRISON-hvzl/12INT-UK-PRISON-hvzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Frankland Prison in Durham, England.",
+                "copyright": "David Goddard/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
