@@ -22181,5 +22181,344 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Prepping for War With Russia at 36 Degrees Below Zero",
+        "abstract": "President Trump may be turning relations with NATO and Russian inside out, but winter war games revealed that two militaries’ cooperation was unchanged.",
+        "url": "https://www.nytimes.com/2025/04/12/world/europe/prepping-for-war-with-russia-at-36-degrees-below-zero.html",
+        "uri": "nyt://article/6657e316-d64e-5943-9dc8-33df637def34",
+        "byline": "By Jeffrey Gettleman and Jim Huylebroek",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:01:53-04:00",
+        "created_date": "2025-04-12T05:01:53-04:00",
+        "published_date": "2025-04-12T05:01:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States Politics and Government",
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "Defense and Military Forces",
+            "Politics and Government",
+            "Global Warming"
+        ],
+        "org_facet": [
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Arctic Regions",
+            "Finland",
+            "Rovaniemi (Finland)",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-finland-war-games-01-pvbg-promo/12int-finland-war-games-01-pvbg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jim Huylebroek for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-finland-war-games-01-pvbg-promo/12int-finland-war-games-01-pvbg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jim Huylebroek for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-finland-war-games-01-pvbg-promo/12int-finland-war-games-01-pvbg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jim Huylebroek for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Dead Heat as Ecuadoreans Look for Leader to Lift Them Out of Crisis",
+        "abstract": "In the city of Machala, a former booming economic hub now ravaged by drug violence and unemployment, residents are split between two candidates ahead of a runoff election on Sunday.",
+        "url": "https://www.nytimes.com/2025/04/12/world/americas/ecuador-election-noboa-gonzalez.html",
+        "uri": "nyt://article/fd3672c0-4b09-59ef-9082-1aba5bb5fecd",
+        "byline": "By Genevieve Glatsky and Johanna Alarcón",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:01:51-04:00",
+        "created_date": "2025-04-12T05:01:51-04:00",
+        "published_date": "2025-04-12T05:01:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Gangs",
+            "United States International Relations",
+            "Elections"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Gonzalez, Luisa",
+            "Noboa, Daniel"
+        ],
+        "geo_facet": [
+            "Ecuador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00-int-ecuador-preview-promo/00-int-ecuador-preview-vpgb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of the party of President Daniel Noboa campaigning this week in Machala, Ecuador.",
+                "copyright": "Johanna Alarcon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00-int-ecuador-preview-promo/00-int-ecuador-preview-vpgb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of the party of President Daniel Noboa campaigning this week in Machala, Ecuador.",
+                "copyright": "Johanna Alarcon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00-int-ecuador-preview-promo/00-int-ecuador-preview-vpgb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of the party of President Daniel Noboa campaigning this week in Machala, Ecuador.",
+                "copyright": "Johanna Alarcon for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "How the G.O.P. Fell in Love With Putin’s Russia",
+        "abstract": "What explains the Trump administration’s radical reversal toward Moscow?",
+        "url": "https://www.nytimes.com/2025/04/12/magazine/trump-russia-putin.html",
+        "uri": "nyt://article/0bbc1a6c-1b19-59dc-a5e9-6bd02780569e",
+        "byline": "By Jonathan Mahler",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:01:09-04:00",
+        "created_date": "2025-04-12T05:01:09-04:00",
+        "published_date": "2025-04-12T05:01:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Russian Invasion of Ukraine (2022)",
+            "International Relations",
+            "Conservatism (US Politics)",
+            "Propaganda",
+            "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "American Conservative, The (Magazine)",
+            "Claremont Institute",
+            "Hillsdale College",
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Buchanan, Patrick J",
+            "Caldwell, Christopher",
+            "Carlson, Tucker",
+            "Gabbard, Tulsi (1981- )",
+            "Nixon, Richard Milhous",
+            "Zelensky, Volodymyr",
+            "Vance, J D",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/magazine/12idea-putinism-top/12idea-putinism-top-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1833,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo illustration by Pablo Delcan"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/magazine/12idea-putinism-top/12idea-putinism-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo illustration by Pablo Delcan"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/magazine/12idea-putinism-top/12idea-putinism-top-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo illustration by Pablo Delcan"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "African Breakaway State Offers U.S. a Chance to Stick It to China",
+        "abstract": "After years of building relationships with congressional Republicans and conservative think tanks, officials in Somaliland believe President Trump will grant their ultimate wish: statehood.",
+        "url": "https://www.nytimes.com/2025/04/12/world/africa/somaliland-trump-military-base.html",
+        "uri": "nyt://article/0bbee331-6b10-55d5-bee5-e85f4f6bb665",
+        "byline": "By Abdi Latif Dahir and Joao Silva",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:01:03-04:00",
+        "created_date": "2025-04-12T05:01:03-04:00",
+        "published_date": "2025-04-12T05:01:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-photo"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Rubio, Marco",
+            "Abdirahman Mohamed Abdullahi"
+        ],
+        "geo_facet": [
+            "Somaliland",
+            "Hargeisa (Somaliland)",
+            "Ethiopia",
+            "Africa",
+            "China",
+            "Mogadishu (Somalia)",
+            "Berbera",
+            "Taiwan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00somaliland-trump-promo/00somaliland-1-wcjk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Berbera Port in Somaliland, last month.",
+                "copyright": "Joao Silva/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00somaliland-trump-promo/00somaliland-1-wcjk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Berbera Port in Somaliland, last month.",
+                "copyright": "Joao Silva/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00somaliland-trump-promo/00somaliland-trump-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Berbera Port in Somaliland, last month.",
+                "copyright": "Joao Silva/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "Where in the World Is Rosie O’Donnell?",
+        "abstract": "She’s moved to Ireland. She’s befriended a Menendez brother, and she’s making documentaries. What’s next?",
+        "url": "https://www.nytimes.com/2025/04/12/style/rosie-odonnell-ireland-trump.html",
+        "uri": "nyt://article/77ab358e-6278-5270-a735-b5c8612ea5e2",
+        "byline": "By Jacob Bernstein",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:00:46-04:00",
+        "created_date": "2025-04-12T05:00:46-04:00",
+        "published_date": "2025-04-12T05:00:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Documentary Films and Programs",
+            "United States Politics and Government",
+            "Service Dogs and Other Animals",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "O'Donnell, Rosie",
+            "Cohen, Michael D (1966- )",
+            "Menendez, Lyle",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Ireland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/12ST-ROSIE-ODONNELL-13978-cover/12ST-ROSIE-ODONNELL-13978-cover-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/12ST-ROSIE-ODONNELL-13978-cover/12ST-ROSIE-ODONNELL-13978-cover-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/12ST-ROSIE-ODONNELL-13978-cover/12ST-ROSIE-ODONNELL-13978-cover-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
