@@ -22520,5 +22520,140 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Trump Tariffs Muddle Campaigning for Canada’s Conservatives",
+        "abstract": "Pierre Poilievre’s 25-point lead in the polls evaporated, and he struggled to switch voters’ focus to the economy, crime and other issues.",
+        "url": "https://www.nytimes.com/2025/04/12/world/canada/trump-tariffs-muddle-campaigning-for-canadas-conservatives.html",
+        "uri": "nyt://article/bd712b99-ce9d-51df-a091-51717ade777a",
+        "byline": "By Ian Austen",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T06:00:07-04:00",
+        "created_date": "2025-04-12T06:00:07-04:00",
+        "published_date": "2025-04-12T06:00:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Elections"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Carney, Mark J",
+            "Poilievre, Pierre"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12canadaletter-carney-qmcz/12canadaletter-carney-qmcz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney, speaking this week, called the outcome for Canada’s trade with the United States “the best of a series of bad deals.”",
+                "copyright": "Sean Kilpatrick/The Canadian Press, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12canadaletter-carney-qmcz/12canadaletter-carney-qmcz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney, speaking this week, called the outcome for Canada’s trade with the United States “the best of a series of bad deals.”",
+                "copyright": "Sean Kilpatrick/The Canadian Press, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12canadaletter-carney-qmcz/12canadaletter-carney-qmcz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney, speaking this week, called the outcome for Canada’s trade with the United States “the best of a series of bad deals.”",
+                "copyright": "Sean Kilpatrick/The Canadian Press, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Prepping for War With Russia on the Ice and Snow",
+        "abstract": "President Trump may be turning relations with NATO and Russian inside out, but winter war games revealed that two militaries’ cooperation was unchanged.",
+        "url": "https://www.nytimes.com/2025/04/12/world/europe/prepping-for-war-with-russia-at-36-degrees-below-zero.html",
+        "uri": "nyt://article/6657e316-d64e-5943-9dc8-33df637def34",
+        "byline": "By Jeffrey Gettleman and Jim Huylebroek",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T05:34:58-04:00",
+        "created_date": "2025-04-12T05:01:53-04:00",
+        "published_date": "2025-04-12T05:01:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States Politics and Government",
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "Defense and Military Forces",
+            "Politics and Government",
+            "Global Warming"
+        ],
+        "org_facet": [
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Arctic Regions",
+            "Finland",
+            "Rovaniemi (Finland)",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-finland-war-games-01-pvbg-promo/12int-finland-war-games-01-pvbg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jim Huylebroek for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-finland-war-games-01-pvbg-promo/12int-finland-war-games-01-pvbg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jim Huylebroek for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-finland-war-games-01-pvbg-promo/12int-finland-war-games-01-pvbg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jim Huylebroek for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
