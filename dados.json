@@ -21992,5 +21992,132 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "Trump Showed His Pain Point in His Standoff With China",
+        "abstract": "Xi Jinping, who rules with absolute authority, has shown he is willing to let the Chinese people endure hardship. President Trump revealed he has limits.",
+        "url": "https://www.nytimes.com/2025/04/11/business/us-china-tariffs-trump-xi.html",
+        "uri": "nyt://article/9d25dee4-5796-5bbe-bb4d-d5e50021cd4d",
+        "byline": "By Li Yuan",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T16:26:54-04:00",
+        "created_date": "2025-04-11T11:31:14-04:00",
+        "published_date": "2025-04-11T11:31:14-04:00",
+        "material_type_facet": "",
+        "kicker": "the new new world",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Xi Jinping",
+            "Mao Zedong"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/business/00nw-tradewar/00nw-tradewar-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dongyan Xu"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/business/00nw-tradewar/00nw-tradewar-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dongyan Xu"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/business/00nw-tradewar/00nw-tradewar-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dongyan Xu"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "‘This is Not Normal’: Trump’s Tariffs Upend the Bond Market",
+        "abstract": "In the usually steady government bond market, the yield on the 10-year Treasury has risen to about 4.5 percent from less than 4 percent at the end of last week.",
+        "url": "https://www.nytimes.com/2025/04/11/business/economy/treasury-bonds-tariffs.html",
+        "uri": "nyt://article/a0e3cae2-e3c3-57d7-ae1e-8bb6653f94f2",
+        "byline": "By Joe Rennison and Colby Smith",
+        "item_type": "Article",
+        "updated_date": "2025-04-11T20:32:56-04:00",
+        "created_date": "2025-04-11T13:09:11-04:00",
+        "published_date": "2025-04-11T13:09:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Government Bonds",
+            "Banking and Financial Institutions",
+            "Stocks and Bonds",
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "United States Economy"
+        ],
+        "org_facet": [
+            "Federal Reserve System",
+            "Treasury Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11markets-tariffs-bonds-1-qclv/11markets-tariffs-bonds-1-qclv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The price of government bonds, issued by the U.S. Treasury, fell on Friday, while yields rose sharply.",
+                "copyright": "Rod Lamkey Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11markets-tariffs-bonds-1-qclv/11markets-tariffs-bonds-1-qclv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The price of government bonds, issued by the U.S. Treasury, fell on Friday, while yields rose sharply.",
+                "copyright": "Rod Lamkey Jr. for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/11markets-tariffs-bonds-1-qclv/11markets-tariffs-bonds-1-qclv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The price of government bonds, issued by the U.S. Treasury, fell on Friday, while yields rose sharply.",
+                "copyright": "Rod Lamkey Jr. for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
