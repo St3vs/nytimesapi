@@ -22655,5 +22655,123 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Hostages Still Held in Gaza Cast Shadow Over Passover in Israel",
+        "abstract": "The holiday is usually a celebration of the liberation of ancient Israelites from slavery in Egypt. But for many Israelis, the suffering of the captives still in Gaza is tempering the joy.",
+        "url": "https://www.nytimes.com/2025/04/12/world/middleeast/israel-gaza-passover.html",
+        "uri": "nyt://article/b8c476bc-b4e0-5926-bfe9-29352ce48324",
+        "byline": "By Adam Rasgon and Rawan Sheikh Ahmad",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T06:52:58-04:00",
+        "created_date": "2025-04-12T06:52:58-04:00",
+        "published_date": "2025-04-12T06:52:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Kidnapping and Hostages",
+            "Defense and Military Forces",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-israel-passover-qwtm/12int-israel-passover-qwtm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Passover Seder last year in Tel Aviv.",
+                "copyright": "Sergey Ponomarev for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-israel-passover-qwtm/12int-israel-passover-qwtm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Passover Seder last year in Tel Aviv.",
+                "copyright": "Sergey Ponomarev for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-israel-passover-qwtm/12int-israel-passover-qwtm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Passover Seder last year in Tel Aviv.",
+                "copyright": "Sergey Ponomarev for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Brain Trust",
+        "abstract": "Fan gatherings present opportunities to geek out with fellow enthusiasts. Can we cultivate some of that energy in everyday life?",
+        "url": "https://www.nytimes.com/2025/04/12/briefing/crossword-tournament.html",
+        "uri": "nyt://article/5b1b50dd-8843-5016-95be-bebfa39003a5",
+        "byline": "By Melissa Kirsch",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T06:38:56-04:00",
+        "created_date": "2025-04-12T06:38:56-04:00",
+        "published_date": "2025-04-12T06:38:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no",
+            "Crossword Puzzles",
+            "American Crossword Puzzle Tournament",
+            "Games"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12-morning-nl-updated/12-morning-nl-updated-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "María Jesús Contreras"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12-morning-nl-updated/12-morning-nl-updated-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "María Jesús Contreras"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12-morning-nl-updated/12-morning-nl-updated-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "María Jesús Contreras"
+            }
+        ],
+        "short_url": ""
     }
 ]
