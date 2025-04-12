@@ -22119,5 +22119,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Strong Winds Uproot Trees and Rattle Windows in Northern China",
+        "abstract": "The city of Beijing advised residents to stay home as forecasters said the winds could be the city’s strongest in April in 70 years.",
+        "url": "https://www.nytimes.com/2025/04/12/world/asia/china-beijing-wind.html",
+        "uri": "nyt://article/ecd721bc-b3f7-560f-88af-2297ec8e8529",
+        "byline": "By John Yoon and Berry Wang",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T03:03:51-04:00",
+        "created_date": "2025-04-12T03:03:51-04:00",
+        "published_date": "2025-04-12T03:03:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Wind",
+            "Dust and Sand Storms"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "China",
+            "Beijing (China)",
+            "Inner Mongolia",
+            "Mongolia",
+            "South Korea",
+            "Japan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12xp-wind/12xp-wind-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Trees uprooted by strong winds in Zhengzhou, in central China’s Henan Province on Saturday.",
+                "copyright": "Costfoto/NurPhoto, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12xp-wind/12xp-wind-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Trees uprooted by strong winds in Zhengzhou, in central China’s Henan Province on Saturday.",
+                "copyright": "Costfoto/NurPhoto, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12xp-wind/12xp-wind-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Trees uprooted by strong winds in Zhengzhou, in central China’s Henan Province on Saturday.",
+                "copyright": "Costfoto/NurPhoto, via Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
