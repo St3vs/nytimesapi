@@ -22773,5 +22773,75 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "U.S. Holds Talks With Iran Over Its Nuclear Program",
+        "abstract": "The two sides held preliminary negotiations on Saturday, and an Iranian official said they would resume next week.",
+        "url": "https://www.nytimes.com/2025/04/12/world/middleeast/iran-nuclear-talks-whats-at-stake.html",
+        "uri": "nyt://article/1d56f240-e457-52c8-aee7-46fbd104f6dc",
+        "byline": "By Lara Jakes, Farnaz Fassihi and Maggie Haberman",
+        "item_type": "Article",
+        "updated_date": "2025-04-12T11:26:57-04:00",
+        "created_date": "2025-04-12T00:01:16-04:00",
+        "published_date": "2025-04-12T00:01:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Relations",
+            "United States International Relations",
+            "Embargoes and Sanctions",
+            "Politics and Government",
+            "Defense and Military Forces",
+            "Nuclear Weapons",
+            "Missiles and Missile Defense Systems",
+            "Iran-Israel Proxy Conflict"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Araghchi, Abbas",
+            "Netanyahu, Benjamin",
+            "Trump, Donald J",
+            "Witkoff, Steven"
+        ],
+        "geo_facet": [
+            "Iran",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-iran-stakes01-photo-ftqc/12int-iran-stakes01-photo-ftqc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People marching with anti-American banners in Tehran on Friday ahead of the U.S. talks with Iran in Oman.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-iran-stakes01-photo-ftqc/12int-iran-stakes01-photo-ftqc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People marching with anti-American banners in Tehran on Friday ahead of the U.S. talks with Iran in Oman.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-iran-stakes01-photo-ftqc/12int-iran-stakes01-photo-ftqc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People marching with anti-American banners in Tehran on Friday ahead of the U.S. talks with Iran in Oman.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
