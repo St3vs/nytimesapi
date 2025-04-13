@@ -22965,5 +22965,71 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How Brexit, a Startling Act of Economic Self-Harm, Foreshadowed Trump’s Tariffs",
+        "abstract": "Britain’s decision to leave the European Union in 2016 was sold to voters as a magic bullet that would revitalize the country’s economy. Its impact is still reverberating.",
+        "url": "https://www.nytimes.com/2025/04/13/world/europe/how-brexit-a-startling-act-of-economic-self-harm-foreshadowed-trumps-tariffs.html",
+        "uri": "nyt://article/a109bd1c-f532-585e-abf4-c0e9160f9f52",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T00:01:07-04:00",
+        "created_date": "2025-04-13T00:01:07-04:00",
+        "published_date": "2025-04-13T00:01:07-04:00",
+        "material_type_facet": "",
+        "kicker": "News analysis",
+        "des_facet": [
+            "Great Britain Withdrawal from EU (Brexit)",
+            "Politics and Government",
+            "International Trade and World Market",
+            "United States International Relations",
+            "Government Bonds",
+            "Economic Conditions and Trends",
+            "Customs (Tariff)",
+            "Protectionism (Trade)"
+        ],
+        "org_facet": [
+            "European Union",
+            "Republican Party"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-trump-brexit-01-tjbh/12int-trump-brexit-01-tjbh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators in favor of and against Brexit outside Parliament in 2019 in London.",
+                "copyright": "Andrew Testa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-trump-brexit-01-tjbh/12int-trump-brexit-01-tjbh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators in favor of and against Brexit outside Parliament in 2019 in London.",
+                "copyright": "Andrew Testa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/12/multimedia/12int-trump-brexit-01-tjbh/12int-trump-brexit-01-tjbh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators in favor of and against Brexit outside Parliament in 2019 in London.",
+                "copyright": "Andrew Testa for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
