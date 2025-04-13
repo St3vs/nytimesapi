@@ -23543,5 +23543,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Medic Missing After Gaza Attack Is in Israeli Custody, Aid Groups Say",
+        "abstract": "Asaad al-Nasasra has not been heard from since the March 23 ambush by Israeli forces, which left 15 aid workers dead and drew international condemnation.",
+        "url": "https://www.nytimes.com/2025/04/13/world/middleeast/israel-gaza-aid-worker-captured.html",
+        "uri": "nyt://article/abc244fa-a819-5442-a98a-926463e4ff8c",
+        "byline": "By Vivian Yee",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T08:44:47-04:00",
+        "created_date": "2025-04-13T08:38:13-04:00",
+        "published_date": "2025-04-13T08:38:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Ambulances",
+            "Emergency Medical Treatment"
+        ],
+        "org_facet": [
+            "International Committee of the Red Cross"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-paramedic-ctqz/13int-gaza-paramedic-ctqz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic and released by the Palestinian Red Crescent showed the moments before he and other rescue workers were killed by Israelis in Gaza on March 23.",
+                "copyright": "Palestinian Red Crescent Society, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-paramedic-ctqz/13int-gaza-paramedic-ctqz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic and released by the Palestinian Red Crescent showed the moments before he and other rescue workers were killed by Israelis in Gaza on March 23.",
+                "copyright": "Palestinian Red Crescent Society, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-paramedic-ctqz/13int-gaza-paramedic-ctqz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic and released by the Palestinian Red Crescent showed the moments before he and other rescue workers were killed by Israelis in Gaza on March 23.",
+                "copyright": "Palestinian Red Crescent Society, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
