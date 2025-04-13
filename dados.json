@@ -23219,5 +23219,138 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russian Missile Strikes in Sumy Kill at Least 21, Ukrainian Officials Say",
+        "abstract": "The strikes were the latest in a string of attacks on urban centers that have caused heavy civilian casualties even as the Trump administration pushes for a cease-fire.",
+        "url": "https://www.nytimes.com/2025/04/13/world/europe/sumy-ukraine-russia-strikes.html",
+        "uri": "nyt://article/5c134202-d2f2-54e8-83b9-554841ed2be9",
+        "byline": "By Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:53:22-04:00",
+        "created_date": "2025-04-13T05:23:45-04:00",
+        "published_date": "2025-04-13T05:23:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Civilian Casualties",
+            "Deaths (Fatalities)",
+            "United States Politics and Government",
+            "Politics and Government",
+            "Missiles and Missile Defense Systems"
+        ],
+        "org_facet": [
+            "United Nations"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Zelensky, Volodymyr",
+            "Putin, Vladimir V"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-strike-kfmg/13int-ukraine-strike-kfmg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1221,
+                "width": 1832,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released on Sunday by the Sumy region’s prosecutor’s office showed law enforcement and rescue workers on the scene of a missile attack.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-strike-kfmg/13int-ukraine-strike-kfmg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released on Sunday by the Sumy region’s prosecutor’s office showed law enforcement and rescue workers on the scene of a missile attack.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-strike-kfmg/13int-ukraine-strike-kfmg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released on Sunday by the Sumy region’s prosecutor’s office showed law enforcement and rescue workers on the scene of a missile attack.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "A Chapter Closes: Hong Kong’s Democratic Party to Disband",
+        "abstract": "The party, once the city’s largest opposition force, long championed a moderate approach. It ended up squeezed between a discontented populace and a repressive Beijing.",
+        "url": "https://www.nytimes.com/2025/04/13/world/asia/hong-kong-democratic-party-disbanding.html",
+        "uri": "nyt://article/8690804a-59c3-559d-8049-f631ae496832",
+        "byline": "By Tiffany May",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:27:55-04:00",
+        "created_date": "2025-04-13T05:27:55-04:00",
+        "published_date": "2025-04-13T05:27:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Demonstrations, Protests and Riots"
+        ],
+        "org_facet": [
+            "Democratic Party",
+            "Democratic Party (Hong Kong)",
+            "Johns Hopkins University"
+        ],
+        "per_facet": [
+            "Hui, Ted (1982- )",
+            "Kwong, Roy (1983- )",
+            "Lee, Martin C M"
+        ],
+        "geo_facet": [
+            "Hong Kong",
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-hongkong-democrats-zbfg/13int-hongkong-democrats-zbfg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lo Kin-hei, the chairman of Hong Kong’s Democratic Party, at a news conference on Sunday.",
+                "copyright": "Tyrone Siu/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-hongkong-democrats-zbfg/13int-hongkong-democrats-zbfg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lo Kin-hei, the chairman of Hong Kong’s Democratic Party, at a news conference on Sunday.",
+                "copyright": "Tyrone Siu/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-hongkong-democrats-zbfg/13int-hongkong-democrats-zbfg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lo Kin-hei, the chairman of Hong Kong’s Democratic Party, at a news conference on Sunday.",
+                "copyright": "Tyrone Siu/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
