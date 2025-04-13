@@ -23031,5 +23031,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Xi’s Visit Highlights Dilemma for Southeast Asia in U.S.-China Trade War",
+        "abstract": "China’s leader is on a charm offensive in the region, but some of Beijing’s neighbors are wary of being caught in the crossfire of a superpower rivalry.",
+        "url": "https://www.nytimes.com/2025/04/13/world/asia/china-xi-us-trade-war-southeast-asia.html",
+        "uri": "nyt://article/6a34c2d7-b59b-59c4-bd08-f1bbd31c0634",
+        "byline": "By Tiffany May, Damien Cave and Tung Ngo",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T02:03:34-04:00",
+        "created_date": "2025-04-13T01:39:50-04:00",
+        "published_date": "2025-04-13T01:39:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China",
+            "Southeast Asia",
+            "Vietnam",
+            "Cambodia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-china-trip-01-kcht/13int-china-trip-01-kcht-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China’s leader, Xi Jinping, will be testing Southeast Asia ties this week as he visits Vietnam, Malaysia and Cambodia.",
+                "copyright": "Ng Han Guan/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-china-trip-01-kcht/13int-china-trip-01-kcht-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China’s leader, Xi Jinping, will be testing Southeast Asia ties this week as he visits Vietnam, Malaysia and Cambodia.",
+                "copyright": "Ng Han Guan/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-china-trip-01-kcht/13int-china-trip-01-kcht-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China’s leader, Xi Jinping, will be testing Southeast Asia ties this week as he visits Vietnam, Malaysia and Cambodia.",
+                "copyright": "Ng Han Guan/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
