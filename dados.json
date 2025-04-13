@@ -23863,5 +23863,57 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Monday Briefing: China Pauses Crucial Exports",
+        "abstract": "Plus, an art forest in Thailand.",
+        "url": "https://www.nytimes.com/2025/04/13/briefing/china-exports-russia-airstrike-ukraine-saudi-nuclear-deal.html",
+        "uri": "nyt://article/af162156-ff11-59ed-b8fe-f2491133aedb",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T17:00:12-04:00",
+        "created_date": "2025-04-13T17:00:12-04:00",
+        "published_date": "2025-04-13T17:00:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/14ambriefing-asia-china/14ambriefing-asia-china-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A rare earth magnets factory in Ganzhou. China produces 90 percent of the world’s rare earth magnets.",
+                "copyright": "Keith Bradsher/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/14ambriefing-asia-china/14ambriefing-asia-china-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A rare earth magnets factory in Ganzhou. China produces 90 percent of the world’s rare earth magnets.",
+                "copyright": "Keith Bradsher/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/14ambriefing-asia-china/14ambriefing-asia-china-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A rare earth magnets factory in Ganzhou. China produces 90 percent of the world’s rare earth magnets.",
+                "copyright": "Keith Bradsher/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
