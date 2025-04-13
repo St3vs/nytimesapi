@@ -23915,5 +23915,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "British Laws Are Not Fit for Social Media Age, Says Report on U.K. Riots",
+        "abstract": "Outdated legislation prevented the police from rapidly correcting misinformation after a stabbing attack on a Taylor Swift-themed dance class last summer, lawmakers said.",
+        "url": "https://www.nytimes.com/2025/04/13/world/europe/uk-riots-social-media-contempt.html",
+        "uri": "nyt://article/cb899911-a438-5781-aa6b-e280ff4c8726",
+        "byline": "By Lizzie Dearden",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T19:01:05-04:00",
+        "created_date": "2025-04-13T19:01:05-04:00",
+        "published_date": "2025-04-13T19:01:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Social Media",
+            "Demonstrations, Protests and Riots",
+            "Law and Legislation",
+            "Rumors and Misinformation",
+            "Criminal Justice"
+        ],
+        "org_facet": [
+            "Crown Prosecution Service",
+            "X (Formerly Twitter)"
+        ],
+        "per_facet": [
+            "Rudakubana, Axel"
+        ],
+        "geo_facet": [
+            "England",
+            "Great Britain",
+            "Southport (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-uk-riots-02-fjcv/13int-uk-riots-02-fjcv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Riot police holding back protesters after disorder broke out last July in Southport, England. Violent disorder, fueled by the far right, affected several towns and cities for days after a teenager stabbed multiple children at a dance class.",
+                "copyright": "Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-uk-riots-02-fjcv/13int-uk-riots-02-fjcv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Riot police holding back protesters after disorder broke out last July in Southport, England. Violent disorder, fueled by the far right, affected several towns and cities for days after a teenager stabbed multiple children at a dance class.",
+                "copyright": "Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-uk-riots-02-fjcv/13int-uk-riots-02-fjcv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Riot police holding back protesters after disorder broke out last July in Southport, England. Violent disorder, fueled by the far right, affected several towns and cities for days after a teenager stabbed multiple children at a dance class.",
+                "copyright": "Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
