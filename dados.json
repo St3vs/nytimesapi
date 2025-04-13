@@ -23671,5 +23671,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "U.S. Revives Talks With Saudi Arabia on Transfer of Nuclear Technology",
+        "abstract": "Energy Secretary Chris Wright said he sees a “pathway” to a deal that would allow the kingdom to develop a commercial nuclear power industry and potentially enrich uranium.",
+        "url": "https://www.nytimes.com/2025/04/13/world/middleeast/saudi-arabia-nuclear-talks-trump.html",
+        "uri": "nyt://article/b4611f5b-84dd-5681-82be-d4608246eb1f",
+        "byline": "By Vivian Nereim",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T11:40:47-04:00",
+        "created_date": "2025-04-13T11:40:47-04:00",
+        "published_date": "2025-04-13T11:40:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Nuclear Weapons",
+            "Nuclear Energy",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Wright, Chris (1965- )"
+        ],
+        "geo_facet": [
+            "Saudi Arabia",
+            "Middle East"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-saudi-nuclear-01-lfkz/13int-saudi-nuclear-01-lfkz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chris Wright, the U.S. energy secretary, in Washington last month. After meetings with officials in Riyadh, the U.S. and Saudi Arabia have agreed to increase cooperation “to better develop energy resources,” he said.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-saudi-nuclear-01-lfkz/13int-saudi-nuclear-01-lfkz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chris Wright, the U.S. energy secretary, in Washington last month. After meetings with officials in Riyadh, the U.S. and Saudi Arabia have agreed to increase cooperation “to better develop energy resources,” he said.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-saudi-nuclear-01-lfkz/13int-saudi-nuclear-01-lfkz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chris Wright, the U.S. energy secretary, in Washington last month. After meetings with officials in Riyadh, the U.S. and Saudi Arabia have agreed to increase cooperation “to better develop energy resources,” he said.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
