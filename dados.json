@@ -23352,5 +23352,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "U.S. Nuclear Talks With Iran Move Forward, but Many Pitfalls Lie Ahead",
+        "abstract": "In a first meeting, the United States and Iran show signs of pragmatism and limited aims, which would make success more likely. But hard-liners on both sides — and Israel — are bound to balk.",
+        "url": "https://www.nytimes.com/2025/04/13/world/europe/us-nuclear-talks-iran.html",
+        "uri": "nyt://article/46fa45ab-7a6b-5145-a8e5-d920f4976828",
+        "byline": "By Steven Erlanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T06:39:13-04:00",
+        "created_date": "2025-04-13T06:39:13-04:00",
+        "published_date": "2025-04-13T06:39:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States International Relations",
+            "Nuclear Weapons"
+        ],
+        "org_facet": [
+            "Hamas",
+            "Hezbollah",
+            "International Atomic Energy Agency"
+        ],
+        "per_facet": [
+            "Araghchi, Abbas",
+            "Trump, Donald J",
+            "Witkoff, Steven"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/world/13int-us-iran-assess-dafmf/13int-us-iran-assess-dafmf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steve Witkoff, left, President Trump’s special envoy, in Washington last month, and Abbas Araghchi, Iran’s foreign minister, in Tehran in February. The two men led negotiations on Saturday.",
+                "copyright": "Maansi Srivastava for The New York Times; Vahid Salemi/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/world/13int-us-iran-assess-dafmf/13int-us-iran-assess-dafmf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steve Witkoff, left, President Trump’s special envoy, in Washington last month, and Abbas Araghchi, Iran’s foreign minister, in Tehran in February. The two men led negotiations on Saturday.",
+                "copyright": "Maansi Srivastava for The New York Times; Vahid Salemi/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/world/13int-us-iran-assess-dafmf/13int-us-iran-assess-dafmf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steve Witkoff, left, President Trump’s special envoy, in Washington last month, and Abbas Araghchi, Iran’s foreign minister, in Tehran in February. The two men led negotiations on Saturday.",
+                "copyright": "Maansi Srivastava for The New York Times; Vahid Salemi/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
