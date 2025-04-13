@@ -23094,5 +23094,130 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "What to Know About Ecuador’s Presidential Election",
+        "abstract": "Voters are in a standoff over which candidate can better address persistent violence linked to drug trafficking.",
+        "url": "https://www.nytimes.com/2025/04/13/world/americas/ecuador-presidential-election-what-to-know.html",
+        "uri": "nyt://article/ca3312e0-4238-544d-97df-213dae98f3b3",
+        "byline": "By Genevieve Glatsky",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:01:55-04:00",
+        "created_date": "2025-04-13T05:01:55-04:00",
+        "published_date": "2025-04-13T05:01:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "Politics and Government",
+            "Drug Abuse and Traffic",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Gonzalez, Luisa",
+            "Noboa, Daniel",
+            "Correa, Rafael"
+        ],
+        "geo_facet": [
+            "Ecuador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ecuador-election-explainer-02-cbtg/13int-ecuador-election-explainer-02-cbtg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of President Daniel Noboa with cutouts of him in a suit and a presidential sash in Quito, the Ecuadorean capital, in February.",
+                "copyright": "Johanna Alarcon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ecuador-election-explainer-02-cbtg/13int-ecuador-election-explainer-02-cbtg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of President Daniel Noboa with cutouts of him in a suit and a presidential sash in Quito, the Ecuadorean capital, in February.",
+                "copyright": "Johanna Alarcon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ecuador-election-explainer-02-cbtg/13int-ecuador-election-explainer-02-cbtg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of President Daniel Noboa with cutouts of him in a suit and a presidential sash in Quito, the Ecuadorean capital, in February.",
+                "copyright": "Johanna Alarcon for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "As Ukraine’s Politics Heat Back Up, a Former President Sees an Opening",
+        "abstract": "Petro O. Poroshenko, who led the country before Volodymyr Zelensky, said that peace talks could be smoothed if opposition figures were included in the government.",
+        "url": "https://www.nytimes.com/2025/04/13/world/europe/ukraine-petro-poroshenko-zelensky-politics.html",
+        "uri": "nyt://article/21e2fc9a-611c-5590-9d43-0455b2144f12",
+        "byline": "By Andrew E. Kramer",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T05:01:42-04:00",
+        "created_date": "2025-04-13T05:01:42-04:00",
+        "published_date": "2025-04-13T05:01:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Politics and Government",
+            "Peace Process"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Poroshenko, Petro Olekseyevich",
+            "Zelensky, Volodymyr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-poroshenko-01-qftb/13int-ukraine-poroshenko-01-qftb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1367,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Petro O. Poroshenko, Ukraine’s former president, this past week in his office in Kyiv, Ukraine’s capital.",
+                "copyright": "Finbarr O’Reilly for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-poroshenko-01-qftb/13int-ukraine-poroshenko-01-qftb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Petro O. Poroshenko, Ukraine’s former president, this past week in his office in Kyiv, Ukraine’s capital.",
+                "copyright": "Finbarr O’Reilly for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-poroshenko-01-qftb/13int-ukraine-poroshenko-01-qftb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Petro O. Poroshenko, Ukraine’s former president, this past week in his office in Kyiv, Ukraine’s capital.",
+                "copyright": "Finbarr O’Reilly for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
