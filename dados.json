@@ -23800,5 +23800,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Irmgard Furchner, Secretary at a Hub of Nazi Atrocities, Dies at 99",
+        "abstract": "Her work for the commandant of a concentration camp in German-occupied Poland led to her conviction as an accessory to more than 10,000 murders.",
+        "url": "https://www.nytimes.com/2025/04/13/world/europe/irmgard-furchner-dead.html",
+        "uri": "nyt://article/ca7075dd-449f-555a-a215-78a4d8ba566a",
+        "byline": "By Richard Sandomir",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T13:58:08-04:00",
+        "created_date": "2025-04-13T13:58:08-04:00",
+        "published_date": "2025-04-13T13:58:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Concentration Camps",
+            "Holocaust and the Nazi Era",
+            "World War II (1939-45)",
+            "Murders, Attempted Murders and Homicides",
+            "Decisions and Verdicts"
+        ],
+        "org_facet": [
+            "Stutthof concentration camp"
+        ],
+        "per_facet": [
+            "Furchner, Irmgard"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13obit-Irmgard-Furchner-kctb/13obit-Irmgard-Furchner-kctb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1358,
+                "width": 2037,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Irmgard Furchner in a courtroom in Itzehoe, northern Germany, in 2022. She was convicted of being an accessory to more than 10,000 murders at a concentration camp.",
+                "copyright": "Pool photo by Christian Charisius"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13obit-Irmgard-Furchner-kctb/13obit-Irmgard-Furchner-kctb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Irmgard Furchner in a courtroom in Itzehoe, northern Germany, in 2022. She was convicted of being an accessory to more than 10,000 murders at a concentration camp.",
+                "copyright": "Pool photo by Christian Charisius"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13obit-Irmgard-Furchner-kctb/13obit-Irmgard-Furchner-kctb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Irmgard Furchner in a courtroom in Itzehoe, northern Germany, in 2022. She was convicted of being an accessory to more than 10,000 murders at a concentration camp.",
+                "copyright": "Pool photo by Christian Charisius"
+            }
+        ],
+        "short_url": ""
     }
 ]
