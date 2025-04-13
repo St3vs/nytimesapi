@@ -23416,5 +23416,132 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russian Missile Strikes in Sumy Kill at Least 32, Ukrainian Officials Say",
+        "abstract": "The strikes were the latest in a string of attacks on urban centers that have caused heavy civilian casualties even as the Trump administration pushes for a cease-fire.",
+        "url": "https://www.nytimes.com/2025/04/13/world/europe/sumy-ukraine-russia-strikes.html",
+        "uri": "nyt://article/5c134202-d2f2-54e8-83b9-554841ed2be9",
+        "byline": "By Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T07:23:35-04:00",
+        "created_date": "2025-04-13T05:23:45-04:00",
+        "published_date": "2025-04-13T05:23:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Civilian Casualties",
+            "Deaths (Fatalities)",
+            "United States Politics and Government",
+            "Politics and Government",
+            "Missiles and Missile Defense Systems"
+        ],
+        "org_facet": [
+            "United Nations"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Zelensky, Volodymyr",
+            "Putin, Vladimir V"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-strike-wctf/13int-ukraine-strike-wctf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1368,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency workers near destroyed vehicles on Sunday in Sumy, Ukraine. Ihor Klymenko, Ukraine’s interior minister, said the streets had been crowded with civilians out enjoying Palm Sunday.",
+                "copyright": "Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-strike-wctf/13int-ukraine-strike-wctf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency workers near destroyed vehicles on Sunday in Sumy, Ukraine. Ihor Klymenko, Ukraine’s interior minister, said the streets had been crowded with civilians out enjoying Palm Sunday.",
+                "copyright": "Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-strike-wctf/13int-ukraine-strike-wctf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency workers near destroyed vehicles on Sunday in Sumy, Ukraine. Ihor Klymenko, Ukraine’s interior minister, said the streets had been crowded with civilians out enjoying Palm Sunday.",
+                "copyright": "Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Strikes Hospital in Gaza’s North and Captures Key Part of South",
+        "abstract": "No one was killed but the attack hit the Ahli Arab Hospital, a mainstay of Gaza’s decimated health care system. Separately, Israel said its troops had expanded their occupation of southern Gaza.",
+        "url": "https://www.nytimes.com/2025/04/13/world/middleeast/gaza-israel-hospital.html",
+        "uri": "nyt://article/8a79807f-d601-5053-92d6-dbbeed233050",
+        "byline": "By Patrick Kingsley",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T07:49:43-04:00",
+        "created_date": "2025-04-13T07:38:57-04:00",
+        "published_date": "2025-04-13T07:38:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Katz, Israel (1955- )"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Khan Younis (Gaza Strip)",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-hospital-01-vjpf/13int-gaza-hospital-01-vjpf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Assessing the damage on Sunday after the strike at the Ahli Arab Hospital in Zeitoun, northern Gaza.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-hospital-01-vjpf/13int-gaza-hospital-01-vjpf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Assessing the damage on Sunday after the strike at the Ahli Arab Hospital in Zeitoun, northern Gaza.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-hospital-01-vjpf/13int-gaza-hospital-01-vjpf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Assessing the damage on Sunday after the strike at the Ahli Arab Hospital in Zeitoun, northern Gaza.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
