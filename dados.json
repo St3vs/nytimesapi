@@ -23733,5 +23733,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russian Missile Attack on City Center Kills 34",
+        "abstract": "The midmorning strike hit as Ukrainians were celebrating Palm Sunday, officials said. It appeared to be the deadliest attack on civilians this year and came as the Trump administration pushes for a cease-fire.",
+        "url": "https://www.nytimes.com/2025/04/13/world/europe/sumy-ukraine-russia-strikes.html",
+        "uri": "nyt://article/5c134202-d2f2-54e8-83b9-554841ed2be9",
+        "byline": "By Constant Méheut and Liubov Sholudko",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T12:47:10-04:00",
+        "created_date": "2025-04-13T05:23:45-04:00",
+        "published_date": "2025-04-13T05:23:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Civilian Casualties",
+            "Deaths (Fatalities)",
+            "United States Politics and Government",
+            "Politics and Government",
+            "Missiles and Missile Defense Systems"
+        ],
+        "org_facet": [
+            "United Nations"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Zelensky, Volodymyr",
+            "Putin, Vladimir V"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-strike-zkcj/13int-ukraine-strike-zkcj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency workers at the site of a strike in Sumy, Ukraine, on Sunday. Ihor Klymenko, Ukraine’s interior minister, said the streets had been crowded with civilians out enjoying Palm Sunday.",
+                "copyright": "Oleg Voronenko/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-strike-zkcj/13int-ukraine-strike-zkcj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency workers at the site of a strike in Sumy, Ukraine, on Sunday. Ihor Klymenko, Ukraine’s interior minister, said the streets had been crowded with civilians out enjoying Palm Sunday.",
+                "copyright": "Oleg Voronenko/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-ukraine-strike-zkcj/13int-ukraine-strike-zkcj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency workers at the site of a strike in Sumy, Ukraine, on Sunday. Ihor Klymenko, Ukraine’s interior minister, said the streets had been crowded with civilians out enjoying Palm Sunday.",
+                "copyright": "Oleg Voronenko/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
