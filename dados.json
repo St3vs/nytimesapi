@@ -23982,5 +23982,131 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "The Musicians Who Knew a Malian Rock Star Pay Tribute to His Legacy",
+        "abstract": "Amadou Bagayoko and his wife, the singer Mariam Doumbia, rose from icons in Mali to international success over the last two decades. After Mr. Bagayoko’s death, those who knew him chose a few of their favorite songs.",
+        "url": "https://www.nytimes.com/2025/04/14/world/africa/amadou-mariam-bagayoko-songs.html",
+        "uri": "nyt://article/3d79c586-220a-5177-b23e-941940f42601",
+        "byline": "By Elian Peltier",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T00:00:04-04:00",
+        "created_date": "2025-04-14T00:00:04-04:00",
+        "published_date": "2025-04-14T00:00:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Music"
+        ],
+        "org_facet": [
+            "Amadou & Mariam (Music Group)"
+        ],
+        "per_facet": [
+            "Bagayoko, Amadou",
+            "Doumbia, Mariam"
+        ],
+        "geo_facet": [
+            "Mali",
+            "West Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-mali-musician-fcjp/13int-mali-musician-fcjp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Amadou Bagayoko and Mariam Doumbia in New York City in 2009, the year they performed in honor of President Barack Obama winning the Nobel Peace Prize.",
+                "copyright": "Tony Cenicola/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-mali-musician-fcjp/13int-mali-musician-fcjp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Amadou Bagayoko and Mariam Doumbia in New York City in 2009, the year they performed in honor of President Barack Obama winning the Nobel Peace Prize.",
+                "copyright": "Tony Cenicola/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-mali-musician-fcjp/13int-mali-musician-fcjp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Amadou Bagayoko and Mariam Doumbia in New York City in 2009, the year they performed in honor of President Barack Obama winning the Nobel Peace Prize.",
+                "copyright": "Tony Cenicola/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Ecuador’s President Wins Re-Election in Nation Rocked by Drug Violence",
+        "abstract": "In a divisive election season, Daniel Noboa pledged to bring law and order. His opponent immediately contested the results.",
+        "url": "https://www.nytimes.com/2025/04/13/world/americas/ecuador-election.html",
+        "uri": "nyt://article/c701cf3f-d05a-5162-b955-9e77e6f6dfba",
+        "byline": "By Genevieve Glatsky",
+        "item_type": "Article",
+        "updated_date": "2025-04-13T23:00:58-04:00",
+        "created_date": "2025-04-13T23:00:58-04:00",
+        "published_date": "2025-04-13T23:00:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Drug Abuse and Traffic",
+            "Crime and Criminals"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Noboa, Daniel",
+            "Gonzalez, Luisa",
+            "Trump, Donald J",
+            "Correa, Rafael"
+        ],
+        "geo_facet": [
+            "Ecuador",
+            "Quito (Ecuador)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13ecuador-election-phtc/13ecuador-election-phtc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of President Daniel Noboa during an election campaign event in Quito, Ecuador, in February.",
+                "copyright": "Johanna Alarcón for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13ecuador-election-phtc/13ecuador-election-phtc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of President Daniel Noboa during an election campaign event in Quito, Ecuador, in February.",
+                "copyright": "Johanna Alarcón for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13ecuador-election-phtc/13ecuador-election-phtc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of President Daniel Noboa during an election campaign event in Quito, Ecuador, in February.",
+                "copyright": "Johanna Alarcón for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
