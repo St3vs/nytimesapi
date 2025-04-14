@@ -25154,5 +25154,74 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Fugitive Jeweler Wanted by India Is Arrested in Belgium",
+        "abstract": "The fugitive, Mehul Choksi, is wanted in connection with a major financial scandal at a publicly owned Indian bank. The police in Antwerp, Belgium, arrested him over the weekend.",
+        "url": "https://www.nytimes.com/2025/04/14/world/asia/mehul-choksi-arrest-belgium-nirav-modi.html",
+        "uri": "nyt://article/f93b9ad2-c533-5b54-a024-346e7c69c9ed",
+        "byline": "By Suhasini Raj and Matthew Mpoke Bigg",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T12:32:35-04:00",
+        "created_date": "2025-04-14T12:32:35-04:00",
+        "published_date": "2025-04-14T12:32:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Fugitives",
+            "Banking and Financial Institutions",
+            "High Net Worth Individuals",
+            "Frauds and Swindling",
+            "Extradition",
+            "Diamonds"
+        ],
+        "org_facet": [
+            "Central Bureau of Investigation (India)",
+            "Punjab National Bank"
+        ],
+        "per_facet": [
+            "Modi, Nirav",
+            "Choksi, Mehul"
+        ],
+        "geo_facet": [
+            "Antigua and Barbuda",
+            "Antwerp (Belgium)",
+            "Dominica"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14xp-choksi-bpgm/14xp-choksi-bpgm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1517,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mehul Choksi in Dominica, where he was arrested in 2021.",
+                "copyright": "Clyde Jno Baptiste/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14xp-choksi-bpgm/14xp-choksi-bpgm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mehul Choksi in Dominica, where he was arrested in 2021.",
+                "copyright": "Clyde Jno Baptiste/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14xp-choksi-bpgm/14xp-choksi-bpgm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mehul Choksi in Dominica, where he was arrested in 2021.",
+                "copyright": "Clyde Jno Baptiste/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
