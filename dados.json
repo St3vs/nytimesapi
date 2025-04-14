@@ -25223,5 +25223,73 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Orban Escalates Culture War in Hungary by Mandating Two Genders Only",
+        "abstract": "The governing Fidesz party passed a constitutional amendment stating that all Hungarians are either male or female, and another protecting the “moral development” of children.",
+        "url": "https://www.nytimes.com/2025/04/14/world/europe/hungary-two-genders-constitution.html",
+        "uri": "nyt://article/1832ca83-925a-5e2f-b052-421b302bd09e",
+        "byline": "By Andrew Higgins",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T13:22:34-04:00",
+        "created_date": "2025-04-14T13:22:34-04:00",
+        "published_date": "2025-04-14T13:22:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Legislatures and Parliaments",
+            "Law and Legislation",
+            "Constitutions",
+            "Gender",
+            "Homosexuality and Bisexuality",
+            "Children and Childhood",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Fidesz Party",
+            "European Union"
+        ],
+        "per_facet": [
+            "Orban, Viktor",
+            "Magyar, Peter"
+        ],
+        "geo_facet": [
+            "Hungary"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-hungary-constitution-01-gmvh/14int-hungary-constitution-01-gmvh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1336,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators protesting the banning of the annual Pride march in Budapest last month.",
+                "copyright": "Bernadett Szabo/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-hungary-constitution-01-gmvh/14int-hungary-constitution-01-gmvh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators protesting the banning of the annual Pride march in Budapest last month.",
+                "copyright": "Bernadett Szabo/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-hungary-constitution-01-gmvh/14int-hungary-constitution-01-gmvh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Demonstrators protesting the banning of the annual Pride march in Budapest last month.",
+                "copyright": "Bernadett Szabo/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
