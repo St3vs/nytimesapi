@@ -25357,5 +25357,57 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Tuesday Briefing: El Salvador Won’t Return Deportee",
+        "abstract": "Plus, remembering Mario Vargas Llosa.",
+        "url": "https://www.nytimes.com/2025/04/14/briefing/el-salvador-deportee-meta-trial-xi-asia-tour.html",
+        "uri": "nyt://article/7a053bf2-f779-5169-b580-d00730054d8c",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T17:00:11-04:00",
+        "created_date": "2025-04-14T17:00:11-04:00",
+        "published_date": "2025-04-14T17:00:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/15ambriefing-asia-trump/15ambriefing-asia-trump-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump greeted President Nayib Bukele of El Salvador.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/15ambriefing-asia-trump/15ambriefing-asia-trump-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump greeted President Nayib Bukele of El Salvador.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/15ambriefing-asia-trump/14trump-1200-bhqg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump greeted President Nayib Bukele of El Salvador.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
