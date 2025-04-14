@@ -24172,5 +24172,466 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "A Small City That Lost Big in the Dominican Nightclub Tragedy",
+        "abstract": "Haina, a city just outside the Dominican capital, lost 25 people in the Jet Set disaster, including community leaders and cultural icons.",
+        "url": "https://www.nytimes.com/2025/04/14/world/americas/haina-dominican-republic-nightclub.html",
+        "uri": "nyt://article/3f9c7f60-9580-5786-b9a0-e16f40c6e2e0",
+        "byline": "By Frances Robles",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:03:11-04:00",
+        "created_date": "2025-04-14T05:03:11-04:00",
+        "published_date": "2025-04-14T05:03:11-04:00",
+        "material_type_facet": "",
+        "kicker": "Dominican Republic Dispatch",
+        "des_facet": [
+            "Bars and Nightclubs"
+        ],
+        "org_facet": [
+            "Jet Set (Santo Domingo, Dominican Republic, Nightclub)"
+        ],
+        "per_facet": [
+            "Abinader, Luis (1967- )",
+            "Perez, Rubby (1956-2025)"
+        ],
+        "geo_facet": [
+            "Dominican Republic",
+            "Santo Domingo (Dominican Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-dominicanrepublic-dispatch-01-ckmj/14int-dominicanrepublic-dispatch-01-ckmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mourners attending a Mass in honor of the people who died after a roof collapse at the Jet Set nightclub, in Haina, Dominican Republic, on Sunday.",
+                "copyright": "Ricardo Arduengo/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-dominicanrepublic-dispatch-01-ckmj/14int-dominicanrepublic-dispatch-01-ckmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mourners attending a Mass in honor of the people who died after a roof collapse at the Jet Set nightclub, in Haina, Dominican Republic, on Sunday.",
+                "copyright": "Ricardo Arduengo/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-dominicanrepublic-dispatch-01-ckmj/14int-dominicanrepublic-dispatch-01-ckmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mourners attending a Mass in honor of the people who died after a roof collapse at the Jet Set nightclub, in Haina, Dominican Republic, on Sunday.",
+                "copyright": "Ricardo Arduengo/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "How to Evade Taxes in Ancient Rome? A 1,900-Year-Old Papyrus Offers a Guide.",
+        "abstract": "A manuscript discovered in the Judean desert contains trial notes on an intricate tax-evasion scheme that involved forgery, fiscal fraud and the false sale of slaves.",
+        "url": "https://www.nytimes.com/2025/04/14/science/archaeology-papyrus-tax-fraud-trial.html",
+        "uri": "nyt://article/f761f909-70a1-5fb0-8e5f-92304cf232a1",
+        "byline": "By Franz Lidz",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:02:13-04:00",
+        "created_date": "2025-04-14T05:02:13-04:00",
+        "published_date": "2025-04-14T05:02:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Archaeology and Anthropology",
+            "Tax Evasion",
+            "Roman Civilization",
+            "Taxation",
+            "Manuscripts",
+            "Slavery (Historical)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15sci-taxfraud-cpqj-czgw/15sci-taxfraud-cpqj-czgw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1775,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Initially misclassified, the ragged 133-line scroll lay unnoticed in the archives of the Israel Antiquities Authority until 2014.",
+                "copyright": "Shai Halevi/Israel Antiquities Authority"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15sci-taxfraud-cpqj-czgw/15sci-taxfraud-cpqj-czgw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Initially misclassified, the ragged 133-line scroll lay unnoticed in the archives of the Israel Antiquities Authority until 2014.",
+                "copyright": "Shai Halevi/Israel Antiquities Authority"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15sci-taxfraud-cpqj-czgw/15sci-taxfraud-cpqj-czgw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Initially misclassified, the ragged 133-line scroll lay unnoticed in the archives of the Israel Antiquities Authority until 2014.",
+                "copyright": "Shai Halevi/Israel Antiquities Authority"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "The Former C.I.A. Officer Capitalizing on Europe’s Military Spending Boom",
+        "abstract": "Eric Slesinger made a career shift from the spy agency to venture capital, championing military start-ups as Europe beefed up its defenses amid an uncertain relationship with the United States.",
+        "url": "https://www.nytimes.com/2025/04/14/technology/cia-officer-europe-military-spending.html",
+        "uri": "nyt://article/99594fe5-326a-5b45-a17f-45efcfa2b77c",
+        "byline": "By Adam Satariano",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:01:39-04:00",
+        "created_date": "2025-04-14T05:01:39-04:00",
+        "published_date": "2025-04-14T05:01:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Espionage and Intelligence Services",
+            "United States Politics and Government",
+            "Defense and Military Forces",
+            "Start-ups",
+            "Politics and Government",
+            "Computers and the Internet",
+            "Drones (Pilotless Planes)",
+            "International Relations",
+            "Venture Capital",
+            "Entrepreneurship",
+            "Innovation",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [
+            "Central Intelligence Agency",
+            "European Union",
+            "North Atlantic Treaty Organization",
+            "201 Ventures"
+        ],
+        "per_facet": [
+            "Eric Slesinger"
+        ],
+        "geo_facet": [
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00biz-CIA-VC-03-klfq/00biz-CIA-VC-03-klfq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1536,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Slesinger, the venture capitalist at 201 Ventures, which invests in European defense start-ups.",
+                "copyright": "Christopher Gregory-Rivera for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00biz-CIA-VC-03-klfq/00biz-CIA-VC-03-klfq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Slesinger, the venture capitalist at 201 Ventures, which invests in European defense start-ups.",
+                "copyright": "Christopher Gregory-Rivera for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/08/multimedia/00biz-CIA-VC-03-klfq/00biz-CIA-VC-03-klfq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Slesinger, the venture capitalist at 201 Ventures, which invests in European defense start-ups.",
+                "copyright": "Christopher Gregory-Rivera for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Ancient Syrian Town Seeks Interfaith Peace After Long War",
+        "abstract": "Syria’s civil war drove a wedge between the residents of the small town of Maaloula, where two-thirds are Christian and one-third Muslim. Can they live together peacefully again?",
+        "url": "https://www.nytimes.com/2025/04/14/world/middleeast/maaloula-syria-christian-muslim-relations.html",
+        "uri": "nyt://article/9dd19fd4-7713-553c-b101-961bc0f4b314",
+        "byline": "By Ben Hubbard, Hwaida Saad and David Guttenfelder",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:01:36-04:00",
+        "created_date": "2025-04-14T05:01:36-04:00",
+        "published_date": "2025-04-14T05:01:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Christians and Christianity",
+            "Monasteries and Monks",
+            "Minorities",
+            "Churches (Buildings)",
+            "Muslims and Islam"
+        ],
+        "org_facet": [
+            "Al Nusra Front",
+            "Al Qaeda"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+            "Assad, Bashar al-"
+        ],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/00int-syria-maaloula-dispatch-88488-cover/00int-syria-maaloula-dispatch-88488-cover-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/00int-syria-maaloula-dispatch-88488-cover/00int-syria-maaloula-dispatch-88488-cover-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/00int-syria-maaloula-dispatch-88488-cover/00int-syria-maaloula-dispatch-88488-cover-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Trump Takes Aim at a Key Cuban Export: Its Worldwide Medical Missions",
+        "abstract": "The administration has begun to pull the U.S. visas of foreign officials in countries that pay the Cuban government for doctors and nurses.",
+        "url": "https://www.nytimes.com/2025/04/14/world/americas/trump-cuba-medical-missions-doctors.html",
+        "uri": "nyt://article/503708cd-8502-5825-8f5f-45b4da8f68de",
+        "byline": "By Frances Robles",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:01:26-04:00",
+        "created_date": "2025-04-14T05:01:26-04:00",
+        "published_date": "2025-04-14T05:01:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Medicine and Health",
+            "Embargoes and Sanctions",
+            "Nursing and Nurses",
+            "Doctors",
+            "Human Rights and Human Rights Violations",
+            "Health Care Workers"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Cuba",
+            "Jamaica (West Indies)",
+            "Trinidad and Tobago"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00int-cuba-us-hardline-jlkv/00int-cuba-us-hardline-jlkv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1363,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cuban medical workers in Honduras last year. The team includes oncologists and cardiologists who will work in the country for two years.",
+                "copyright": "Orlando Sierra/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00int-cuba-us-hardline-jlkv/00int-cuba-us-hardline-jlkv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cuban medical workers in Honduras last year. The team includes oncologists and cardiologists who will work in the country for two years.",
+                "copyright": "Orlando Sierra/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/00int-cuba-us-hardline-jlkv/00int-cuba-us-hardline-jlkv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cuban medical workers in Honduras last year. The team includes oncologists and cardiologists who will work in the country for two years.",
+                "copyright": "Orlando Sierra/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "In Canada’s Fight With Trump, She’s Playing Good Cop",
+        "abstract": "Danielle Smith, the premier of the oil-rich province of Alberta, takes pride in her MAGA ties. As her country faces existential threats from President Trump, she thinks her party and her province stand to gain.",
+        "url": "https://www.nytimes.com/2025/04/14/world/canada/canada-danielle-smith-trump.html",
+        "uri": "nyt://article/3ced651e-e04c-5f0c-bb8f-829e7becd729",
+        "byline": "By Matina Stevis-Gridneff and Amber Bracken",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:00:42-04:00",
+        "created_date": "2025-04-14T05:00:42-04:00",
+        "published_date": "2025-04-14T05:00:42-04:00",
+        "material_type_facet": "",
+        "kicker": "profile",
+        "des_facet": [
+            "International Trade and World Market",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)"
+        ],
+        "per_facet": [
+            "Smith, Danielle (1971- )",
+            "Trump, Donald J",
+            "Poilievre, Pierre"
+        ],
+        "geo_facet": [
+            "Canada",
+            "United States",
+            "Alberta (Canada)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/xxint-canada-profile-smith-PROMO/xxint-canada-profile-smith-gzpb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alberta Premier Danielle Smith at a provincial government office building in Calgary, Alberta, in February.",
+                "copyright": "Amber Bracken for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/xxint-canada-profile-smith-PROMO/xxint-canada-profile-smith-gzpb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alberta Premier Danielle Smith at a provincial government office building in Calgary, Alberta, in February.",
+                "copyright": "Amber Bracken for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/xxint-canada-profile-smith-PROMO/xxint-canada-profile-smith-gzpb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alberta Premier Danielle Smith at a provincial government office building in Calgary, Alberta, in February.",
+                "copyright": "Amber Bracken for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "China’s Leader Courts Vietnam as Trade War With the U.S. Mounts",
+        "abstract": "Xi Jinping is in Southeast Asia to build bonds with countries that also face U.S. tariffs and have come under pressure from Washington to curb the transshipment of Chinese goods.",
+        "url": "https://www.nytimes.com/2025/04/14/world/asia/china-vietnam-tariffs-trump.html",
+        "uri": "nyt://article/5ac1f3d5-fe2b-50fb-bf0c-d467573e38a9",
+        "byline": "By Damien Cave",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T04:31:25-04:00",
+        "created_date": "2025-04-14T04:31:25-04:00",
+        "published_date": "2025-04-14T04:31:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Communist Party of China",
+            "Communist Party of Vietnam"
+        ],
+        "per_facet": [
+            "Lam, To",
+            "Trump, Donald J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "Hanoi (Vietnam)",
+            "Vietnam",
+            "Southeast Asia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-vietnam-xi-01-fbmv/14int-vietnam-xi-01-fbmv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China’s top leader, Xi Jinping, landed in Hanoi on Monday, and will also visit Malaysia and Cambodia this week.",
+                "copyright": "Pool photo by Athit Perawongmetha"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-vietnam-xi-01-fbmv/14int-vietnam-xi-01-fbmv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China’s top leader, Xi Jinping, landed in Hanoi on Monday, and will also visit Malaysia and Cambodia this week.",
+                "copyright": "Pool photo by Athit Perawongmetha"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-vietnam-xi-01-fbmv/14int-vietnam-xi-01-fbmv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China’s top leader, Xi Jinping, landed in Hanoi on Monday, and will also visit Malaysia and Cambodia this week.",
+                "copyright": "Pool photo by Athit Perawongmetha"
+            }
+        ],
+        "short_url": ""
     }
 ]
