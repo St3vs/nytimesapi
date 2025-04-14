@@ -24698,5 +24698,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "books",
+        "subsection": "",
+        "title": "Mario Vargas Llosa, Nobel-Winning Peruvian Novelist, Dies at 89",
+        "abstract": "Mr. Vargas Llosa, who ran for Peru’s presidency in 1990 and won the Nobel Prize in Literature in 2010, transformed episodes from his personal life into books that reverberated far beyond the borders of his native country.",
+        "url": "https://www.nytimes.com/2025/04/13/books/mario-vargas-llosa-dead.html",
+        "uri": "nyt://article/be7ea1d4-ab81-5b51-860a-ad0e22dad39b",
+        "byline": "By Simon Romero",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T07:07:03-04:00",
+        "created_date": "2025-04-13T21:25:24-04:00",
+        "published_date": "2025-04-13T21:25:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Books and Literature",
+            "Writing and Writers",
+            "The Time of the Hero (Book)",
+            "Conversation in the Cathedral (Book)",
+            "Nobel Prizes"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Vargas Llosa, Mario"
+        ],
+        "geo_facet": [
+            "Peru"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2023/05/01/multimedia/00vargasllosa-01-pwjz/00vargasllosa-01-pwjz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1447,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mario Vargas Llosa during his unsuccessful campaign for president. He charted his own path as a conservative, often divisive political thinker.",
+                "copyright": "Jaime Razuri/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/05/01/multimedia/00vargasllosa-01-pwjz/00vargasllosa-01-pwjz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mario Vargas Llosa during his unsuccessful campaign for president. He charted his own path as a conservative, often divisive political thinker.",
+                "copyright": "Jaime Razuri/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/05/01/multimedia/00vargasllosa-01-pwjz/00vargasllosa-01-pwjz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mario Vargas Llosa during his unsuccessful campaign for president. He charted his own path as a conservative, often divisive political thinker.",
+                "copyright": "Jaime Razuri/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
