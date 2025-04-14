@@ -24761,5 +24761,269 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump Describes Russia’s Deadly Strike on Ukrainian City as ‘Horrible’",
+        "abstract": "At least 34 people were killed in the attack on Sumy, which came as Ukraine’s leader urged President Trump to come witness the realities of war firsthand.",
+        "url": "https://www.nytimes.com/2025/04/14/world/europe/trump-ukraine-sumy-russia-attack.html",
+        "uri": "nyt://article/efa38a28-c603-5d89-95c3-55d2fba6fa1d",
+        "byline": "By Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T08:37:27-04:00",
+        "created_date": "2025-04-14T08:37:27-04:00",
+        "published_date": "2025-04-14T08:37:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States Politics and Government",
+            "United States International Relations",
+            "Civilian Casualties"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kellogg, Joseph Keith Jr (1944- )",
+            "Putin, Vladimir V",
+            "Rubio, Marco",
+            "Trump, Donald J",
+            "Witkoff, Steven",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Sumy (Ukraine)",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-trump-ukraine-01-lkmj/14int-trump-ukraine-01-lkmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A rescue worker in Sumy, northeast Ukraine, on Sunday, after a Russian missile strike.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-trump-ukraine-01-lkmj/14int-trump-ukraine-01-lkmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A rescue worker in Sumy, northeast Ukraine, on Sunday, after a Russian missile strike.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14int-trump-ukraine-01-lkmj/14int-trump-ukraine-01-lkmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A rescue worker in Sumy, northeast Ukraine, on Sunday, after a Russian missile strike.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "When Elected Leaders Pursue Risky Policies, What Can Stop Them?",
+        "abstract": "President Trump issued a partial, temporary reprieve on tariffs that had sent the stock market tumbling. He did so only after U.S. government bonds showed signs of distress.",
+        "url": "https://www.nytimes.com/2025/04/14/world/americas/trump-tariffs-bond-market.html",
+        "uri": "nyt://article/8ebfc3a8-fff2-558f-b1d5-d559b6167591",
+        "byline": "By Amanda Taub",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T08:33:30-04:00",
+        "created_date": "2025-04-14T08:33:30-04:00",
+        "published_date": "2025-04-14T08:33:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Banking and Financial Institutions",
+            "United States Economy"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Erdogan, Recep Tayyip",
+            "Modi, Narendra",
+            "Rajapaksa, Gotabaya",
+            "Trump, Donald J",
+            "Sassoon, Danielle R",
+            "Truss, Elizabeth (1975- )"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14interpreter-taub-limits-01-ghcw/14interpreter-taub-limits-01-ghcw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An Apple Store in New York. President Trump added some tariff exemptions for smartphones and computers late Friday.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14interpreter-taub-limits-01-ghcw/14interpreter-taub-limits-01-ghcw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An Apple Store in New York. President Trump added some tariff exemptions for smartphones and computers late Friday.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14interpreter-taub-limits-01-ghcw/14interpreter-taub-limits-01-ghcw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An Apple Store in New York. President Trump added some tariff exemptions for smartphones and computers late Friday.",
+                "copyright": "Karsten Moran for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Military Leader Wins Presidential Election in Gabon",
+        "abstract": "Brice Oligui Nguema had promised to relinquish power after he led a coup in 2023. He now is set to lead the oil-rich country for the next seven years.",
+        "url": "https://www.nytimes.com/2025/04/14/world/africa/gabon-presidential-election-nguema.html",
+        "uri": "nyt://article/540e4a47-d470-5417-974e-3a5929cb93ee",
+        "byline": "By Elian Peltier",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T08:11:03-04:00",
+        "created_date": "2025-04-14T08:11:03-04:00",
+        "published_date": "2025-04-14T08:11:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Coups D'Etat and Attempted Coups D'Etat",
+            "Constitutions"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Brice Oligui Nguema"
+        ],
+        "geo_facet": [
+            "Africa",
+            "Gabon"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14gabon-election-01-bkzq/14gabon-election-01-bkzq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gen. Brice Oligui Nguema celebrated the provisional results of Gabon’s presidential election at his campaign headquarters in Libreville on Sunday.",
+                "copyright": "Daniel Beloumou Olomo/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14gabon-election-01-bkzq/14gabon-election-01-bkzq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gen. Brice Oligui Nguema celebrated the provisional results of Gabon’s presidential election at his campaign headquarters in Libreville on Sunday.",
+                "copyright": "Daniel Beloumou Olomo/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14gabon-election-01-bkzq/14gabon-election-01-bkzq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gen. Brice Oligui Nguema celebrated the provisional results of Gabon’s presidential election at his campaign headquarters in Libreville on Sunday.",
+                "copyright": "Daniel Beloumou Olomo/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Why Europe Fears a Flood of Cheap Goods From China",
+        "abstract": "President Trump’s tariffs on China could lead to a hazardous scenario for European countries: the dumping of artificially cheap products that would undermine local industries.",
+        "url": "https://www.nytimes.com/2025/04/14/world/europe/europe-china-dumping-tariffs.html",
+        "uri": "nyt://article/618ce6c9-d1f2-5cee-ae31-1b70df4f845e",
+        "byline": "By Michael D. Shear and Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T08:01:37-04:00",
+        "created_date": "2025-04-14T08:01:37-04:00",
+        "published_date": "2025-04-14T08:01:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Electric and Hybrid Vehicles",
+            "Economic Conditions and Trends",
+            "Prices (Fares, Fees and Rates)"
+        ],
+        "org_facet": [
+            "European Union",
+            "Communist Party of China",
+            "European Commission"
+        ],
+        "per_facet": [
+            "von der Leyen, Ursula",
+            "Sanchez Perez-Castejon, Pedro (1972- )",
+            "Xi Jinping",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "Europe",
+            "Spain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14INT-EUROPE-CHINA-01-tzpw/14INT-EUROPE-CHINA-01-tzpw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1150,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New cars in Guangzhou, China, this month. With China facing an extraordinary wall of tariffs thanks to President Trump, Europe is bracing for an influx of diverted goods.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14INT-EUROPE-CHINA-01-tzpw/14INT-EUROPE-CHINA-01-tzpw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New cars in Guangzhou, China, this month. With China facing an extraordinary wall of tariffs thanks to President Trump, Europe is bracing for an influx of diverted goods.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14INT-EUROPE-CHINA-01-tzpw/14INT-EUROPE-CHINA-01-tzpw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New cars in Guangzhou, China, this month. With China facing an extraordinary wall of tariffs thanks to President Trump, Europe is bracing for an influx of diverted goods.",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
