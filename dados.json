@@ -25291,5 +25291,71 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Antoni Gaudí Was a Venerated Architect. Now He May Become a Saint.",
+        "abstract": "Pope Francis on Monday signed a decree that recognized the 20th-century visionary’s “heroic virtues” and put him on the path to possible sainthood.",
+        "url": "https://www.nytimes.com/2025/04/14/world/europe/antoni-gaudi-architect-saint.html",
+        "uri": "nyt://article/30ac956e-debe-5ab2-82af-db506069c16c",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T15:42:10-04:00",
+        "created_date": "2025-04-14T15:42:10-04:00",
+        "published_date": "2025-04-14T15:42:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Architecture",
+            "Buildings (Structures)",
+            "Clergy",
+            "Ethics (Personal)",
+            "Beatifications and Canonizations"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Gaudi, Antoni",
+            "Francis"
+        ],
+        "geo_facet": [
+            "Catalonia (Spain)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14GAUDI-SAINT-01-zvbq/14GAUDI-SAINT-01-zvbq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1535,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Construction of the Sagrada Familia began in 1882, and Antoni Gaudí took over the project a year later.",
+                "copyright": "Samuel Aranda for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14GAUDI-SAINT-01-zvbq/14GAUDI-SAINT-01-zvbq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Construction of the Sagrada Familia began in 1882, and Antoni Gaudí took over the project a year later.",
+                "copyright": "Samuel Aranda for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14GAUDI-SAINT-01-zvbq/14GAUDI-SAINT-01-zvbq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Construction of the Sagrada Familia began in 1882, and Antoni Gaudí took over the project a year later.",
+                "copyright": "Samuel Aranda for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
