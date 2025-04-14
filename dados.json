@@ -24633,5 +24633,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "In Ukraine, Porn Is Illegal. So Why Are Its Creators Paying Taxes?",
+        "abstract": "Ukraine makes tax revenue off the creators of pornographic content, but also threatens them with prosecution. A draft law aims to fix what many say is an unfair contradiction.",
+        "url": "https://www.nytimes.com/2025/04/14/world/europe/ukraine-pornography-onlyfans.html",
+        "uri": "nyt://article/80fcd117-5c72-5eb3-beaa-380d9f92163b",
+        "byline": "By Cassandra Vinograd and Oleksandr Chubko",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T05:20:45-04:00",
+        "created_date": "2025-04-14T05:20:45-04:00",
+        "published_date": "2025-04-14T05:20:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Pornography",
+            "Law and Legislation",
+            "Politics and Government",
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [
+            "OnlyFans"
+        ],
+        "per_facet": [
+            "Tymoshenko, Yulia V"
+        ],
+        "geo_facet": [
+            "Ukraine",
+            "Russia",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/00int-ukraine-pronography-01-kmcj/00int-ukraine-pronography-01-kmcj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Creators of erotic content say that their work should be decriminalized given that they are being asked to contribute to the tax rolls.",
+                "copyright": "Oksana Parafeniuk for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/00int-ukraine-pronography-01-kmcj/00int-ukraine-pronography-01-kmcj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Creators of erotic content say that their work should be decriminalized given that they are being asked to contribute to the tax rolls.",
+                "copyright": "Oksana Parafeniuk for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/26/multimedia/00int-ukraine-pronography-01-kmcj/00int-ukraine-pronography-01-kmcj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Creators of erotic content say that their work should be decriminalized given that they are being asked to contribute to the tax rolls.",
+                "copyright": "Oksana Parafeniuk for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
