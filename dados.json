@@ -26202,5 +26202,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Attackers Target Prisons in France, Burning Vehicles and Firing Shots",
+        "abstract": "The office of France’s counterterrorism prosecutor said it would begin an investigation into the violence. The justice minister blamed drug traffickers.",
+        "url": "https://www.nytimes.com/2025/04/15/world/europe/france-prison-attacks.html",
+        "uri": "nyt://article/6de2e18f-4c98-59ac-956d-d46545419a50",
+        "byline": "By Matthew Mpoke Bigg",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T09:45:29-04:00",
+        "created_date": "2025-04-15T09:45:29-04:00",
+        "published_date": "2025-04-15T09:45:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Prison Guards and Corrections Officers",
+            "Prisons and Prisoners",
+            "Vandalism"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Darmanin, Gerald"
+        ],
+        "geo_facet": [
+            "France"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15xp-france-01-tclw/15xp-france-01-tclw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Toulon-La Farlède prison near Toulon, France, which was targeted by attackers overnight Monday to Tuesday.",
+                "copyright": "Miguel Medina/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15xp-france-01-tclw/15xp-france-01-tclw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Toulon-La Farlède prison near Toulon, France, which was targeted by attackers overnight Monday to Tuesday.",
+                "copyright": "Miguel Medina/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15xp-france-01-tclw/15xp-france-01-tclw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Toulon-La Farlède prison near Toulon, France, which was targeted by attackers overnight Monday to Tuesday.",
+                "copyright": "Miguel Medina/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
