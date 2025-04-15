@@ -25720,5 +25720,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump’s Dilemma: A Trade War That Threatens Every Other Negotiation With China",
+        "abstract": "President Trump is staking everything on winning by imposing tariffs on China. But the fight threatens to choke off negotiations about other issues like Taiwan, fentanyl, TikTok and more.",
+        "url": "https://www.nytimes.com/2025/04/14/us/politics/trump-trade-war-china-dilemma.html",
+        "uri": "nyt://article/f4581ea7-518b-5ab1-8de3-281c8a9c4cf6",
+        "byline": "By David E. Sanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T04:01:43-04:00",
+        "created_date": "2025-04-14T20:21:10-04:00",
+        "published_date": "2025-04-14T20:21:10-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "World Trade Organization"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14dc-assess-topart-qpzm/14dc-assess-topart-qpzm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump may be entering any eventual negotiations alone because he has alienated the allies who in recent years had come to a common approach to countering Chinese power.",
+                "copyright": "Tom Brenner for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14dc-assess-topart-qpzm/14dc-assess-topart-qpzm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump may be entering any eventual negotiations alone because he has alienated the allies who in recent years had come to a common approach to countering Chinese power.",
+                "copyright": "Tom Brenner for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14dc-assess-topart-qpzm/14dc-assess-topart-qpzm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump may be entering any eventual negotiations alone because he has alienated the allies who in recent years had come to a common approach to countering Chinese power.",
+                "copyright": "Tom Brenner for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
