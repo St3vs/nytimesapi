@@ -26452,5 +26452,256 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Jordan Says It Foiled a Plot Against the Kingdom",
+        "abstract": "The country’s main intelligence branch said the plans, apparently years in the making, involved rockets, weapons manufacturing and drones.",
+        "url": "https://www.nytimes.com/2025/04/15/world/middleeast/jordan-plot-arrests.html",
+        "uri": "nyt://article/d8ed6059-b292-53c6-b897-45bdd5833ae8",
+        "byline": "By Erika Solomon",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T13:23:35-04:00",
+        "created_date": "2025-04-15T13:23:35-04:00",
+        "published_date": "2025-04-15T13:23:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Coups D'Etat and Attempted Coups D'Etat",
+            "Israel-Gaza War (2023- )",
+            "Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Abdullah II, King of Jordan"
+        ],
+        "geo_facet": [
+            "Jordan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-jordan-plot-lgtc/15int-jordan-plot-lgtc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "King Abdullah II of Jordan. In 2021, he faced an attempted palace coup.",
+                "copyright": "Benoit Tessier/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-jordan-plot-lgtc/15int-jordan-plot-lgtc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "King Abdullah II of Jordan. In 2021, he faced an attempted palace coup.",
+                "copyright": "Benoit Tessier/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-jordan-plot-lgtc/15int-jordan-plot-lgtc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "King Abdullah II of Jordan. In 2021, he faced an attempted palace coup.",
+                "copyright": "Benoit Tessier/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "France Says It Will Expel 12 Algerian Officials as Tensions Rise",
+        "abstract": "The move followed expulsions of French officials by Algeria after an Algerian official was accused of kidnapping an influencer who had been granted political asylum in France.",
+        "url": "https://www.nytimes.com/2025/04/15/world/europe/france-algeria-expulsions-relations.html",
+        "uri": "nyt://article/9bdeb687-0563-560b-a1a9-e1a036b7de04",
+        "byline": "By Roger Cohen and Ségolène Le Stradic",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T14:14:50-04:00",
+        "created_date": "2025-04-15T11:41:02-04:00",
+        "published_date": "2025-04-15T11:41:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Diplomatic Service, Embassies and Consulates",
+            "International Relations",
+            "Kidnapping and Hostages",
+            "Asylum, Right of"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Amir DZ"
+        ],
+        "geo_facet": [
+            "Algeria",
+            "France"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-france-algeria-pzbt/15int-france-algeria-pzbt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jean-Noël Barrot, France’s foreign minister, said he was “ready to act” in response to the expulsions.",
+                "copyright": "Isabel Infantes/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-france-algeria-pzbt/15int-france-algeria-pzbt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jean-Noël Barrot, France’s foreign minister, said he was “ready to act” in response to the expulsions.",
+                "copyright": "Isabel Infantes/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-france-algeria-pzbt/15int-france-algeria-pzbt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jean-Noël Barrot, France’s foreign minister, said he was “ready to act” in response to the expulsions.",
+                "copyright": "Isabel Infantes/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The ‘Great Moose Migration’ Livestream Captivates Sweden",
+        "abstract": "Moose fans are following the weekslong moose migration, which airs live on the national broadcaster. “This is reality TV at its finest,” a moderator of a zealous Facebook group said.",
+        "url": "https://www.nytimes.com/2025/04/15/world/europe/sweden-moose-livestream.html",
+        "uri": "nyt://article/25bc3070-9542-5336-b68f-b94fd345100e",
+        "byline": "By Amelia Nierenberg and Christina Anderson",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T13:44:59-04:00",
+        "created_date": "2025-04-15T13:44:59-04:00",
+        "published_date": "2025-04-15T13:44:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Reality Television",
+            "Television",
+            "Video Recordings, Downloads and Streaming",
+            "Moose",
+            "Animal Migration",
+            "Fans (Persons)",
+            "Computers and the Internet"
+        ],
+        "org_facet": [
+            "Sveriges Television AB (SVT)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Sweden"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/world/europe/moose-migration/moose-migration-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1620,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "SVT, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/world/europe/moose-migration/moose-migration-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "SVT, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/world/europe/moose-migration/moose-migration-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "SVT, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "American Airlines Will Offer Free Wi-Fi on Most Flights Next Year",
+        "abstract": "Starting in January, members of the airline’s AAdvantage loyalty program will have free access to wireless internet on 90 percent of its fleet, the company said.",
+        "url": "https://www.nytimes.com/2025/04/15/business/american-airlines-free-wifi.html",
+        "uri": "nyt://article/2af1cc25-dd0b-55f1-94c1-b0aeed9f0b6a",
+        "byline": "By Johnny Diaz",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T13:32:10-04:00",
+        "created_date": "2025-04-15T13:32:10-04:00",
+        "published_date": "2025-04-15T13:32:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Airlines and Airplanes",
+            "Wireless Communications",
+            "Computers and the Internet",
+            "Satellites",
+            "Customer Loyalty Programs",
+            "Telephones and Telecommunications"
+        ],
+        "org_facet": [
+            "American Airlines",
+            "AT&T Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15xp-american-flmw/15xp-american-flmw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "American Airlines said it will partner with AT&T to offer internet access at no cost. Other major airlines already offer free Wi-Fi on their flights.",
+                "copyright": "Maansi Srivastava for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15xp-american-flmw/15xp-american-flmw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "American Airlines said it will partner with AT&T to offer internet access at no cost. Other major airlines already offer free Wi-Fi on their flights.",
+                "copyright": "Maansi Srivastava for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15xp-american-flmw/15xp-american-flmw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "American Airlines said it will partner with AT&T to offer internet access at no cost. Other major airlines already offer free Wi-Fi on their flights.",
+                "copyright": "Maansi Srivastava for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
