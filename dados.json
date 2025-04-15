@@ -25971,5 +25971,115 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Assad Defaced: Syrians Destroy a Dictator’s Icons",
+        "abstract": "Images of Bashar al-Assad and his family were emblematic of the dynasty’s grip on Syria. Though remnants linger after the regime’s ouster, the removal of the once ubiquitous relics has offered catharsis.",
+        "url": "https://www.nytimes.com/card/2025/04/15/world/middleeast/syria-assad-defaced-images",
+        "uri": "nyt://promo/b2a01ab9-0eb2-5ceb-bd86-143e7ee793cc",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-15T06:53:02-04:00",
+        "created_date": "2025-04-15T06:50:57-04:00",
+        "published_date": "2025-04-15T06:50:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-assad-defaced-snapper-promo-tqck/00int-assad-defaced-snapper-promo-tqck-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "David Guttenfelder/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-assad-defaced-snapper-promo-tqck/00int-assad-defaced-snapper-promo-tqck-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "David Guttenfelder/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-assad-defaced-snapper-promo-tqck/00int-assad-defaced-snapper-promo-tqck-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "David Guttenfelder/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Van Gogh’s Last Painting Poses a Problem for an Idyllic French Village",
+        "abstract": "It was recently determined that the artist painted his final work, “Tree Roots,” in Auvers-sur-Oise. The roots still exist, igniting a fight over their preservation.",
+        "url": "https://www.nytimes.com/2025/04/15/world/europe/van-gogh-tree-roots-france-auvers-sur-oise.html",
+        "uri": "nyt://article/e0ca7991-0263-53e0-85f1-1aed51fdd46b",
+        "byline": "By Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T06:34:19-04:00",
+        "created_date": "2025-04-15T05:01:59-04:00",
+        "published_date": "2025-04-15T05:01:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Art"
+        ],
+        "org_facet": [
+            "Van Gogh Museum"
+        ],
+        "per_facet": [
+            "van Gogh, Vincent"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-VanGogh-TreeRoots-01-tbzg/15int-VanGogh-TreeRoots-01-tbzg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1637,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Auvers-sur-Oise, long famous as an artist’s paradise, is embroiled in a dispute over “Tree Roots,” lately determined to be the final work of Vincent Van Gogh.",
+                "copyright": "Elliott Verdier for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-VanGogh-TreeRoots-01-tbzg/15int-VanGogh-TreeRoots-01-tbzg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Auvers-sur-Oise, long famous as an artist’s paradise, is embroiled in a dispute over “Tree Roots,” lately determined to be the final work of Vincent Van Gogh.",
+                "copyright": "Elliott Verdier for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-VanGogh-TreeRoots-01-tbzg/15int-VanGogh-TreeRoots-01-tbzg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Auvers-sur-Oise, long famous as an artist’s paradise, is embroiled in a dispute over “Tree Roots,” lately determined to be the final work of Vincent Van Gogh.",
+                "copyright": "Elliott Verdier for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
