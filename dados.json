@@ -25784,5 +25784,192 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "For Idyllic Village, Van Gogh’s Roots Pose a Knotty Problem",
+        "abstract": "It was recently determined that the artist painted his last work, “Tree Roots,” in Auvers-sur-Oise. The roots still exist, and that has ignited a nasty fight over their preservation.",
+        "url": "https://www.nytimes.com/2025/04/15/world/europe/for-idyllic-village-van-goghs-roots-pose-a-knotty-problem.html",
+        "uri": "nyt://article/e0ca7991-0263-53e0-85f1-1aed51fdd46b",
+        "byline": "By Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T05:01:58-04:00",
+        "created_date": "2025-04-15T05:01:58-04:00",
+        "published_date": "2025-04-15T05:01:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Art"
+        ],
+        "org_facet": [
+            "Van Gogh Museum"
+        ],
+        "per_facet": [
+            "van Gogh, Vincent"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-VanGogh-TreeRoots-01-tbzg/15int-VanGogh-TreeRoots-01-tbzg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1637,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Auvers-sur-Oise, long famous as an artist’s paradise, is embroiled in a dispute over “Tree Roots,” lately determined to be the final work of Vincent Van Gogh.",
+                "copyright": "Elliott Verdier for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-VanGogh-TreeRoots-01-tbzg/15int-VanGogh-TreeRoots-01-tbzg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Auvers-sur-Oise, long famous as an artist’s paradise, is embroiled in a dispute over “Tree Roots,” lately determined to be the final work of Vincent Van Gogh.",
+                "copyright": "Elliott Verdier for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-VanGogh-TreeRoots-01-tbzg/15int-VanGogh-TreeRoots-01-tbzg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Auvers-sur-Oise, long famous as an artist’s paradise, is embroiled in a dispute over “Tree Roots,” lately determined to be the final work of Vincent Van Gogh.",
+                "copyright": "Elliott Verdier for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "‘Alien Enemies’ or Innocent Men? Inside Trump’s Rushed Effort to Deport 238 Migrants",
+        "abstract": "The Trump administration sent them to a prison in El Salvador under a wartime act, calling them members of a Venezuelan gang. But a New York Times investigation found little evidence of criminal backgrounds or links to the gang.",
+        "url": "https://www.nytimes.com/2025/04/15/world/americas/trump-migrants-deportations.html",
+        "uri": "nyt://article/a2e334e0-36cf-56f9-b740-72867d6780a4",
+        "byline": "By Julie Turkewitz, Jazmine Ulloa, Isayen Herrera, Hamed Aleaziz and Zolan Kanno-Youngs",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T05:01:00-04:00",
+        "created_date": "2025-04-15T05:01:00-04:00",
+        "published_date": "2025-04-15T05:01:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States Politics and Government",
+            "Deportation",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "Homeland Security Department"
+        ],
+        "per_facet": [
+            "Bukele, Nayib",
+            "Trump, Donald J",
+            "Maduro, Nicolas"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-venezuela-elsalvador-detainees-top-alt/00int-venezuela-elsalvador-detainees-hqlp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nathali Sánchez, the wife of Arturo Suárez, a migrant sent to prison in El Salvador, with her daughter in Santiago, Chile.",
+                "copyright": "Cristobal Olivares for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-venezuela-elsalvador-detainees-top-alt/00int-venezuela-elsalvador-detainees-hqlp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nathali Sánchez, the wife of Arturo Suárez, a migrant sent to prison in El Salvador, with her daughter in Santiago, Chile.",
+                "copyright": "Cristobal Olivares for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-venezuela-elsalvador-detainees-top-alt/00int-venezuela-elsalvador-detainees-hqlp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nathali Sánchez, the wife of Arturo Suárez, a migrant sent to prison in El Salvador, with her daughter in Santiago, Chile.",
+                "copyright": "Cristobal Olivares for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "travel",
+        "subsection": "",
+        "title": "How Long Will the ‘End of the World’ Stay Wild?",
+        "abstract": "Crowds of tourists bound for Antarctica have brought prosperity to Argentina’s southernmost city, but the boom is also squeezing locals and stressing the environment.",
+        "url": "https://www.nytimes.com/2025/04/15/travel/ushuaia-argentina-antarctica-cruises.html",
+        "uri": "nyt://article/663b3e1d-6503-5bc1-bc13-4336bc6ac4a8",
+        "byline": "By Lautaro Grinspan and Victor Moriyama",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T05:00:28-04:00",
+        "created_date": "2025-04-15T05:00:28-04:00",
+        "published_date": "2025-04-15T05:00:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Travel and Vacations",
+            "Cruises",
+            "Real Estate and Housing (Residential)",
+            "Penguins",
+            "Eco-Tourism",
+            "Global Warming",
+            "Adventure Travel"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Antarctic Regions",
+            "Ushuaia (Argentina)",
+            "Tierra del Fuego"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00trav-ushuaia1-tbpc/00trav-ushuaia1-tbpc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "About 90 percent of Antarctic cruises depart from Ushuaia, Argentina. Many of those passengers will spend a night or two in town, where they may take day trips to see penguins in places like nearby Martillo Island.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00trav-ushuaia1-tbpc/00trav-ushuaia1-tbpc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "About 90 percent of Antarctic cruises depart from Ushuaia, Argentina. Many of those passengers will spend a night or two in town, where they may take day trips to see penguins in places like nearby Martillo Island.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/00trav-ushuaia1-tbpc/00trav-ushuaia1-tbpc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "About 90 percent of Antarctic cruises depart from Ushuaia, Argentina. Many of those passengers will spend a night or two in town, where they may take day trips to see penguins in places like nearby Martillo Island.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
