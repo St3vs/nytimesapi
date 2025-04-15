@@ -26703,5 +26703,152 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "How Trump Might Unwittingly Cut Emissions From Online Shopping",
+        "abstract": "Fast fashion retailers rely heavily on shipping by air. The president’s tariffs could change that.",
+        "url": "https://www.nytimes.com/2025/04/15/climate/trump-tariffs-online-shopping.html",
+        "uri": "nyt://article/4bd8267a-ed50-59a1-a112-076cf00b2acc",
+        "byline": "By Claire Brown",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T15:02:45-04:00",
+        "created_date": "2025-04-15T15:02:45-04:00",
+        "published_date": "2025-04-15T15:02:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "E-Commerce",
+            "Fashion and Apparel",
+            "Shopping and Retail",
+            "International Trade and World Market",
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Customs (Tariff)",
+            "Freight (Cargo)",
+            "Prices (Fares, Fees and Rates)",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Shein (Fashion Label)",
+            "Temu (Website)",
+            "Amazon.com Inc",
+            "Walmart Stores Inc"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Biden, Joseph R Jr"
+        ],
+        "geo_facet": [
+            "China",
+            "Hong Kong",
+            "United States",
+            "Antarctic Regions",
+            "Ushuaia (Argentina)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/02/14/multimedia/15cli-newsletter-fast-fashion/14china-trade-06-jzfq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shein packages ready to be shipped from a factory in Guangzhou, China, in February.",
+                "copyright": "Gilles Sabrié for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/14/multimedia/15cli-newsletter-fast-fashion/15cli-newsletter-fast-fashion-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shein packages ready to be shipped from a factory in Guangzhou, China, in February.",
+                "copyright": "Gilles Sabrié for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/14/multimedia/15cli-newsletter-fast-fashion/15cli-newsletter-fast-fashion-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shein packages ready to be shipped from a factory in Guangzhou, China, in February.",
+                "copyright": "Gilles Sabrié for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Autopsies of Gaza Medics Killed by Israeli Troops Show Some Were Shot in the Head",
+        "abstract": "The New York Times obtained autopsy reports for 14 of the 15 people killed in a March 23 attack on an ambulance and fire truck.",
+        "url": "https://www.nytimes.com/2025/04/15/world/middleeast/gaza-medics-autopsies-israel.html",
+        "uri": "nyt://article/8c7b3301-59c7-5ba2-aa32-88ca64e6c520",
+        "byline": "By Vivian Yee, Bilal Shbair and Christoph Koettl",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T15:01:05-04:00",
+        "created_date": "2025-04-15T15:01:05-04:00",
+        "published_date": "2025-04-15T15:01:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Fatalities)",
+            "Autopsies",
+            "Israel-Gaza War (2023- )",
+            "Fires and Firefighters",
+            "Ambulances",
+            "Forensic Science",
+            "Civilian Casualties",
+            "Defense and Military Forces",
+            "International Relations"
+        ],
+        "org_facet": [
+            "Hamas",
+            "Palestinian Islamic Jihad",
+            "United Nations",
+            "International Federation of Red Cross and Red Crescent Societies"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-gaza-autopsies-kzlq/15int-gaza-autopsies-kzlq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Palestine Red Crescent and other emergency services carrying the bodies of fellow rescuers killed by Israeli forces in March.",
+                "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-gaza-autopsies-kzlq/15int-gaza-autopsies-kzlq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Palestine Red Crescent and other emergency services carrying the bodies of fellow rescuers killed by Israeli forces in March.",
+                "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-gaza-autopsies-kzlq/15int-gaza-autopsies-kzlq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Palestine Red Crescent and other emergency services carrying the bodies of fellow rescuers killed by Israeli forces in March.",
+                "copyright": "Eyad Baba/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
