@@ -25654,5 +25654,71 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "China’s Halt of Critical Minerals Poses Risk for U.S. Military Programs",
+        "abstract": "The Pentagon and defense contractors are heavily reliant on magnets and rare earth minerals mined or processed in China, which has suspended exports of the materials in an escalating trade war.",
+        "url": "https://www.nytimes.com/2025/04/14/us/politics/china-critical-minerals-risk-military-programs.html",
+        "uri": "nyt://article/d3b37e8c-0346-5a07-9756-bedaf17040a2",
+        "byline": "By Helene Cooper",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T02:55:12-04:00",
+        "created_date": "2025-04-14T18:45:45-04:00",
+        "published_date": "2025-04-14T18:45:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States Defense and Military Forces",
+            "Rare Earths",
+            "Metals and Minerals",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "Defense Department",
+            "Lockheed Martin Corporation",
+            "Northrop Grumman Corporation"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14dc-military-topart-twcb/14dc-military-topart-twcb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rare earth minerals are present in almost every form of American defense technology. They can form very powerful magnets, for use in fighter jets, warships, missiles, tanks and lasers.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14dc-military-topart-twcb/14dc-military-topart-twcb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rare earth minerals are present in almost every form of American defense technology. They can form very powerful magnets, for use in fighter jets, warships, missiles, tanks and lasers.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14dc-military-topart-twcb/14dc-military-topart-twcb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rare earth minerals are present in almost every form of American defense technology. They can form very powerful magnets, for use in fighter jets, warships, missiles, tanks and lasers.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
