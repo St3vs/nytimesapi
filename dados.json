@@ -25473,5 +25473,134 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Airport Was Repeatedly Warned on Bird Strikes Before Deadly South Korea Crash",
+        "abstract": "Operators of the airport where Jeju Air Flight 2216 crashed in December, killing 179, failed to meet both international and South Korean guidelines intended to prevent such strikes.",
+        "url": "https://www.nytimes.com/2025/04/15/world/asia/south-korea-plane-crash-warnings.html",
+        "uri": "nyt://article/e5b06db9-0ae6-531f-a123-0131b61f8048",
+        "byline": "By Jin Yu Young",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T00:04:21-04:00",
+        "created_date": "2025-04-15T00:01:11-04:00",
+        "published_date": "2025-04-15T00:01:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Jeju Air Flight 2216",
+            "Aviation Accidents, Safety and Disasters",
+            "Airlines and Airplanes",
+            "Airports",
+            "Wetlands",
+            "Birds"
+        ],
+        "org_facet": [
+            "Muan International Airport",
+            "Jeju Air Co Ltd",
+            "International Civil Aviation Organization"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Muan (South Korea)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00-int-jeju-crash-birds-01-bfmc/00-int-jeju-crash-birds-01-bfmc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A flock of birds flying near the airport at the scene of the Jeju Air plane crash in Muan International Airport in Muan, South Korea, in December.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00-int-jeju-crash-birds-01-bfmc/00-int-jeju-crash-birds-01-bfmc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A flock of birds flying near the airport at the scene of the Jeju Air plane crash in Muan International Airport in Muan, South Korea, in December.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00-int-jeju-crash-birds-01-bfmc/00-int-jeju-crash-birds-01-bfmc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A flock of birds flying near the airport at the scene of the Jeju Air plane crash in Muan International Airport in Muan, South Korea, in December.",
+                "copyright": "Chang W. Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A Crisis at a British Steel Mill Has Cast a Shadow Over U.K.-China Relations",
+        "abstract": "Britain was edging closer to China, but a dispute at a Chinese-owned steel company in the U.K. may prompt a rethink.",
+        "url": "https://www.nytimes.com/2025/04/15/world/europe/a-crisis-at-a-british-steel-mill-has-cast-a-shadow-over-uk-china-relations.html",
+        "uri": "nyt://article/2de9dd0e-7700-5c09-a378-186748966fde",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T00:01:05-04:00",
+        "created_date": "2025-04-15T00:01:05-04:00",
+        "published_date": "2025-04-15T00:01:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Steel and Iron",
+            "International Relations",
+            "Protectionism (Trade)",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Xi Jinping",
+            "Starmer, Keir"
+        ],
+        "geo_facet": [
+            "China",
+            "Great Britain",
+            "Hong Kong"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-uk-steel-china-pqvj/15int-uk-steel-china-pqvj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1382,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A view of the blast furnaces in Scunthorpe, Lincolnshire, on Monday. They are the last working blast furnaces in Britain, producing crude steel which is vital for major construction projects.",
+                "copyright": "Dominic Lipinski/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-uk-steel-china-pqvj/15int-uk-steel-china-pqvj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A view of the blast furnaces in Scunthorpe, Lincolnshire, on Monday. They are the last working blast furnaces in Britain, producing crude steel which is vital for major construction projects.",
+                "copyright": "Dominic Lipinski/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-uk-steel-china-pqvj/15int-uk-steel-china-pqvj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A view of the blast furnaces in Scunthorpe, Lincolnshire, on Monday. They are the last working blast furnaces in Britain, producing crude steel which is vital for major construction projects.",
+                "copyright": "Dominic Lipinski/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
