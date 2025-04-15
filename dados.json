@@ -26850,5 +26850,129 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Sperm Donors in the Netherlands Fathered More Than 25 Children Each, New Data Reveals",
+        "abstract": "The numbers raise concerns about the risk of genetic anomalies as those children eventually seek partners and give birth.",
+        "url": "https://www.nytimes.com/2025/04/15/world/europe/dutch-sperm-donors-netherlands-children.html",
+        "uri": "nyt://article/7bab8878-3588-526b-8405-cfa8626b3c6b",
+        "byline": "By Lynsey Chutel",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T16:02:17-04:00",
+        "created_date": "2025-04-15T16:02:17-04:00",
+        "published_date": "2025-04-15T16:02:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Artificial Insemination",
+            "Sperm",
+            "Malpractice",
+            "In Vitro Fertilization"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Karbaat, Jan",
+            "Meijer, Jonathan Jacob"
+        ],
+        "geo_facet": [
+            "Netherlands"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-netherlands-donors-fmgc/15int-netherlands-donors-fmgc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The industry has come under increased scrutiny after two scandals in the Netherlands involving sperm donors who purposely fathered hundreds of children. Jonathan Jacob Meijer, at The Hague in January, fathered more than 500 children around the world.",
+                "copyright": "Robin Utrecht/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-netherlands-donors-fmgc/15int-netherlands-donors-fmgc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The industry has come under increased scrutiny after two scandals in the Netherlands involving sperm donors who purposely fathered hundreds of children. Jonathan Jacob Meijer, at The Hague in January, fathered more than 500 children around the world.",
+                "copyright": "Robin Utrecht/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-netherlands-donors-fmgc/15int-netherlands-donors-fmgc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The industry has come under increased scrutiny after two scandals in the Netherlands involving sperm donors who purposely fathered hundreds of children. Jonathan Jacob Meijer, at The Hague in January, fathered more than 500 children around the world.",
+                "copyright": "Robin Utrecht/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "It Took a Century to Find This Colossal Squid",
+        "abstract": "An expedition spotted a juvenile of the species in the South Sandwich Islands. This cephalopod can grow to more than 20 feet and has proved elusive in its deep-sea environs.",
+        "url": "https://www.nytimes.com/2025/04/15/science/squid-colossal-deep-sea-exploration.html",
+        "uri": "nyt://article/802dfec2-e9af-537c-9da9-7c496c9e93f6",
+        "byline": "By Elizabeth Preston",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T16:00:02-04:00",
+        "created_date": "2025-04-15T16:00:02-04:00",
+        "published_date": "2025-04-15T16:00:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Squid",
+            "Fish and Other Marine Life",
+            "Submarines and Submersibles",
+            "Research",
+            "Oceans and Seas"
+        ],
+        "org_facet": [
+            "Schmidt Ocean Institute"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "South Sandwich Islands"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15HS-BABYSQUID-zjvl/15HS-BABYSQUID-zjvl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The first confirmed live observation of the colossal squid, Mesonychoteuthis hamiltoni, in its natural habitat, off the South Sandwich Islands in the South Atlantic Ocean.",
+                "copyright": "Schmidt Ocean Institute"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15HS-BABYSQUID-zjvl/15HS-BABYSQUID-zjvl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The first confirmed live observation of the colossal squid, Mesonychoteuthis hamiltoni, in its natural habitat, off the South Sandwich Islands in the South Atlantic Ocean.",
+                "copyright": "Schmidt Ocean Institute"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15HS-BABYSQUID-zjvl/15HS-BABYSQUID-zjvl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The first confirmed live observation of the colossal squid, Mesonychoteuthis hamiltoni, in its natural habitat, off the South Sandwich Islands in the South Atlantic Ocean.",
+                "copyright": "Schmidt Ocean Institute"
+            }
+        ],
+        "short_url": ""
     }
 ]
