@@ -25409,5 +25409,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Administration Memo Proposes Cutting State Department Funding by Nearly Half",
+        "abstract": "The draft plan is part of a process involving the agency and the White House. It would eliminate almost all funding for international organizations that include the United Nations and NATO.",
+        "url": "https://www.nytimes.com/2025/04/14/us/politics/trump-state-department-budget-cuts.html",
+        "uri": "nyt://article/5f8529bc-f9ff-5303-afb2-3f0d615c9aa6",
+        "byline": "By Edward Wong and Karoun Demirjian",
+        "item_type": "Article",
+        "updated_date": "2025-04-14T21:35:29-04:00",
+        "created_date": "2025-04-14T19:18:48-04:00",
+        "published_date": "2025-04-14T19:18:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Foreign Aid",
+            "United States International Relations",
+            "International Relations"
+        ],
+        "org_facet": [
+            "Global Fund to Fight AIDS, Tuberculosis and Malaria"
+        ],
+        "per_facet": [
+            "Marocco, Pete",
+            "Rubio, Marco",
+            "Schatz, Brian",
+            "Shaheen, Jeanne"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14dc-state-top-zvgw/14dc-state-top-zvgw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The memo proposes cutting funding for humanitarian assistance and global health programs by more than 50 percent, despite Secretary of State Marco Rubio’s pledges that lifesaving assistance would be preserved.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14dc-state-top-zvgw/14dc-state-top-zvgw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The memo proposes cutting funding for humanitarian assistance and global health programs by more than 50 percent, despite Secretary of State Marco Rubio’s pledges that lifesaving assistance would be preserved.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/14dc-state-top-zvgw/14dc-state-top-zvgw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The memo proposes cutting funding for humanitarian assistance and global health programs by more than 50 percent, despite Secretary of State Marco Rubio’s pledges that lifesaving assistance would be preserved.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
