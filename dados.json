@@ -26081,5 +26081,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Director of Field Hospital in Southern Gaza Says Israeli Strike Killed a Guard",
+        "abstract": "Israel’s military did not immediately comment on the report, which came two days after it attacked the Ahli Arab Hospital in Gaza City.",
+        "url": "https://www.nytimes.com/2025/04/15/world/middleeast/gaza-hospital-israel-military.html",
+        "uri": "nyt://article/9b2a5ce4-0b6a-5f18-bce2-37359e3bf529",
+        "byline": "By Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T07:31:44-04:00",
+        "created_date": "2025-04-15T07:21:43-04:00",
+        "published_date": "2025-04-15T07:21:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Hospitals"
+        ],
+        "org_facet": [
+            "Al Ahli Arab Hospital (Gaza Strip)",
+            "Al Shifa Hospital (Gaza Strip)",
+            "Hamas",
+            "World Health Organization"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-gaza-hospital-jbqt/15int-gaza-hospital-jbqt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians inspect the damage after Israel’s attack on the Ahli Arab Hospital in Gaza City on Sunday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-gaza-hospital-jbqt/15int-gaza-hospital-jbqt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians inspect the damage after Israel’s attack on the Ahli Arab Hospital in Gaza City on Sunday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-gaza-hospital-jbqt/15int-gaza-hospital-jbqt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians inspect the damage after Israel’s attack on the Ahli Arab Hospital in Gaza City on Sunday.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
