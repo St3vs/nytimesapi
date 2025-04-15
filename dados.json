@@ -26327,5 +26327,130 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "‘We Don’t Have a Day or Night of Calm’",
+        "abstract": "People in the Ukrainian city struck on Palm Sunday have little hope of a cease-fire.",
+        "url": "https://www.nytimes.com/2025/04/15/world/europe/ukraine-sumy-palm-sunday-russia-war.html",
+        "uri": "nyt://article/128d7bfe-4ca7-5b46-a314-0aca1d98b973",
+        "byline": "By Andrew E. Kramer, Maria Varenikova and Tyler Hicks",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T12:15:56-04:00",
+        "created_date": "2025-04-15T12:05:11-04:00",
+        "published_date": "2025-04-15T12:05:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Strikes"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Sumy (Ukraine)",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-ukraine-sumy-02-wgkm-promo/15int-ukraine-sumy-02-wgkm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-ukraine-sumy-02-wgkm-promo/15int-ukraine-sumy-02-wgkm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-ukraine-sumy-02-wgkm-promo/15int-ukraine-sumy-02-wgkm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tyler Hicks/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Algeria Expels 12 French Officials as Tensions Rise",
+        "abstract": "The expulsions came after an Algerian official was accused of kidnapping an influencer who had been granted political asylum in France.",
+        "url": "https://www.nytimes.com/2025/04/15/world/europe/france-algeria-expulsions-relations.html",
+        "uri": "nyt://article/9bdeb687-0563-560b-a1a9-e1a036b7de04",
+        "byline": "By Roger Cohen and Ségolène Le Stradic",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T11:57:14-04:00",
+        "created_date": "2025-04-15T11:41:02-04:00",
+        "published_date": "2025-04-15T11:41:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Diplomatic Service, Embassies and Consulates",
+            "International Relations",
+            "Kidnapping and Hostages",
+            "Asylum, Right of"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Amir DZ"
+        ],
+        "geo_facet": [
+            "Algeria",
+            "France"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-france-algeria-pzbt/15int-france-algeria-pzbt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jean-Noël Barrot, France’s foreign minister, said he was “ready to act” in response to the expulsions.",
+                "copyright": "Isabel Infantes/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-france-algeria-pzbt/15int-france-algeria-pzbt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jean-Noël Barrot, France’s foreign minister, said he was “ready to act” in response to the expulsions.",
+                "copyright": "Isabel Infantes/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-france-algeria-pzbt/15int-france-algeria-pzbt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jean-Noël Barrot, France’s foreign minister, said he was “ready to act” in response to the expulsions.",
+                "copyright": "Isabel Infantes/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
