@@ -26974,5 +26974,117 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Wednesday Briefing: A Trump-Harvard Showdown",
+        "abstract": "Plus, the fight over Van Gogh’s roots.",
+        "url": "https://www.nytimes.com/2025/04/15/briefing/trump-harvard-sumy-ukraine-gaza-autopsies.html",
+        "uri": "nyt://article/3d912cc3-488b-58ef-af65-ded0f528b09e",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T17:00:12-04:00",
+        "created_date": "2025-04-15T17:00:12-04:00",
+        "published_date": "2025-04-15T17:00:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/16ambriefing-asia-harvard-qwbh-copy/16ambriefing-asia-harvard-qwbh-copy-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 2000,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University is 140 years older than the U.S.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/16ambriefing-asia-harvard-qwbh-copy/16ambriefing-asia-harvard-qwbh-copy-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University is 140 years older than the U.S.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/16ambriefing-asia-harvard-qwbh-copy/15hp-harvard-qwbh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University is 140 years older than the U.S.",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "19 Big Cats Rescued in Spain as Police Raid Animal Smuggling Ring",
+        "abstract": "With a demand for exotic felines on the rise, often driven by social media, endangered and protected populations are under even more threat.",
+        "url": "https://www.nytimes.com/2025/04/15/world/europe/spain-big-cats-smuggling.html",
+        "uri": "nyt://article/854f0064-e17f-5c0b-bc21-9bdcb0b0c8de",
+        "byline": "By Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T16:44:37-04:00",
+        "created_date": "2025-04-15T16:19:58-04:00",
+        "published_date": "2025-04-15T16:19:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Wildlife Trade and Poaching",
+            "Endangered and Extinct Species"
+        ],
+        "org_facet": [
+            "Convention on International Trade in Endangered Species"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Spain",
+            "Majorca (Spain)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-spain-big-cats-trafficking-02-wmfb/15int-spain-big-cats-trafficking-02-wmfb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1297,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Spanish authorities released this image of a Caracal, right, confiscated with 18 other exotic felines during a police operation on Majorca.",
+                "copyright": "Agence France-Presse, via Guardia Civil/Afp Via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-spain-big-cats-trafficking-02-wmfb/15int-spain-big-cats-trafficking-02-wmfb-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Spanish authorities released this image of a Caracal, right, confiscated with 18 other exotic felines during a police operation on Majorca.",
+                "copyright": "Agence France-Presse, via Guardia Civil/Afp Via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-spain-big-cats-trafficking-02-wmfb/15int-spain-big-cats-trafficking-02-wmfb-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Spanish authorities released this image of a Caracal, right, confiscated with 18 other exotic felines during a police operation on Majorca.",
+                "copyright": "Agence France-Presse, via Guardia Civil/Afp Via Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
