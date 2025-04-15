@@ -26144,5 +26144,63 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Sandstorm Turns Iraq’s Skies Orange and Sends Thousands to Hospitals",
+        "abstract": "Climate experts say such storms are becoming more frequent and severe in the country. This was its worst of the year so far.",
+        "url": "https://www.nytimes.com/2025/04/15/world/middleeast/iraq-sandstorm.html",
+        "uri": "nyt://article/389ba3f2-b176-5cf5-a742-71392dcf838c",
+        "byline": "By Alissa J. Rubin and Falih Hassan",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T09:26:48-04:00",
+        "created_date": "2025-04-15T09:26:48-04:00",
+        "published_date": "2025-04-15T09:26:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Dust and Sand Storms",
+            "Respiratory Diseases",
+            "Global Warming"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Iraq"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-iraq-sandstorm-02-qmkw/15int-iraq-sandstorm-02-qmkw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qassem Al-Kaabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-iraq-sandstorm-02-qmkw/15int-iraq-sandstorm-02-qmkw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qassem Al-Kaabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-iraq-sandstorm-02-qmkw/15int-iraq-sandstorm-02-qmkw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Qassem Al-Kaabi/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
