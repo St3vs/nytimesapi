@@ -26262,5 +26262,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Santa Lives in Rovaniemi, Finland. Some of His Neighbors Are Not Thrilled.",
+        "abstract": "A tourist season that stretches from October to March has been anything but jolly for some residents of the “Official Hometown of Santa Claus.”",
+        "url": "https://www.nytimes.com/2025/04/15/world/asia/santa-finland-rovaniemi.html",
+        "uri": "nyt://article/9d1c514c-d00f-54c2-83fd-a01f8b302145",
+        "byline": "By Jeffrey Gettleman and Jim Huylebroek",
+        "item_type": "Article",
+        "updated_date": "2025-04-15T11:05:45-04:00",
+        "created_date": "2025-04-15T11:00:18-04:00",
+        "published_date": "2025-04-15T11:00:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Travel and Vacations",
+            "Reindeer",
+            "Christmas",
+            "Aurora Borealis",
+            "Advertising and Marketing",
+            "Real Estate and Housing (Residential)",
+            "Hotels and Travel Lodgings",
+            "Santa Claus"
+        ],
+        "org_facet": [
+            "Airbnb"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Rovaniemi (Finland)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00finland-santa-01-wkvt-promo/00finland-santa-01-wkvt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jim Huylebroek for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00finland-santa-01-wkvt-promo/00finland-santa-01-wkvt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jim Huylebroek for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00finland-santa-01-wkvt-promo/00finland-santa-01-wkvt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Jim Huylebroek for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
