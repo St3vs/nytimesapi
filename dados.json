@@ -28481,5 +28481,131 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Peru’s Former First Lady Flees as She and Ex-President Are Sentenced to Prison",
+        "abstract": "Former President Ollanta Humala and his wife, Nadine Heredia, were sentenced on Tuesday to 15 years in prison for money laundering. Brazil granted her diplomatic asylum, officials said.",
+        "url": "https://www.nytimes.com/2025/04/16/world/americas/peru-president-first-lady-prison.html",
+        "uri": "nyt://article/6ff35644-ceff-525b-a5da-ee756c06520c",
+        "byline": "By Alan Yuhas",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T14:30:26-04:00",
+        "created_date": "2025-04-16T13:42:42-04:00",
+        "published_date": "2025-04-16T13:42:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Asylum, Right of",
+            "Corruption (Institutional)",
+            "Money Laundering",
+            "Decisions and Verdicts"
+        ],
+        "org_facet": [
+            "Odebrecht SA"
+        ],
+        "per_facet": [
+            "Humala, Ollanta",
+            "Heredia, Nadine (1976- )"
+        ],
+        "geo_facet": [
+            "Peru",
+            "Brazil"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-peru-01-cbtz/16int-peru-01-cbtz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1329,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Peru’s former first lady, Nadine Heredia, in Lima, Peru, in 2018. Ms. Heredia fled to the Brazilian Embassy in Lima on Tuesday, seeking asylum as she and her husband were sentenced to 15 years in prison.",
+                "copyright": "Janine Costa/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-peru-01-cbtz/16int-peru-01-cbtz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Peru’s former first lady, Nadine Heredia, in Lima, Peru, in 2018. Ms. Heredia fled to the Brazilian Embassy in Lima on Tuesday, seeking asylum as she and her husband were sentenced to 15 years in prison.",
+                "copyright": "Janine Costa/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-peru-01-cbtz/16int-peru-01-cbtz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Peru’s former first lady, Nadine Heredia, in Lima, Peru, in 2018. Ms. Heredia fled to the Brazilian Embassy in Lima on Tuesday, seeking asylum as she and her husband were sentenced to 15 years in prison.",
+                "copyright": "Janine Costa/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "American Pastor Kidnapped in South Africa Is Rescued After Shootout",
+        "abstract": "Three suspects were killed as the police moved in on a safe house where the pastor from Tennessee was being held.",
+        "url": "https://www.nytimes.com/2025/04/16/world/africa/south-africa-pastor-kidnapping-rescue-josh-sullivan.html",
+        "uri": "nyt://article/d35af7d3-698a-53de-8ae0-a88370e08594",
+        "byline": "By Jonathan Wolfe",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T14:04:52-04:00",
+        "created_date": "2025-04-16T14:04:52-04:00",
+        "published_date": "2025-04-16T14:04:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Kidnapping and Hostages",
+            "Police",
+            "Clergy",
+            "Attacks on Police",
+            "Organized Crime"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "South Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16xp-kidnapping-rescue-zfhw/16xp-kidnapping-rescue-zfhw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A U.S. pastor, Josh Sullivan, was kidnapped while giving a sermon at a church in Motherwell. ",
+                "copyright": "Deon Ferreira/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16xp-kidnapping-rescue-zfhw/16xp-kidnapping-rescue-zfhw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A U.S. pastor, Josh Sullivan, was kidnapped while giving a sermon at a church in Motherwell. ",
+                "copyright": "Deon Ferreira/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16xp-kidnapping-rescue-zfhw/16xp-kidnapping-rescue-zfhw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A U.S. pastor, Josh Sullivan, was kidnapped while giving a sermon at a church in Motherwell. ",
+                "copyright": "Deon Ferreira/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
