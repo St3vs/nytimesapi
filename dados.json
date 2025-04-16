@@ -28905,5 +28905,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Countries Agree on Treaty Aimed at Preventing Global Health Crises",
+        "abstract": "The World Health Organization finally reached a compromise on a pandemic treaty after three years of talks. The United States withdrew from negotiations after President Trump took office.",
+        "url": "https://www.nytimes.com/2025/04/16/health/pandemic-treaty-who.html",
+        "uri": "nyt://article/60c7c6bc-8f8f-589e-a618-fe505f2b79b5",
+        "byline": "By Stephanie Nolen and Emily Anthes",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T17:57:51-04:00",
+        "created_date": "2025-04-16T17:57:51-04:00",
+        "published_date": "2025-04-16T17:57:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Coronavirus (2019-nCoV)",
+            "United States Politics and Government",
+            "Medicine and Health",
+            "Treaties",
+            "Developing Countries",
+            "Vaccination and Immunization",
+            "Disasters and Emergencies",
+            "your-feed-healthcare",
+            "Epidemics"
+        ],
+        "org_facet": [
+            "World Health Organization"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16-pandemic-treaty-vkzf/16-pandemic-treaty-vkzf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Anne-Claire Amprou, the French ambassador for global health, and Tedros Adhanom Ghebreyesus, the director general of the World Health Organization, at negotiations for the new pandemic treaty in Geneva on Wednesday.",
+                "copyright": "Christopher Black/World Health Organization, via Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16-pandemic-treaty-vkzf/16-pandemic-treaty-vkzf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Anne-Claire Amprou, the French ambassador for global health, and Tedros Adhanom Ghebreyesus, the director general of the World Health Organization, at negotiations for the new pandemic treaty in Geneva on Wednesday.",
+                "copyright": "Christopher Black/World Health Organization, via Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16-pandemic-treaty-vkzf/16-pandemic-treaty-vkzf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Anne-Claire Amprou, the French ambassador for global health, and Tedros Adhanom Ghebreyesus, the director general of the World Health Organization, at negotiations for the new pandemic treaty in Geneva on Wednesday.",
+                "copyright": "Christopher Black/World Health Organization, via Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
