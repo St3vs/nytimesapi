@@ -27086,5 +27086,133 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "A U.S.-China Trade War With Students and Tourists as Potential Pawns",
+        "abstract": "With travel warnings and revoked visas, the two superpowers locked in a bruising trade war may make students and tourists their bargaining chips.",
+        "url": "https://www.nytimes.com/2025/04/16/world/asia/china-trump-tariffs-students.html",
+        "uri": "nyt://article/4406a2e6-37e3-5327-b1d9-9000582b78b3",
+        "byline": "By Vivian Wang",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T00:01:14-04:00",
+        "created_date": "2025-04-16T00:01:14-04:00",
+        "published_date": "2025-04-16T00:01:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Foreign Students (in US)",
+            "International Trade and World Market"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "Ohio",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-china-tariffs-culture-01-bwcf/16int-china-tariffs-culture-01-bwcf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tourists in central Shanghai taking photos of a historic building. ",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-china-tariffs-culture-01-bwcf/16int-china-tariffs-culture-01-bwcf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tourists in central Shanghai taking photos of a historic building. ",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-china-tariffs-culture-01-bwcf/16int-china-tariffs-culture-01-bwcf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tourists in central Shanghai taking photos of a historic building. ",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Both Admired and Resented by Trump, Japan Scrambles to Stay Close",
+        "abstract": "The president at turns praises and criticizes Japan, a U.S. ally that decades ago stirred his anger over the unequal balance of trade and his penchant for tariffs.",
+        "url": "https://www.nytimes.com/2025/04/16/world/asia/japan-trump-tariffs.html",
+        "uri": "nyt://article/4c0bbdba-9844-526e-aae7-ae641b944264",
+        "byline": "By Martin Fackler",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T00:01:06-04:00",
+        "created_date": "2025-04-16T00:01:06-04:00",
+        "published_date": "2025-04-16T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Politics and Government",
+            "Assassinations and Attempted Assassinations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Abe, Shinzo",
+            "Ishiba, Shigeru"
+        ],
+        "geo_facet": [
+            "Japan",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-japan-trump-01-wzpt/10int-japan-trump-01-wzpt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shinzo Abe, then prime minister of Japan, praised Donald J. Trump and gave the golf-loving president-elect a gold-plated golf club. ",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-japan-trump-01-wzpt/10int-japan-trump-01-wzpt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shinzo Abe, then prime minister of Japan, praised Donald J. Trump and gave the golf-loving president-elect a gold-plated golf club. ",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-japan-trump-01-wzpt/10int-japan-trump-01-wzpt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Shinzo Abe, then prime minister of Japan, praised Donald J. Trump and gave the golf-loving president-elect a gold-plated golf club. ",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
