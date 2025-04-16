@@ -28100,5 +28100,75 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Sudanese Paramilitary Group Declares Parallel Government as 400,000 Flee Offensive",
+        "abstract": "The United Nations said that at least 300 people were killed when the armed group, the Rapid Support Forces, stormed a camp in Darfur.",
+        "url": "https://www.nytimes.com/2025/04/16/world/africa/sudan-rsf-zamzam.html",
+        "uri": "nyt://article/f7d02b64-a0bd-5b8e-b316-9788e2db86dc",
+        "byline": "By Declan Walsh",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T10:00:06-04:00",
+        "created_date": "2025-04-16T10:00:06-04:00",
+        "published_date": "2025-04-16T10:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Refugees and Displaced Persons"
+        ],
+        "org_facet": [
+            "Doctors Without Borders",
+            "Rapid Support Forces (Sudan)",
+            "United Nations"
+        ],
+        "per_facet": [
+            "Hamdan, Mohamed (Hemeti)",
+            "Jacobs, Sara (1989- )"
+        ],
+        "geo_facet": [
+            "Darfur (Sudan)",
+            "El Fasher (Sudan)",
+            "Khartoum (Sudan)",
+            "Sudan",
+            "United Arab Emirates",
+            "Zamzam Refugee Camp (Sudan)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-sudan-fmhc/16int-sudan-fmhc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People who fled the Zamzam camp resting in a makeshift encampment in Tawila in western Darfur on Sunday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-sudan-fmhc/16int-sudan-fmhc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People who fled the Zamzam camp resting in a makeshift encampment in Tawila in western Darfur on Sunday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-sudan-fmhc/16int-sudan-fmhc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People who fled the Zamzam camp resting in a makeshift encampment in Tawila in western Darfur on Sunday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
