@@ -28170,5 +28170,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Pope Francis Thanks Doctors and Nurses for His Recovery",
+        "abstract": "Although the pontiff has begun meeting with more people, he remains frail and will not lead important Easter events, the Vatican announced.",
+        "url": "https://www.nytimes.com/2025/04/16/world/europe/pope-francis-recovery-health.html",
+        "uri": "nyt://article/9e54a06a-69c3-5432-8f34-f8500a15260c",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T10:42:30-04:00",
+        "created_date": "2025-04-16T10:42:30-04:00",
+        "published_date": "2025-04-16T10:42:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Easter and Holy Week",
+            "Popes"
+        ],
+        "org_facet": [
+            "Gemelli Hospital (Rome, Italy)",
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16INT-POPE-HEALTH-pmkb/16INT-POPE-HEALTH-pmkb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photograph released by the Vatican shows Pope Francis during an audience on Wednesday with personnel from Policlinico A. Gemelli, where he was recently hospitalized, and with Vatican medical staff.",
+                "copyright": "Vatican Media, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16INT-POPE-HEALTH-pmkb/16INT-POPE-HEALTH-pmkb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photograph released by the Vatican shows Pope Francis during an audience on Wednesday with personnel from Policlinico A. Gemelli, where he was recently hospitalized, and with Vatican medical staff.",
+                "copyright": "Vatican Media, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16INT-POPE-HEALTH-pmkb/16INT-POPE-HEALTH-pmkb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photograph released by the Vatican shows Pope Francis during an audience on Wednesday with personnel from Policlinico A. Gemelli, where he was recently hospitalized, and with Vatican medical staff.",
+                "copyright": "Vatican Media, via Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
