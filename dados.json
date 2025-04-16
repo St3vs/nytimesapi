@@ -28289,5 +28289,197 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Aides Close State Dept. Office on Foreign Disinformation",
+        "abstract": "Secretary of State Marco Rubio put about 40 employees on leave who had tracked disinformation by China, Russia, Iran and terrorist groups.",
+        "url": "https://www.nytimes.com/2025/04/16/us/politics/trump-rubio-state-department-foreign-disinformation.html",
+        "uri": "nyt://article/6ff6b1f3-2f14-5d79-9d6c-b88be3070729",
+        "byline": "By Edward Wong",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T13:00:09-04:00",
+        "created_date": "2025-04-16T13:00:09-04:00",
+        "published_date": "2025-04-16T13:00:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Rumors and Misinformation",
+            "Censorship",
+            "Shutdowns (Institutional)",
+            "Conservatism (US Politics)",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "State Department",
+            "Global Engagement Center"
+        ],
+        "per_facet": [
+            "Rubio, Marco",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-disinfo-kjgb/16dc-disinfo-kjgb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1370,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio at the White House on Monday. Diplomats are bracing for a series of deep cuts at the State Department.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-disinfo-kjgb/16dc-disinfo-kjgb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio at the White House on Monday. Diplomats are bracing for a series of deep cuts at the State Department.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-disinfo-kjgb/16dc-disinfo-kjgb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio at the White House on Monday. Diplomats are bracing for a series of deep cuts at the State Department.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Latvia Exits Land Mine Convention Amid Fears of Russian Aggression",
+        "abstract": "The government, along with two other Baltic nations and Poland, agreed last month to quit the 1997 accord that prohibits from using anti-personnel mines. Russia’s invasion of Ukraine was cited as a key reason.",
+        "url": "https://www.nytimes.com/2025/04/16/world/europe/latvia-land-mine-convention-russia-ukraine.html",
+        "uri": "nyt://article/7d09fb6a-0c13-52e7-8e8f-b373025c83c8",
+        "byline": "By Andrew Higgins",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T12:53:14-04:00",
+        "created_date": "2025-04-16T12:53:14-04:00",
+        "published_date": "2025-04-16T12:53:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Russian Invasion of Ukraine (2022)",
+            "Mines, Explosive",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Baltic Region",
+            "Finland",
+            "Belarus",
+            "Lithuania",
+            "Poland",
+            "Latvia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16baltic-landmines-vwlt/16baltic-landmines-vwlt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The border of Latvia with Russia in 2024. A vote in Parliament made Latvia the first country in the region to act on a decision taken last month by three Baltic States and Poland to quit the 1997 Ottawa Treaty.",
+                "copyright": "Gints Ivuskans/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16baltic-landmines-vwlt/16baltic-landmines-vwlt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The border of Latvia with Russia in 2024. A vote in Parliament made Latvia the first country in the region to act on a decision taken last month by three Baltic States and Poland to quit the 1997 Ottawa Treaty.",
+                "copyright": "Gints Ivuskans/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16baltic-landmines-vwlt/16baltic-landmines-vwlt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The border of Latvia with Russia in 2024. A vote in Parliament made Latvia the first country in the region to act on a decision taken last month by three Baltic States and Poland to quit the 1997 Ottawa Treaty.",
+                "copyright": "Gints Ivuskans/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "2 Judges Order Federal Agencies to Unfreeze Climate Money",
+        "abstract": "The rulings are setbacks to Trump’s efforts to halt climate and environmental funding approved under the Biden administration.",
+        "url": "https://www.nytimes.com/2025/04/16/climate/trump-court-epa-funding-freeze.html",
+        "uri": "nyt://article/7b99b510-1924-5eb1-92b7-f9f6efdba953",
+        "byline": "By Claire Brown and Karen Zraick",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T12:59:13-04:00",
+        "created_date": "2025-04-16T12:44:17-04:00",
+        "published_date": "2025-04-16T12:44:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Infrastructure Investment and Jobs Act (2021)",
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Environment",
+            "Decisions and Verdicts"
+        ],
+        "org_facet": [
+            "Environmental Protection Agency",
+            "Democracy Forward (Nonprofit)"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/climate/16cli-court-funds/16cli-court-funds-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "U.S. District Judge Tanya Chutkan in January.",
+                "copyright": "Mark Schiefelbein/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/climate/16cli-court-funds/16cli-court-funds-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "U.S. District Judge Tanya Chutkan in January.",
+                "copyright": "Mark Schiefelbein/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/climate/16cli-court-funds/16cli-court-funds-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "U.S. District Judge Tanya Chutkan in January.",
+                "copyright": "Mark Schiefelbein/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
