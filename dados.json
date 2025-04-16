@@ -27841,5 +27841,197 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia Jails 4 Journalists for Working With Navalny’s Organization",
+        "abstract": "The case highlighted the perils of independent journalism amid an intensified Kremlin crackdown on freedom of expression.",
+        "url": "https://www.nytimes.com/2025/04/16/world/europe/russia-journalists-navalny.html",
+        "uri": "nyt://article/760910cf-1757-50c0-a985-6b605290875c",
+        "byline": "By Nataliya Vasilyeva",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T08:07:31-04:00",
+        "created_date": "2025-04-16T07:59:27-04:00",
+        "published_date": "2025-04-16T07:59:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Political Prisoners",
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [
+            "Committee to Protect Journalists",
+            "Mediazona (Web Site)"
+        ],
+        "per_facet": [
+            "Navalny, Aleksei A",
+            "Putin, Vladimir V",
+            "Volkov, Leonid"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-russia-journalists-tfkw/16int-russia-journalists-tfkw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left, Sergei Karelin, Konstantin Gabov, Antonina Favorskaya, and Artyom Kriger in court in Moscow on Tuesday. The journalists had pleaded not guilty to charges of extremism. ",
+                "copyright": "Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-russia-journalists-tfkw/16int-russia-journalists-tfkw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left, Sergei Karelin, Konstantin Gabov, Antonina Favorskaya, and Artyom Kriger in court in Moscow on Tuesday. The journalists had pleaded not guilty to charges of extremism. ",
+                "copyright": "Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-russia-journalists-tfkw/16int-russia-journalists-tfkw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left, Sergei Karelin, Konstantin Gabov, Antonina Favorskaya, and Artyom Kriger in court in Moscow on Tuesday. The journalists had pleaded not guilty to charges of extremism. ",
+                "copyright": "Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Threatens Further Escalation in Gaza War",
+        "abstract": "The United Nations warned that the humanitarian situation in Gaza was likely at its worst since the conflict began and that the population was again on the brink of famine.",
+        "url": "https://www.nytimes.com/2025/04/16/world/middleeast/israel-threatens-gaza-escalation.html",
+        "uri": "nyt://article/37ea6dc7-c900-5988-99aa-ebe4705e1706",
+        "byline": "By Lara Jakes",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T07:26:45-04:00",
+        "created_date": "2025-04-16T07:26:45-04:00",
+        "published_date": "2025-04-16T07:26:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Humanitarian Aid",
+            "Defense and Military Forces",
+            "Kidnapping and Hostages"
+        ],
+        "org_facet": [
+            "Hamas",
+            "United Nations"
+        ],
+        "per_facet": [
+            "Katz, Israel (1955- )"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-israel-gaza-01-fmlp/16int-israel-gaza-01-fmlp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspecting the site of a strike in Jabaliya in northern Gaza on Wednesday.",
+                "copyright": "Mahmoud Issa/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-israel-gaza-01-fmlp/16int-israel-gaza-01-fmlp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspecting the site of a strike in Jabaliya in northern Gaza on Wednesday.",
+                "copyright": "Mahmoud Issa/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-israel-gaza-01-fmlp/16int-israel-gaza-01-fmlp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspecting the site of a strike in Jabaliya in northern Gaza on Wednesday.",
+                "copyright": "Mahmoud Issa/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "El Salvador’s Hard-Line Leader Is Linchpin in Trump’s Deportation Plans",
+        "abstract": "Experts say President Nayib Bukele has the power but not the interest to return a man deported from Maryland to El Salvador in error.",
+        "url": "https://www.nytimes.com/2025/04/16/world/americas/el-salvador-bukele-abrego-garcia.html",
+        "uri": "nyt://article/66666afd-8210-58db-b802-f199779a7680",
+        "byline": "By Annie Correal",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T08:25:17-04:00",
+        "created_date": "2025-04-16T07:15:40-04:00",
+        "published_date": "2025-04-16T07:15:40-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "Prisons and Prisoners",
+            "Politics and Government",
+            "Deportation"
+        ],
+        "org_facet": [
+            "Supreme Court (US)",
+            "Mara Salvatrucha (MS-13)"
+        ],
+        "per_facet": [
+            "Bukele, Nayib",
+            "Abrego Garcia, Kilmar Armando",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-bukele-powers-zlvt/15int-bukele-powers-zlvt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "During a meeting with President Trump at the White House on Monday, President Nayib Bukele of El Salvador said he would not return a Maryland man who had been deported. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-bukele-powers-zlvt/15int-bukele-powers-zlvt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "During a meeting with President Trump at the White House on Monday, President Nayib Bukele of El Salvador said he would not return a Maryland man who had been deported. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15int-bukele-powers-zlvt/15int-bukele-powers-zlvt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "During a meeting with President Trump at the White House on Monday, President Nayib Bukele of El Salvador said he would not return a Maryland man who had been deported. ",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
