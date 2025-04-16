@@ -28230,5 +28230,64 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Palliative Care Doctor Is Charged With Serial Murder of 15 Patients in Germany",
+        "abstract": "The Berlin doctor, who was not named because of privacy laws, is also accused of setting fire to some of the patients’ homes to hide evidence.",
+        "url": "https://www.nytimes.com/2025/04/16/world/europe/germany-doctor-patients-murder.html",
+        "uri": "nyt://article/81dc5702-5790-52f1-aef9-1008b7f9686d",
+        "byline": "By Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T12:01:33-04:00",
+        "created_date": "2025-04-16T11:58:49-04:00",
+        "published_date": "2025-04-16T11:58:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Serial Murders",
+            "Murders, Attempted Murders and Homicides",
+            "Doctors",
+            "Ethics and Official Misconduct"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/world/16int-germany-murder-doctor/16int-germany-murder-doctor-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1414,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Moabit Prison in Berlin, where the palliative care doctor is being held.",
+                "copyright": "Jens Kalaene/Picture Alliance, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/world/16int-germany-murder-doctor/16int-germany-murder-doctor-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Moabit Prison in Berlin, where the palliative care doctor is being held.",
+                "copyright": "Jens Kalaene/Picture Alliance, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/world/16int-germany-murder-doctor/16int-germany-murder-doctor-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Moabit Prison in Berlin, where the palliative care doctor is being held.",
+                "copyright": "Jens Kalaene/Picture Alliance, via Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
