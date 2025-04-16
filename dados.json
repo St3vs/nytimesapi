@@ -28969,5 +28969,322 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Waved Off Israeli Strike After Divisions Emerged in His Administration",
+        "abstract": "Israel developed plans for attacking Iranian nuclear facilities that would have required U.S. assistance. But some administration officials had doubts.",
+        "url": "https://www.nytimes.com/2025/04/16/us/politics/trump-israel-iran-nuclear.html",
+        "uri": "nyt://article/575f937a-9834-50ea-b83d-7ae93e2cda59",
+        "byline": "By Julian E. Barnes, Eric Schmitt, Maggie Haberman and Ronen Bergman",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T19:12:10-04:00",
+        "created_date": "2025-04-16T19:12:10-04:00",
+        "published_date": "2025-04-16T19:12:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Iran-Israel Proxy Conflict",
+            "Nuclear Weapons",
+            "Defense and Military Forces",
+            "Politics and Government",
+            "International Relations",
+            "United States International Relations",
+            "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Iran",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-trump-iran-ztfk/16dc-trump-iran-ztfk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel during a meeting with President Trump this month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-trump-iran-ztfk/16dc-trump-iran-ztfk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel during a meeting with President Trump this month.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16dc-trump-iran-ztfk/16dc-trump-iran-ztfk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel during a meeting with President Trump this month.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Iran Says Shifting U.S. Messages on Nuclear Talks Are ‘Not Helpful’",
+        "abstract": "But Iran’s foreign minister said Tehran planned to participate “calmly and coolly” in the negotiations. Both sides will meet in Rome on Saturday for a second round, Iran’s Foreign Ministry said.",
+        "url": "https://www.nytimes.com/2025/04/16/world/middleeast/iran-trump-nuclear-talks.html",
+        "uri": "nyt://article/bb532e71-69ef-5474-b960-285ee9384649",
+        "byline": "By Farnaz Fassihi",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T19:04:09-04:00",
+        "created_date": "2025-04-16T19:03:36-04:00",
+        "published_date": "2025-04-16T19:03:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Embargoes and Sanctions",
+            "United States International Relations",
+            "Nuclear Weapons"
+        ],
+        "org_facet": [
+            "International Atomic Energy Agency",
+            "United Nations"
+        ],
+        "per_facet": [
+            "Araghchi, Abbas",
+            "Khamenei, Ali",
+            "Grossi, Rafael",
+            "Trump, Donald J",
+            "Waltz, Michael (1974- )"
+        ],
+        "geo_facet": [
+            "Iran",
+            "Oman"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-Iran-US-talks-whzg/16int-Iran-US-talks-whzg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Foreign Minister Abbas Araghchi has been Iran’s envoy in the talks with the United States. He and President Trump’s special envoy, Steve Witkoff, planned to hold a second round of talks on Saturday.",
+                "copyright": "Vahid Salemi/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-Iran-US-talks-whzg/16int-Iran-US-talks-whzg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Foreign Minister Abbas Araghchi has been Iran’s envoy in the talks with the United States. He and President Trump’s special envoy, Steve Witkoff, planned to hold a second round of talks on Saturday.",
+                "copyright": "Vahid Salemi/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-Iran-US-talks-whzg/16int-Iran-US-talks-whzg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Foreign Minister Abbas Araghchi has been Iran’s envoy in the talks with the United States. He and President Trump’s special envoy, Steve Witkoff, planned to hold a second round of talks on Saturday.",
+                "copyright": "Vahid Salemi/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "Astronomers Detect a Possible Signature of Life on a Distant Planet",
+        "abstract": "Further studies are needed to determine whether K2-18b, which orbits a star 120 light-years away, is inhabited, or even habitable.",
+        "url": "https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html",
+        "uri": "nyt://article/1d41dfc3-6337-5925-bc4d-9ce3ef94375d",
+        "byline": "By Carl Zimmer",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T19:00:05-04:00",
+        "created_date": "2025-04-16T19:00:05-04:00",
+        "published_date": "2025-04-16T19:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Space and Astronomy",
+            "Extraterrestrial Life",
+            "Planets",
+            "James Webb Space Telescope"
+        ],
+        "org_facet": [
+            "Cambridge University"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15HS-ALIENS-pcgz/15HS-ALIENS-pcgz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An artist’s conception of a Hycean exoplanet like K2-18b orbiting a red dwarf star.",
+                "copyright": "A. Smith, N. Madhusudhan/University of Cambridge"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15HS-ALIENS-pcgz/15HS-ALIENS-pcgz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An artist’s conception of a Hycean exoplanet like K2-18b orbiting a red dwarf star.",
+                "copyright": "A. Smith, N. Madhusudhan/University of Cambridge"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15HS-ALIENS-pcgz/15HS-ALIENS-pcgz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An artist’s conception of a Hycean exoplanet like K2-18b orbiting a red dwarf star.",
+                "copyright": "A. Smith, N. Madhusudhan/University of Cambridge"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "By Redefining ‘Harm,’ Agencies Aim to End Longstanding Wildlife Protections",
+        "abstract": "Trump officials have proposed changing adecades-old interpretation of a key word in the Endangered Species Act, which would make it much easier to log, build or drill for oil.",
+        "url": "https://www.nytimes.com/2025/04/16/climate/trump-endangered-species-act-harm.html",
+        "uri": "nyt://article/1d94524a-9dd9-5a1f-8a86-7e15bb4fb055",
+        "byline": "By Lisa Friedman",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T19:17:26-04:00",
+        "created_date": "2025-04-16T18:58:22-04:00",
+        "published_date": "2025-04-16T18:58:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Biodiversity",
+            "Endangered and Extinct Species",
+            "United States Politics and Government",
+            "Animals",
+            "Flowers and Plants"
+        ],
+        "org_facet": [
+            "Bureau of Land Management",
+            "Fish and Wildlife Service"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/climate/16cli-endangered/16cli-endangered-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1541,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A loggerhead sea turtle hatchling on Ossawbaw Island, Ga.",
+                "copyright": "Georgia Department of Natural Resources, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/climate/16cli-endangered/16cli-endangered-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A loggerhead sea turtle hatchling on Ossawbaw Island, Ga.",
+                "copyright": "Georgia Department of Natural Resources, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/climate/16cli-endangered/16cli-endangered-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A loggerhead sea turtle hatchling on Ossawbaw Island, Ga.",
+                "copyright": "Georgia Department of Natural Resources, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Climate Change Is Stressing the World’s Blood Supplies",
+        "abstract": "Extreme weather disasters, increasing as the planet warms, can curb blood donations while increasing demand, a new analysis found.",
+        "url": "https://www.nytimes.com/2025/04/16/climate/climate-emergency-blood-supply.html",
+        "uri": "nyt://article/15c75061-2fcd-5516-9823-a8f69f15a25f",
+        "byline": "By Rebecca Dzombak",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T18:30:06-04:00",
+        "created_date": "2025-04-16T18:30:06-04:00",
+        "published_date": "2025-04-16T18:30:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Blood",
+            "Blood Donation",
+            "Transfusions",
+            "Research",
+            "Disasters and Emergencies",
+            "Epidemics"
+        ],
+        "org_facet": [
+            "Lancet, The (Journal)",
+            "American Red Cross"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16cli-blood-supply-01-wfhk/16cli-blood-supply-01-wfhk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A home in Los Angeles burning on Jan. 9. Thousands of blood donations were canceled during the fires.",
+                "copyright": "Loren Elliott for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16cli-blood-supply-01-wfhk/16cli-blood-supply-01-wfhk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A home in Los Angeles burning on Jan. 9. Thousands of blood donations were canceled during the fires.",
+                "copyright": "Loren Elliott for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16cli-blood-supply-01-wfhk/16cli-blood-supply-01-wfhk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A home in Los Angeles burning on Jan. 9. Thousands of blood donations were canceled during the fires.",
+                "copyright": "Loren Elliott for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
