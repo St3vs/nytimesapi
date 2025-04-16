@@ -27779,5 +27779,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "U.K. Top Court Says Trans Women Are Not Legally Women Under Equality Act",
+        "abstract": "Britain’s Supreme Court ruled that the word “woman” referred to biological sex under the country’s anti-discrimination law, in a blow to trans rights activists.",
+        "url": "https://www.nytimes.com/2025/04/16/world/europe/uk-supreme-court-woman-definition-trans.html",
+        "uri": "nyt://article/f308bc78-775a-5d9c-ac9d-3b04d969b9e1",
+        "byline": "By Lizzie Dearden",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T06:45:02-04:00",
+        "created_date": "2025-04-16T05:07:30-04:00",
+        "published_date": "2025-04-16T05:07:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Gender",
+            "Decisions and Verdicts",
+            "Women and Girls",
+            "Law and Legislation"
+        ],
+        "org_facet": [
+            "Supreme Court of the United Kingdom"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Great Britain",
+            "Scotland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/world/europe/Lord-hodges/Lord-hodges-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1620,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Supreme Court, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/world/europe/Lord-hodges/Lord-hodges-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Supreme Court, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/world/europe/Lord-hodges/Lord-hodges-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Supreme Court, via Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
