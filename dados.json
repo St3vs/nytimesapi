@@ -27714,5 +27714,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Canada Reschedules Political Debate That Conflicted With a Hockey Game",
+        "abstract": "An important game, but still.",
+        "url": "https://www.nytimes.com/2025/04/16/world/americas/canada-election-debate-canadiens-game-montreal.html",
+        "uri": "nyt://article/b12bdf9b-810b-5f29-87b8-acba5ae786a0",
+        "byline": "By Mike Ives",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T05:40:04-04:00",
+        "created_date": "2025-04-16T05:40:04-04:00",
+        "published_date": "2025-04-16T05:40:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Hockey, Ice",
+            "Elections"
+        ],
+        "org_facet": [
+            "CBC/Radio-Canada",
+            "National Hockey League",
+            "Montreal Canadiens"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Poilievre, Pierre"
+        ],
+        "geo_facet": [
+            "Canada",
+            "Montreal (Quebec)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16xp-hockey-fjwl/16xp-hockey-fjwl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1532,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Canadiens, in red, lost to the Chicago Blackhawks in Montreal on Monday, hurting their playoff hopes. ",
+                "copyright": "Graham Hughes/The Canadian Press, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16xp-hockey-fjwl/16xp-hockey-fjwl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Canadiens, in red, lost to the Chicago Blackhawks in Montreal on Monday, hurting their playoff hopes. ",
+                "copyright": "Graham Hughes/The Canadian Press, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16xp-hockey-fjwl/16xp-hockey-fjwl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Canadiens, in red, lost to the Chicago Blackhawks in Montreal on Monday, hurting their playoff hopes. ",
+                "copyright": "Graham Hughes/The Canadian Press, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
