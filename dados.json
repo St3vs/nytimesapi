@@ -28033,5 +28033,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Why Europe Is Less Panicked About the Stock Market",
+        "abstract": "Europeans tend to keep more of their money in cash, gaining some protection from the recent market volatility. But President Trump’s tariffs will have an effect, experts said.",
+        "url": "https://www.nytimes.com/2025/04/16/world/europe/european-stock-market-investing.html",
+        "uri": "nyt://article/fdf8b8ca-30ae-5d94-9bd8-c7404156f74c",
+        "byline": "By Jenny Gross",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T08:57:10-04:00",
+        "created_date": "2025-04-16T08:57:10-04:00",
+        "published_date": "2025-04-16T08:57:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Stocks and Bonds",
+            "Banking and Financial Institutions",
+            "International Trade and World Market",
+            "Standard & Poor's 500-Stock Index",
+            "Mutual Funds",
+            "United States Economy",
+            "Economic Conditions and Trends",
+            "Pensions and Retirement Plans"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "United States",
+            "Scandinavia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00xp-euinvest-02-bqmf/00xp-euinvest-02-bqmf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Outside the London Stock Exchange in the Canary Wharf area of London.",
+                "copyright": "Sam Bush for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00xp-euinvest-02-bqmf/00xp-euinvest-02-bqmf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Outside the London Stock Exchange in the Canary Wharf area of London.",
+                "copyright": "Sam Bush for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00xp-euinvest-02-bqmf/00xp-euinvest-02-bqmf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Outside the London Stock Exchange in the Canary Wharf area of London.",
+                "copyright": "Sam Bush for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
