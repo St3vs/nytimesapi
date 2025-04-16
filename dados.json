@@ -28607,5 +28607,131 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "The Mine Is American. The Minerals Are China’s.",
+        "abstract": "A Brazilian rare earths mine backed by American investors illustrates China’s grip over the strategic minerals that underpin the modern economy.",
+        "url": "https://www.nytimes.com/2025/04/16/world/americas/brazil-mine-rare-earths-china.html",
+        "uri": "nyt://article/95da6453-147d-554f-aff0-d57213b23199",
+        "byline": "By Jack Nicas",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T14:45:21-04:00",
+        "created_date": "2025-04-16T14:45:21-04:00",
+        "published_date": "2025-04-16T14:45:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Rare Earths",
+            "Mines and Mining",
+            "Metals and Minerals"
+        ],
+        "org_facet": [
+            "Neo Performance Materials Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Brazil",
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/world/16brazil-china-metals/16brazil-china-metals-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photograph provided by the company shows the facilities of Serra Verde, a rare earths mine in Minaçu, Brazil, that is under contract to sell nearly all its product to China. ",
+                "copyright": "Serra Verde"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/world/16brazil-china-metals/16brazil-china-metals-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photograph provided by the company shows the facilities of Serra Verde, a rare earths mine in Minaçu, Brazil, that is under contract to sell nearly all its product to China. ",
+                "copyright": "Serra Verde"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/world/16brazil-china-metals/16brazil-china-metals-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photograph provided by the company shows the facilities of Serra Verde, a rare earths mine in Minaçu, Brazil, that is under contract to sell nearly all its product to China. ",
+                "copyright": "Serra Verde"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia Arrests Former Governor of Ukraine-Occupied Region",
+        "abstract": "Aleksei B. Smirnov, together with his deputy and other accomplices, was accused of embezzling money earmarked for building defenses that failed to prevent a Ukrainian attack in Kursk.",
+        "url": "https://www.nytimes.com/2025/04/16/world/europe/russia-kursk-arrest-former-governor.html",
+        "uri": "nyt://article/148ad795-3b5e-5dd5-8a26-37278947e2e2",
+        "byline": "By Ivan Nechepurenko",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T15:03:34-04:00",
+        "created_date": "2025-04-16T15:03:34-04:00",
+        "published_date": "2025-04-16T15:03:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Politics and Government",
+            "Corruption (Institutional)",
+            "Embezzlement",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Aleksei B. Smirnov,"
+        ],
+        "geo_facet": [
+            "Kursk (Russia)",
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-russia-kursk-gtmj/16int-russia-kursk-gtmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 851,
+                "width": 1280,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "This photo released by the Russian government showed Aleksei B. Smirnov in Kursk in 2024.",
+                "copyright": "Government Of Kursk Region"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-russia-kursk-gtmj/16int-russia-kursk-gtmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "This photo released by the Russian government showed Aleksei B. Smirnov in Kursk in 2024.",
+                "copyright": "Government Of Kursk Region"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-russia-kursk-gtmj/16int-russia-kursk-gtmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "This photo released by the Russian government showed Aleksei B. Smirnov in Kursk in 2024.",
+                "copyright": "Government Of Kursk Region"
+            }
+        ],
+        "short_url": ""
     }
 ]
