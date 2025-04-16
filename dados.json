@@ -28793,5 +28793,117 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Thursday Briefing: A Judge’s Pushback Against Trump",
+        "abstract": "Plus, a look at the Grand Egyptian Museum.",
+        "url": "https://www.nytimes.com/2025/04/16/briefing/trump-contempt-chipmakers-trade-war-israel-gaza-escalation.html",
+        "uri": "nyt://article/61220501-4a77-5630-8fb1-93f8c76cc795",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T17:00:14-04:00",
+        "created_date": "2025-04-16T17:00:14-04:00",
+        "published_date": "2025-04-16T17:00:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/17ambriefing-asia-immig/17ambriefing-asia-immig-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge James Boasberg. ",
+                "copyright": "Drew Angerer/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/17ambriefing-asia-immig/17ambriefing-asia-immig-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge James Boasberg. ",
+                "copyright": "Drew Angerer/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/17ambriefing-asia-immig/17ambriefing-asia-immig-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Judge James Boasberg. ",
+                "copyright": "Drew Angerer/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Ontario Premier Orders Review of Major Toronto Waterfront Lease",
+        "abstract": "Doug Ford said he had asked his government to look into the contract that granted a 95-year lease to a European wellness company following a New York Times investigation into the deal.",
+        "url": "https://www.nytimes.com/2025/04/16/world/canada/toronto-spa-therme-lease.html",
+        "uri": "nyt://article/cb4712a6-f496-5323-b885-40a29eb4560e",
+        "byline": "By Matina Stevis-Gridneff",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T17:16:17-04:00",
+        "created_date": "2025-04-16T16:48:31-04:00",
+        "published_date": "2025-04-16T16:48:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Government Contracts and Procurement",
+            "Spas"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Ford, Doug Jr (1964- )"
+        ],
+        "geo_facet": [
+            "Toronto (Ontario)",
+            "Ontario (Canada)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-canada-spa-zmwq/16int-canada-spa-zmwq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "West Island, just off the coast of Toronto, has been cleared of trees for development by a European spa company.",
+                "copyright": "Ian Willms for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-canada-spa-zmwq/16int-canada-spa-zmwq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "West Island, just off the coast of Toronto, has been cleared of trees for development by a European spa company.",
+                "copyright": "Ian Willms for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16int-canada-spa-zmwq/16int-canada-spa-zmwq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "West Island, just off the coast of Toronto, has been cleared of trees for development by a European spa company.",
+                "copyright": "Ian Willms for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
