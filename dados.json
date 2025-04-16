@@ -28733,5 +28733,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "U.S. Pastor Kidnapped in South Africa Is Rescued After Police Shootout",
+        "abstract": "Three suspects were killed as the police moved in on a safe house where the pastor from Tennessee was being held.",
+        "url": "https://www.nytimes.com/2025/04/16/world/africa/south-africa-pastor-kidnapping-rescue-josh-sullivan.html",
+        "uri": "nyt://article/d35af7d3-698a-53de-8ae0-a88370e08594",
+        "byline": "By Jonathan Wolfe",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T15:22:34-04:00",
+        "created_date": "2025-04-16T14:04:52-04:00",
+        "published_date": "2025-04-16T14:04:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Kidnapping and Hostages",
+            "Police",
+            "Clergy",
+            "Attacks on Police",
+            "Organized Crime"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "South Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16xp-kidnapping-rescue-zfhw/16xp-kidnapping-rescue-zfhw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A U.S. pastor, Josh Sullivan, was kidnapped while giving a sermon at a church in Motherwell. ",
+                "copyright": "Deon Ferreira/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16xp-kidnapping-rescue-zfhw/16xp-kidnapping-rescue-zfhw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A U.S. pastor, Josh Sullivan, was kidnapped while giving a sermon at a church in Motherwell. ",
+                "copyright": "Deon Ferreira/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16xp-kidnapping-rescue-zfhw/16xp-kidnapping-rescue-zfhw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A U.S. pastor, Josh Sullivan, was kidnapped while giving a sermon at a church in Motherwell. ",
+                "copyright": "Deon Ferreira/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
