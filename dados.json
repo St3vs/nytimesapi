@@ -29987,5 +29987,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The Dutch Love Their Bicycles. Helmets? Not So Much.",
+        "abstract": "Cyclists comprise the highest number of road fatalities in the Netherlands. The country has introduced a campaign to promote helmets, but many cyclists are not convinced.",
+        "url": "https://www.nytimes.com/2025/04/17/world/europe/bicycles-helmets-dutch.html",
+        "uri": "nyt://article/cd210161-b77c-5744-bf35-d92c6e103586",
+        "byline": "By Lynsey Chutel and Rosanne Kropman",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T11:42:58-04:00",
+        "created_date": "2025-04-17T11:39:32-04:00",
+        "published_date": "2025-04-17T11:39:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bicycles and Bicycling",
+            "Traffic Accidents and Safety",
+            "Helmets",
+            "Infrastructure (Public Works)",
+            "Speed Limits and Speeding"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Amsterdam (Netherlands)",
+            "Netherlands"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-netherlands-helmets-01-wzvp/17int-netherlands-helmets-01-wzvp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Riding an electric bike without a helmet in Amsterdam in August. Data show that since 2000, traffic accidents have claimed the lives of an average of 199 cyclists in the Netherlands each year. ",
+                "copyright": "Piroschka Van De Wouw/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-netherlands-helmets-01-wzvp/17int-netherlands-helmets-01-wzvp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Riding an electric bike without a helmet in Amsterdam in August. Data show that since 2000, traffic accidents have claimed the lives of an average of 199 cyclists in the Netherlands each year. ",
+                "copyright": "Piroschka Van De Wouw/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-netherlands-helmets-01-wzvp/17int-netherlands-helmets-01-wzvp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Riding an electric bike without a helmet in Amsterdam in August. Data show that since 2000, traffic accidents have claimed the lives of an average of 199 cyclists in the Netherlands each year. ",
+                "copyright": "Piroschka Van De Wouw/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
