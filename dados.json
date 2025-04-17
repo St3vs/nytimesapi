@@ -30391,5 +30391,132 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "France Acknowledges Devastating Effect of Debt Imposed on Haiti for Freedom",
+        "abstract": "After two centuries, a contrite tone from President Emmanuel Macron, though no talk of reparations for French actions that thwarted the development of its former colony.",
+        "url": "https://www.nytimes.com/2025/04/17/world/europe/france-haiti-debt-macron.html",
+        "uri": "nyt://article/a2a1d64f-ffc5-59d0-91a6-ce93b4b05a2c",
+        "byline": "By Roger Cohen and Ségolène Le Stradic",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T16:05:10-04:00",
+        "created_date": "2025-04-17T15:31:36-04:00",
+        "published_date": "2025-04-17T15:31:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colonization",
+            "Credit and Debt",
+            "Reparations",
+            "Politics and Government",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Macron, Emmanuel (1977- )"
+        ],
+        "geo_facet": [
+            "France",
+            "Haiti"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17france-haiti-01-pftl/17france-haiti-01-pftl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A school in Port-au-Prince, Haiti, that was transformed into a camp for displaced people escaping violence.",
+                "copyright": "Adriana Zehbrauskas for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17france-haiti-01-pftl/17france-haiti-01-pftl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A school in Port-au-Prince, Haiti, that was transformed into a camp for displaced people escaping violence.",
+                "copyright": "Adriana Zehbrauskas for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17france-haiti-01-pftl/17france-haiti-01-pftl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A school in Port-au-Prince, Haiti, that was transformed into a camp for displaced people escaping violence.",
+                "copyright": "Adriana Zehbrauskas for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "U.S. Is Withdrawing Hundreds of Troops From Syria",
+        "abstract": "The end of the Assad era has reduced some threats, but the Islamic State has shown renewed strength in the country.",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/us-withdrawing-troops-syria.html",
+        "uri": "nyt://article/342c0632-0870-5ab3-aa4c-fdaeae0a3b67",
+        "byline": "By Eric Schmitt",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T15:56:40-04:00",
+        "created_date": "2025-04-17T15:31:41-04:00",
+        "published_date": "2025-04-17T15:31:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "United States Defense and Military Forces",
+            "United States International Relations",
+            "Kurds",
+            "Fringe Groups and Movements",
+            "Detainees"
+        ],
+        "org_facet": [
+            "Islamic State in Iraq and Syria (ISIS)",
+            "Hayat Tahrir al-Sham"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17DC-MILITARY-hqkt/17DC-MILITARY-hqkt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A U.S. military convoy in northeastern Syria in January. The military is shuttering three of its eight small operating bases in the country’s northeast.",
+                "copyright": "Bernat Armangue/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17DC-MILITARY-hqkt/17DC-MILITARY-hqkt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A U.S. military convoy in northeastern Syria in January. The military is shuttering three of its eight small operating bases in the country’s northeast.",
+                "copyright": "Bernat Armangue/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17DC-MILITARY-hqkt/17DC-MILITARY-hqkt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A U.S. military convoy in northeastern Syria in January. The military is shuttering three of its eight small operating bases in the country’s northeast.",
+                "copyright": "Bernat Armangue/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
