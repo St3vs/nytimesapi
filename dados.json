@@ -30518,5 +30518,374 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Friday Briefing: Trump’s Tariff Bargaining",
+        "abstract": "Plus, Argentina’s capybara problem.",
+        "url": "https://www.nytimes.com/2025/04/17/briefing/trump-meloni-tariffs-iran-us-nuclear-syria-troops.html",
+        "uri": "nyt://article/a72aa759-4921-56d2-9aab-5a0759b96207",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T17:05:01-04:00",
+        "created_date": "2025-04-17T17:03:36-04:00",
+        "published_date": "2025-04-17T17:03:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18ambriefing-asia-Meloni-fwct/18ambriefing-asia-Meloni-fwct-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump met with Prime Minister Giorgia Meloni of Italy at the White House. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18ambriefing-asia-Meloni-fwct/18ambriefing-asia-Meloni-fwct-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump met with Prime Minister Giorgia Meloni of Italy at the White House. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18ambriefing-asia-Meloni-fwct/18ambriefing-asia-Meloni-fwct-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump met with Prime Minister Giorgia Meloni of Italy at the White House. ",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Maryland Senator Turned Away From El Salvador Prison by Military",
+        "abstract": "Armed officials stopped Senator Chris Van Hollen from trying to visit the prison where Kilmar Armando Abrego Garcia has been held for over a month.",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/senator-chris-van-hollen-el-salvador-prison.html",
+        "uri": "nyt://article/b5d8e4b4-3f8b-5643-91e6-a8fce79a6d12",
+        "byline": "By Robert Jimison",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T16:55:26-04:00",
+        "created_date": "2025-04-17T16:46:01-04:00",
+        "published_date": "2025-04-17T16:46:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Illegal Immigration",
+            "Deportation",
+            "United States International Relations",
+            "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Van Hollen, Christopher Jr",
+            "Abrego Garcia, Kilmar Armando",
+            "Trump, Donald J",
+            "Bukele, Nayib"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-vanhollen1-lfjk/17dc-vanhollen1-lfjk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen, with his hands on his waist, was stopped at a military checkpoint about a mile away from the prison in El Salvador where Kilmar Armando Abrego Garcia is being detained.",
+                "copyright": "Daniele Volpe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-vanhollen1-lfjk/17dc-vanhollen1-lfjk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen, with his hands on his waist, was stopped at a military checkpoint about a mile away from the prison in El Salvador where Kilmar Armando Abrego Garcia is being detained.",
+                "copyright": "Daniele Volpe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-vanhollen1-lfjk/17dc-vanhollen1-lfjk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen, with his hands on his waist, was stopped at a military checkpoint about a mile away from the prison in El Salvador where Kilmar Armando Abrego Garcia is being detained.",
+                "copyright": "Daniele Volpe for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "australia",
+        "title": "Katie Perry Is Suing Katy Perry in Australia. Wait, What?",
+        "abstract": "The case between the two Perrys could set a precedent leaving some Australian businesses vulnerable to overseas brands.",
+        "url": "https://www.nytimes.com/2025/04/17/world/australia/katie-perry-suing-katy-perry-australia.html",
+        "uri": "nyt://article/a750499e-ea92-5698-b963-e356a8e098a3",
+        "byline": "By Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T16:38:44-04:00",
+        "created_date": "2025-04-17T16:33:01-04:00",
+        "published_date": "2025-04-17T16:33:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Trademarks and Trade Names",
+            "Celebrities"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Perry, Katy"
+        ],
+        "geo_facet": [
+            "Australia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/world/17int-katy-perry/17int-katy-perry-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1358,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Katy Perry, the singer and international pop star, performing in Philadelphia in 2024.",
+                "copyright": "Kevin Mazur/Getty Images for iHeartRadio"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/world/17int-katy-perry/17int-katy-perry-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Katy Perry, the singer and international pop star, performing in Philadelphia in 2024.",
+                "copyright": "Kevin Mazur/Getty Images for iHeartRadio"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/world/17int-katy-perry/17int-katy-perry-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Katy Perry, the singer and international pop star, performing in Philadelphia in 2024.",
+                "copyright": "Kevin Mazur/Getty Images for iHeartRadio"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Here’s What to Know About Rare Earth Minerals and Renewable Energy",
+        "abstract": "The shift to cleaner power needs resources from China. An export ban just cut off some supplies.",
+        "url": "https://www.nytimes.com/2025/04/17/climate/rare-earth-minerals-renewable-energy.html",
+        "uri": "nyt://article/ba7b89bf-e938-57af-b0fd-915834509d7c",
+        "byline": "By Harry Stevens",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T16:28:00-04:00",
+        "created_date": "2025-04-17T16:28:00-04:00",
+        "published_date": "2025-04-17T16:28:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Content Type: Service",
+            "Rare Earths",
+            "Customs (Tariff)",
+            "Metals and Minerals",
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Alternative and Renewable Energy",
+            "Endangered and Extinct Species",
+            "Wind Power",
+            "Electric and Hybrid Vehicles"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/climate/17cli-newsletter-rare-earths/17cli-newsletter-rare-earths-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A rare earth mine in the Inner Mongolian Autonomous Region of China.",
+                "copyright": "Wu Changqing/VCG, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/climate/17cli-newsletter-rare-earths/17cli-newsletter-rare-earths-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A rare earth mine in the Inner Mongolian Autonomous Region of China.",
+                "copyright": "Wu Changqing/VCG, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/climate/17cli-newsletter-rare-earths/17cli-newsletter-rare-earths-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A rare earth mine in the Inner Mongolian Autonomous Region of China.",
+                "copyright": "Wu Changqing/VCG, via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Cable Car Falls and Breaks Apart in Italy, Killing at Least 4 People",
+        "abstract": "A fifth person was in critical condition after the cable car rolled down a mountainside. Nine others were trapped in a different cable car because of the crash and had to be rescued.",
+        "url": "https://www.nytimes.com/2025/04/17/world/europe/italy-cable-car-crash.html",
+        "uri": "nyt://article/8ca621e1-e194-5527-b90e-4db7b1bf13e9",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T16:31:28-04:00",
+        "created_date": "2025-04-17T16:16:40-04:00",
+        "published_date": "2025-04-17T16:16:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Cable Cars and Trams",
+            "Accidents and Safety",
+            "Deaths (Fatalities)",
+            "Rescues",
+            "Travel and Vacations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Italy"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-Italy-cablecar-zlbf/17int-Italy-cablecar-zlbf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescuers working in Castellammare di Stabia, Italy, where a cable car carrying tourists crashed, on Thursday.",
+                "copyright": "Alessandro Garofalo/LaPresse, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-Italy-cablecar-zlbf/17int-Italy-cablecar-zlbf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescuers working in Castellammare di Stabia, Italy, where a cable car carrying tourists crashed, on Thursday.",
+                "copyright": "Alessandro Garofalo/LaPresse, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-Italy-cablecar-zlbf/17int-Italy-cablecar-zlbf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescuers working in Castellammare di Stabia, Italy, where a cable car carrying tourists crashed, on Thursday.",
+                "copyright": "Alessandro Garofalo/LaPresse, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Threatens to Block Harvard From Enrolling International Students",
+        "abstract": "The Trump administration said Harvard must share detailed records about its foreign students, an escalation in the administration’s fight against prominent American schools.",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/trump-harvard-international-students.html",
+        "uri": "nyt://article/94fcc3b3-470f-5153-8df1-2adee2558f77",
+        "byline": "By Hamed Aleaziz, Luke Broadwater and Stephanie Saul",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T17:12:36-04:00",
+        "created_date": "2025-04-17T12:35:56-04:00",
+        "published_date": "2025-04-17T12:35:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Foreign Students (in US)",
+            "Colleges and Universities",
+            "International Study and Teaching",
+            "Visas"
+        ],
+        "org_facet": [
+            "Homeland Security Department",
+            "Harvard University",
+            "Internal Revenue Service"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Noem, Kristi"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-education-lbfz/17dc-education-lbfz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University has been in a standoff with the Trump administration over admissions and hiring policies.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-education-lbfz/17dc-education-lbfz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University has been in a standoff with the Trump administration over admissions and hiring policies.",
+                "copyright": "Sophie Park for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-education-lbfz/17dc-education-lbfz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Harvard University has been in a standoff with the Trump administration over admissions and hiring policies.",
+                "copyright": "Sophie Park for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
