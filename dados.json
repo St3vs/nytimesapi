@@ -29865,5 +29865,127 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Hundreds of Giant Rodents ‘Conquered’ This Town. Now What?",
+        "abstract": "The world’s largest rodent is multiplying in — and dividing — one of Argentina’s most exclusive gated communities.",
+        "url": "https://www.nytimes.com/2025/04/17/world/americas/argentina-capybaras-vasectomies.html",
+        "uri": "nyt://article/10183610-4a62-5821-a9bc-d90d6f2819b3",
+        "byline": "By Jack Nicas and Anita Pouchard Serra",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T09:01:45-04:00",
+        "created_date": "2025-04-17T05:01:40-04:00",
+        "published_date": "2025-04-17T05:01:40-04:00",
+        "material_type_facet": "",
+        "kicker": "Argentina dispatch",
+        "des_facet": [
+            "Animal Behavior",
+            "Sterilization (Reproductive)",
+            "Rodents"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Argentina"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-argentina-capybara-dispatch-promo/00int-argentina-capybara-dispatch-top-fjzq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A family of capybaras near a lake in Nordelta, a gated community north of Buenos Aires.",
+                "copyright": "Anita Pouchard Serra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-argentina-capybara-dispatch-promo/00int-argentina-capybara-dispatch-top-fjzq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A family of capybaras near a lake in Nordelta, a gated community north of Buenos Aires.",
+                "copyright": "Anita Pouchard Serra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-argentina-capybara-dispatch-promo/00int-argentina-capybara-dispatch-top-fjzq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A family of capybaras near a lake in Nordelta, a gated community north of Buenos Aires.",
+                "copyright": "Anita Pouchard Serra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Strikes Area With Tent Camps for Displaced Gazans",
+        "abstract": "The attack on the Mawasi area of southern Gaza killed at least a dozen people, according to the emergency rescue service in the territory. Israel did not confirm the location of the attack.",
+        "url": "https://www.nytimes.com/2025/04/17/world/middleeast/israel-gaza-strike-mawasi.html",
+        "uri": "nyt://article/16055361-2254-5ac3-9b60-6208a481efbc",
+        "byline": "By Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T09:26:10-04:00",
+        "created_date": "2025-04-17T07:34:34-04:00",
+        "published_date": "2025-04-17T07:34:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Civilian Casualties",
+            "Defense and Military Forces",
+            "Palestinians",
+            "Refugees and Displaced Persons"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Khan Younis (Gaza Strip)",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-israel-gaza-phjc/17int-israel-gaza-phjc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspecting damage at the site of an Israeli strike in an area of tent camps for displaced Palestinians in southern Gaza on Thursday.",
+                "copyright": "Hatem Khaled/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-israel-gaza-phjc/17int-israel-gaza-phjc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspecting damage at the site of an Israeli strike in an area of tent camps for displaced Palestinians in southern Gaza on Thursday.",
+                "copyright": "Hatem Khaled/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-israel-gaza-phjc/17int-israel-gaza-phjc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspecting damage at the site of an Israeli strike in an area of tent camps for displaced Palestinians in southern Gaza on Thursday.",
+                "copyright": "Hatem Khaled/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
