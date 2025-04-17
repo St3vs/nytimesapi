@@ -29286,5 +29286,71 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Trump Joins Japan Trade Talks, Says ‘Big Progress’ Made",
+        "abstract": "For his first face-to-face talks on tariffs, the president chose Japan, a U.S. ally that decades ago stirred his anger over the unequal balance of trade and his penchant for tariffs.",
+        "url": "https://www.nytimes.com/2025/04/16/world/asia/japan-trump-tariffs.html",
+        "uri": "nyt://article/4c0bbdba-9844-526e-aae7-ae641b944264",
+        "byline": "By Martin Fackler",
+        "item_type": "Article",
+        "updated_date": "2025-04-16T22:25:27-04:00",
+        "created_date": "2025-04-16T00:01:07-04:00",
+        "published_date": "2025-04-16T00:01:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Politics and Government",
+            "Assassinations and Attempted Assassinations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Abe, Shinzo",
+            "Ishiba, Shigeru"
+        ],
+        "geo_facet": [
+            "Japan",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-japan-trump-04-wzpt/10int-japan-trump-04-wzpt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Shigeru Ishiba of Japan received a book from Mr. Trump during a visit to the White House in February. Mr. Ishiba has tried to build a relationship with the U.S. president akin to that developed by Shinzo Abe, the former prime minister.",
+                "copyright": "Cheriss May for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-japan-trump-04-wzpt/10int-japan-trump-04-wzpt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Shigeru Ishiba of Japan received a book from Mr. Trump during a visit to the White House in February. Mr. Ishiba has tried to build a relationship with the U.S. president akin to that developed by Shinzo Abe, the former prime minister.",
+                "copyright": "Cheriss May for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/multimedia/10int-japan-trump-04-wzpt/10int-japan-trump-04-wzpt-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Shigeru Ishiba of Japan received a book from Mr. Trump during a visit to the White House in February. Mr. Ishiba has tried to build a relationship with the U.S. president akin to that developed by Shinzo Abe, the former prime minister.",
+                "copyright": "Cheriss May for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
