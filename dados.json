@@ -30322,5 +30322,74 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Measles Outbreaks in Canada and Mexico Bring Grim Prognosis",
+        "abstract": "Surges in Mennonite communities near the U.S. border may complicate containment efforts, experts say.",
+        "url": "https://www.nytimes.com/2025/04/17/health/measles-texas-mexico-canada.html",
+        "uri": "nyt://article/0736c6c5-f649-54c4-920e-9feaa5a76b97",
+        "byline": "By Teddy Rosenbluth",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T14:44:57-04:00",
+        "created_date": "2025-04-17T14:44:57-04:00",
+        "published_date": "2025-04-17T14:44:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "your-feed-science",
+            "Measles",
+            "Disease Rates",
+            "Mennonite Churches",
+            "Epidemics",
+            "Medicine and Health",
+            "States (US)",
+            "Vaccination and Immunization",
+            "Viruses"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Canada",
+            "Chihuahua (Mexico)",
+            "Ontario (Canada)",
+            "Texas",
+            "Southwestern States (US)",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17hs-measles-canada-01-jpbv/17hs-measles-canada-01-jpbv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A measles testing site in Seminole, Texas, in February. The outbreak that began in Texas is showing no signs of slowing. Cases have appeared in Ontario, Canada, and Chihuahua, Mexico.",
+                "copyright": "Julio Cortez/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17hs-measles-canada-01-jpbv/17hs-measles-canada-01-jpbv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A measles testing site in Seminole, Texas, in February. The outbreak that began in Texas is showing no signs of slowing. Cases have appeared in Ontario, Canada, and Chihuahua, Mexico.",
+                "copyright": "Julio Cortez/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17hs-measles-canada-01-jpbv/17hs-measles-canada-01-jpbv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A measles testing site in Seminole, Texas, in February. The outbreak that began in Texas is showing no signs of slowing. Cases have appeared in Ontario, Canada, and Chihuahua, Mexico.",
+                "copyright": "Julio Cortez/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
