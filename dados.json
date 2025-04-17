@@ -29551,5 +29551,132 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "One Town Says, Yes, You Can Have Too Many Capybaras",
+        "abstract": "The world’s largest rodent is multiplying in — and dividing — one of Argentina’s most exclusive gated communities.",
+        "url": "https://www.nytimes.com/2025/04/17/world/americas/argentina-capybaras-vasectomies.html",
+        "uri": "nyt://article/10183610-4a62-5821-a9bc-d90d6f2819b3",
+        "byline": "By Jack Nicas and Anita Pouchard Serra",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T05:01:40-04:00",
+        "created_date": "2025-04-17T05:01:40-04:00",
+        "published_date": "2025-04-17T05:01:40-04:00",
+        "material_type_facet": "",
+        "kicker": "Argentina dispatch",
+        "des_facet": [
+            "Animal Behavior",
+            "Sterilization (Reproductive)",
+            "Rodents"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Argentina"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-argentina-capybara-dispatch-promo/00int-argentina-capybara-dispatch-top-fjzq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A family of capybaras near a lake in Nordelta, a gated community north of Buenos Aires.",
+                "copyright": "Anita Pouchard Serra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-argentina-capybara-dispatch-promo/00int-argentina-capybara-dispatch-top-fjzq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A family of capybaras near a lake in Nordelta, a gated community north of Buenos Aires.",
+                "copyright": "Anita Pouchard Serra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-argentina-capybara-dispatch-promo/00int-argentina-capybara-dispatch-top-fjzq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A family of capybaras near a lake in Nordelta, a gated community north of Buenos Aires.",
+                "copyright": "Anita Pouchard Serra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The Ukrainian Schoolmaster Teaching History to His Invaders",
+        "abstract": "Vitalii Dribnytsia engages with Russians online to correct Kremlin propaganda about Ukraine. Over time, he has come to realize his more important audience is Ukrainians themselves.",
+        "url": "https://www.nytimes.com/2025/04/17/world/europe/ukraine-history-russian-falsehoods.html",
+        "uri": "nyt://article/1f599baa-3d6b-5fc5-a3b0-966d4e698d6b",
+        "byline": "By Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T05:00:18-04:00",
+        "created_date": "2025-04-17T05:00:18-04:00",
+        "published_date": "2025-04-17T05:00:18-04:00",
+        "material_type_facet": "",
+        "kicker": "The Global Profile",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "History (Academic Subject)",
+            "Education",
+            "Rumors and Misinformation",
+            "Content Type: Personal Profile",
+            "Propaganda",
+            "Video Recordings, Downloads and Streaming",
+            "Defense and Military Forces",
+            "Teachers and School Employees"
+        ],
+        "org_facet": [
+            "ChatRoulette"
+        ],
+        "per_facet": [
+            "Vitalii Dribnytsia"
+        ],
+        "geo_facet": [
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/ukraine-historian-profile-01-pmvq/ukraine-historian-profile-01-pmvq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vitalii Dribnytsia, a former history teacher, speaks with someone in Russia via Chatroulette, where he often challenges Russians on their understanding of history. ",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/ukraine-historian-profile-01-pmvq/ukraine-historian-profile-01-pmvq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vitalii Dribnytsia, a former history teacher, speaks with someone in Russia via Chatroulette, where he often challenges Russians on their understanding of history. ",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/07/multimedia/ukraine-historian-profile-01-pmvq/ukraine-historian-profile-01-pmvq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vitalii Dribnytsia, a former history teacher, speaks with someone in Russia via Chatroulette, where he often challenges Russians on their understanding of history. ",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
