@@ -29745,5 +29745,125 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "4 Men Charged With Trying to Smuggle Thousands of Ants From Kenya",
+        "abstract": "The men, including two Belgian teenagers, pleaded guilty to smuggling thousands of live queen ants, which the Kenyan authorities said were destined for markets in Europe and Asia.",
+        "url": "https://www.nytimes.com/2025/04/17/world/africa/kenya-ants-smuggling.html",
+        "uri": "nyt://article/f11e4d19-228c-5a59-bf77-839337702fa8",
+        "byline": "By Ali Watkins",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T08:09:09-04:00",
+        "created_date": "2025-04-17T08:09:09-04:00",
+        "published_date": "2025-04-17T08:09:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Smuggling",
+            "Animals",
+            "Wildlife Trade and Poaching"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16xp-kenya-fkpc/16xp-kenya-fkpc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The captured ants were shown in court, packed in tubes with cotton to help keep them alive. ",
+                "copyright": "Monicah Mwangi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16xp-kenya-fkpc/16xp-kenya-fkpc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The captured ants were shown in court, packed in tubes with cotton to help keep them alive. ",
+                "copyright": "Monicah Mwangi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/16xp-kenya-fkpc/16xp-kenya-fkpc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The captured ants were shown in court, packed in tubes with cotton to help keep them alive. ",
+                "copyright": "Monicah Mwangi/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Strikes Area With Large Tent Camps for Displaced Gazans",
+        "abstract": "The attack on the Mawasi area killed at least several people, including children, according to Gaza’s emergency rescue service. Israel did not confirm the location of the attack.",
+        "url": "https://www.nytimes.com/2025/04/17/world/middleeast/israel-gaza-strike-mawasi.html",
+        "uri": "nyt://article/16055361-2254-5ac3-9b60-6208a481efbc",
+        "byline": "By Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T08:21:28-04:00",
+        "created_date": "2025-04-17T07:34:34-04:00",
+        "published_date": "2025-04-17T07:34:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Civilian Casualties",
+            "Defense and Military Forces",
+            "Palestinians",
+            "Refugees and Displaced Persons"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Khan Younis (Gaza Strip)",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-israel-gaza-phjc/17int-israel-gaza-phjc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspecting damage at the site of an Israeli strike in an area of tent camps for displaced Palestinians in southern Gaza on Thursday.",
+                "copyright": "Hatem Khaled/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-israel-gaza-phjc/17int-israel-gaza-phjc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspecting damage at the site of an Israeli strike in an area of tent camps for displaced Palestinians in southern Gaza on Thursday.",
+                "copyright": "Hatem Khaled/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-israel-gaza-phjc/17int-israel-gaza-phjc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inspecting damage at the site of an Israeli strike in an area of tent camps for displaced Palestinians in southern Gaza on Thursday.",
+                "copyright": "Hatem Khaled/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
