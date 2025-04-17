@@ -29678,5 +29678,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "U.K. Court Ruling on Trans Women Is Part of Wider Debate on Sex and Gender",
+        "abstract": "President Trump and right-wing politicians in Europe have railed against trans rights. Britain’s top court has now added its voice to the discussion.",
+        "url": "https://www.nytimes.com/2025/04/17/world/europe/uk-trans-hungary-germany-us.html",
+        "uri": "nyt://article/4a1e9343-27ef-5a8d-92c5-10d16bfd1a6a",
+        "byline": "By Michael D. Shear",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T06:46:01-04:00",
+        "created_date": "2025-04-17T06:28:24-04:00",
+        "published_date": "2025-04-17T06:28:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Transgender",
+            "Discrimination",
+            "Gender",
+            "Women and Girls",
+            "Decisions and Verdicts",
+            "Law and Legislation",
+            "United States Politics and Government",
+            "Women's Rights"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "Hungary",
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-uk-trans-01-jzgb/17int-uk-trans-01-jzgb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1371,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Susan Smith and Marion Calder, the directors of For Women Scotland, which brought the legal case that Britain’s Supreme Court weighed in on, celebrating outside the court in London on Wednesday.",
+                "copyright": "Henry Nicholls/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-uk-trans-01-jzgb/17int-uk-trans-01-jzgb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Susan Smith and Marion Calder, the directors of For Women Scotland, which brought the legal case that Britain’s Supreme Court weighed in on, celebrating outside the court in London on Wednesday.",
+                "copyright": "Henry Nicholls/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-uk-trans-01-jzgb/17int-uk-trans-01-jzgb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Susan Smith and Marion Calder, the directors of For Women Scotland, which brought the legal case that Britain’s Supreme Court weighed in on, celebrating outside the court in London on Wednesday.",
+                "copyright": "Henry Nicholls/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
