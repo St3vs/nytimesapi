@@ -32123,5 +32123,129 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Cable Car Victims in Italian Crash Were British and Israeli Tourists",
+        "abstract": "Italian officials have identified the four people who died in a cable car accident on Thursday. The ride was popular with locals and visitors because of its breathtaking views.",
+        "url": "https://www.nytimes.com/2025/04/18/world/europe/italy-cable-car-crash-victims-tourists.html",
+        "uri": "nyt://article/6daae9cc-58e9-514c-9290-94087229ec62",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T14:25:03-04:00",
+        "created_date": "2025-04-18T14:19:25-04:00",
+        "published_date": "2025-04-18T14:19:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Cable Cars and Trams",
+            "Accidents and Safety",
+            "Deaths (Fatalities)",
+            "Travel and Vacations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Italy",
+            "Israel",
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-italy-cable-victims-01-cqgw/18int-italy-cable-victims-01-cqgw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An aerial view of the crashed cable car near Naples, Italy, on Friday.",
+                "copyright": "Salvatore Laporta/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-italy-cable-victims-01-cqgw/18int-italy-cable-victims-01-cqgw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An aerial view of the crashed cable car near Naples, Italy, on Friday.",
+                "copyright": "Salvatore Laporta/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-italy-cable-victims-01-cqgw/18int-italy-cable-victims-01-cqgw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An aerial view of the crashed cable car near Naples, Italy, on Friday.",
+                "copyright": "Salvatore Laporta/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Abdullah Ahmad Badawi, a Calming Prime Minister of Malaysia, Dies at 85",
+        "abstract": "From 2003 to 2009, he brought a quiet style of leadership to his Southeast Asia nation after the strongman rule of Mahathir Mohamad.",
+        "url": "https://www.nytimes.com/2025/04/18/world/asia/abdullah-ahmad-badawi-dead.html",
+        "uri": "nyt://article/f4756c08-d53c-5b39-9947-c46389c31b14",
+        "byline": "By Seth Mydans",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T14:17:48-04:00",
+        "created_date": "2025-04-18T14:10:03-04:00",
+        "published_date": "2025-04-18T14:10:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Politics and Government",
+            "Legislatures and Parliaments"
+        ],
+        "org_facet": [
+            "National Front (Malaysia)"
+        ],
+        "per_facet": [
+            "Abdullah Ahmad Badawi",
+            "Mohamad, Mahathir"
+        ],
+        "geo_facet": [
+            "Malaysia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/17Badawi--mlwg-print1/17Badawi--mlwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1457,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Abdullah Ahmad Badawi reviewed an honor guard in 2005 during a ceremony in Kuala Lumpur, Malaysia’s capital. “Abdullah’s strength was allowing dialogue and discussions of Malaysia’s problems,” a scholar of the country said.",
+                "copyright": "Shamshahrin Shamsudin/European Pressphoto Agency"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/17Badawi--mlwg-print1/17Badawi--mlwg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Abdullah Ahmad Badawi reviewed an honor guard in 2005 during a ceremony in Kuala Lumpur, Malaysia’s capital. “Abdullah’s strength was allowing dialogue and discussions of Malaysia’s problems,” a scholar of the country said.",
+                "copyright": "Shamshahrin Shamsudin/European Pressphoto Agency"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/17Badawi--mlwg-print1/17Badawi--mlwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Abdullah Ahmad Badawi reviewed an honor guard in 2005 during a ceremony in Kuala Lumpur, Malaysia’s capital. “Abdullah’s strength was allowing dialogue and discussions of Malaysia’s problems,” a scholar of the country said.",
+                "copyright": "Shamshahrin Shamsudin/European Pressphoto Agency"
+            }
+        ],
+        "short_url": ""
     }
 ]
