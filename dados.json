@@ -30887,5 +30887,337 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Trump Opens a Huge Marine Protected Zone to Commercial Fishing",
+        "abstract": "The president said the move was aimed at making the United States the world’s “dominant seafood leader.”",
+        "url": "https://www.nytimes.com/2025/04/17/climate/trump-fishing-marine-protected-zone.html",
+        "uri": "nyt://article/5dfbe420-41c8-584c-a1b2-497d9a6c6989",
+        "byline": "By Rebecca Dzombak and Lisa Friedman",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T20:59:33-04:00",
+        "created_date": "2025-04-17T20:34:04-04:00",
+        "published_date": "2025-04-17T20:34:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Executive Orders and Memorandums",
+            "Conservation of Resources",
+            "Fish and Other Marine Life",
+            "Greenhouse Gas Emissions",
+            "Fishing, Commercial",
+            "Endangered and Extinct Species",
+            "Oceans and Seas",
+            "Global Warming",
+            "Biodiversity"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Pacific Islands Heritage Marine National Monument"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/17/multimedia/17cli-fishing-zflh/17cli-fishing-zflh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1067,
+                "width": 1600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palmyra Atoll National Wildlife Refuge, about halfway between Hawaii and American Samoa, part of a national monument. ",
+                "copyright": "Ian Shive/United States Fish and Wildlife Service"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/17/multimedia/17cli-fishing-zflh/17cli-fishing-zflh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palmyra Atoll National Wildlife Refuge, about halfway between Hawaii and American Samoa, part of a national monument. ",
+                "copyright": "Ian Shive/United States Fish and Wildlife Service"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/17/multimedia/17cli-fishing-zflh/17cli-fishing-zflh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palmyra Atoll National Wildlife Refuge, about halfway between Hawaii and American Samoa, part of a national monument. ",
+                "copyright": "Ian Shive/United States Fish and Wildlife Service"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Ukraine and U.S. Sign Agreement in Lead-Up to a Full Minerals Deal",
+        "abstract": "The signed memorandum of understanding was thin on details, and the White House did not comment. But President Trump has said he expects to sign a minerals deal with Kyiv soon.",
+        "url": "https://www.nytimes.com/2025/04/17/world/europe/ukraine-us-minerals-agreement.html",
+        "uri": "nyt://article/de0d8055-57a5-59a6-bb21-ff55c336628d",
+        "byline": "By Andrew E. Kramer",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T20:05:17-04:00",
+        "created_date": "2025-04-17T19:40:00-04:00",
+        "published_date": "2025-04-17T19:40:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "Politics and Government",
+            "Defense and Military Forces",
+            "International Relations",
+            "Mines and Mining",
+            "Foreign Aid",
+            "Rare Earths"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr",
+            "Bessent, Scott",
+            "Yulia Svyrydenko"
+        ],
+        "geo_facet": [
+            "Russia",
+            "Ukraine",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-ukraine-deal-gpbv/17int-ukraine-deal-gpbv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mining ilmenite in the central region of Kirovohrad, Ukraine, earlier this year. President Trump has said he expects the United States to reap $500 billion from Ukraine’s natural resources in the deal and win access to deposits of rare earth metals. ",
+                "copyright": "Efrem Lukatsky/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-ukraine-deal-gpbv/17int-ukraine-deal-gpbv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mining ilmenite in the central region of Kirovohrad, Ukraine, earlier this year. President Trump has said he expects the United States to reap $500 billion from Ukraine’s natural resources in the deal and win access to deposits of rare earth metals. ",
+                "copyright": "Efrem Lukatsky/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17int-ukraine-deal-gpbv/17int-ukraine-deal-gpbv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mining ilmenite in the central region of Kirovohrad, Ukraine, earlier this year. President Trump has said he expects the United States to reap $500 billion from Ukraine’s natural resources in the deal and win access to deposits of rare earth metals. ",
+                "copyright": "Efrem Lukatsky/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Costa Rica Violated Rights of 81 Migrant Children Deported by U.S., Lawsuit Says",
+        "abstract": "A legal challenge filed Thursday aims to encourage Central American countries to push back against the Trump administration’s immigration policies.",
+        "url": "https://www.nytimes.com/2025/04/17/world/americas/costa-rica-migrants-lawsuit.html",
+        "uri": "nyt://article/8e2716cb-7167-5db3-b361-c8c5c6696d30",
+        "byline": "By Emiliano Rodríguez Mega and James Wagner",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T21:21:18-04:00",
+        "created_date": "2025-04-17T19:11:01-04:00",
+        "published_date": "2025-04-17T19:11:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Suits and Litigation (Civil)",
+            "Asylum, Right of",
+            "Immigration and Emigration",
+            "Refugees and Displaced Persons",
+            "Human Rights and Human Rights Violations",
+            "International Relations"
+        ],
+        "org_facet": [
+            "United Nations"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Costa Rica"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/world/17int-costa-rica-lawsuit/17int-costa-rica-lawsuit-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An image provided by an attorney representing Iranian deportees held at a detention center in Costa Rica. Some deported migrants sleep outdoors at the facility.",
+                "copyright": "Ali Herschi"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/world/17int-costa-rica-lawsuit/17int-costa-rica-lawsuit-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An image provided by an attorney representing Iranian deportees held at a detention center in Costa Rica. Some deported migrants sleep outdoors at the facility.",
+                "copyright": "Ali Herschi"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/world/17int-costa-rica-lawsuit/17int-costa-rica-lawsuit-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An image provided by an attorney representing Iranian deportees held at a detention center in Costa Rica. Some deported migrants sleep outdoors at the facility.",
+                "copyright": "Ali Herschi"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Maryland Senator Meets With Wrongly Deported Man in El Salvador",
+        "abstract": "Earlier in the day, armed military officials stopped Senator Chris Van Hollen from trying to visit the prison where Kilmar Armando Abrego Garcia has been held for over a month.",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/senator-chris-van-hollen-el-salvador-prison.html",
+        "uri": "nyt://article/b5d8e4b4-3f8b-5643-91e6-a8fce79a6d12",
+        "byline": "By Robert Jimison",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T21:26:37-04:00",
+        "created_date": "2025-04-17T16:46:01-04:00",
+        "published_date": "2025-04-17T16:46:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Illegal Immigration",
+            "Deportation",
+            "United States International Relations",
+            "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Van Hollen, Christopher Jr",
+            "Abrego Garcia, Kilmar Armando",
+            "Trump, Donald J",
+            "Bukele, Nayib"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-vanhollen1-lfjk/17dc-vanhollen1-lfjk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen, with his hands on his waist, was stopped at a military checkpoint about a mile away from the prison in El Salvador where Kilmar Armando Abrego Garcia is being detained.",
+                "copyright": "Daniele Volpe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-vanhollen1-lfjk/17dc-vanhollen1-lfjk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen, with his hands on his waist, was stopped at a military checkpoint about a mile away from the prison in El Salvador where Kilmar Armando Abrego Garcia is being detained.",
+                "copyright": "Daniele Volpe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-vanhollen1-lfjk/17dc-vanhollen1-lfjk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen, with his hands on his waist, was stopped at a military checkpoint about a mile away from the prison in El Salvador where Kilmar Armando Abrego Garcia is being detained.",
+                "copyright": "Daniele Volpe for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Welcomes a European Leader He Likes: Meloni of Italy",
+        "abstract": "Giorgia Meloni visited the White House representing Italy and the rest of Europe, which are seeking more lasting tariff relief.",
+        "url": "https://www.nytimes.com/2025/04/17/us/politics/meloni-trump-tariffs.html",
+        "uri": "nyt://article/358c6751-6bc9-5780-92d6-70d7bffc32de",
+        "byline": "By David E. Sanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-17T20:59:07-04:00",
+        "created_date": "2025-04-17T12:47:26-04:00",
+        "published_date": "2025-04-17T12:47:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "United States International Relations",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "European Union",
+            "European Commission"
+        ],
+        "per_facet": [
+            "Meloni, Giorgia (1977- )",
+            "Trump, Donald J",
+            "von der Leyen, Ursula"
+        ],
+        "geo_facet": [
+            "United States",
+            "Italy"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-prexy-top-bqmj/17dc-prexy-top-bqmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump heaped praise on Prime Minister Giorgia Meloni of Italy during her visit to the White House on Thursday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-prexy-top-bqmj/17dc-prexy-top-bqmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump heaped praise on Prime Minister Giorgia Meloni of Italy during her visit to the White House on Thursday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17dc-prexy-top-bqmj/17dc-prexy-top-bqmj-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump heaped praise on Prime Minister Giorgia Meloni of Italy during her visit to the White House on Thursday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
