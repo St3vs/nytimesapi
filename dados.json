@@ -32308,5 +32308,208 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "U.S. Adds Fees for Chinese Ships in Effort to Boost Shipbuilding",
+        "abstract": "The new fees are aimed at countering China’s dominance of the shipbuilding industry, but critics say they will simply raise prices for American consumers.",
+        "url": "https://www.nytimes.com/2025/04/18/business/trump-chinese-ships-fees.html",
+        "uri": "nyt://article/c5b2c9c9-38a7-5cc8-94f9-dbfc53a69ce0",
+        "byline": "By Peter Eavis and Ana Swanson",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T18:02:54-04:00",
+        "created_date": "2025-04-18T18:02:54-04:00",
+        "published_date": "2025-04-18T18:02:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "International Trade and World Market",
+            "Ships and Shipping",
+            "Protectionism (Trade)",
+            "Ports"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-shipbuilding-jgvp/18dc-shipbuilding-jgvp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Welders working at a shipyard in Brownsville, Texas. President Trump introduced new measures on Thursday that proponents say will encourage domestic shipbuilding.",
+                "copyright": "Gabriel V. Cárdenas for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-shipbuilding-jgvp/18dc-shipbuilding-jgvp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Welders working at a shipyard in Brownsville, Texas. President Trump introduced new measures on Thursday that proponents say will encourage domestic shipbuilding.",
+                "copyright": "Gabriel V. Cárdenas for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-shipbuilding-jgvp/18dc-shipbuilding-jgvp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Welders working at a shipyard in Brownsville, Texas. President Trump introduced new measures on Thursday that proponents say will encourage domestic shipbuilding.",
+                "copyright": "Gabriel V. Cárdenas for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Administration Bolsters Putin With Hint of Abandoning Ukraine Talks",
+        "abstract": "President Trump and Secretary of State Marco Rubio both suggested Friday that the United States might wash its hands of the peace effort.",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/trump-rubio-putin-ukraine.html",
+        "uri": "nyt://article/0fcce761-26e1-5e08-ae62-3f05b0991f85",
+        "byline": "By David E. Sanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T17:48:29-04:00",
+        "created_date": "2025-04-18T17:44:47-04:00",
+        "published_date": "2025-04-18T17:44:47-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Peace Process",
+            "United States Politics and Government",
+            "International Relations",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Rubio, Marco",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-PREXY-jtpv/18dc-PREXY-jtpv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio said the United States would abandon efforts to end the war in Ukraine if meaningful progress is not made within days.",
+                "copyright": "Pool photo by Julien De Rosa"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-PREXY-jtpv/18dc-PREXY-jtpv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio said the United States would abandon efforts to end the war in Ukraine if meaningful progress is not made within days.",
+                "copyright": "Pool photo by Julien De Rosa"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-PREXY-jtpv/18dc-PREXY-jtpv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio said the United States would abandon efforts to end the war in Ukraine if meaningful progress is not made within days.",
+                "copyright": "Pool photo by Julien De Rosa"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Inside the ‘Tropical Gulag’ in El Salvador Where U.S. Detainees Are Being Held",
+        "abstract": "A U.S. senator was denied entry to a prison holding Kilmar Armando Abrego Garcia and other deportees. The authorities arranged a meeting at a hotel instead. Here’s what to know.",
+        "url": "https://www.nytimes.com/2025/04/18/world/americas/bukele-abrego-garcia-elsalvador-prison.html",
+        "uri": "nyt://article/f488bcad-b062-580c-a98d-884980567476",
+        "byline": "By Annie Correal",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T18:12:18-04:00",
+        "created_date": "2025-04-18T17:35:26-04:00",
+        "published_date": "2025-04-18T17:35:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Human Rights and Human Rights Violations",
+            "United States International Relations",
+            "Politics and Government",
+            "Prisons and Prisoners",
+            "Presidential Power (US)",
+            "Deportation",
+            "Gangs"
+        ],
+        "org_facet": [
+            "Mara Salvatrucha (MS-13)",
+            "18th Street Gang",
+            "Barrio 18",
+            "Homeland Security Department",
+            "Tren de Aragua (Gang)"
+        ],
+        "per_facet": [
+            "Bukele, Nayib",
+            "Abrego Garcia, Kilmar Armando",
+            "Trump, Donald J",
+            "Van Hollen, Christopher Jr"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-elsalvador-prison-jtfl/18int-elsalvador-prison-jtfl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen, center right, and Chris Newman, a family lawyer for Kilmar Armando Abrego Garcia, speaking to a member of the military in El Salvador after being prevented from visiting the prison where Mr. Abrego Garcia was being held on Thursday.",
+                "copyright": "Daniele Volpe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-elsalvador-prison-jtfl/18int-elsalvador-prison-jtfl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen, center right, and Chris Newman, a family lawyer for Kilmar Armando Abrego Garcia, speaking to a member of the military in El Salvador after being prevented from visiting the prison where Mr. Abrego Garcia was being held on Thursday.",
+                "copyright": "Daniele Volpe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-elsalvador-prison-jtfl/18int-elsalvador-prison-jtfl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen, center right, and Chris Newman, a family lawyer for Kilmar Armando Abrego Garcia, speaking to a member of the military in El Salvador after being prevented from visiting the prison where Mr. Abrego Garcia was being held on Thursday.",
+                "copyright": "Daniele Volpe for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
