@@ -31409,5 +31409,145 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Choking, Shaking, Foaming at the Mouth: Syrians Recount Gas Attack",
+        "abstract": "Syria’s ousted dictator, Bashar al-Assad, unleashed a Sarin gas strike on the suburbs of Damascus in 2013, killing at least 1,500. Now, the survivors want justice.",
+        "url": "https://www.nytimes.com/2025/04/18/world/middleeast/choking-shaking-foaming-at-the-mouth-syrians-recount-gas-attack.html",
+        "uri": "nyt://article/9cace4d0-e374-59c4-bd63-bc3dab0f0bec",
+        "byline": "By Carlotta Gall, Saad Alnassife and Kiana Hayeri",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T05:01:20-04:00",
+        "created_date": "2025-04-18T05:01:20-04:00",
+        "published_date": "2025-04-18T05:01:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Civilian Casualties",
+            "War and Armed Conflicts",
+            "Deaths (Fatalities)",
+            "Politics and Government",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Defense and Military Forces",
+            "Defectors (Political)",
+            "Biological and Chemical Warfare"
+        ],
+        "org_facet": [
+            "Syrian Army"
+        ],
+        "per_facet": [
+            "Assad, Bashar al-",
+            "Obama, Barack"
+        ],
+        "geo_facet": [
+            "Damascus (Syria)",
+            "Ghouta (Syria)",
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-syria-chemical-attack-promo/00int-syria-chemical-attack-02-zgvm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The basement of an underground medical center in Eastern Ghouta, Syria, where victims of a chemical attack were taken in 2013.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-syria-chemical-attack-promo/00int-syria-chemical-attack-02-zgvm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The basement of an underground medical center in Eastern Ghouta, Syria, where victims of a chemical attack were taken in 2013.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-syria-chemical-attack-promo/00int-syria-chemical-attack-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The basement of an underground medical center in Eastern Ghouta, Syria, where victims of a chemical attack were taken in 2013.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Rubio Says U.S. to Decide in Days if End to Ukraine War Is ‘Doable’",
+        "abstract": "“If it is not possible to end the war in Ukraine, we need to move on,” the American secretary of state said as he departed meetings in Paris.",
+        "url": "https://www.nytimes.com/2025/04/18/world/europe/rubio-ukraine-russia-war-paris.html",
+        "uri": "nyt://article/a7d2dc6c-7c30-502a-bde3-a97395649f34",
+        "byline": "By Roger Cohen",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T05:18:57-04:00",
+        "created_date": "2025-04-18T04:33:11-04:00",
+        "published_date": "2025-04-18T04:33:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "United States Politics and Government",
+            "Politics and Government",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Macron, Emmanuel (1977- )",
+            "Putin, Vladimir V",
+            "Rubio, Marco",
+            "Witkoff, Steven",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "France",
+            "Paris (France)",
+            "Europe",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-rubio-ukraine-fzwj/18int-rubio-ukraine-fzwj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "High-level talks on Thursday in Paris between American, European and Ukrainian officials.",
+                "copyright": "Pool photo by Ludovic Marin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-rubio-ukraine-fzwj/18int-rubio-ukraine-fzwj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "High-level talks on Thursday in Paris between American, European and Ukrainian officials.",
+                "copyright": "Pool photo by Ludovic Marin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-rubio-ukraine-fzwj/18int-rubio-ukraine-fzwj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "High-level talks on Thursday in Paris between American, European and Ukrainian officials.",
+                "copyright": "Pool photo by Ludovic Marin"
+            }
+        ],
+        "short_url": ""
     }
 ]
