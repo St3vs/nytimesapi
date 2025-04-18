@@ -32247,5 +32247,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Maryland Deportee Told Senator He Had Been in Isolation in El Salvador Prison",
+        "abstract": "Senator Chris Van Hollen said Kilmar Abrego Garcia, an immigrant who was deported and incarcerated in El Salvador, reported having been transferred after weeks in a notorious maximum security prison.",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/abrego-garcia-chris-van-hollen-el-salvador.html",
+        "uri": "nyt://article/6ab6401f-d0d6-5baf-ad58-2f4a655ac014",
+        "byline": "By Robert Jimison",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T16:47:27-04:00",
+        "created_date": "2025-04-18T16:33:32-04:00",
+        "published_date": "2025-04-18T16:33:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "Illegal Immigration",
+            "Prisons and Prisoners"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Van Hollen, Christopher Jr",
+            "Bukele, Nayib",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-vanhollen-placeholder/18dc-vanhollen-placeholder-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen speaking to reporters in El Salvador yesterday.",
+                "copyright": "Daniele Volpe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-vanhollen-placeholder/18dc-vanhollen-placeholder-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen speaking to reporters in El Salvador yesterday.",
+                "copyright": "Daniele Volpe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18dc-vanhollen-placeholder/18dc-vanhollen-placeholder-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Senator Chris Van Hollen speaking to reporters in El Salvador yesterday.",
+                "copyright": "Daniele Volpe for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
