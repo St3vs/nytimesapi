@@ -31935,5 +31935,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Battling ‘Eat and Flee’ Tourists, Venice Brings Its Entrance Fee Back",
+        "abstract": "A measure to limit day tourism on peak days began for the second year on Friday, charging day trippers five euros (or 10 for the spontaneous traveler).",
+        "url": "https://www.nytimes.com/2025/04/18/world/europe/venice-entrance-fee-tourists.html",
+        "uri": "nyt://article/4c34d430-e4be-5e5c-be43-05f40cd27851",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T10:49:45-04:00",
+        "created_date": "2025-04-18T10:41:25-04:00",
+        "published_date": "2025-04-18T10:41:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Travel and Vacations",
+            "Prices (Fares, Fees and Rates)"
+        ],
+        "org_facet": [
+            "United Nations"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Venice (Italy)",
+            "Italy"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-venice-fee-zwhk/18int-venice-fee-zwhk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tourists at the Rialto Bridge in Venice. The city has recently banned cruise ships from its lagoon and taken other measures to counteract crowding. ",
+                "copyright": "Laetitia Vancon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-venice-fee-zwhk/18int-venice-fee-zwhk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tourists at the Rialto Bridge in Venice. The city has recently banned cruise ships from its lagoon and taken other measures to counteract crowding. ",
+                "copyright": "Laetitia Vancon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-venice-fee-zwhk/18int-venice-fee-zwhk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tourists at the Rialto Bridge in Venice. The city has recently banned cruise ships from its lagoon and taken other measures to counteract crowding. ",
+                "copyright": "Laetitia Vancon for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
