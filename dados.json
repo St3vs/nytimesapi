@@ -32511,5 +32511,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "A Fireball Near Mexico City Lit Up the Sky and the Internet",
+        "abstract": "The glowing object was a bolide, fireballs that explode in a bright flash, according to experts. It streaked across Mexico’s predawn skies on Wednesday.",
+        "url": "https://www.nytimes.com/2025/04/18/science/mexico-city-bolide-meteor.html",
+        "uri": "nyt://article/c6a5ecd9-a5e2-5278-9ec9-e872806fcd48",
+        "byline": "By Aimee Ortiz",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T18:52:01-04:00",
+        "created_date": "2025-04-18T18:37:01-04:00",
+        "published_date": "2025-04-18T18:37:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Meteors and Meteorites",
+            "Space and Astronomy",
+            "Video Recordings, Downloads and Streaming"
+        ],
+        "org_facet": [
+            "Meteoritical Society"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Mexico",
+            "Mexico City (Mexico)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/science/space/mexico-meteor-2025/mexico-meteor-2025-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1620,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Webcams de Mexico, Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/science/space/mexico-meteor-2025/mexico-meteor-2025-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Webcams de Mexico, Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/science/space/mexico-meteor-2025/mexico-meteor-2025-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Webcams de Mexico, Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
