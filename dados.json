@@ -31549,5 +31549,199 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Rubio Says U.S. to Decide in Days if End to War in Ukraine Is ‘Doable’",
+        "abstract": "“If it is not possible to end the war in Ukraine, we need to move on,” Secretary of State Marco Rubio said as he departed meetings in Paris.",
+        "url": "https://www.nytimes.com/2025/04/18/world/europe/rubio-ukraine-russia-war-paris.html",
+        "uri": "nyt://article/a7d2dc6c-7c30-502a-bde3-a97395649f34",
+        "byline": "By Roger Cohen",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T06:13:48-04:00",
+        "created_date": "2025-04-18T04:33:11-04:00",
+        "published_date": "2025-04-18T04:33:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "United States Politics and Government",
+            "Politics and Government",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Macron, Emmanuel (1977- )",
+            "Putin, Vladimir V",
+            "Rubio, Marco",
+            "Witkoff, Steven",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "France",
+            "Paris (France)",
+            "Europe",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-rubio-ukraine-fzwj/18int-rubio-ukraine-fzwj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "High-level talks on Thursday in Paris between American, European and Ukrainian officials.",
+                "copyright": "Pool photo by Ludovic Marin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-rubio-ukraine-fzwj/18int-rubio-ukraine-fzwj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "High-level talks on Thursday in Paris between American, European and Ukrainian officials.",
+                "copyright": "Pool photo by Ludovic Marin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-rubio-ukraine-fzwj/18int-rubio-ukraine-fzwj-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "High-level talks on Thursday in Paris between American, European and Ukrainian officials.",
+                "copyright": "Pool photo by Ludovic Marin"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "G.O.P. Lawmakers Visit Syria to Assess Situation Under New Government",
+        "abstract": "The two Republican congressmen were expected to meet with the country’s new leadership and visit areas destroyed during the long civil war.",
+        "url": "https://www.nytimes.com/2025/04/18/world/middleeast/gop-congressmen-visit-syria.html",
+        "uri": "nyt://article/8960e25c-4084-5c71-8c4c-21249d33a179",
+        "byline": "By Carlotta Gall",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T06:12:06-04:00",
+        "created_date": "2025-04-18T06:12:06-04:00",
+        "published_date": "2025-04-18T06:12:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "War and Armed Conflicts",
+            "Religion-State Relations"
+        ],
+        "org_facet": [
+            "Republican Party"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+            "Mills, Cory (1980- )",
+            "Stutzman, Marlin A"
+        ],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-syria-us-HFO-01-gfkb/18int-syria-us-HFO-01-gfkb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1353,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The new leader of Syria, Ahmed al-Shara, second from right. ",
+                "copyright": "Ozan Kose/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-syria-us-HFO-01-gfkb/18int-syria-us-HFO-01-gfkb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The new leader of Syria, Ahmed al-Shara, second from right. ",
+                "copyright": "Ozan Kose/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-syria-us-HFO-01-gfkb/18int-syria-us-HFO-01-gfkb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The new leader of Syria, Ahmed al-Shara, second from right. ",
+                "copyright": "Ozan Kose/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "‘Psychological Torture’: London Bans Busking in a Famed Tourist Hub",
+        "abstract": "Noise complaints led the authorities to halt street performances in Leicester Square. Some miss the music. Others found the noise “bloody annoying.”",
+        "url": "https://www.nytimes.com/2025/04/18/world/europe/london-busking-street-performers-leicester-square-ban.html",
+        "uri": "nyt://article/7510f515-39d7-59ea-a38e-129d58871be0",
+        "byline": "By Jonathan Wolfe",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T06:08:39-04:00",
+        "created_date": "2025-04-18T06:01:52-04:00",
+        "published_date": "2025-04-18T06:01:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Street Performers",
+            "City Councils",
+            "Noise"
+        ],
+        "org_facet": [
+            "Covent Garden"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Westminster (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17london-busking-htmq/17london-busking-htmq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Street performers have been a fixture in Leicester Square for generations, but they were barred from the tourist hub this week.",
+                "copyright": "Henry Nicholls/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17london-busking-htmq/17london-busking-htmq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Street performers have been a fixture in Leicester Square for generations, but they were barred from the tourist hub this week.",
+                "copyright": "Henry Nicholls/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/17/multimedia/17london-busking-htmq/17london-busking-htmq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Street performers have been a fixture in Leicester Square for generations, but they were barred from the tourist hub this week.",
+                "copyright": "Henry Nicholls/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
