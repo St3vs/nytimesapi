@@ -31285,5 +31285,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "U.S. Arrests Man Wanted in India for Grenade Attack",
+        "abstract": "Indian authorities said that Harpreet Singh, who was arrested on Thursday, was linked to a Sikh separatist movement and to an attack on a retired police officer.",
+        "url": "https://www.nytimes.com/2025/04/18/world/asia/us-india-fbi-arrest.html",
+        "uri": "nyt://article/f5aecb0a-0017-533c-8275-2f52aec5b8db",
+        "byline": "By John Yoon and Alex Travelli",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T01:43:38-04:00",
+        "created_date": "2025-04-18T01:42:09-04:00",
+        "published_date": "2025-04-18T01:42:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "Fugitives"
+        ],
+        "org_facet": [
+            "Federal Bureau of Investigation"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Punjab (India)",
+            "Punjab (Pakistan)",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18xp-india/18xp-india-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1500,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security guards outside the headquarters of the National Investigation Agency in New Delhi this month.",
+                "copyright": "Shrikant Singh/ANI Photo, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18xp-india/18xp-india-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security guards outside the headquarters of the National Investigation Agency in New Delhi this month.",
+                "copyright": "Shrikant Singh/ANI Photo, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18xp-india/18xp-india-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security guards outside the headquarters of the National Investigation Agency in New Delhi this month.",
+                "copyright": "Shrikant Singh/ANI Photo, via Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
