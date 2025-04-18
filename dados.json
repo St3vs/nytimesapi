@@ -31219,5 +31219,71 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "5 Takeaways From Canada’s Election Debate",
+        "abstract": "Prime Minister Mark Carney was repeatedly the target of his opponents. President Trump’s threats on Canada loomed over the debate.",
+        "url": "https://www.nytimes.com/2025/04/18/world/canada/election-debate-takeaways.html",
+        "uri": "nyt://article/63a5a41f-6af0-5798-a798-eadf5c6ed000",
+        "byline": "By Ian Austen",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T00:24:57-04:00",
+        "created_date": "2025-04-18T00:16:34-04:00",
+        "published_date": "2025-04-18T00:16:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "Debates (Political)"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "Green Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Poilievre, Pierre",
+            "Blanchet, Yves-Francois",
+            "Trudeau, Justin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/17/multimedia/17int-canada-debate-takeaways-thpq/17int-canada-debate-takeaways-thpq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1337,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Canada’s political leaders at the election debate in Montreal on Thursday.",
+                "copyright": "Pool photo by Adrian Wyld"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/17/multimedia/17int-canada-debate-takeaways-thpq/17int-canada-debate-takeaways-thpq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Canada’s political leaders at the election debate in Montreal on Thursday.",
+                "copyright": "Pool photo by Adrian Wyld"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/17/multimedia/17int-canada-debate-takeaways-thpq/17int-canada-debate-takeaways-thpq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Canada’s political leaders at the election debate in Montreal on Thursday.",
+                "copyright": "Pool photo by Adrian Wyld"
+            }
+        ],
+        "short_url": ""
     }
 ]
