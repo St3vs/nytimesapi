@@ -31995,5 +31995,71 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A Shadow Hanging Over Europe: ‘A Taste of Italy’ From New Jersey",
+        "abstract": "Italian food producers worry that tariffs may price them out of the American market amid competition from U.S. goods that look and sound as if they are from Italy.",
+        "url": "https://www.nytimes.com/2025/04/18/world/europe/trump-tariffs-italy-cheese.html",
+        "uri": "nyt://article/07e627a2-dc31-5471-8029-24e67bea45e2",
+        "byline": "By Emma Bubola and Matteo de Mayda",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T12:05:41-04:00",
+        "created_date": "2025-04-18T11:40:58-04:00",
+        "published_date": "2025-04-18T11:40:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Cheese",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Prices (Fares, Fees and Rates)",
+            "Italian Food (Cuisine)",
+            "Shopping and Retail"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Meloni, Giorgia (1977- )",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Italy",
+            "Sardinia (Italy)",
+            "Wisconsin"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-italy-tariff-fears-PROMO/00int-italy-tariff-fears-mzpl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Grana Padano wheels aging inside the warehouse of Caseificio Zanetti. in Lallio, Italy, on Monday.",
+                "copyright": "Matteo de Mayda for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-italy-tariff-fears-PROMO/00int-italy-tariff-fears-mzpl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Grana Padano wheels aging inside the warehouse of Caseificio Zanetti. in Lallio, Italy, on Monday.",
+                "copyright": "Matteo de Mayda for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-italy-tariff-fears-PROMO/00int-italy-tariff-fears-mzpl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Grana Padano wheels aging inside the warehouse of Caseificio Zanetti. in Lallio, Italy, on Monday.",
+                "copyright": "Matteo de Mayda for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
