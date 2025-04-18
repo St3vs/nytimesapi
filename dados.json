@@ -31743,5 +31743,197 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "G.O.P. Lawmakers in Syria Say They See Opportunity to Help Rebuild the Nation",
+        "abstract": "Two Republican congressmen were expected to meet the country’s new leaders and to visit areas destroyed during the long civil war.",
+        "url": "https://www.nytimes.com/2025/04/18/world/middleeast/gop-congressmen-visit-syria.html",
+        "uri": "nyt://article/8960e25c-4084-5c71-8c4c-21249d33a179",
+        "byline": "By Carlotta Gall",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T07:58:12-04:00",
+        "created_date": "2025-04-18T06:12:07-04:00",
+        "published_date": "2025-04-18T06:12:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "War and Armed Conflicts",
+            "Religion-State Relations"
+        ],
+        "org_facet": [
+            "Republican Party"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+            "Mills, Cory (1980- )",
+            "Stutzman, Marlin A"
+        ],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-syria-us-01-mbpq/18int-syria-us-01-mbpq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Cory Mills arriving at a hotel in Damascus, Syria, on Friday.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-syria-us-01-mbpq/18int-syria-us-01-mbpq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Cory Mills arriving at a hotel in Damascus, Syria, on Friday.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-syria-us-01-mbpq/18int-syria-us-01-mbpq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Representative Cory Mills arriving at a hotel in Damascus, Syria, on Friday.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "U.S. Strikes on Yemeni Port Kill Dozens, Houthis Say",
+        "abstract": "President Trump has vowed the Iran-backed Houthi militia will be “completely annihilated.” But forceful American strikes do not seem to have deterred the Yemeni fighters.",
+        "url": "https://www.nytimes.com/2025/04/18/world/middleeast/us-yemen-houthis.html",
+        "uri": "nyt://article/e3962ee4-7ccc-5c12-8505-7de4719d5855",
+        "byline": "By Aaron Boxerman and Vivian Nereim",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T08:10:11-04:00",
+        "created_date": "2025-04-18T08:07:37-04:00",
+        "published_date": "2025-04-18T08:07:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Israel-Gaza War (2023- )",
+            "Missiles and Missile Defense Systems",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [
+            "Houthis"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Al Hudaydah (Yemen)",
+            "United States",
+            "Israel",
+            "Yemen"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-yemen-strike-cfbv/18int-yemen-strike-cfbv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a video released on Friday by the Houthi-run Al-Masirah channel showing fire and destruction at the site of American strikes on the port of Ras Isa in Yemen.",
+                "copyright": "Al-Masirah TV, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-yemen-strike-cfbv/18int-yemen-strike-cfbv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a video released on Friday by the Houthi-run Al-Masirah channel showing fire and destruction at the site of American strikes on the port of Ras Isa in Yemen.",
+                "copyright": "Al-Masirah TV, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-yemen-strike-cfbv/18int-yemen-strike-cfbv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a video released on Friday by the Houthi-run Al-Masirah channel showing fire and destruction at the site of American strikes on the port of Ras Isa in Yemen.",
+                "copyright": "Al-Masirah TV, via Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Meloni and Trump: Oval Office Meeting Cements Special Rapport",
+        "abstract": "In Washington, President Trump inundated Prime Minister Giorgia Meloni of Italy with praise. She said he had accepted an invitation to go to Rome.",
+        "url": "https://www.nytimes.com/2025/04/18/world/europe/meloni-trump-tariffs-italy.html",
+        "uri": "nyt://article/de503b07-e159-52af-8d2d-75c0eae3cc69",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T08:33:31-04:00",
+        "created_date": "2025-04-18T07:47:00-04:00",
+        "published_date": "2025-04-18T07:47:00-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "European Union"
+        ],
+        "per_facet": [
+            "Meloni, Giorgia (1977- )",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Italy",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-meloni-assess-wqlv/18int-meloni-assess-wqlv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Prime Minister Giorgia Meloni of Italy at the White House on Thursday. The meeting was largely a smooth affair.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-meloni-assess-wqlv/18int-meloni-assess-wqlv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Prime Minister Giorgia Meloni of Italy at the White House on Thursday. The meeting was largely a smooth affair.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-meloni-assess-wqlv/18int-meloni-assess-wqlv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Prime Minister Giorgia Meloni of Italy at the White House on Thursday. The meeting was largely a smooth affair.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
