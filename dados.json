@@ -32061,5 +32061,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump’s Trade War Puts Bromance With Xi Beyond Reach",
+        "abstract": "President Trump says he wants Xi Jinping, China’s leader, to call him to talk tariffs. Mr. Xi is ghosting Mr. Trump, and markets are plummeting.",
+        "url": "https://www.nytimes.com/2025/04/18/us/politics/china-trump-trade-war.html",
+        "uri": "nyt://article/78739b53-97f0-57f1-a83b-b4f282e518d1",
+        "byline": "By Edward Wong",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T12:52:11-04:00",
+        "created_date": "2025-04-18T12:52:11-04:00",
+        "published_date": "2025-04-18T12:52:11-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States International Relations",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Xi Jinping",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18DC-CHINA-DIPLO-gwhj/18DC-CHINA-DIPLO-gwhj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Donald Trump with President Xi Jinping of China at the G20 Summit in Japan in 2019. “He’s been a friend of mine for a long period of time,” Mr. Trump said of Mr. Xi last week.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18DC-CHINA-DIPLO-gwhj/18DC-CHINA-DIPLO-gwhj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Donald Trump with President Xi Jinping of China at the G20 Summit in Japan in 2019. “He’s been a friend of mine for a long period of time,” Mr. Trump said of Mr. Xi last week.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18DC-CHINA-DIPLO-gwhj/18DC-CHINA-DIPLO-gwhj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Donald Trump with President Xi Jinping of China at the G20 Summit in Japan in 2019. “He’s been a friend of mine for a long period of time,” Mr. Trump said of Mr. Xi last week.",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
