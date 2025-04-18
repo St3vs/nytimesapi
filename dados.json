@@ -31347,5 +31347,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "How Does a Nation Charm China? Name a Boulevard After Xi Jinping.",
+        "abstract": "China is the biggest foreign patron of Cambodia, where Mr. Xi concluded a tour of Southeast Asia. But the region also needs to curry favor with President Trump.",
+        "url": "https://www.nytimes.com/2025/04/18/world/asia/china-xi-trump-cambodia.html",
+        "uri": "nyt://article/11cebeb3-3124-5e13-a200-26dc7aa33ea9",
+        "byline": "By Hannah Beech and Sun Narin",
+        "item_type": "Article",
+        "updated_date": "2025-04-18T03:33:35-04:00",
+        "created_date": "2025-04-18T03:32:39-04:00",
+        "published_date": "2025-04-18T03:32:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Foreign Investments"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China",
+            "Cambodia",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-cambodia-xi-01-cljk/18int-cambodia-xi-01-cljk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Xi Jinping, China’s top leader, and King Norodom Sihamoni of Cambodia walking past the honor guards upon arrival at Phnom Penh International Airport on Thursday. ",
+                "copyright": "Agence Kampuchea Presse, via Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-cambodia-xi-01-cljk/18int-cambodia-xi-01-cljk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Xi Jinping, China’s top leader, and King Norodom Sihamoni of Cambodia walking past the honor guards upon arrival at Phnom Penh International Airport on Thursday. ",
+                "copyright": "Agence Kampuchea Presse, via Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/18/multimedia/18int-cambodia-xi-01-cljk/18int-cambodia-xi-01-cljk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Xi Jinping, China’s top leader, and King Norodom Sihamoni of Cambodia walking past the honor guards upon arrival at Phnom Penh International Airport on Thursday. ",
+                "copyright": "Agence Kampuchea Presse, via Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
