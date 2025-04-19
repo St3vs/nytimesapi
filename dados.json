@@ -33085,5 +33085,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israeli Attacks Kill Dozens in Gaza, Health Ministry Says",
+        "abstract": "Israel was keeping up its intense bombing campaign in the enclave, which has exacted a heavy price on civilians struggling to find safe places to shelter.",
+        "url": "https://www.nytimes.com/2025/04/19/world/middleeast/israel-gaza-strikes-death-toll.html",
+        "uri": "nyt://article/66616e9a-4b63-57f3-868b-e9116e4a03c5",
+        "byline": "By Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T07:59:21-04:00",
+        "created_date": "2025-04-19T07:59:21-04:00",
+        "published_date": "2025-04-19T07:59:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Civilian Casualties",
+            "Defense and Military Forces",
+            "Deaths (Fatalities)",
+            "Palestinians"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-gaza-casualties-kpmc/19int-gaza-casualties-kpmc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mourning at a hospital in the southern Gazan city of Khan Younis on Saturday after more Palestinians were killed in Israeli attacks.",
+                "copyright": "Hatem Khaled/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-gaza-casualties-kpmc/19int-gaza-casualties-kpmc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mourning at a hospital in the southern Gazan city of Khan Younis on Saturday after more Palestinians were killed in Israeli attacks.",
+                "copyright": "Hatem Khaled/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-gaza-casualties-kpmc/19int-gaza-casualties-kpmc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mourning at a hospital in the southern Gazan city of Khan Younis on Saturday after more Palestinians were killed in Israeli attacks.",
+                "copyright": "Hatem Khaled/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
