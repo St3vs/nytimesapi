@@ -33398,5 +33398,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Who Will Be Canada’s Next Prime Minister?",
+        "abstract": "The April 28 election will come down to two candidates with starkly different personalities and experience: Mark Carney and Pierre Poilievre.",
+        "url": "https://www.nytimes.com/2025/04/19/world/canada/elections-mark-carney-pierre-poilievre.html",
+        "uri": "nyt://article/73b70f90-6691-5978-8381-ae78090abe37",
+        "byline": "By Matina Stevis-Gridneff and Vjosa Isai",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T13:19:27-04:00",
+        "created_date": "2025-04-19T05:01:26-04:00",
+        "published_date": "2025-04-19T05:01:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Polls and Public Opinion",
+            "Elections"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Poilievre, Pierre",
+            "Carney, Mark J"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/world/19int-canada-elections-candidates-sub/19int-canada-elections-candidates-sub-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney, left, leads the Liberal Party of Canada, and Pierre Poilievre, right, is leader of the Conservative Party.",
+                "copyright": "Amber Bracken for The New York Times, Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/world/19int-canada-elections-candidates-sub/19int-canada-elections-candidates-sub-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney, left, leads the Liberal Party of Canada, and Pierre Poilievre, right, is leader of the Conservative Party.",
+                "copyright": "Amber Bracken for The New York Times, Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/world/19int-canada-elections-candidates-sub/19int-canada-elections-candidates-sub-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney, left, leads the Liberal Party of Canada, and Pierre Poilievre, right, is leader of the Conservative Party.",
+                "copyright": "Amber Bracken for The New York Times, Cole Burston for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
