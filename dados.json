@@ -33024,5 +33024,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Tunisia Hands Heavy Sentences to Prominent Opposition Figures",
+        "abstract": "As the North African nation continues to slide toward authoritarianism, a court sentenced about 40 people, including high-profile rivals of the president, to up to 66 years in prison.",
+        "url": "https://www.nytimes.com/2025/04/19/world/middleeast/tunisia-opposition-prison.html",
+        "uri": "nyt://article/56881f78-efa8-57f7-87ad-b8d2cb4e34d8",
+        "byline": "By Vivian Yee",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T06:38:15-04:00",
+        "created_date": "2025-04-19T06:38:15-04:00",
+        "published_date": "2025-04-19T06:38:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Human Rights and Human Rights Violations",
+            "Freedom of Speech and Expression",
+            "Decisions and Verdicts"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Saied, Kais (1958- )"
+        ],
+        "geo_facet": [
+            "Tunisia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-tunisia-prisoners-vjcg/19int-tunisia-prisoners-vjcg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Kais Saied of Tunisia has brought ever-harsher repression in the four years since his power grab.",
+                "copyright": "Fethi Belaid/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-tunisia-prisoners-vjcg/19int-tunisia-prisoners-vjcg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Kais Saied of Tunisia has brought ever-harsher repression in the four years since his power grab.",
+                "copyright": "Fethi Belaid/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-tunisia-prisoners-vjcg/19int-tunisia-prisoners-vjcg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Kais Saied of Tunisia has brought ever-harsher repression in the four years since his power grab.",
+                "copyright": "Fethi Belaid/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
