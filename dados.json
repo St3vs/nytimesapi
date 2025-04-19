@@ -33210,5 +33210,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Putin Declares One-Day Easter Truce in Ukraine War",
+        "abstract": "President Vladimir V. Putin of Russia said that from Saturday evening through Sunday, he had ordered his forces to “stop all military activity.” Ukraine’s leader said he was trying to “play with people’s lives.”",
+        "url": "https://www.nytimes.com/2025/04/19/world/europe/russia-ukraine-easter-truce.html",
+        "uri": "nyt://article/761ca1f2-0f62-56d5-b825-54ac55b21824",
+        "byline": "By Anton Troianovski",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T11:08:35-04:00",
+        "created_date": "2025-04-19T10:21:24-04:00",
+        "published_date": "2025-04-19T10:21:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19russia-ukraine-easter-jwcb/19russia-ukraine-easter-jwcb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Firing at a Russian target in the Donetsk region of eastern Ukraine, on Friday.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19russia-ukraine-easter-jwcb/19russia-ukraine-easter-jwcb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Firing at a Russian target in the Donetsk region of eastern Ukraine, on Friday.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19russia-ukraine-easter-jwcb/19russia-ukraine-easter-jwcb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Firing at a Russian target in the Donetsk region of eastern Ukraine, on Friday.",
+                "copyright": "Tyler Hicks/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
