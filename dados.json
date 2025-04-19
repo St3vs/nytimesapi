@@ -32709,5 +32709,136 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Despite His Shaky French, Canada’s Prime Minister Is a Hit in Quebec",
+        "abstract": "Voters are overlooking Mark Carney’s linguistic gaffes and lack of knowledge about the French-speaking province, viewing him as the most capable candidate to deal with President Trump.",
+        "url": "https://www.nytimes.com/2025/04/19/world/americas/canada-carney-quebec-french.html",
+        "uri": "nyt://article/78b14729-ee6c-5bf5-b7e3-dbf8ef9936ab",
+        "byline": "By Norimitsu Onishi",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T05:01:30-04:00",
+        "created_date": "2025-04-19T05:01:30-04:00",
+        "published_date": "2025-04-19T05:01:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "French Language",
+            "Politics and Government",
+            "United States International Relations",
+            "Elections",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "Bloc Quebecois",
+            "Liberal Party (Canada)",
+            "Conservative Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Blanchet, Yves-Francois",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada",
+            "Montreal (Quebec)",
+            "Quebec Province (Canada)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-quebec-campaign-kvgc/19int-quebec-campaign-kvgc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An election poster for Prime Minister Mark Carney, in Blainville, Quebec. In polls on this month’s federal election, Mr. Carney and his Liberal Party now have a huge lead in Quebec.",
+                "copyright": "Renaud Philippe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-quebec-campaign-kvgc/19int-quebec-campaign-kvgc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An election poster for Prime Minister Mark Carney, in Blainville, Quebec. In polls on this month’s federal election, Mr. Carney and his Liberal Party now have a huge lead in Quebec.",
+                "copyright": "Renaud Philippe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-quebec-campaign-kvgc/19int-quebec-campaign-kvgc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An election poster for Prime Minister Mark Carney, in Blainville, Quebec. In polls on this month’s federal election, Mr. Carney and his Liberal Party now have a huge lead in Quebec.",
+                "copyright": "Renaud Philippe for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "The Banker vs. the Politician: The Men Vying to Become Canada’s Next Prime Minister",
+        "abstract": "The April 28 election will come down to two candidates with starkly different personalities and experience: Mark Carney and Pierre Poilievre.",
+        "url": "https://www.nytimes.com/2025/04/19/world/canada/elections-mark-carney-pierre-poilievre.html",
+        "uri": "nyt://article/73b70f90-6691-5978-8381-ae78090abe37",
+        "byline": "By Matina Stevis-Gridneff and Vjosa Isai",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T05:01:25-04:00",
+        "created_date": "2025-04-19T05:01:25-04:00",
+        "published_date": "2025-04-19T05:01:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Polls and Public Opinion",
+            "Elections"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Poilievre, Pierre",
+            "Carney, Mark J"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/world/19int-canada-elections-candidates-sub/19int-canada-elections-candidates-sub-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney, left, leads the Liberal Party of Canada, and Pierre Poilievre, right, is leader of the Conservative Party.",
+                "copyright": "Amber Bracken for The New York Times, Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/world/19int-canada-elections-candidates-sub/19int-canada-elections-candidates-sub-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney, left, leads the Liberal Party of Canada, and Pierre Poilievre, right, is leader of the Conservative Party.",
+                "copyright": "Amber Bracken for The New York Times, Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/world/19int-canada-elections-candidates-sub/19int-canada-elections-candidates-sub-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney, left, leads the Liberal Party of Canada, and Pierre Poilievre, right, is leader of the Conservative Party.",
+                "copyright": "Amber Bracken for The New York Times, Cole Burston for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
