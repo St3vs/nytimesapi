@@ -32572,5 +32572,142 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Trump’s Aid Cuts Hit the Hungry in a City of Shellfire and Starvation",
+        "abstract": "The stark consequences of the rollback are evident in few places as clearly as in Sudan, where a brutal civil war has combined with a staggering humanitarian catastrophe.",
+        "url": "https://www.nytimes.com/2025/04/19/world/africa/sudan-usaid-famine.html",
+        "uri": "nyt://article/d9216d10-4032-5a8c-bb52-d68cd1b81e47",
+        "byline": "By Declan Walsh and Ivor Prickett",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T00:01:20-04:00",
+        "created_date": "2025-04-19T00:01:20-04:00",
+        "published_date": "2025-04-19T00:01:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Aid",
+            "War and Armed Conflicts",
+            "Humanitarian Aid",
+            "Famine",
+            "Soup Kitchens",
+            "Refugees and Displaced Persons",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Malnutrition",
+            "Defense and Military Forces",
+            "Federal Aid (US)",
+            "vis-photo"
+        ],
+        "org_facet": [
+            "Rapid Support Forces (Sudan)"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Khartoum (Sudan)",
+            "Sudan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00sudan-food-promo/00sudan-food-1-chwj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1537,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00sudan-food-promo/00sudan-food-1-chwj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/09/multimedia/00sudan-food-promo/00sudan-food-1-chwj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ivor Prickett for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "U.S. and Iran to Meet Again for Nuclear Talks, as Israel Watches Closely",
+        "abstract": "The Trump administration has sent mixed messages about its goal for the negotiations.",
+        "url": "https://www.nytimes.com/2025/04/19/world/middleeast/us-iran-nuclear-talks.html",
+        "uri": "nyt://article/3fe99ae3-1df2-509d-b4b9-f5cae75b0983",
+        "byline": "By Lara Jakes",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T00:01:05-04:00",
+        "created_date": "2025-04-19T00:01:05-04:00",
+        "published_date": "2025-04-19T00:01:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States Politics and Government",
+            "Embargoes and Sanctions",
+            "United States International Relations",
+            "Nuclear Weapons",
+            "Arms Control and Limitation and Disarmament"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Araghchi, Abbas",
+            "Khamenei, Ali",
+            "Trump, Donald J",
+            "Witkoff, Steven"
+        ],
+        "geo_facet": [
+            "Iran"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-iran-stakes-vzbc/19int-iran-stakes-vzbc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Iranian military on Friday during the National Army Day parade in Tehran.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-iran-stakes-vzbc/19int-iran-stakes-vzbc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Iranian military on Friday during the National Army Day parade in Tehran.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-iran-stakes-vzbc/19int-iran-stakes-vzbc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Iranian military on Friday during the National Army Day parade in Tehran.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
