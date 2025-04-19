@@ -33271,5 +33271,71 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "U.S. and Iran Conclude a Second Round of Nuclear Talks",
+        "abstract": "The Trump administration has sent mixed messages about its goal for the negotiations. Additional talks are set for next week.",
+        "url": "https://www.nytimes.com/2025/04/19/world/middleeast/us-iran-nuclear-talks.html",
+        "uri": "nyt://article/3fe99ae3-1df2-509d-b4b9-f5cae75b0983",
+        "byline": "By Lara Jakes, Farnaz Fassihi and David E. Sanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T11:55:50-04:00",
+        "created_date": "2025-04-19T00:01:06-04:00",
+        "published_date": "2025-04-19T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States Politics and Government",
+            "Embargoes and Sanctions",
+            "United States International Relations",
+            "Nuclear Weapons",
+            "Arms Control and Limitation and Disarmament"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Araghchi, Abbas",
+            "Khamenei, Ali",
+            "Trump, Donald J",
+            "Witkoff, Steven"
+        ],
+        "geo_facet": [
+            "Iran"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-iran-stakes-vzbc/19int-iran-stakes-vzbc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Iranian military on Friday during the National Army Day parade in Tehran.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-iran-stakes-vzbc/19int-iran-stakes-vzbc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Iranian military on Friday during the National Army Day parade in Tehran.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19int-iran-stakes-vzbc/19int-iran-stakes-vzbc-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Iranian military on Friday during the National Army Day parade in Tehran.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
