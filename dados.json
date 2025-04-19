@@ -33148,5 +33148,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russians Wonder: Can Trump Really Negotiate Peace in Ukraine?",
+        "abstract": "Many thought President Trump would be able to finish the war. Now they are not so sure.",
+        "url": "https://www.nytimes.com/2025/04/19/world/europe/russia-ukraine-putin-trump.html",
+        "uri": "nyt://article/beae9c60-d343-5c52-86b3-d3cf7acc0430",
+        "byline": "By Anton Troianovski",
+        "item_type": "Article",
+        "updated_date": "2025-04-19T09:00:29-04:00",
+        "created_date": "2025-04-19T08:59:18-04:00",
+        "published_date": "2025-04-19T08:59:18-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19russia-ukraine-assess-khpb/19russia-ukraine-assess-khpb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The site of a deadly Russian missile strike in Kryvyi Rih, central Ukraine, this month.",
+                "copyright": "Finbarr O'Reilly for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19russia-ukraine-assess-khpb/19russia-ukraine-assess-khpb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The site of a deadly Russian missile strike in Kryvyi Rih, central Ukraine, this month.",
+                "copyright": "Finbarr O'Reilly for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19russia-ukraine-assess-khpb/19russia-ukraine-assess-khpb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The site of a deadly Russian missile strike in Kryvyi Rih, central Ukraine, this month.",
+                "copyright": "Finbarr O'Reilly for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
