@@ -33525,5 +33525,136 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Inside a City Swept by Roving Gunmen, Deadly Grudges and Fear",
+        "abstract": "A sectarian-fueled killing spree exposed how fragile peace is in Syria, where the government’s control is limited and tension runs deep after nearly 14 years of civil war.",
+        "url": "https://www.nytimes.com/2025/04/20/world/middleeast/syria-alawite-massacre.html",
+        "uri": "nyt://article/741b43a4-cd13-5440-b016-d630ac4b1cdd",
+        "byline": "By Christina Goldbaum and David Guttenfelder",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T00:04:15-04:00",
+        "created_date": "2025-04-20T00:01:16-04:00",
+        "published_date": "2025-04-20T00:01:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Mass Shootings",
+            "Civilian Casualties",
+            "Politics and Government",
+            "Sunni Muslims"
+        ],
+        "org_facet": [
+            "Hayat Tahrir al-Sham",
+            "Syrian Observatory for Human Rights"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )"
+        ],
+        "geo_facet": [
+            "Baniyas (Syria)",
+            "Latakia (Syria)",
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/00Int-Syria-Massacre-02-kmcg-promo/00Int-Syria-Massacre-02-kmcg-promo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1203,
+                "width": 1805,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the center of Baniyas, emergency workers had turned a looted furniture store into a makeshift morgue, filled with dead bodies in body bags, in early March.",
+                "copyright": "David Guttenfelder/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/00Int-Syria-Massacre-02-kmcg-promo/00Int-Syria-Massacre-02-kmcg-promo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the center of Baniyas, emergency workers had turned a looted furniture store into a makeshift morgue, filled with dead bodies in body bags, in early March.",
+                "copyright": "David Guttenfelder/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/00Int-Syria-Massacre-02-kmcg-promo/00Int-Syria-Massacre-02-kmcg-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the center of Baniyas, emergency workers had turned a looted furniture store into a makeshift morgue, filled with dead bodies in body bags, in early March.",
+                "copyright": "David Guttenfelder/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Strawberries Aren’t Ripe for Africa? His Farms Disprove That, Deliciously.",
+        "abstract": "Thierno Agne left behind studying law to grow strawberries, a shocking move in Senegal, where farming is considered work for the old, poor and uneducated. His success is making the profession “sexy.”",
+        "url": "https://www.nytimes.com/2025/04/20/world/africa/senegal-strawberry-farmer-profile.html",
+        "uri": "nyt://article/0eeef5e1-e44d-5566-b17e-12f0e6c5ee47",
+        "byline": "By Saikou Jammeh and Carmen Abd Ali",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T00:01:14-04:00",
+        "created_date": "2025-04-20T00:01:14-04:00",
+        "published_date": "2025-04-20T00:01:14-04:00",
+        "material_type_facet": "",
+        "kicker": "The Global Profile",
+        "des_facet": [
+            "Strawberries",
+            "Agriculture and Farming",
+            "Foreign Aid",
+            "Youth",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [
+            "United States Agency for International Development"
+        ],
+        "per_facet": [
+            "Thierno Agne"
+        ],
+        "geo_facet": [
+            "Senegal"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-senegal-strawberries-profile-PROMO-mhfq/20int-senegal-strawberries-profile-PROMO-mhfq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Carmen Abd Ali for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-senegal-strawberries-profile-PROMO-mhfq/20int-senegal-strawberries-profile-PROMO-mhfq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Carmen Abd Ali for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-senegal-strawberries-profile-PROMO-mhfq/20int-senegal-strawberries-profile-PROMO-mhfq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Carmen Abd Ali for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
