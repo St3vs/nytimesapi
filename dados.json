@@ -34098,5 +34098,57 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Monday Briefing: A Broken Truce in Ukraine",
+        "abstract": "Plus, a Senegalese strawberry farmer on a mission.",
+        "url": "https://www.nytimes.com/2025/04/20/briefing/ukraine-easter-truce-syria-massacre-state-department-africa.html",
+        "uri": "nyt://article/7b96badc-5273-52cd-acba-c9be9b108aa6",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T17:00:10-04:00",
+        "created_date": "2025-04-20T17:00:10-04:00",
+        "published_date": "2025-04-20T17:00:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/21ambriefing-asia-ukraine/21ambriefing-asia-ukraine-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Ukrainian position in the Donetsk region of eastern Ukraine, on Friday.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/21ambriefing-asia-ukraine/21ambriefing-asia-ukraine-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Ukrainian position in the Donetsk region of eastern Ukraine, on Friday.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/21ambriefing-asia-ukraine/20int-ukraine-easter-01-wpbc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Ukrainian position in the Donetsk region of eastern Ukraine, on Friday.",
+                "copyright": "Tyler Hicks/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
