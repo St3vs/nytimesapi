@@ -33850,5 +33850,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Saudi Arabia Opposed Obama’s Deal With Iran. It Supports Trump’s. Why?",
+        "abstract": "The agreements are shaping up to be very similar. But Gulf support for a nuclear deal shows how much the region has changed.",
+        "url": "https://www.nytimes.com/2025/04/20/world/middleeast/gulf-saudi-support-trump-iran-nuclear-deal.html",
+        "uri": "nyt://article/45d5b07b-d1af-5599-b775-b1a68df34df1",
+        "byline": "By Vivian Nereim",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T06:44:49-04:00",
+        "created_date": "2025-04-20T06:44:49-04:00",
+        "published_date": "2025-04-20T06:44:49-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "International Relations",
+            "United States International Relations",
+            "Nuclear Weapons",
+            "War and Armed Conflicts"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Mohammed bin Salman (1985- )"
+        ],
+        "geo_facet": [
+            "Iran",
+            "Saudi Arabia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-iran-assess-mwpq/20int-iran-assess-mwpq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A daily paper in Tehran on Saturday shows headlines discussing the Iran-U.S. nuclear talks. ",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-iran-assess-mwpq/20int-iran-assess-mwpq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A daily paper in Tehran on Saturday shows headlines discussing the Iran-U.S. nuclear talks. ",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-iran-assess-mwpq/20int-iran-assess-mwpq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A daily paper in Tehran on Saturday shows headlines discussing the Iran-U.S. nuclear talks. ",
+                "copyright": "Arash Khamooshi for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
