@@ -33788,5 +33788,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "6 Killed as Giant Waves Batter Australia",
+        "abstract": "The victims fell or were swept into the ocean, according to the police, as swells pounded Sydney and other places along the country’s east coast. At least two others were missing.",
+        "url": "https://www.nytimes.com/2025/04/20/world/asia/australia-waves-queensland-sydney.html",
+        "uri": "nyt://article/c0f7d898-e505-5c1c-8e8f-a1db88eadbfa",
+        "byline": "By Yan Zhuang",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T05:37:40-04:00",
+        "created_date": "2025-04-20T05:33:34-04:00",
+        "published_date": "2025-04-20T05:33:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Fatalities)",
+            "Missing Persons"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Australia",
+            "Byron Bay (Australia)",
+            "Gold Coast (Australia)",
+            "New South Wales (Australia)",
+            "Queensland (Australia)",
+            "Sydney (Australia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19waves-kcpv/19waves-kcpv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Waves breaking at a beach in Sydney on Friday.",
+                "copyright": "David Gray/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19waves-kcpv/19waves-kcpv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Waves breaking at a beach in Sydney on Friday.",
+                "copyright": "David Gray/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/19waves-kcpv/19waves-kcpv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Waves breaking at a beach in Sydney on Friday.",
+                "copyright": "David Gray/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
