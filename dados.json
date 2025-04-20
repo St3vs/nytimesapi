@@ -34150,5 +34150,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Syria’s Easter Celebrations Pass Peacefully, in Early Test of New Government",
+        "abstract": "At least in the capital, Damascus, the Christian holiday festivities were protected and joyfully observed. Religious minorities are still wary, however, about the new leaders’ commitment to inclusivity.",
+        "url": "https://www.nytimes.com/2025/04/20/world/middleeast/syria-easter.html",
+        "uri": "nyt://article/07af8c56-bd31-5ec0-9c51-f205e036f551",
+        "byline": "By Vivian Yee and Nanna Heitmann",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T18:40:00-04:00",
+        "created_date": "2025-04-20T18:24:40-04:00",
+        "published_date": "2025-04-20T18:24:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Christians and Christianity",
+            "Easter and Holy Week",
+            "Minorities"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )"
+        ],
+        "geo_facet": [
+            "Syria",
+            "Damascus (Syria)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-syria-easter-01-PROMO-copy/20int-syria-easter-01-tcjq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1463,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Easter celebrations at the Mariamite Cathedral of Damascus, Syria, on Sunday.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-syria-easter-01-PROMO-copy/20int-syria-easter-01-tcjq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Easter celebrations at the Mariamite Cathedral of Damascus, Syria, on Sunday.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-syria-easter-01-PROMO-copy/20int-syria-easter-01-tcjq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Easter celebrations at the Mariamite Cathedral of Damascus, Syria, on Sunday.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
