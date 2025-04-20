@@ -33974,5 +33974,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Ukraine Says Russia Broke Its Own Easter Cease-Fire Vow",
+        "abstract": "President Zelensky of Ukraine said the front lines had seen artillery fire and drone attacks, and that his troops were responding. Russia accused Ukraine of breaking the cease-fire.",
+        "url": "https://www.nytimes.com/2025/04/20/world/europe/ukraine-russia-easter-truce.html",
+        "uri": "nyt://article/11716a1c-ba22-5d4c-b91f-776b6a5c15d4",
+        "byline": "By Kim Barker",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T09:37:55-04:00",
+        "created_date": "2025-04-20T03:40:19-04:00",
+        "published_date": "2025-04-20T03:40:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Peace Process"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Putin, Vladimir V"
+        ],
+        "geo_facet": [
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-ukraine-easter-01-wpbc/20int-ukraine-easter-01-wpbc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A fighting position in the Donetsk region of eastern Ukraine on Friday.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-ukraine-easter-01-wpbc/20int-ukraine-easter-01-wpbc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A fighting position in the Donetsk region of eastern Ukraine on Friday.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-ukraine-easter-01-wpbc/20int-ukraine-easter-01-wpbc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A fighting position in the Donetsk region of eastern Ukraine on Friday.",
+                "copyright": "Tyler Hicks/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
