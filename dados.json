@@ -33913,5 +33913,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Pope Francis Blesses Faithful at Easter Mass",
+        "abstract": "The pontiff, appearing frail from a balcony at St. Peter’s Basilica, blessed a crowd gathered on the square outside. But a Vatican aide delivered a papal address that focused on global conflicts.",
+        "url": "https://www.nytimes.com/2025/04/20/world/europe/pope-francis-easter.html",
+        "uri": "nyt://article/0e2867f4-7d23-53ec-bda3-5671c8ff5844",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T07:27:44-04:00",
+        "created_date": "2025-04-20T07:27:44-04:00",
+        "published_date": "2025-04-20T07:27:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Easter and Holy Week"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-pope-easter-01-kgzq/20int-pope-easter-01-kgzq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis blessing the gathered faithful from a balcony at St. Peter’s Basilica in Rome on Sunday.",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-pope-easter-01-kgzq/20int-pope-easter-01-kgzq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis blessing the gathered faithful from a balcony at St. Peter’s Basilica in Rome on Sunday.",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-pope-easter-01-kgzq/20int-pope-easter-01-kgzq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis blessing the gathered faithful from a balcony at St. Peter’s Basilica in Rome on Sunday.",
+                "copyright": "Yara Nardi/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
