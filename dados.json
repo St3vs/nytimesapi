@@ -34034,5 +34034,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel’s Military Cites ‘Professional Failures’ in Killings of Gaza Medics",
+        "abstract": "In a statement summarizing its investigation into the deadly episode, the military said a deputy commander would be dismissed.",
+        "url": "https://www.nytimes.com/2025/04/20/world/middleeast/israel-gaza-medics.html",
+        "uri": "nyt://article/8618be58-c708-5518-8e70-27f967789e8b",
+        "byline": "By Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T10:44:46-04:00",
+        "created_date": "2025-04-20T10:44:46-04:00",
+        "published_date": "2025-04-20T10:44:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Civilian Casualties",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Ambulances"
+        ],
+        "org_facet": [
+            "International Federation of Red Cross and Red Crescent Societies",
+            "United Nations"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Rafah (Gaza Strip)",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-paramedic-ctqz-copy/13int-gaza-paramedic-ctqz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic and released by the Palestinian Red Crescent showed the moments before he and other rescue workers were killed by Israelis in Gaza on March 23.",
+                "copyright": "via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-paramedic-ctqz-copy/13int-gaza-paramedic-ctqz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic and released by the Palestinian Red Crescent showed the moments before he and other rescue workers were killed by Israelis in Gaza on March 23.",
+                "copyright": "via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/13/multimedia/13int-gaza-paramedic-ctqz-copy/13int-gaza-paramedic-ctqz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A still image from a cellphone video taken by a paramedic and released by the Palestinian Red Crescent showed the moments before he and other rescue workers were killed by Israelis in Gaza on March 23.",
+                "copyright": "via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
