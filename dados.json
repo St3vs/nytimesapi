@@ -33656,5 +33656,137 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Ukraine Says Russia Broke Its Own Easter Truce Vow",
+        "abstract": "President Zelensky of Ukraine said the front lines had seen artillery fire and drone attacks, and that his troops were responding in kind.",
+        "url": "https://www.nytimes.com/2025/04/20/world/europe/ukraine-russia-easter-truce.html",
+        "uri": "nyt://article/11716a1c-ba22-5d4c-b91f-776b6a5c15d4",
+        "byline": "By Kim Barker",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T03:40:19-04:00",
+        "created_date": "2025-04-20T03:40:19-04:00",
+        "published_date": "2025-04-20T03:40:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Peace Process"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Putin, Vladimir V"
+        ],
+        "geo_facet": [
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-ukraine-easter-01-wpbc/20int-ukraine-easter-01-wpbc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A fighting position in the Donetsk region of eastern Ukraine on Friday.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-ukraine-easter-01-wpbc/20int-ukraine-easter-01-wpbc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A fighting position in the Donetsk region of eastern Ukraine on Friday.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-ukraine-easter-01-wpbc/20int-ukraine-easter-01-wpbc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A fighting position in the Donetsk region of eastern Ukraine on Friday.",
+                "copyright": "Tyler Hicks/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Administration Draft Order Calls for Drastic Overhaul of State Department",
+        "abstract": "The draft executive order to be signed by President Trump would eliminate Africa operations and shut down bureaus working on democracy, human rights and refugee issues.",
+        "url": "https://www.nytimes.com/2025/04/20/us/politics/trump-state-department-overhaul.html",
+        "uri": "nyt://article/4d93a121-1828-591d-99c9-cc39b6afff3e",
+        "byline": "By Edward Wong",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T04:00:46-04:00",
+        "created_date": "2025-04-20T04:00:46-04:00",
+        "published_date": "2025-04-20T04:00:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Executive Orders and Memorandums",
+            "Shutdowns (Institutional)",
+            "Diplomatic Service, Embassies and Consulates",
+            "Human Rights and Human Rights Violations",
+            "Refugees and Displaced Persons"
+        ],
+        "org_facet": [
+            "Foreign Service (US)",
+            "Howard University",
+            "National Security Council",
+            "State Department",
+            "United States Agency for International Development"
+        ],
+        "per_facet": [
+            "Rubio, Marco"
+        ],
+        "geo_facet": [
+            "Far East, South and Southeast Asia and Pacific Areas",
+            "North America",
+            "Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20dc-state-gzwc/20dc-state-gzwc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The State Department headquarters in Washington.",
+                "copyright": "Jim Watson/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20dc-state-gzwc/20dc-state-gzwc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The State Department headquarters in Washington.",
+                "copyright": "Jim Watson/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20dc-state-gzwc/20dc-state-gzwc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The State Department headquarters in Washington.",
+                "copyright": "Jim Watson/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
