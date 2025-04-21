@@ -35012,5 +35012,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israeli Minister Says Freeing Hostages Not ‘Most Important’ Aim of the War",
+        "abstract": "The far-right finance minister, Bezalel Smotrich, said the more crucial goal was ensuring that Hamas no longer ruled the Gaza Strip.",
+        "url": "https://www.nytimes.com/2025/04/21/world/middleeast/israel-finance-minister-hostages-bezalel-smotrich-gaza-hamas.html",
+        "uri": "nyt://article/9607e751-055a-5678-a2ff-31cda715ca2f",
+        "byline": "By Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T07:41:29-04:00",
+        "created_date": "2025-04-21T07:41:29-04:00",
+        "published_date": "2025-04-21T07:41:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Kidnapping and Hostages",
+            "Defense and Military Forces",
+            "Palestinians"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [
+            "Netanyahu, Benjamin",
+            "Smotrich, Bezalel (1980- )"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21israel-smotrich-001-gkfj/21israel-smotrich-001-gkfj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters in Tel Aviv demanding the immediate release on Saturday of hostages held by Hamas in the Gaza Strip. ",
+                "copyright": "Ariel Schalit/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21israel-smotrich-001-gkfj/21israel-smotrich-001-gkfj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters in Tel Aviv demanding the immediate release on Saturday of hostages held by Hamas in the Gaza Strip. ",
+                "copyright": "Ariel Schalit/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21israel-smotrich-001-gkfj/21israel-smotrich-001-gkfj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters in Tel Aviv demanding the immediate release on Saturday of hostages held by Hamas in the Gaza Strip. ",
+                "copyright": "Ariel Schalit/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
