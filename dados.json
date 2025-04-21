@@ -36785,5 +36785,351 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Tuesday Briefing: Tributes for Pope Francis",
+        "abstract": "Plus, making a difference on Earth Day.",
+        "url": "https://www.nytimes.com/2025/04/21/briefing/pope-francis-death-vance-modi-india-israel.html",
+        "uri": "nyt://article/d4b2a5be-67d1-5e09-a36e-ff35b865ddb0",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T17:01:56-04:00",
+        "created_date": "2025-04-21T17:00:15-04:00",
+        "published_date": "2025-04-21T17:00:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/02/22/multimedia/22ambriefing-asia-pope/22ambriefing-asia-pope-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/22/multimedia/22ambriefing-asia-pope/22ambriefing-asia-pope-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/22/multimedia/22ambriefing-asia-pope/22ambriefing-asia-pope-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Chang W. Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What Happens After the Pope Dies? A Visual Timeline of Rituals and Traditions",
+        "abstract": "After Pope Francis’ funeral, 135 cardinals will gather for a conclave to elect a new pope. The traditions include oaths of secrecy, paper ballots and white smoke from a chimney of the Sistine Chapel.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-death-traditions-rituals-funeral.html",
+        "uri": "nyt://article/95bb6052-df0d-51eb-9eb6-0d4d90672b07",
+        "byline": "By Elisabetta Povoledo and McKinnon de Kuyper",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T17:09:01-04:00",
+        "created_date": "2025-04-21T16:54:41-04:00",
+        "published_date": "2025-04-21T16:54:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Funerals and Memorials",
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Benedict XVI",
+            "John Paul II",
+            "Francis"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/02/28/00vid-pope-death-intro-video-24364-cover/00vid-pope-death-intro-video-24364-cover-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1620,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/28/00vid-pope-death-intro-video-24364-cover/00vid-pope-death-intro-video-24364-cover-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/28/00vid-pope-death-intro-video-24364-cover/00vid-pope-death-intro-video-24364-cover-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Argentines mourn a ‘humble’ pope and a native son.",
+        "abstract": "Across Argentina, many people flocked to churches to mourn Pope Francis. Some recalled personal encounters before he became pontiff.",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-updates-vatican/argentines-mourn-a-humble-pope-and-a-native-son",
+        "uri": "nyt://article/945c7b15-a6e2-5ee6-983d-e4f858eac674",
+        "byline": "By Natalie Alcoba, Lucía Cholakian Herrera and Daniel Politi",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T16:48:57-04:00",
+        "created_date": "2025-04-21T16:48:57-04:00",
+        "published_date": "2025-04-21T16:48:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-argentina-scene1-qzmk/21pope-francis-argentina-scene1-qzmk-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Buenos Aires Metropolitan Cathedral on Monday after the death of Pope Francis was announced.",
+                "copyright": "Sarah Pabst for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-argentina-scene1-qzmk/21pope-francis-argentina-scene1-qzmk-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Buenos Aires Metropolitan Cathedral on Monday after the death of Pope Francis was announced.",
+                "copyright": "Sarah Pabst for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-argentina-scene1-qzmk/21pope-francis-argentina-scene1-qzmk-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Buenos Aires Metropolitan Cathedral on Monday after the death of Pope Francis was announced.",
+                "copyright": "Sarah Pabst for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "For Pope Francis, a Last Burst of Pastoring Before Death",
+        "abstract": "The Catholic faithful took heart when the pontiff, after two brushes with death, emerged from a hospital and resumed some of his duties. Their joy proved short-lived.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-mourning.html",
+        "uri": "nyt://article/04bc9d1c-1e6a-557e-b844-779e80a26433",
+        "byline": "By Jason Horowitz, Elisabetta Povoledo, Emma Bubola and Michael Levenson",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T17:02:57-04:00",
+        "created_date": "2025-04-21T16:48:03-04:00",
+        "published_date": "2025-04-21T16:48:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Fatalities)",
+            "Funerals and Memorials",
+            "Popes",
+            "Illegal Immigration",
+            "Priests",
+            "Easter and Holy Week"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Farrell, Kevin J (1947- )",
+            "Vance, J D",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Vatican City",
+            "Argentina"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-ledeall-1-wmpf/21pope-ledeall-1-wmpf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the missionaries of Charity, the religious community founded by Mother Teresa, participating in the first prayer service, a rosary, in honor of Pope Francis, in Vatican City on Monday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-ledeall-1-wmpf/21pope-ledeall-1-wmpf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the missionaries of Charity, the religious community founded by Mother Teresa, participating in the first prayer service, a rosary, in honor of Pope Francis, in Vatican City on Monday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-ledeall-1-wmpf/21pope-ledeall-1-wmpf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the missionaries of Charity, the religious community founded by Mother Teresa, participating in the first prayer service, a rosary, in honor of Pope Francis, in Vatican City on Monday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Francis opened the door to the L.G.B.T.Q. community, but only so much.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-updates-vatican/francis-opened-the-door-to-the-lgbtq-community-but-only-so-much",
+        "uri": "nyt://article/2d6a30e2-2cdf-5149-a68e-443c55fc12a6",
+        "byline": "By Liam Stack",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T16:55:48-04:00",
+        "created_date": "2025-04-21T16:42:25-04:00",
+        "published_date": "2025-04-21T16:42:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2023/12/18/multimedia/21pope-francis-lgbtq1/18pope-add5-bgvq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Waving a rainbow flag during the 2021 Pride march, in front of the Basilica of Saint Mary Major, where Pope Francis will be buried. ",
+                "copyright": "Gregorio Borgia/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/12/18/multimedia/21pope-francis-lgbtq1/18pope-add5-bgvq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Waving a rainbow flag during the 2021 Pride march, in front of the Basilica of Saint Mary Major, where Pope Francis will be buried. ",
+                "copyright": "Gregorio Borgia/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/12/18/multimedia/21pope-francis-lgbtq1/18pope-add5-bgvq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Waving a rainbow flag during the 2021 Pride march, in front of the Basilica of Saint Mary Major, where Pope Francis will be buried. ",
+                "copyright": "Gregorio Borgia/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "U.S. Airstrike Hits Yemeni Capital, Killing 12, Local Health Officials Say",
+        "abstract": "Witnesses said an airstrike on Sunday hit a densely populated area adjacent to the Old City in Houthi-dominated Sana.",
+        "url": "https://www.nytimes.com/2025/04/21/world/middleeast/us-airstrikes-yemen-houthis.html",
+        "uri": "nyt://article/153c37ae-c058-54df-8159-48c980279ff5",
+        "byline": "By Shuaib Almosawa and Vivian Nereim",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T17:07:34-04:00",
+        "created_date": "2025-04-21T16:09:37-04:00",
+        "published_date": "2025-04-21T16:09:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "Houthis"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Sana (Yemen)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21yemen-1-ckgp/21yemen-1-ckgp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The aftermath of Sunday’s U.S. airstrike in Sana, Yemen, on Monday.",
+                "copyright": "Mohammed Huwais/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21yemen-1-ckgp/21yemen-1-ckgp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The aftermath of Sunday’s U.S. airstrike in Sana, Yemen, on Monday.",
+                "copyright": "Mohammed Huwais/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21yemen-1-ckgp/21yemen-1-ckgp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The aftermath of Sunday’s U.S. airstrike in Sana, Yemen, on Monday.",
+                "copyright": "Mohammed Huwais/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
