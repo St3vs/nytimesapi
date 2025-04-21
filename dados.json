@@ -34900,5 +34900,117 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Latest Updates: Pope Francis Dies at 88",
+        "abstract": "His groundbreaking pontificate worked to make the Catholic Church more inclusive. Cardinals will now decide whether to continue his approach or restore more doctrinaire leadership.",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-updates-vatican",
+        "uri": "nyt://promo/d93fa194-4b96-5bc5-862d-f525af769dc7",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-21T07:16:03-04:00",
+        "created_date": "2025-04-21T06:41:58-04:00",
+        "published_date": "2025-04-21T06:41:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-promo7am-mtkj/21pope-francis-promo7am-mtkj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Damon Winter/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-promo7am-mtkj/21pope-francis-promo7am-mtkj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Damon Winter/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-promo7am-mtkj/21pope-francis-promo7am-mtkj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Damon Winter/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Pope Francis Defied Doctors’ Orders and Kept Busy Until His Last Day",
+        "abstract": "The pontiff met with Vice President JD Vance on Sunday and blessed Catholics gathered for Easter. His doctors had urged him to rest.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-easter-last-day.html",
+        "uri": "nyt://article/5d4d23e4-e540-56f6-84da-119de04bf258",
+        "byline": "By Amelia Nierenberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T06:56:51-04:00",
+        "created_date": "2025-04-21T06:44:11-04:00",
+        "published_date": "2025-04-21T06:44:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Easter and Holy Week"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Vance, J D"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-last-day-hfjm/21pope-last-day-hfjm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis after Easter mass at the Vatican on Sunday.",
+                "copyright": "Andrew Medichini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-last-day-hfjm/21pope-last-day-hfjm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis after Easter mass at the Vatican on Sunday.",
+                "copyright": "Andrew Medichini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-last-day-hfjm/21pope-last-day-hfjm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis after Easter mass at the Vatican on Sunday.",
+                "copyright": "Andrew Medichini/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
