@@ -34211,5 +34211,63 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "South Korean Police Seek Arsonist After Deadly Apartment Fire in Seoul",
+        "abstract": "The fire in a 21-story building in southern Seoul killed one person and injured several others, two of them seriously.",
+        "url": "https://www.nytimes.com/2025/04/20/world/asia/south-korea-apartment-fire.html",
+        "uri": "nyt://article/e2b30458-0ef7-5509-8eb5-abae5044f00a",
+        "byline": "By Choe Sang-Hun",
+        "item_type": "Article",
+        "updated_date": "2025-04-20T23:37:34-04:00",
+        "created_date": "2025-04-20T23:37:34-04:00",
+        "published_date": "2025-04-20T23:37:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Fires and Firefighters",
+            "Deaths (Fatalities)",
+            "Arson"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21int-seoul-fire-khqt/21int-seoul-fire-khqt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1352,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A forensic investigation team examining an apartment building in Seoul after a deadly fire on Monday.",
+                "copyright": "Yonhap/EPE-EFE/Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21int-seoul-fire-khqt/21int-seoul-fire-khqt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A forensic investigation team examining an apartment building in Seoul after a deadly fire on Monday.",
+                "copyright": "Yonhap/EPE-EFE/Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21int-seoul-fire-khqt/21int-seoul-fire-khqt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A forensic investigation team examining an apartment building in Seoul after a deadly fire on Monday.",
+                "copyright": "Yonhap/EPE-EFE/Shutterstock"
+            }
+        ],
+        "short_url": ""
     }
 ]
