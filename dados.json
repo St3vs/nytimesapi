@@ -35442,5 +35442,198 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israeli Security Chief Accuses Netanyahu of Making Improper Requests",
+        "abstract": "In a scathing court affidavit, the head of the Shin Bet said that Prime Minister Benjamin Netanyahu pressed him to spy on anti-government protesters.",
+        "url": "https://www.nytimes.com/2025/04/21/world/middleeast/israel-security-chief-netanyahu-accusations.html",
+        "uri": "nyt://article/dd658075-052c-5261-8fed-569de3793c1e",
+        "byline": "By Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T12:13:27-04:00",
+        "created_date": "2025-04-21T12:13:27-04:00",
+        "published_date": "2025-04-21T12:13:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Classified Information and State Secrets",
+            "Demonstrations, Protests and Riots",
+            "Espionage and Intelligence Services"
+        ],
+        "org_facet": [
+            "Shin Bet",
+            "Supreme Court of Israel"
+        ],
+        "per_facet": [
+            "Bar, Ronen (1965- )",
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Israel",
+            "Qatar"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/world/21int-israel-ronen-bar-01/21int-israel-ronen-bar-01-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronen Bar, the chief of Shin Bet, Israel’s domestic security agency.",
+                "copyright": "Pool photo by Gil Cohen-Magen"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/world/21int-israel-ronen-bar-01/21int-israel-ronen-bar-01-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronen Bar, the chief of Shin Bet, Israel’s domestic security agency.",
+                "copyright": "Pool photo by Gil Cohen-Magen"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/world/21int-israel-ronen-bar-01/21int-israel-ronen-bar-01-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ronen Bar, the chief of Shin Bet, Israel’s domestic security agency.",
+                "copyright": "Pool photo by Gil Cohen-Magen"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "‘Conclave’ Offers a Glimpse Inside the Secretive Process of Choosing a Pope",
+        "abstract": "Papal experts have lauded the Oscar-nominated film as one of the more accurate depictions of the closed-door Vatican gathering.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-conclave-film.html",
+        "uri": "nyt://article/4b66b2ad-ee99-5085-aa33-79090a78fe50",
+        "byline": "By Talya Minsberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T12:14:04-04:00",
+        "created_date": "2025-04-21T12:14:04-04:00",
+        "published_date": "2025-04-21T12:14:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Conclave (Movie)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Fiennes, Ralph"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/02/26/multimedia/00pope-francis-conclave-film-pltz/00pope-francis-conclave-film-pltz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 952,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ralph Fiennes in a scene from \"Conclave.\"",
+                "copyright": "Focus Features, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/26/multimedia/00pope-francis-conclave-film-pltz/00pope-francis-conclave-film-pltz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ralph Fiennes in a scene from \"Conclave.\"",
+                "copyright": "Focus Features, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/26/multimedia/00pope-francis-conclave-film-pltz/00pope-francis-conclave-film-pltz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ralph Fiennes in a scene from \"Conclave.\"",
+                "copyright": "Focus Features, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Sludge Contaminated 10,000 Acres of Farmland. What Should Be Done?",
+        "abstract": "For years a textile mill gave farmers its sewage sludge as free fertilizer. Today the land is full of “forever chemicals.”",
+        "url": "https://www.nytimes.com/2025/04/21/climate/sludge-fertilizer-farmland-superfund.html",
+        "uri": "nyt://article/dbb19568-c421-5869-84d2-0c043ae8d4ad",
+        "byline": "By Hiroko Tabuchi and Caroline Gutman",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T11:48:16-04:00",
+        "created_date": "2025-04-21T05:00:53-04:00",
+        "published_date": "2025-04-21T05:00:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Hazardous and Toxic Substances",
+            "Chemicals",
+            "PFAS (Per- and Polyfluoroalkyl Substances)",
+            "Sewers and Sewage",
+            "Superfund",
+            "Fertilizer",
+            "Agriculture and Farming",
+            "Recycling of Waste Materials",
+            "Pollution"
+        ],
+        "org_facet": [
+            "Environmental Protection Agency"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "South Carolina"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Caroline Gutman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Caroline Gutman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Caroline Gutman for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
