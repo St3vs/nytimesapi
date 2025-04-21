@@ -34269,5 +34269,187 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Pope Francis’ Life",
+        "abstract": "Selected photographs from the life and papacy of Pope Francis.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-life-photos.html",
+        "uri": "nyt://article/acb4a1c8-7ac8-5535-854e-bbd5ad5ef490",
+        "byline": "By The New York Times",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T04:26:35-04:00",
+        "created_date": "2025-04-21T04:26:35-04:00",
+        "published_date": "2025-04-21T04:26:35-04:00",
+        "material_type_facet": "",
+        "kicker": "In Pictures",
+        "des_facet": [
+            "Popes",
+            "vis-photo"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2023/03/31/multimedia/Pope-Francis-Life-Photos-HFO-07-mztg/Pope-Francis-Life-Photos-HFO-07-mztg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis waving to attendees before a Mass in Cuba in 2015.",
+                "copyright": "Daniel Berehulak for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/03/31/multimedia/Pope-Francis-Life-Photos-HFO-07-mztg/Pope-Francis-Life-Photos-HFO-07-mztg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis waving to attendees before a Mass in Cuba in 2015.",
+                "copyright": "Daniel Berehulak for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/03/31/multimedia/Pope-Francis-Life-Photos-HFO-07-mztg/Pope-Francis-Life-Photos-HFO-07-mztg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis waving to attendees before a Mass in Cuba in 2015.",
+                "copyright": "Daniel Berehulak for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Francis Worked to Make Catholic Church More Inclusive",
+        "abstract": "Pope Francis sought to make the church more welcoming, global and collegial, after his predecessors adopted more doctrinaire and traditional approaches.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-catholic-church-legacy.html",
+        "uri": "nyt://article/cc3940fd-dac3-50bb-89e2-382dc6be3b1b",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T04:23:21-04:00",
+        "created_date": "2025-04-21T04:23:21-04:00",
+        "published_date": "2025-04-21T04:23:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Religion and Belief",
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Benedict XVI"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2021/08/06/world/06pope-francis-lede-item-jason/merlin_184699620_3ebce43a-63cc-4266-a095-4e54169201a1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in Qaraqosh, Iraq, in March 2021.",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2021/08/06/world/06pope-francis-lede-item-jason/merlin_184699620_3ebce43a-63cc-4266-a095-4e54169201a1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in Qaraqosh, Iraq, in March 2021.",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2021/08/06/world/06pope-francis-lede-item-jason/06pope-francis-lede-item-jason-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in Qaraqosh, Iraq, in March 2021.",
+                "copyright": "Ivor Prickett for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Francis, the First Latin American Pope, Dies at 88",
+        "abstract": "After decades of conservative leadership, Francis tried to reset the course of the Roman Catholic Church, emphasizing inclusion and care for the marginalized over doctrinal purity.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-dead.html",
+        "uri": "nyt://article/c8be0ed1-f26e-5595-81ed-1ffd4ce186d5",
+        "byline": "By Jason Horowitz and Jim Yardley",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T04:04:56-04:00",
+        "created_date": "2025-04-21T04:04:56-04:00",
+        "published_date": "2025-04-21T04:04:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Religion and Belief",
+            "Christians and Christianity",
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Benedict XVI"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2021/03/05/obituaries/00Francis1/merlin_99604096_6dc91de5-60a8-4561-bdf5-6f0289dfe2fc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1445,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at St. Patrick’s Cathedral in New York in 2015. He was elected after the resignation of Pope Benedict XVI in 2013, but few expected him to seek to transform his church with such zeal.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2021/03/05/obituaries/00Francis1/00Francis1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at St. Patrick’s Cathedral in New York in 2015. He was elected after the resignation of Pope Benedict XVI in 2013, but few expected him to seek to transform his church with such zeal.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2021/03/05/obituaries/00Francis1/00Francis1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at St. Patrick’s Cathedral in New York in 2015. He was elected after the resignation of Pope Benedict XVI in 2013, but few expected him to seek to transform his church with such zeal.",
+                "copyright": "Chang W. Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
