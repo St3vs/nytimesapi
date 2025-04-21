@@ -37131,5 +37131,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Francis Had Health Issues That Can Increase the Risk of Stroke",
+        "abstract": "The declaration of death said the pope had Type 2 diabetes and high blood pressure, along with bronchiectasis, a chronic lung condition.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-stroke-death.html",
+        "uri": "nyt://article/35bdacdd-3f2d-5263-8a19-9fa1f5adc980",
+        "byline": "By Nina Agrawal",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T18:00:05-04:00",
+        "created_date": "2025-04-21T18:00:05-04:00",
+        "published_date": "2025-04-21T18:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Fatalities)",
+            "Stroke",
+            "Heart",
+            "Hospitals",
+            "Diabetes",
+            "Popes",
+            "Coma"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-death-explainer-bwtj/21pope-francis-death-explainer-bwtj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mourners gathering at St. Peter’s Square for a rosary in honor of Pope Francis on Monday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-death-explainer-bwtj/21pope-francis-death-explainer-bwtj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mourners gathering at St. Peter’s Square for a rosary in honor of Pope Francis on Monday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-death-explainer-bwtj/21pope-francis-death-explainer-bwtj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mourners gathering at St. Peter’s Square for a rosary in honor of Pope Francis on Monday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
