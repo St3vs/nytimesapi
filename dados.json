@@ -36354,5 +36354,113 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Latest Updates: Pope Francis Died After Cerebral Stroke, Vatican Says",
+        "abstract": "World leaders praised the pope’s legacy, and mourners, some in tears, gathered in St. Peter’s Square to celebrate his life. The Vatican said Francis asked that his tomb be simple.",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-updates-vatican",
+        "uri": "nyt://promo/d93fa194-4b96-5bc5-862d-f525af769dc7",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-21T15:16:49-04:00",
+        "created_date": "2025-04-21T06:41:58-04:00",
+        "published_date": "2025-04-21T06:41:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-promo-3pm/21pope-promo-3pm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-promo-3pm/21pope-promo-3pm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-promo-3pm/21pope-promo-3pm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Yara Nardi/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "For a Times Reporter Who Covered Him, Francis Was Always a Surprise",
+        "abstract": "An unlikely choice to be pope championed causes and challenged orthodoxy, keeping allies and critics alike on their toes.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/for-a-times-reporter-who-covered-him-pope-francis-was-always-a-surprise.html",
+        "uri": "nyt://article/d496e0ad-b7be-5588-a7dd-d94ee87fdd73",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T15:16:47-04:00",
+        "created_date": "2025-04-21T15:11:42-04:00",
+        "published_date": "2025-04-21T15:11:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-horowitz-first-person/21pope-francis-horowitz-first-person-superJumbo-v3.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1364,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in 2017 in Bangladesh, meeting Rohingya Muslim refugees from Myanmar. The New York Times reporter Jason Horowitz said the meeting was one of his most memorable moments covering Francis’ papacy. ",
+                "copyright": "Andrew Medichini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-horowitz-first-person/21pope-francis-horowitz-first-person-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in 2017 in Bangladesh, meeting Rohingya Muslim refugees from Myanmar. The New York Times reporter Jason Horowitz said the meeting was one of his most memorable moments covering Francis’ papacy. ",
+                "copyright": "Andrew Medichini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-horowitz-first-person/21pope-francis-horowitz-first-person-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in 2017 in Bangladesh, meeting Rohingya Muslim refugees from Myanmar. The New York Times reporter Jason Horowitz said the meeting was one of his most memorable moments covering Francis’ papacy. ",
+                "copyright": "Andrew Medichini/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
