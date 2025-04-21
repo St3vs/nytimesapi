@@ -35307,5 +35307,140 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "As Election Nears, Canadians Confront a News Void on Facebook and Instagram",
+        "abstract": "After Meta blocked news from its platforms in Canada, hyperpartisan and misleading content from popular right-wing Facebook pages such as Canada Proud has filled the gap.",
+        "url": "https://www.nytimes.com/2025/04/21/technology/canada-election-facebook-instagram-meta.html",
+        "uri": "nyt://article/0e56d350-c69b-5359-8ec1-785b409819e5",
+        "byline": "By Matina Stevis-Gridneff and Stuart A. Thompson",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T11:06:35-04:00",
+        "created_date": "2025-04-21T11:06:35-04:00",
+        "published_date": "2025-04-21T11:06:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Social Media",
+            "Computers and the Internet",
+            "News and News Media",
+            "Rumors and Misinformation",
+            "Elections",
+            "Political Advertising"
+        ],
+        "org_facet": [
+            "Facebook Inc",
+            "Instagram Inc",
+            "Meta Platforms Inc",
+            "Canada Proud"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Jeff Ballingall"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21biz-canada-elections-meta-lgfj/21biz-canada-elections-meta-lgfj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A campaign debate among Canada’s party leaders in Montreal last week. Online content around the April 28 federal election has veered into misinformation.",
+                "copyright": "Evan Buhler/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21biz-canada-elections-meta-lgfj/21biz-canada-elections-meta-lgfj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A campaign debate among Canada’s party leaders in Montreal last week. Online content around the April 28 federal election has veered into misinformation.",
+                "copyright": "Evan Buhler/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21biz-canada-elections-meta-lgfj/21biz-canada-elections-meta-lgfj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A campaign debate among Canada’s party leaders in Montreal last week. Online content around the April 28 federal election has veered into misinformation.",
+                "copyright": "Evan Buhler/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Who Will Be the Next Pope? Here Are Some Possible Contenders.",
+        "abstract": "Experts say there isn’t a single front-runner, but several names have been floated as indications of which direction the Roman Catholic Church might take.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/next-pope-francis-candidates.html",
+        "uri": "nyt://article/3c4dc971-f757-50b3-bb87-6b41a77f9d6a",
+        "byline": "By Emma Bubola, Elisabetta Povoledo, Gaia Pianigiani and Neil MacFarquhar",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T11:17:15-04:00",
+        "created_date": "2025-04-21T10:54:06-04:00",
+        "published_date": "2025-04-21T10:54:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)",
+            "International Relations"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Tagle, Luis Antonio G",
+            "Pierbattista Pizzaballa",
+            "Pietro Parolin",
+            "Matteo Zuppi",
+            "Peter Erdo",
+            "Anders Arborelius"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/02/21/multimedia/21pope-successors-top-sub-tmqc/21pope-successors-top-sub-tmqc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Catholic faithful gathered for a Mass led by Pope Francis at St. Peter’s Square in Vatican City in February 2025.",
+                "copyright": "Remo Casilli/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/21/multimedia/21pope-successors-top-sub-tmqc/21pope-successors-top-sub-tmqc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Catholic faithful gathered for a Mass led by Pope Francis at St. Peter’s Square in Vatican City in February 2025.",
+                "copyright": "Remo Casilli/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/21/multimedia/21pope-successors-top-sub-tmqc/21pope-successors-top-sub-tmqc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Catholic faithful gathered for a Mass led by Pope Francis at St. Peter’s Square in Vatican City in February 2025.",
+                "copyright": "Remo Casilli/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
