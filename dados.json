@@ -34451,5 +34451,327 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Pope Francis’ Calling Came as a Boy in Argentina, and It Led Him to the Vatican",
+        "abstract": "Francis was a deeply religious child in Buenos Aires. The first pontiff from Latin America tried to create a more welcoming church.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-life-timeline.html",
+        "uri": "nyt://article/990c91d5-3af5-568c-a7ed-eac067653dd9",
+        "byline": "By Jonathan Wolfe",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T05:11:23-04:00",
+        "created_date": "2025-04-21T05:11:23-04:00",
+        "published_date": "2025-04-21T05:11:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Priests"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Argentina",
+            "Buenos Aires (Argentina)",
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/02/25/multimedia/00pope-francis-timeline-gwtb/00pope-francis-timeline-gwtb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis became head of the Catholic church in 2013 after Pope Benedict XVI stepped down.",
+                "copyright": "Gabriella Demczuk for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/25/multimedia/00pope-francis-timeline-gwtb/00pope-francis-timeline-gwtb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis became head of the Catholic church in 2013 after Pope Benedict XVI stepped down.",
+                "copyright": "Gabriella Demczuk for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/25/multimedia/00pope-francis-timeline-gwtb/00pope-francis-timeline-gwtb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis became head of the Catholic church in 2013 after Pope Benedict XVI stepped down.",
+                "copyright": "Gabriella Demczuk for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "10,000 Acres of Farmland. Should It All Be a Superfund Site?",
+        "abstract": "Yes, says South Carolina. For years a textile mill gave farmers its sewage sludge as free fertilizer. Today the land is full of “forever chemicals.”",
+        "url": "https://www.nytimes.com/2025/04/21/climate/sludge-fertilizer-farmland-superfund.html",
+        "uri": "nyt://article/dbb19568-c421-5869-84d2-0c043ae8d4ad",
+        "byline": "By Hiroko Tabuchi and Caroline Gutman",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T05:00:53-04:00",
+        "created_date": "2025-04-21T05:00:53-04:00",
+        "published_date": "2025-04-21T05:00:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Hazardous and Toxic Substances",
+            "Chemicals",
+            "PFAS (Per- and Polyfluoroalkyl Substances)",
+            "Sewers and Sewage",
+            "Superfund",
+            "Fertilizer",
+            "Agriculture and Farming",
+            "Recycling of Waste Materials",
+            "Pollution"
+        ],
+        "org_facet": [
+            "Environmental Protection Agency"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "South Carolina"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Caroline Gutman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Caroline Gutman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/11/multimedia/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl/00CLI-TOXIC-FARM-SUPERFUND-promo-qgzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Caroline Gutman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "It Survived for 2,000 Years, but Syria’s War Battered Palmyra",
+        "abstract": "During a visit to Palmyra, reporters found traces of the many forces that had fought over the city and ancient monuments reduced to rubble.",
+        "url": "https://www.nytimes.com/2025/04/21/world/middleeast/palmyra-syria-islamic-state.html",
+        "uri": "nyt://article/41208edb-4a0e-50de-9e6b-23e4389b1c1f",
+        "byline": "By Ben Hubbard and David Guttenfelder",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T05:00:40-04:00",
+        "created_date": "2025-04-21T05:00:40-04:00",
+        "published_date": "2025-04-21T05:00:40-04:00",
+        "material_type_facet": "",
+        "kicker": "Syria DISPATCH",
+        "des_facet": [
+            "Historic Buildings and Sites",
+            "Destruction of Cultural Antiquities and Heritage",
+            "War and Armed Conflicts",
+            "Terrorism"
+        ],
+        "org_facet": [
+            "Islamic State in Iraq and Syria (ISIS)",
+            "Fatemiyoun Brigade"
+        ],
+        "per_facet": [
+            "Assad, Bashar al-"
+        ],
+        "geo_facet": [
+            "Palmyra (Syria)",
+            "Syria",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00int-syria-palmyra-dispatch-gwmj/00int-syria-palmyra-dispatch-gwmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "David Guttenfelder/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00int-syria-palmyra-dispatch-gwmj/00int-syria-palmyra-dispatch-gwmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "David Guttenfelder/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00int-syria-palmyra-dispatch-gwmj/00int-syria-palmyra-dispatch-gwmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "David Guttenfelder/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "China Warns Countries Not to Team Up With U.S. Against It on Trade",
+        "abstract": "Curbing trade with China to curry favor with the United States would be “selfish and shortsighted,” the government said, promising to retaliate.",
+        "url": "https://www.nytimes.com/2025/04/21/world/asia/china-tariffs-trade-warning.html",
+        "uri": "nyt://article/71c44f71-c344-5dc1-89ee-e774771eb2e0",
+        "byline": "By Vivian Wang",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T04:49:49-04:00",
+        "created_date": "2025-04-21T04:49:49-04:00",
+        "published_date": "2025-04-21T04:49:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "International Relations",
+            "Customs (Tariff)",
+            "United States International Relations",
+            "Factories and Manufacturing"
+        ],
+        "org_facet": [
+            "Ministry of Commerce (China)",
+            "European Union"
+        ],
+        "per_facet": [
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China",
+            "Vietnam",
+            "South Korea",
+            "Malaysia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21int-china-tariffs-ltgj/21int-china-tariffs-ltgj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China’s leader, Xi Jinping, met with his Vietnamese counterpart, To Lam, in Hanoi as part of a push to boost trade relations in the face of U.S. tariffs.",
+                "copyright": "Pool photo by Nhac Nguyen"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21int-china-tariffs-ltgj/21int-china-tariffs-ltgj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China’s leader, Xi Jinping, met with his Vietnamese counterpart, To Lam, in Hanoi as part of a push to boost trade relations in the face of U.S. tariffs.",
+                "copyright": "Pool photo by Nhac Nguyen"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21int-china-tariffs-ltgj/21int-china-tariffs-ltgj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China’s leader, Xi Jinping, met with his Vietnamese counterpart, To Lam, in Hanoi as part of a push to boost trade relations in the face of U.S. tariffs.",
+                "copyright": "Pool photo by Nhac Nguyen"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Thailand Arrests Executive Linked to Bangkok Tower Felled by Earthquake",
+        "abstract": "The collapse has brought scrutiny of the Chinese state-owned company that was putting up the doomed building.",
+        "url": "https://www.nytimes.com/2025/04/21/world/asia/bangkok-tower-collapse-arrest.html",
+        "uri": "nyt://article/e449b22e-5d45-5e91-82b2-19d43ab81f28",
+        "byline": "By Sui-Lee Wee and Kittiphum Sringammuang",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T04:35:17-04:00",
+        "created_date": "2025-04-21T04:35:17-04:00",
+        "published_date": "2025-04-21T04:35:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Myanmar Earthquake (March 28, 2025)",
+            "Buildings (Structures)",
+            "Deaths (Fatalities)",
+            "Earthquakes"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Bangkok (Thailand)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21int-thailand-arrest-vlqm/21int-thailand-arrest-vlqm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The site of a building collapse in Bangkok after an earthquake struck last month.",
+                "copyright": "Chanakarn Laosarakham/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21int-thailand-arrest-vlqm/21int-thailand-arrest-vlqm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The site of a building collapse in Bangkok after an earthquake struck last month.",
+                "copyright": "Chanakarn Laosarakham/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21int-thailand-arrest-vlqm/21int-thailand-arrest-vlqm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The site of a building collapse in Bangkok after an earthquake struck last month.",
+                "copyright": "Chanakarn Laosarakham/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
