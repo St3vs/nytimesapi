@@ -34773,5 +34773,132 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What’s Involved in a Papal Funeral?",
+        "abstract": "The timing of Pope Francis’ funeral, which will span several days, has yet to be announced.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-funeral-arrangements.html",
+        "uri": "nyt://article/e7e3a106-58ad-5655-9c49-15f6d117974d",
+        "byline": "By Gaia Pianigiani",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T05:53:14-04:00",
+        "created_date": "2025-04-21T05:53:14-04:00",
+        "published_date": "2025-04-21T05:53:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials",
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Benedict XVI",
+            "Francis",
+            "John Paul II"
+        ],
+        "geo_facet": [
+            "Vatican City",
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2023/01/05/multimedia/00pope-francis-funeral-arrangements/05-THE-MORNING-NL-pope-1-54df-superJumbo-v3.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis presiding over the funeral of Pope Emeritus Benedict XVI in St. Peter’s Square in 2023.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/01/05/multimedia/00pope-francis-funeral-arrangements/05-THE-MORNING-NL-pope-1-54df-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis presiding over the funeral of Pope Emeritus Benedict XVI in St. Peter’s Square in 2023.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/01/05/multimedia/00pope-francis-funeral-arrangements/00pope-francis-funeral-arrangements-thumbLarge-v4.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis presiding over the funeral of Pope Emeritus Benedict XVI in St. Peter’s Square in 2023.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "World Leaders Praise Pope Francis and His Legacy",
+        "abstract": "Global leaders offered condolences to the world’s Catholics and praised the pontiff’s commitment to the poor and marginalized.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-death-reactions.html",
+        "uri": "nyt://article/d1f10af4-f6b4-5e03-935f-c69be126e65e",
+        "byline": "By Matthew Mpoke Bigg",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T05:32:50-04:00",
+        "created_date": "2025-04-21T05:32:23-04:00",
+        "published_date": "2025-04-21T05:32:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Death and Dying"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "von der Leyen, Ursula",
+            "Macron, Emmanuel (1977- )"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-international-reaction-bgph/21pope-francis-international-reaction-bgph-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Giorgia Meloni of Italy, right, praised Pope Francis for his legacy.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-international-reaction-bgph/21pope-francis-international-reaction-bgph-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Giorgia Meloni of Italy, right, praised Pope Francis for his legacy.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-international-reaction-bgph/21pope-francis-international-reaction-bgph-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Giorgia Meloni of Italy, right, praised Pope Francis for his legacy.",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
