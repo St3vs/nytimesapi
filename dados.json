@@ -35077,5 +35077,235 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Latest Updates: World Pays Tribute to Pope Francis",
+        "abstract": "Mourners, some in tears, gathered in St. Peter’s Square after the Vatican announced the death of the pope at age 88. Global leaders praised Francis’ commitment to the poor and marginalized.",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-updates-vatican",
+        "uri": "nyt://promo/d93fa194-4b96-5bc5-862d-f525af769dc7",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-21T10:17:47-04:00",
+        "created_date": "2025-04-21T06:41:58-04:00",
+        "published_date": "2025-04-21T06:41:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-promo10am/21pope-francis-promo7am-mtkj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Damon Winter/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-promo10am/21pope-francis-promo7am-mtkj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Damon Winter/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-promo10am/21pope-francis-promo7am-mtkj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Damon Winter/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Who Is Cardinal Kevin Farrell, the Vatican’s New De Facto Administrator?",
+        "abstract": "Cardinal Farrell, who holds the position of cardinal chamberlain, or camerlengo in Italian, will run the Holy See’s affairs until a new pope is chosen.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/kevin-farrell-cardinal-vatican-pope-francis.html",
+        "uri": "nyt://article/059f73d9-fbd6-5d5d-9c9f-9dbf86b64da0",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T10:16:20-04:00",
+        "created_date": "2025-04-21T09:56:59-04:00",
+        "published_date": "2025-04-21T09:56:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-farrell-wzqm/21pope-francis-farrell-wzqm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Kevin Farrell will run the ordinary affairs of the Vatican but cannot make major decisions affecting the Church.",
+                "copyright": "Andrew Medichini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-farrell-wzqm/21pope-francis-farrell-wzqm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Kevin Farrell will run the ordinary affairs of the Vatican but cannot make major decisions affecting the Church.",
+                "copyright": "Andrew Medichini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-farrell-wzqm/21pope-francis-farrell-wzqm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Kevin Farrell will run the ordinary affairs of the Vatican but cannot make major decisions affecting the Church.",
+                "copyright": "Andrew Medichini/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How Will a New Pope Be Chosen After Francis’ Death?",
+        "abstract": "Many of the rituals and procedures of selecting a new pope — designed to ensure secrecy and an orderly transition — have remained unchanged for centuries.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/how-is-a-new-pope-chosen.html",
+        "uri": "nyt://article/3725ff25-a6ac-5eaa-912b-488b22365ee7",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T09:56:49-04:00",
+        "created_date": "2025-04-21T09:56:49-04:00",
+        "published_date": "2025-04-21T09:56:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2021/07/04/world/HFO-pope-election-explainer1/HFO-pope-election-explainer1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The crowd in St. Peter’s Square as white smoke rose from the roof of the Sistine Chapel in 2013, when Pope Francis was elected to succeed Benedict XVI.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2021/07/04/world/HFO-pope-election-explainer1/merlin_67004792_6a5683a2-37fc-4f09-a043-37bd7a9ae965-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The crowd in St. Peter’s Square as white smoke rose from the roof of the Sistine Chapel in 2013, when Pope Francis was elected to succeed Benedict XVI.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2021/07/04/world/HFO-pope-election-explainer1/HFO-pope-election-explainer1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The crowd in St. Peter’s Square as white smoke rose from the roof of the Sistine Chapel in 2013, when Pope Francis was elected to succeed Benedict XVI.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "On Busy Last Day, Pope Francis Met JD Vance and Gave an Easter Blessing",
+        "abstract": "The pontiff had remained surprisingly active despite twice nearly dying in respiratory crises earlier this year.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/even-after-a-lengthy-illness-francis-death-came-as-a-surprise.html",
+        "uri": "nyt://article/e451ca33-a9e2-50d3-8d87-8c2fc8e5a792",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T10:14:14-04:00",
+        "created_date": "2025-04-21T08:54:40-04:00",
+        "published_date": "2025-04-21T08:54:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Easter and Holy Week"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Vance, J D"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-whiplash-gjtl/21pope-francis-whiplash-gjtl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis appearing on a hospital balcony to speak to crowds in Rome last month.",
+                "copyright": "Christopher Furlong/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-whiplash-gjtl/21pope-francis-whiplash-gjtl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis appearing on a hospital balcony to speak to crowds in Rome last month.",
+                "copyright": "Christopher Furlong/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-whiplash-gjtl/21pope-francis-whiplash-gjtl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis appearing on a hospital balcony to speak to crowds in Rome last month.",
+                "copyright": "Christopher Furlong/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
