@@ -36462,5 +36462,328 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "It’s All Sunshine as the Vance Family Arrives in India",
+        "abstract": "Those tariff clouds? Indians wish them away as they welcome Vice President JD Vance for a four-day visit.",
+        "url": "https://www.nytimes.com/2025/04/21/world/asia/trump-tariffs-vance-modi-india.html",
+        "uri": "nyt://article/4b005873-029c-5023-838a-ac214d0b90b1",
+        "byline": "By Anupreeta Das and Pragati K.B.",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T16:03:07-04:00",
+        "created_date": "2025-04-21T15:36:24-04:00",
+        "published_date": "2025-04-21T15:36:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "International Relations",
+            "United States International Relations",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra",
+            "Vance, J D",
+            "Trump, Donald J",
+            "Vance, Usha"
+        ],
+        "geo_facet": [
+            "India"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21vance-1-bmcz/21vance-1-bmcz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vice President JD Vance, his wife, Usha Vance, and their children at the Akshardham temple in New Delhi on Monday.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21vance-1-bmcz/21vance-1-bmcz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vice President JD Vance, his wife, Usha Vance, and their children at the Akshardham temple in New Delhi on Monday.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21vance-1-bmcz/21vance-1-bmcz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vice President JD Vance, his wife, Usha Vance, and their children at the Akshardham temple in New Delhi on Monday.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Pope’s Will Says He Wants to Be Buried in a Simple Tomb in Rome",
+        "abstract": "Pope Francis stipulated that he be laid to rest at the Papal Basilica of St. Mary Major, where six other popes are buried.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/pope-francis-will-released.html",
+        "uri": "nyt://article/11a581ea-47b5-5047-85a7-149060a47fc5",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T16:17:35-04:00",
+        "created_date": "2025-04-21T16:11:52-04:00",
+        "published_date": "2025-04-21T16:11:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-will1-qfgc/21pope-francis-will1-qfgc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Papal Basilica of St. Mary Major in Rome on Monday. “I wish my last earthly journey to end at this very ancient Marian shrine,” Francis wrote in his will.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-will1-qfgc/21pope-francis-will1-qfgc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Papal Basilica of St. Mary Major in Rome on Monday. “I wish my last earthly journey to end at this very ancient Marian shrine,” Francis wrote in his will.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-will1-qfgc/21pope-francis-will1-qfgc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Papal Basilica of St. Mary Major in Rome on Monday. “I wish my last earthly journey to end at this very ancient Marian shrine,” Francis wrote in his will.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "U.S. Airstrike Hits Yemeni Capital, Killing 12, Houthi Health Officials Say",
+        "abstract": "Witnesses said an airstrike on Sunday hit a densely populated area adjacent to the Old City in Houthi-dominated Sana.",
+        "url": "https://www.nytimes.com/2025/04/21/world/middleeast/us-airstrikes-yemen-houthis.html",
+        "uri": "nyt://article/153c37ae-c058-54df-8159-48c980279ff5",
+        "byline": "By Shuaib Almosawa and Vivian Nereim",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T16:09:37-04:00",
+        "created_date": "2025-04-21T16:09:37-04:00",
+        "published_date": "2025-04-21T16:09:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "Houthis"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Sana (Yemen)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21yemen-1-ckgp/21yemen-1-ckgp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The aftermath of Sunday’s U.S. airstrike in Sana, Yemen, on Monday.",
+                "copyright": "Mohammed Huwais/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21yemen-1-ckgp/21yemen-1-ckgp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The aftermath of Sunday’s U.S. airstrike in Sana, Yemen, on Monday.",
+                "copyright": "Mohammed Huwais/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21yemen-1-ckgp/21yemen-1-ckgp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The aftermath of Sunday’s U.S. airstrike in Sana, Yemen, on Monday.",
+                "copyright": "Mohammed Huwais/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "E.P.A. Set to Cancel Grants Aimed at Protecting Children From Toxic Chemicals",
+        "abstract": "The cancellations, set to apply to pending and active grants, also affect research into “forever chemicals” contaminating the food supply.",
+        "url": "https://www.nytimes.com/2025/04/21/climate/epa-cuts-forever-chemicals-grants.html",
+        "uri": "nyt://article/72bd81a6-0b13-5806-8d8b-fc54edea40b3",
+        "byline": "By Hiroko Tabuchi",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T16:08:17-04:00",
+        "created_date": "2025-04-21T16:05:21-04:00",
+        "published_date": "2025-04-21T16:05:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "United States Politics and Government",
+            "Hazardous and Toxic Substances",
+            "Children and Childhood",
+            "Research",
+            "Environment",
+            "PFAS (Per- and Polyfluoroalkyl Substances)"
+        ],
+        "org_facet": [
+            "Environmental Protection Agency"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Zeldin, Lee M",
+            "Kennedy, Robert F Jr"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/climate/21CLI-EPACUTS/21CLI-EPACUTS-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A PFAS treatment plant at the Serrano Water District in Villa Park, Calif.",
+                "copyright": "Leonard Ortiz/MediaNews Group/Orange County Register, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/climate/21CLI-EPACUTS/21CLI-EPACUTS-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A PFAS treatment plant at the Serrano Water District in Villa Park, Calif.",
+                "copyright": "Leonard Ortiz/MediaNews Group/Orange County Register, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/climate/21CLI-EPACUTS/21CLI-EPACUTS-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A PFAS treatment plant at the Serrano Water District in Villa Park, Calif.",
+                "copyright": "Leonard Ortiz/MediaNews Group/Orange County Register, via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "News Is Blocked on Meta’s Feeds in Canada. Here’s What Fills the Void.",
+        "abstract": "Hyperpartisan and misleading content from popular right-wing pages such as Canada Proud is thriving on Facebook as the election nears.",
+        "url": "https://www.nytimes.com/2025/04/21/technology/canada-election-facebook-instagram-meta.html",
+        "uri": "nyt://article/0e56d350-c69b-5359-8ec1-785b409819e5",
+        "byline": "By Matina Stevis-Gridneff and Stuart A. Thompson",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T16:16:51-04:00",
+        "created_date": "2025-04-21T11:06:36-04:00",
+        "published_date": "2025-04-21T11:06:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "Social Media",
+            "News and News Media",
+            "Rumors and Misinformation",
+            "Right-Wing Extremism and Alt-Right",
+            "Computers and the Internet"
+        ],
+        "org_facet": [
+            "Meta Platforms Inc",
+            "Facebook Inc",
+            "Instagram Inc",
+            "Canada Proud"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Ballingall, Jeff"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21biz-canada-elections-meta-lgfj/21biz-canada-elections-meta-lgfj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A campaign debate among Canada’s party leaders in Montreal last week. Online content around the April 28 federal election has veered into misinformation.",
+                "copyright": "Evan Buhler/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21biz-canada-elections-meta-lgfj/21biz-canada-elections-meta-lgfj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A campaign debate among Canada’s party leaders in Montreal last week. Online content around the April 28 federal election has veered into misinformation.",
+                "copyright": "Evan Buhler/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21biz-canada-elections-meta-lgfj/21biz-canada-elections-meta-lgfj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A campaign debate among Canada’s party leaders in Montreal last week. Online content around the April 28 federal election has veered into misinformation.",
+                "copyright": "Evan Buhler/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
