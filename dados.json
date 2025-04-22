@@ -40505,5 +40505,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A Simpler Funeral for Francis, Who Shunned Many Gilt Papal Trappings",
+        "abstract": "A funeral will be held on Saturday for the pope, who changed the rules to make such ceremonies simpler than those traditionally observed.",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/pope-francis-funeral.html",
+        "uri": "nyt://article/0757ce1d-b7e1-580a-9404-b80f86eee4fc",
+        "byline": "By Elisabetta Povoledo, Emma Bubola and Michael Levenson",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T18:55:14-04:00",
+        "created_date": "2025-04-22T18:55:14-04:00",
+        "published_date": "2025-04-22T18:55:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-pope-leadall-01-zqbm/22int-pope-leadall-01-zqbm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A group of pilgrims walking toward St. Peter’s Square on Tuesday in Rome.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-pope-leadall-01-zqbm/22int-pope-leadall-01-zqbm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A group of pilgrims walking toward St. Peter’s Square on Tuesday in Rome.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-pope-leadall-01-zqbm/22int-pope-leadall-01-zqbm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A group of pilgrims walking toward St. Peter’s Square on Tuesday in Rome.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
