@@ -39285,5 +39285,87 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Syria Makes Rare Arrests of Palestinian Militant Group Leaders",
+        "abstract": "The arrests marked a pendulum swing for the government. Under the Assad regime, Syria served as a base of operations for several Palestinian armed factions.",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/syria-arrests-palestinian-militant-leaders.html",
+        "uri": "nyt://article/bdad2af1-6f04-5cb2-90d0-9436a95ed9cc",
+        "byline": "By Euan Ward",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T12:25:19-04:00",
+        "created_date": "2025-04-22T12:25:19-04:00",
+        "published_date": "2025-04-22T12:25:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Palestinians",
+            "War and Armed Conflicts"
+        ],
+        "org_facet": [
+            "Palestinian Islamic Jihad"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )"
+        ],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22-int-syria-arrests-01-bfkp/22-int-syria-arrests-01-bfkp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of Hayat Tahrir al-Sham, the rebel group that led the overthrow of President Bashar al-Assad of Syria, at a security checkpoint in the city of Homs in February.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22-int-syria-arrests-01-bfkp/22-int-syria-arrests-01-bfkp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of Hayat Tahrir al-Sham, the rebel group that led the overthrow of President Bashar al-Assad of Syria, at a security checkpoint in the city of Homs in February.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22-int-syria-arrests-01-bfkp/22-int-syria-arrests-01-bfkp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of Hayat Tahrir al-Sham, the rebel group that led the overthrow of President Bashar al-Assad of Syria, at a security checkpoint in the city of Homs in February.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump and Zelensky are among the leaders planning to attend Francis’ funeral.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news/pope-francis-funeral-guests",
+        "uri": "nyt://article/a9cd1cca-9cf7-54c1-aa13-e8f58de7dbf3",
+        "byline": "By Amelia Nierenberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T13:09:16-04:00",
+        "created_date": "2025-04-22T13:09:16-04:00",
+        "published_date": "2025-04-22T13:09:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
     }
 ]
