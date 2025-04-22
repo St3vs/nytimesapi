@@ -37950,5 +37950,135 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "A Venezuelan Is Missing. The U.S. Deported Him. But to Where?",
+        "abstract": "The immigrant does not appear on a list of people sent to a prison in El Salvador, and his family and friends have no idea of his whereabouts. He has essentially disappeared.",
+        "url": "https://www.nytimes.com/2025/04/22/us/venezuela-immigrant-disappear-deport-ice.html",
+        "uri": "nyt://article/6dc66cf1-c1d5-58e1-b7c7-ff33a66c730b",
+        "byline": "By Miriam Jordan",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T05:04:09-04:00",
+        "created_date": "2025-04-22T05:04:09-04:00",
+        "published_date": "2025-04-22T05:04:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Immigration Detention",
+            "Immigration and Emigration",
+            "United States Politics and Government",
+            "Venezuelan-Americans"
+        ],
+        "org_facet": [
+            "Immigration and Customs Enforcement (US)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Venezuela",
+            "Detroit (Mich)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00nat-immigrant-disappear-01-mbfh/00nat-immigrant-disappear-01-mbfh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ricardo Prada Vásquez accidentally turned onto the Ambassador Bridge, which connects Detroit with Canada. He was detained while attempting to re-enter the United States.",
+                "copyright": "Brittany Greeson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00nat-immigrant-disappear-01-mbfh/00nat-immigrant-disappear-01-mbfh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ricardo Prada Vásquez accidentally turned onto the Ambassador Bridge, which connects Detroit with Canada. He was detained while attempting to re-enter the United States.",
+                "copyright": "Brittany Greeson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00nat-immigrant-disappear-01-mbfh/00nat-immigrant-disappear-01-mbfh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ricardo Prada Vásquez accidentally turned onto the Ambassador Bridge, which connects Detroit with Canada. He was detained while attempting to re-enter the United States.",
+                "copyright": "Brittany Greeson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Businesses Plead for Tariff Breaks After Trump Spares iPhones",
+        "abstract": "Retail executives huddled with the president amid fears that tariffs could result in higher prices.",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/trump-tariffs-relief-apple.html",
+        "uri": "nyt://article/e9b69144-5ed6-56b7-b91f-36c856766a6d",
+        "byline": "By Tony Romm",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T05:03:36-04:00",
+        "created_date": "2025-04-22T05:03:36-04:00",
+        "published_date": "2025-04-22T05:03:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Computers and the Internet",
+            "Factories and Manufacturing",
+            "Prices (Fares, Fees and Rates)",
+            "Electronics",
+            "Computer Chips",
+            "Automobiles",
+            "Rare Earths"
+        ],
+        "org_facet": [
+            "Apple Inc"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-tarifflobby-pvcf/22dc-tarifflobby-pvcf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump acknowledged last week that he had “helped” Apple, sparing iPhones from the roughly 145 percent U.S. tariff that currently applies to Chinese imports.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-tarifflobby-pvcf/22dc-tarifflobby-pvcf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump acknowledged last week that he had “helped” Apple, sparing iPhones from the roughly 145 percent U.S. tariff that currently applies to Chinese imports.",
+                "copyright": "Karsten Moran for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-tarifflobby-pvcf/22dc-tarifflobby-pvcf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump acknowledged last week that he had “helped” Apple, sparing iPhones from the roughly 145 percent U.S. tariff that currently applies to Chinese imports.",
+                "copyright": "Karsten Moran for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
