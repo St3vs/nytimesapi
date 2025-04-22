@@ -38408,5 +38408,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Pope Francis’ Death Cuts a Vital Line of Hope for Gaza’s Christians",
+        "abstract": "For months, the pontiff spoke by telephone almost every night with people sheltering in a Catholic church in the battered enclave. “The evenings became known as the pope’s time,” a priest in Gaza said.",
+        "url": "https://www.nytimes.com/2025/04/22/world/middleeast/pope-francis-gaza.html",
+        "uri": "nyt://article/8f884269-107e-57b2-b59a-4b6a51de7dd4",
+        "byline": "By Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T07:52:10-04:00",
+        "created_date": "2025-04-22T07:39:35-04:00",
+        "published_date": "2025-04-22T07:39:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "International Relations",
+            "Christians and Christianity",
+            "Popes",
+            "Palestinians"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-gaza-kcmz/22pope-francis-gaza-kcmz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Mass for Pope Francis at Holy Family Church in the Gaza Strip on Monday.",
+                "copyright": "Omar Al-Qattaa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-gaza-kcmz/22pope-francis-gaza-kcmz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Mass for Pope Francis at Holy Family Church in the Gaza Strip on Monday.",
+                "copyright": "Omar Al-Qattaa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-gaza-kcmz/22pope-francis-gaza-kcmz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Mass for Pope Francis at Holy Family Church in the Gaza Strip on Monday.",
+                "copyright": "Omar Al-Qattaa/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
