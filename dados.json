@@ -37701,5 +37701,35 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Here’s more on the pope’s legacy and what comes next.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news/heres-more-on-the-popes-legacy-and-what-comes-next",
+        "uri": "nyt://article/178e0ee4-c469-5d4b-bf4d-643b8747445c",
+        "byline": "By Eric Nagourney",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T22:12:20-04:00",
+        "created_date": "2025-04-21T22:12:20-04:00",
+        "published_date": "2025-04-21T22:12:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials",
+            "Clergy",
+            "Popes",
+            "Priests"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
     }
 ]
