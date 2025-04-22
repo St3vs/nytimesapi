@@ -38658,5 +38658,252 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What to Know About Pope Francis’ Funeral Arrangements",
+        "abstract": "The funeral will take place on Saturday. The process to choose his successor will come next.",
+        "url": "https://www.nytimes.com/article/pope-francis-death-health-problems.html",
+        "uri": "nyt://article/4f8e1930-3961-5f79-a59b-70ed3c61027a",
+        "byline": "By Elisabetta Povoledo and Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T09:44:40-04:00",
+        "created_date": "2025-02-24T12:04:27-05:00",
+        "published_date": "2025-02-24T12:04:27-05:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials",
+            "Cardinals (Roman Catholic Prelates)",
+            "Coffins",
+            "Priests",
+            "Grief (Emotion)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Francis",
+            "John Paul II",
+            "Re, Giovanni Battista"
+        ],
+        "geo_facet": [
+            "Rome (Italy)",
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-explainer-top-sub-bphw/21pope-explainer-top-sub-bphw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in St. Peter’s Square at the Vatican on April 13.",
+                "copyright": "Alessandra Tarantino/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-explainer-top-sub-bphw/21pope-explainer-top-sub-bphw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in St. Peter’s Square at the Vatican on April 13.",
+                "copyright": "Alessandra Tarantino/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-explainer-top-sub-bphw/21pope-explainer-top-sub-bphw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in St. Peter’s Square at the Vatican on April 13.",
+                "copyright": "Alessandra Tarantino/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "For his final resting place, Francis chose simplicity in a place of beauty.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news/for-his-final-resting-place-francis-chose-simplicity-in-a-place-of-beauty",
+        "uri": "nyt://article/4da4997e-191a-5e0b-a14f-9ec3b51d2ab8",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T10:00:15-04:00",
+        "created_date": "2025-04-22T09:39:10-04:00",
+        "published_date": "2025-04-22T09:39:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-mary-major-vmjb/22pope-francis-mary-major-vmjb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A statue of Pope Pius IX at the Basilica of Santa Maria Maggiore in Rome, Italy, on Tuesday.",
+                "copyright": "Dylan Martinez/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-mary-major-vmjb/22pope-francis-mary-major-vmjb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A statue of Pope Pius IX at the Basilica of Santa Maria Maggiore in Rome, Italy, on Tuesday.",
+                "copyright": "Dylan Martinez/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-mary-major-vmjb/22pope-francis-mary-major-vmjb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A statue of Pope Pius IX at the Basilica of Santa Maria Maggiore in Rome, Italy, on Tuesday.",
+                "copyright": "Dylan Martinez/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Even in Sickness, Pope Francis Reached Out to Gaza’s Christians",
+        "abstract": "For months, the pontiff spoke by telephone almost every night with people sheltering in a Catholic church in the battered enclave, a ritual he tried to keep up in the hospital.",
+        "url": "https://www.nytimes.com/2025/04/22/world/middleeast/pope-francis-gaza.html",
+        "uri": "nyt://article/8f884269-107e-57b2-b59a-4b6a51de7dd4",
+        "byline": "By Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T09:41:14-04:00",
+        "created_date": "2025-04-22T07:39:35-04:00",
+        "published_date": "2025-04-22T07:39:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "International Relations",
+            "Christians and Christianity",
+            "Popes",
+            "Palestinians"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-gaza-kcmz/22pope-francis-gaza-kcmz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Mass for Pope Francis at Holy Family Church in the Gaza Strip on Monday.",
+                "copyright": "Omar Al-Qattaa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-gaza-kcmz/22pope-francis-gaza-kcmz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Mass for Pope Francis at Holy Family Church in the Gaza Strip on Monday.",
+                "copyright": "Omar Al-Qattaa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-gaza-kcmz/22pope-francis-gaza-kcmz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Mass for Pope Francis at Holy Family Church in the Gaza Strip on Monday.",
+                "copyright": "Omar Al-Qattaa/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "An Immigrant Held in U.S. Custody ‘Has Simply Disappeared’",
+        "abstract": "The Venezuelan man does not appear on a list of people sent to a prison in El Salvador, and his family and friends have no idea of his whereabouts.",
+        "url": "https://www.nytimes.com/2025/04/22/us/venezuela-immigrant-disappear-deport-ice.html",
+        "uri": "nyt://article/6dc66cf1-c1d5-58e1-b7c7-ff33a66c730b",
+        "byline": "By Miriam Jordan",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T09:46:22-04:00",
+        "created_date": "2025-04-22T05:04:09-04:00",
+        "published_date": "2025-04-22T05:04:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Immigration Detention",
+            "Immigration and Emigration",
+            "United States Politics and Government",
+            "Venezuelan-Americans"
+        ],
+        "org_facet": [
+            "Immigration and Customs Enforcement (US)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Venezuela",
+            "Detroit (Mich)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00nat-immigrant-disappear-01-mbfh/00nat-immigrant-disappear-01-mbfh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ricardo Prada Vásquez accidentally turned onto the Ambassador Bridge, which connects Detroit with Canada. He was detained while attempting to re-enter the United States.",
+                "copyright": "Brittany Greeson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00nat-immigrant-disappear-01-mbfh/00nat-immigrant-disappear-01-mbfh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ricardo Prada Vásquez accidentally turned onto the Ambassador Bridge, which connects Detroit with Canada. He was detained while attempting to re-enter the United States.",
+                "copyright": "Brittany Greeson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00nat-immigrant-disappear-01-mbfh/00nat-immigrant-disappear-01-mbfh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ricardo Prada Vásquez accidentally turned onto the Ambassador Bridge, which connects Detroit with Canada. He was detained while attempting to re-enter the United States.",
+                "copyright": "Brittany Greeson for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
