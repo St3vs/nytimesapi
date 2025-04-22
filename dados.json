@@ -39678,5 +39678,304 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Latest Updates: Pope Will Lie in State for Three Days Before Funeral on Saturday",
+        "abstract": "Pope Francis’ funeral will be a more modest event, after the pontiff broke with longstanding Vatican tradition to simplify the ritual. The conclave to choose his successor will likely start at least a week after the funeral.",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news",
+        "uri": "nyt://promo/647b74b7-7112-5ab6-abc5-066c5fc94e59",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-22T15:15:56-04:00",
+        "created_date": "2025-04-22T06:23:18-04:00",
+        "published_date": "2025-04-22T06:23:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-live-promo-3pm-tbqm/22pope-live-promo-3pm-tbqm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-live-promo-3pm-tbqm/22pope-live-promo-3pm-tbqm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Adam Gray for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-live-promo-3pm-tbqm/22pope-live-promo-3pm-tbqm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Adam Gray for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "At Least 24 Tourists Gunned Down by Militants in Kashmir",
+        "abstract": "Prime Minister Narendra Modi of India called the shooting, the worst against civilians in the region for years, a “terror attack” and vowed to bring the perpetrators to justice.",
+        "url": "https://www.nytimes.com/2025/04/22/world/asia/kashmir-terrorist-attack.html",
+        "uri": "nyt://article/c2467719-5ecf-5cfc-8864-b13115cb38c6",
+        "byline": "By Anupreeta Das, Suhasini Raj and Showkat Nanda",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T14:53:00-04:00",
+        "created_date": "2025-04-22T11:27:49-04:00",
+        "published_date": "2025-04-22T11:27:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "Travel and Vacations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra",
+            "Abdullah, Omar"
+        ],
+        "geo_facet": [
+            "Kashmir and Jammu (India)",
+            "Kashmir",
+            "India"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-india-kashmir-cklv/22int-india-kashmir-cklv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security officers patrolling near Pahalgam in south Kashmir after militants opened fire on tourists on Tuesday.",
+                "copyright": "Dar Yasin/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-india-kashmir-cklv/22int-india-kashmir-cklv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security officers patrolling near Pahalgam in south Kashmir after militants opened fire on tourists on Tuesday.",
+                "copyright": "Dar Yasin/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-india-kashmir-cklv/22int-india-kashmir-cklv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security officers patrolling near Pahalgam in south Kashmir after militants opened fire on tourists on Tuesday.",
+                "copyright": "Dar Yasin/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Why Did Francis Never Return Home to Argentina as Pope?",
+        "abstract": "Francis never gave an explicit answer for not returning as pontiff to his native country, but some experts say he worried about having his presence used for political purposes.",
+        "url": "https://www.nytimes.com/2025/04/22/world/americas/pope-francis-argentina.html",
+        "uri": "nyt://article/9b15a1e5-bafe-54c8-9afb-a583cba922a6",
+        "byline": "By Daniel Politi",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T15:16:55-04:00",
+        "created_date": "2025-04-22T11:55:45-04:00",
+        "published_date": "2025-04-22T11:55:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Milei, Javier"
+        ],
+        "geo_facet": [
+            "Argentina",
+            "Buenos Aires (Argentina)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-argentina-francis-tcjh/22int-argentina-francis-tcjh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners took part in an open air mass to mourn the death of Pope Francis on Monday night in Buenos Aires.",
+                "copyright": "Sarah Pabst for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-argentina-francis-tcjh/22int-argentina-francis-tcjh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners took part in an open air mass to mourn the death of Pope Francis on Monday night in Buenos Aires.",
+                "copyright": "Sarah Pabst for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-argentina-francis-tcjh/22int-argentina-francis-tcjh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners took part in an open air mass to mourn the death of Pope Francis on Monday night in Buenos Aires.",
+                "copyright": "Sarah Pabst for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "‘Vacancy of the Holy See’: The Vatican slows down but doesn’t stop between popes.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news/vatican-business",
+        "uri": "nyt://article/9ec6af77-f96d-549f-911c-886ef71de8a5",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T15:15:11-04:00",
+        "created_date": "2025-04-22T15:01:38-04:00",
+        "published_date": "2025-04-22T15:01:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Clergy",
+            "Cardinals (Roman Catholic Prelates)",
+            "Priests",
+            "Appointments and Executive Changes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Re, Giovanni Battista",
+            "Paul VI",
+            "John Paul II",
+            "Farrell, Kevin J (1947- )"
+        ],
+        "geo_facet": [
+            "Rome (Italy)",
+            "Virginia",
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-inter-regnum1-lqpg/22pope-francis-inter-regnum1-lqpg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Giovanni Battista Re, right, before a rosary prayer on St. Peter’s Square in the Vatican on Tuesday. The cardinal is the dean of the College of Cardinals and is in charge of convoking the world’s 252 cardinals to Rome.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-inter-regnum1-lqpg/22pope-francis-inter-regnum1-lqpg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Giovanni Battista Re, right, before a rosary prayer on St. Peter’s Square in the Vatican on Tuesday. The cardinal is the dean of the College of Cardinals and is in charge of convoking the world’s 252 cardinals to Rome.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-inter-regnum1-lqpg/22pope-francis-inter-regnum1-lqpg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Giovanni Battista Re, right, before a rosary prayer on St. Peter’s Square in the Vatican on Tuesday. The cardinal is the dean of the College of Cardinals and is in charge of convoking the world’s 252 cardinals to Rome.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "",
+        "title": "A choice that sent a message: Looking back at Francis’ 2013 election as pope.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news/a-choice-that-sent-a-message-looking-back-at-francis-2013-election-as-pope",
+        "uri": "nyt://article/86c07c9a-6465-5592-ac40-a35cd2534829",
+        "byline": "By Rachel Donadio",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T15:09:23-04:00",
+        "created_date": "2025-04-22T14:42:10-04:00",
+        "published_date": "2025-04-22T14:42:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21pope-francis-appointment1-ljmg/21pope-francis-appointment1-ljmg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1283,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Newly elected Pope Francis, waving from the steps of the St. Mary Major Basilica in Rome, in 2013.",
+                "copyright": "Alessandro Bianchi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21pope-francis-appointment1-ljmg/21pope-francis-appointment1-ljmg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Newly elected Pope Francis, waving from the steps of the St. Mary Major Basilica in Rome, in 2013.",
+                "copyright": "Alessandro Bianchi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/21/multimedia/21pope-francis-appointment1-ljmg/21pope-francis-appointment1-ljmg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Newly elected Pope Francis, waving from the steps of the St. Mary Major Basilica in Rome, in 2013.",
+                "copyright": "Alessandro Bianchi/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
