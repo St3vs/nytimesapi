@@ -38905,5 +38905,137 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia and Ukraine, Under Trump Pressure, Signal Openness to Direct Talks",
+        "abstract": "An unusual public back-and-forth suggested that both sides in the war were eager to at least appear interested in negotiations.",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/russia-ukraine-putin-zelensky.html",
+        "uri": "nyt://article/fefd5ba8-d5a5-5fa3-aa2b-addc0c67c7dc",
+        "byline": "By Anton Troianovski",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T10:51:43-04:00",
+        "created_date": "2025-04-22T10:37:52-04:00",
+        "published_date": "2025-04-22T10:37:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Peskov, Dmitri S",
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Black Sea",
+            "Europe",
+            "Kyiv (Ukraine)",
+            "Kursk (Russia)",
+            "Moscow (Russia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-russia-ukraine-01-czlf/22int-russia-ukraine-01-czlf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ukrainian soldiers on the front line in February.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-russia-ukraine-01-czlf/22int-russia-ukraine-01-czlf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ukrainian soldiers on the front line in February.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-russia-ukraine-01-czlf/22int-russia-ukraine-01-czlf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ukrainian soldiers on the front line in February.",
+                "copyright": "Tyler Hicks/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "‘The Two Popes,’ ‘Conclave’ and Francis’ Autobiography: The Papacy in Recent Culture",
+        "abstract": "The Vatican — with its politics, its pageantry and its power — has long been a favorite subject for artists and thinkers.",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/francis-two-popes-movie-book.html",
+        "uri": "nyt://article/845f04a8-682c-5a38-abff-31467a0a0eeb",
+        "byline": "By Amelia Nierenberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T10:39:24-04:00",
+        "created_date": "2025-04-22T10:30:58-04:00",
+        "published_date": "2025-04-22T10:30:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Books and Literature",
+            "Movies",
+            "Conclave (Movie)",
+            "The Two Popes (Movie)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Fiennes, Ralph",
+            "Benedict XVI",
+            "Francis"
+        ],
+        "geo_facet": [
+            "Italy"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-pope-culture-jbtp/22pope-francis-pope-culture-jbtp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In an image released by Netflix, Anthony Hopkins, left, and Jonathan Pryce play Pope Benedict XVI and Cardinal Bergoglio, who later became Pope Francis, in a scene from the movie “The Two Popes.”",
+                "copyright": "Peter Mountain/Netflix, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-pope-culture-jbtp/22pope-francis-pope-culture-jbtp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In an image released by Netflix, Anthony Hopkins, left, and Jonathan Pryce play Pope Benedict XVI and Cardinal Bergoglio, who later became Pope Francis, in a scene from the movie “The Two Popes.”",
+                "copyright": "Peter Mountain/Netflix, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-pope-culture-jbtp/22pope-francis-pope-culture-jbtp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In an image released by Netflix, Anthony Hopkins, left, and Jonathan Pryce play Pope Benedict XVI and Cardinal Bergoglio, who later became Pope Francis, in a scene from the movie “The Two Popes.”",
+                "copyright": "Peter Mountain/Netflix, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
