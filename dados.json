@@ -39037,5 +39037,253 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "At Least 24 Tourists Reported Killed by Gunmen in Kashmir",
+        "abstract": "The attack, in a picturesque district of India, was the worst assault against civilians in the restive region in years, its leader said.",
+        "url": "https://www.nytimes.com/2025/04/22/world/asia/kashmir-terrorist-attack.html",
+        "uri": "nyt://article/c2467719-5ecf-5cfc-8864-b13115cb38c6",
+        "byline": "By Anupreeta Das, Suhasini Raj and Showkat Nanda",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T11:49:39-04:00",
+        "created_date": "2025-04-22T11:27:49-04:00",
+        "published_date": "2025-04-22T11:27:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "Travel and Vacations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra",
+            "Abdullah, Omar"
+        ],
+        "geo_facet": [
+            "Kashmir and Jammu (India)",
+            "Kashmir",
+            "India"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-india-kashmir-cklv/22int-india-kashmir-cklv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security officers patrolling near Pahalgam in south Kashmir after militants opened fire on tourists on Tuesday.",
+                "copyright": "Dar Yasin/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-india-kashmir-cklv/22int-india-kashmir-cklv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security officers patrolling near Pahalgam in south Kashmir after militants opened fire on tourists on Tuesday.",
+                "copyright": "Dar Yasin/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-india-kashmir-cklv/22int-india-kashmir-cklv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security officers patrolling near Pahalgam in south Kashmir after militants opened fire on tourists on Tuesday.",
+                "copyright": "Dar Yasin/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "U.S. Tells Its Diplomats in Vietnam to Avoid War Anniversary Events",
+        "abstract": "The reversal adds another Trump administration blow to decades of reconciliation efforts.",
+        "url": "https://www.nytimes.com/2025/04/22/world/asia/us-diplomats-vietnam-war-anniversary-trump.html",
+        "uri": "nyt://article/9b29be70-9a47-5997-a371-e476e72cf675",
+        "byline": "By Damien Cave",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T12:02:39-04:00",
+        "created_date": "2025-04-22T12:02:39-04:00",
+        "published_date": "2025-04-22T12:02:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States International Relations",
+            "Veterans",
+            "United States Politics and Government",
+            "Vietnam War"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Vietnam"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-vietnam-anniversary-mbzl/22int-vietnam-anniversary-mbzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "U.S. Secretary of State Antony Blinken, center, accompanied by the U.S. ambassador to Vietnam, Marc Knapper, in red tie, walking to Binh Minh Jazz Club in Hanoi, Vietnam, in April 2023.",
+                "copyright": "Pool photo by Andrew Harnik"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-vietnam-anniversary-mbzl/22int-vietnam-anniversary-mbzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "U.S. Secretary of State Antony Blinken, center, accompanied by the U.S. ambassador to Vietnam, Marc Knapper, in red tie, walking to Binh Minh Jazz Club in Hanoi, Vietnam, in April 2023.",
+                "copyright": "Pool photo by Andrew Harnik"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-vietnam-anniversary-mbzl/22int-vietnam-anniversary-mbzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "U.S. Secretary of State Antony Blinken, center, accompanied by the U.S. ambassador to Vietnam, Marc Knapper, in red tie, walking to Binh Minh Jazz Club in Hanoi, Vietnam, in April 2023.",
+                "copyright": "Pool photo by Andrew Harnik"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "As Argentina Mourns, the Pain of Pope Francis Never Visiting Lingers",
+        "abstract": "Francis never gave an explicit answer for not returning as pontiff to his native country, but some experts say he worried about having his presence used for political purposes.",
+        "url": "https://www.nytimes.com/2025/04/22/world/americas/pope-francis-argentina.html",
+        "uri": "nyt://article/9b15a1e5-bafe-54c8-9afb-a583cba922a6",
+        "byline": "By Daniel Politi",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T12:05:27-04:00",
+        "created_date": "2025-04-22T11:55:45-04:00",
+        "published_date": "2025-04-22T11:55:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Milei, Javier"
+        ],
+        "geo_facet": [
+            "Argentina",
+            "Buenos Aires (Argentina)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-argentina-francis-tcjh/22int-argentina-francis-tcjh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners took part in an open air mass to mourn the death of Pope Francis on Monday night in Buenos Aires.",
+                "copyright": "Sarah Pabst for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-argentina-francis-tcjh/22int-argentina-francis-tcjh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners took part in an open air mass to mourn the death of Pope Francis on Monday night in Buenos Aires.",
+                "copyright": "Sarah Pabst for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-argentina-francis-tcjh/22int-argentina-francis-tcjh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners took part in an open air mass to mourn the death of Pope Francis on Monday night in Buenos Aires.",
+                "copyright": "Sarah Pabst for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Easter Monday, the day of Francis’ death, has particular significance for Catholics.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news/easter-monday-the-day-of-francis-death-has-particular-significance-for-catholics",
+        "uri": "nyt://article/4676abd3-4074-588c-a533-0b1b08370a2c",
+        "byline": "By Matthew Mpoke Bigg",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T11:44:31-04:00",
+        "created_date": "2025-04-22T11:40:34-04:00",
+        "published_date": "2025-04-22T11:40:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Easter and Holy Week",
+            "Clergy",
+            "Priests",
+            "Christians and Christianity"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Jesus Christ"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-easter-symbolism1-hkpz/22pope-francis-easter-symbolism1-hkpz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis blessed tens of thousands of faithful gathered in St. Peter’s Square for Easter Mass on Sunday. A Vatican aide delivered a papal speech on his behalf.",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-easter-symbolism1-hkpz/22pope-francis-easter-symbolism1-hkpz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis blessed tens of thousands of faithful gathered in St. Peter’s Square for Easter Mass on Sunday. A Vatican aide delivered a papal speech on his behalf.",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-easter-symbolism1-hkpz/22pope-francis-easter-symbolism1-hkpz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis blessed tens of thousands of faithful gathered in St. Peter’s Square for Easter Mass on Sunday. A Vatican aide delivered a papal speech on his behalf.",
+                "copyright": "Yara Nardi/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
