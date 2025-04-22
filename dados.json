@@ -38080,5 +38080,57 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Nations have begun official periods of mourning.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news/nations-have-begun-official-periods-of-mourning",
+        "uri": "nyt://article/a31a9ddf-8cd8-5ae3-8402-9d106cbeb237",
+        "byline": "By John Yoon",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T05:54:14-04:00",
+        "created_date": "2025-04-22T05:48:18-04:00",
+        "published_date": "2025-04-22T05:48:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-remembrances-ktcg/22pope-francis-remembrances-ktcg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A memorial for Pope Francis at a cathedral in Manila, the Philippines, on Tuesday.",
+                "copyright": "Ezra Acayan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-remembrances-ktcg/22pope-francis-remembrances-ktcg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A memorial for Pope Francis at a cathedral in Manila, the Philippines, on Tuesday.",
+                "copyright": "Ezra Acayan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-remembrances-ktcg/22pope-francis-remembrances-ktcg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A memorial for Pope Francis at a cathedral in Manila, the Philippines, on Tuesday.",
+                "copyright": "Ezra Acayan for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
