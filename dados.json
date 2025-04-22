@@ -40144,5 +40144,118 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Wednesday Briefing: A Downgrade in Global Growth",
+        "abstract": "Plus, the next big thing from Japan.",
+        "url": "https://www.nytimes.com/2025/04/22/briefing/global-growth-pope-funeral-russia-ukraine-talks.html",
+        "uri": "nyt://article/8c32b489-be19-5aff-9916-57ee33e3c09e",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T17:00:38-04:00",
+        "created_date": "2025-04-22T17:00:38-04:00",
+        "published_date": "2025-04-22T17:00:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/23ambriefing-asia-global/23ambriefing-asia-global-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2047,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steep tariffs on U.S. trading partners have left businesses paralyzed by uncertainty.",
+                "copyright": "Maggie Shannon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/23ambriefing-asia-global/23ambriefing-asia-global-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steep tariffs on U.S. trading partners have left businesses paralyzed by uncertainty.",
+                "copyright": "Maggie Shannon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/23ambriefing-asia-global/23ambriefing-asia-global-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Steep tariffs on U.S. trading partners have left businesses paralyzed by uncertainty.",
+                "copyright": "Maggie Shannon for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Costa Rica Tells Trump Deportees They Can Stay and Integrate, or Leave",
+        "abstract": "The country is taking action to “protect” dozens of migrants from faraway nations who were deported from the United States and until recently, were indefinitely detained.",
+        "url": "https://www.nytimes.com/2025/04/22/world/americas/costa-rica-deported-migrants.html",
+        "uri": "nyt://article/f2fe7538-b4f9-5f20-8978-3a407072f45d",
+        "byline": "By Emiliano Rodríguez Mega",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T17:07:53-04:00",
+        "created_date": "2025-04-22T16:33:48-04:00",
+        "published_date": "2025-04-22T16:33:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Refugees and Displaced Persons"
+        ],
+        "org_facet": [
+            "United Nations"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Costa Rica"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-costa-rica-migrants-wlkq/22int-costa-rica-migrants-wlkq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1320,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Migrants at a detention center last month in Puntarenas, Costa Rica.",
+                "copyright": "Patricio Bianchi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-costa-rica-migrants-wlkq/22int-costa-rica-migrants-wlkq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Migrants at a detention center last month in Puntarenas, Costa Rica.",
+                "copyright": "Patricio Bianchi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-costa-rica-migrants-wlkq/22int-costa-rica-migrants-wlkq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Migrants at a detention center last month in Puntarenas, Costa Rica.",
+                "copyright": "Patricio Bianchi/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
