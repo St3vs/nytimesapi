@@ -40257,5 +40257,253 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Pope Will Lie in State for Three Days Before Funeral on Saturday",
+        "abstract": "President Trump and President Volodymyr Zelensky of Ukraine are among the world leaders who plan to attend the funeral. The conclave to choose his successor will most likely start at least a week later.",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news",
+        "uri": "nyt://promo/647b74b7-7112-5ab6-abc5-066c5fc94e59",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-22T18:01:09-04:00",
+        "created_date": "2025-04-22T06:23:18-04:00",
+        "published_date": "2025-04-22T06:23:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-promo-5pm/22pope-francis-promo-4pm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The Vatican"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-promo-5pm/22pope-francis-promo-4pm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The Vatican"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-promo-5pm/22pope-francis-promo-4pm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The Vatican"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Mexico’s President Punches Back Against Kristi Noem’s Anti-Migrant Ads",
+        "abstract": "The D.H.S. secretary’s appearances on Mexican television blaming migrants for societal ills in the U.S. have drawn a sharp rebuke from Mexico’s president, Claudia Sheinbaum.",
+        "url": "https://www.nytimes.com/2025/04/22/world/americas/mexico-kristi-noem-sheinbaum-ads.html",
+        "uri": "nyt://article/f9da2bc3-586c-59b6-b08e-4fc78c1af043",
+        "byline": "By Simon Romero and Paulina Villegas",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T17:40:26-04:00",
+        "created_date": "2025-04-22T17:40:26-04:00",
+        "published_date": "2025-04-22T17:40:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Illegal Immigration",
+            "Deportation"
+        ],
+        "org_facet": [
+            "Homeland Security Department"
+        ],
+        "per_facet": [
+            "Sheinbaum, Claudia",
+            "Trump, Donald J",
+            "Noem, Kristi"
+        ],
+        "geo_facet": [
+            "Mexico"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-mexico-ads-hpjk/22int-mexico-ads-hpjk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Claudia Sheinbaum of Mexico, left, with Kristi Noem, the U.S. secretary of homeland security, last month in Mexico City.",
+                "copyright": "Alex Brandon/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-mexico-ads-hpjk/22int-mexico-ads-hpjk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Claudia Sheinbaum of Mexico, left, with Kristi Noem, the U.S. secretary of homeland security, last month in Mexico City.",
+                "copyright": "Alex Brandon/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-mexico-ads-hpjk/22int-mexico-ads-hpjk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Claudia Sheinbaum of Mexico, left, with Kristi Noem, the U.S. secretary of homeland security, last month in Mexico City.",
+                "copyright": "Alex Brandon/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Rubio Skipping Ukraine Talks as Zelensky Rebuffs U.S. on Crimea",
+        "abstract": "The decision by Secretary of State Marco Rubio to pull out of the meeting and an objection by Ukraine’s leader to a key U.S. proposal raised questions about the state of the negotiations.",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/ukraine-cease-fire-talks.html",
+        "uri": "nyt://article/02e044b6-4cf2-5c27-adce-13c146dec7ea",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T17:47:11-04:00",
+        "created_date": "2025-04-22T17:29:12-04:00",
+        "published_date": "2025-04-22T17:29:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Peace Process",
+            "United States International Relations",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Rubio, Marco",
+            "Zelensky, Volodymyr",
+            "Putin, Vladimir V",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Crimea (Ukraine)",
+            "Russia",
+            "Ukraine",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23ukraine-diplo-1-mzkj/23ukraine-diplo-1-mzkj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sifting through rubble a day after a Russian ballistic missile strike that killed 34 people in Sumy, Ukraine, last week.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23ukraine-diplo-1-mzkj/23ukraine-diplo-1-mzkj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sifting through rubble a day after a Russian ballistic missile strike that killed 34 people in Sumy, Ukraine, last week.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23ukraine-diplo-1-mzkj/23ukraine-diplo-1-mzkj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sifting through rubble a day after a Russian ballistic missile strike that killed 34 people in Sumy, Ukraine, last week.",
+                "copyright": "Tyler Hicks/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Francis was the pope who made the most saints.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news/saints-mother-teresa",
+        "uri": "nyt://article/cdee5730-288b-58fa-9597-4bbc29f2a3bf",
+        "byline": "By Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T17:13:31-04:00",
+        "created_date": "2025-04-22T17:13:31-04:00",
+        "published_date": "2025-04-22T17:13:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Christians and Christianity",
+            "Beatifications and Canonizations"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Teresa (Mother)",
+            "Acutis, Carlo (1991-2006)",
+            "Teresa of Avila (1515-82)",
+            "Francis"
+        ],
+        "geo_facet": [
+            "Italy",
+            "India"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22Pope-Francis-Saints-Canonization1-lcpm/22Pope-Francis-Saints-Canonization1-lcpm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1388,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis prayed in front of a memorial to Mother Teresa, whom he made a saint in 2016.",
+                "copyright": "Alessandra Tarantino/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22Pope-Francis-Saints-Canonization1-lcpm/22Pope-Francis-Saints-Canonization1-lcpm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis prayed in front of a memorial to Mother Teresa, whom he made a saint in 2016.",
+                "copyright": "Alessandra Tarantino/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22Pope-Francis-Saints-Canonization1-lcpm/22Pope-Francis-Saints-Canonization1-lcpm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis prayed in front of a memorial to Mother Teresa, whom he made a saint in 2016.",
+                "copyright": "Alessandra Tarantino/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
