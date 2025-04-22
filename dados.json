@@ -38472,5 +38472,191 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "During a trip to Mexico, Francis addressed the immigration debate.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news/during-a-trip-to-mexico-francis-addressed-the-immigration-debate",
+        "uri": "nyt://article/3ac0b5fd-6b20-59c7-9faf-9d7d2d1e2f0b",
+        "byline": "By Simon Romero and Emiliano Rodríguez Mega",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T09:08:16-04:00",
+        "created_date": "2025-04-22T09:08:16-04:00",
+        "published_date": "2025-04-22T09:08:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Immigration and Emigration",
+            "Drug Abuse and Traffic",
+            "Illegal Immigration",
+            "Popes"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Francis",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Mexico"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2016/02/17/world/americas/21pope-francis-mexico1/POPE-RFR-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1339,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Francis before celebrating Mass in Ciudad Juárez, Mexico, near the U.S.-Mexico border in 2016.",
+                "copyright": "Yuri Cortez/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2016/02/17/world/americas/21pope-francis-mexico1/21pope-francis-mexico1-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Francis before celebrating Mass in Ciudad Juárez, Mexico, near the U.S.-Mexico border in 2016.",
+                "copyright": "Yuri Cortez/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2016/02/17/world/americas/21pope-francis-mexico1/21pope-francis-mexico1-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Francis before celebrating Mass in Ciudad Juárez, Mexico, near the U.S.-Mexico border in 2016.",
+                "copyright": "Yuri Cortez/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Global Growth Expected to Sputter Amid Trade War Fallout Fears",
+        "abstract": "The International Monetary Fund expects slower growth and higher inflation in the U.S. as a result of President Trump’s trade policies.",
+        "url": "https://www.nytimes.com/2025/04/22/us/politics/imf-world-economic-outlook.html",
+        "uri": "nyt://article/b8b3c931-2919-5232-9fbc-0871467540ee",
+        "byline": "By Alan Rappeport",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T09:16:31-04:00",
+        "created_date": "2025-04-22T09:00:14-04:00",
+        "published_date": "2025-04-22T09:00:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Banking and Financial Institutions",
+            "United States Economy",
+            "Customs (Tariff)",
+            "Foreign Investments",
+            "International Relations",
+            "Inflation (Economics)",
+            "Developing Countries",
+            "Credit and Debt",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-globalecon-qbwf/22dc-globalecon-qbwf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Port of Los Angeles. President Trump has imposed steep import taxes on America’s largest trading partners, leaving businesses paralyzed by uncertainty.",
+                "copyright": "Maggie Shannon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-globalecon-qbwf/22dc-globalecon-qbwf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Port of Los Angeles. President Trump has imposed steep import taxes on America’s largest trading partners, leaving businesses paralyzed by uncertainty.",
+                "copyright": "Maggie Shannon for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22dc-globalecon-qbwf/22dc-globalecon-qbwf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Port of Los Angeles. President Trump has imposed steep import taxes on America’s largest trading partners, leaving businesses paralyzed by uncertainty.",
+                "copyright": "Maggie Shannon for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Another way Francis broke with tradition: by choosing an unusually humble residence.",
+        "abstract": "Po",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news/casa-santa-marta-francis-seal",
+        "uri": "nyt://article/2e2e50c8-5cd4-5981-b7ce-c3791aae200e",
+        "byline": "By Amelia Nierenberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T08:47:47-04:00",
+        "created_date": "2025-04-22T08:47:47-04:00",
+        "published_date": "2025-04-22T08:47:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-residence-bpgf/22pope-francis-residence-bpgf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Casa Santa Marta, a guesthouse at the Vatican that has been Pope Francis’ home since his election as pontiff in 2013.",
+                "copyright": "Guglielmo Mangiapane/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-residence-bpgf/22pope-francis-residence-bpgf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Casa Santa Marta, a guesthouse at the Vatican that has been Pope Francis’ home since his election as pontiff in 2013.",
+                "copyright": "Guglielmo Mangiapane/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-residence-bpgf/22pope-francis-residence-bpgf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Casa Santa Marta, a guesthouse at the Vatican that has been Pope Francis’ home since his election as pontiff in 2013.",
+                "copyright": "Guglielmo Mangiapane/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
