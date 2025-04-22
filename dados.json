@@ -37731,5 +37731,224 @@
         "geo_facet": [],
         "multimedia": null,
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Francis’ Death Silences a Voice for the Voiceless",
+        "abstract": "As democratic values and alliances were being turned upside down, the pope was a consistent moral guidepost. Who can play that role now?",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/pope-francis-politics-advocate.html",
+        "uri": "nyt://article/f88320f6-ce47-52ed-ac38-2321e49ed620",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T00:01:14-04:00",
+        "created_date": "2025-04-22T00:01:14-04:00",
+        "published_date": "2025-04-22T00:01:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Clergy",
+            "Illegal Immigration",
+            "Deportation",
+            "Politics and Government",
+            "Poverty",
+            "Human Rights and Human Rights Violations",
+            "United States International Relations",
+            "Christians and Christianity",
+            "Empathy",
+            "Authoritarianism (Theory and Philosophy)",
+            "Income Inequality"
+        ],
+        "org_facet": [
+            "International Organization for Migration",
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Gallagher, Paul R (1954- )",
+            "Merkel, Angela",
+            "Obama, Barack",
+            "Trump, Donald J",
+            "Vance, J D"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Germany",
+            "Italy",
+            "Mediterranean Sea",
+            "Rome (Italy)",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-pope-moment-plhk/22int-pope-moment-plhk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at a service for the world’s migrants and refugees in St. Peter’s Square, at the Vatican in 2023.",
+                "copyright": "Remo Casilli/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-pope-moment-plhk/22int-pope-moment-plhk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at a service for the world’s migrants and refugees in St. Peter’s Square, at the Vatican in 2023.",
+                "copyright": "Remo Casilli/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-pope-moment-plhk/22int-pope-moment-plhk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at a service for the world’s migrants and refugees in St. Peter’s Square, at the Vatican in 2023.",
+                "copyright": "Remo Casilli/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump Shuns Europe, and Its Defense Industry Tries to Capitalize",
+        "abstract": "Europe’s weapons makers are prospering as the continent reconsiders its post-Cold War stance of favoring domestic investment over military spending.",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/europe-weapons-investment.html",
+        "uri": "nyt://article/a32dbec0-2dda-5063-923f-8bcff88544fa",
+        "byline": "By Lara Jakes and Bernhard Warner",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T00:01:09-04:00",
+        "created_date": "2025-04-22T00:01:09-04:00",
+        "published_date": "2025-04-22T00:01:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Arms Trade",
+            "Defense and Military Forces",
+            "International Relations",
+            "United States Politics and Government",
+            "United States International Relations",
+            "Russian Invasion of Ukraine (2022)",
+            "Defense Contracts",
+            "Factories and Manufacturing",
+            "International Trade and World Market",
+            "Government Contracts and Procurement",
+            "Corporate Social Responsibility"
+        ],
+        "org_facet": [
+            "Leonardo SpA",
+            "BAE Systems PLC",
+            "Rheinmetall AG"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Europe",
+            "Italy"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21int-europe-weapons-investment-zlqp/21int-europe-weapons-investment-zlqp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Eurofighter, or “Typhoon,” an advanced fighter-bomber built by a consortium of European manufacturers. taking off last month from a company runway near Turin, Italy.",
+                "copyright": "Fabio Bucciarelli for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21int-europe-weapons-investment-zlqp/21int-europe-weapons-investment-zlqp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Eurofighter, or “Typhoon,” an advanced fighter-bomber built by a consortium of European manufacturers. taking off last month from a company runway near Turin, Italy.",
+                "copyright": "Fabio Bucciarelli for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21int-europe-weapons-investment-zlqp/21int-europe-weapons-investment-zlqp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Eurofighter, or “Typhoon,” an advanced fighter-bomber built by a consortium of European manufacturers. taking off last month from a company runway near Turin, Italy.",
+                "copyright": "Fabio Bucciarelli for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The Landscape Is Centuries Old. The Crime Is More Modern.",
+        "abstract": "In rural England, increasingly sophisticated farming equipment has become a target for thieves, adding to pressure on farming communities.",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/uk-farming-theft-crime.html",
+        "uri": "nyt://article/a4f1f8d4-8e35-5b63-ab70-77453173d641",
+        "byline": "By Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T00:01:06-04:00",
+        "created_date": "2025-04-22T00:01:06-04:00",
+        "published_date": "2025-04-22T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Robberies and Thefts",
+            "Agriculture and Farming",
+            "Organized Crime",
+            "Livestock",
+            "Police",
+            "Crime and Criminals"
+        ],
+        "org_facet": [
+            "National Farmers Union"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Devon (England)",
+            "England",
+            "Great Britain",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-uk-farm-theft-01-qjgp/22int-uk-farm-theft-01-qjgp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tom Collins at his farm in Wiltshire, England, in March. Equipment was stolen from his farm 18 months ago, on the same night five other nearby farms experienced thefts.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-uk-farm-theft-01-qjgp/22int-uk-farm-theft-01-qjgp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tom Collins at his farm in Wiltshire, England, in March. Equipment was stolen from his farm 18 months ago, on the same night five other nearby farms experienced thefts.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22int-uk-farm-theft-01-qjgp/22int-uk-farm-theft-01-qjgp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tom Collins at his farm in Wiltshire, England, in March. Equipment was stolen from his farm 18 months ago, on the same night five other nearby farms experienced thefts.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
