@@ -39367,5 +39367,316 @@
         "geo_facet": [],
         "multimedia": null,
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Aliza Magen, Highest-Ranking Woman in the Mossad, Dies at 87",
+        "abstract": "Her career at Israel’s national intelligence agency included working undercover before serving as deputy under three directors.",
+        "url": "https://www.nytimes.com/2025/04/22/world/middleeast/aliza-magen-dead.html",
+        "uri": "nyt://article/d2743ead-990e-5d9e-95ed-ca41ee5ccac0",
+        "byline": "By Clay Risen",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T14:09:52-04:00",
+        "created_date": "2025-04-22T13:56:54-04:00",
+        "published_date": "2025-04-22T13:56:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Espionage and Intelligence Services",
+            "Deaths (Obituaries)",
+            "Defense and Military Forces",
+            "Women and Girls"
+        ],
+        "org_facet": [
+            "Mossad"
+        ],
+        "per_facet": [
+            "Magen, Aliza (1937-2025)"
+        ],
+        "geo_facet": [
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/22Magen-bhzj-print1/22Magen-bhzj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1518,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Aliza Magen in 2018 on an episode of “Real Time” on Kan, Israel’s public media network. She spent some 40 years working for the Mossad.",
+                "copyright": "Screenshot/Kan"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/22Magen-bhzj-print1/22Magen-bhzj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Aliza Magen in 2018 on an episode of “Real Time” on Kan, Israel’s public media network. She spent some 40 years working for the Mossad.",
+                "copyright": "Screenshot/Kan"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/22Magen-bhzj-print1/22Magen-bhzj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Aliza Magen in 2018 on an episode of “Real Time” on Kan, Israel’s public media network. She spent some 40 years working for the Mossad.",
+                "copyright": "Screenshot/Kan"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "I Watched the Pope Visit the Forgotten and Convert the Skeptical",
+        "abstract": "Jim Yardley, a former Rome bureau chief for The New York Times, witnessed Pope Francis’ transformation from an unlikely papal contender to a beloved figure.",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/pope-francis-death-legacy.html",
+        "uri": "nyt://article/cfdb0d0c-f11e-533c-8c55-c8179b7839bb",
+        "byline": "By Jim Yardley",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T14:20:54-04:00",
+        "created_date": "2025-04-22T13:50:06-04:00",
+        "published_date": "2025-04-22T13:50:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "New York Times"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Chiapas (Mexico)",
+            "Asuncion (Paraguay)",
+            "Caucasus (Russia)",
+            "Greece"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2015/09/19/world/europe/22pope-francis-yardley-first-person1/19FRANCIS-SS-slide-NLUH-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1310,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis riding in his popemobile in Asunción, Paraguay, after meeting with youths in 2015.",
+                "copyright": "Natacha Pisarenko/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2015/09/19/world/europe/22pope-francis-yardley-first-person1/22pope-francis-yardley-first-person1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis riding in his popemobile in Asunción, Paraguay, after meeting with youths in 2015.",
+                "copyright": "Natacha Pisarenko/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2015/09/19/world/europe/22pope-francis-yardley-first-person1/22pope-francis-yardley-first-person1-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis riding in his popemobile in Asunción, Paraguay, after meeting with youths in 2015.",
+                "copyright": "Natacha Pisarenko/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "australia",
+        "title": "Map: 5.1-Magnitude Earthquake Strikes Australia",
+        "abstract": "View the location of the quake’s epicenter and shake area.",
+        "url": "https://www.nytimes.com/interactive/2025/04/22/world/australia/quake-tracker-australia.html",
+        "uri": "nyt://interactive/1f9b38b0-dda9-5b89-ab04-e3a506a24c91",
+        "byline": "By William B. Davis, Madison Dong, Judson Jones, John Keefe, Joey K. Lee and Bea Malsky",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-22T14:24:05-04:00",
+        "created_date": "2025-04-22T13:48:43-04:00",
+        "published_date": "2025-04-22T13:48:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Earthquakes"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Sydney (Australia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/world/22wea-quake-tracker-australia-nyt158tk-index/22wea-quake-tracker-australia-nyt158tk-index-superJumbo-v15.jpg",
+                "format": "Super Jumbo",
+                "height": 1332,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/world/22wea-quake-tracker-australia-nyt158tk-index/22wea-quake-tracker-australia-nyt158tk-index-threeByTwoSmallAt2X-v17.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/world/22wea-quake-tracker-australia-nyt158tk-index/22wea-quake-tracker-australia-nyt158tk-index-thumbLarge-v15.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Who is the dean of the College of Cardinals? (It’s not Ralph Fiennes.)",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news/who-is-the-dean-of-the-college-of-cardinals-its-not-ralph-fiennes",
+        "uri": "nyt://article/0ab2226c-bf58-59d7-b35a-d2e98b5b7400",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T13:29:07-04:00",
+        "created_date": "2025-04-22T13:29:07-04:00",
+        "published_date": "2025-04-22T13:29:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Clergy",
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)",
+            "Priests"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Francis",
+            "Re, Giovanni Battista",
+            "Fiennes, Ralph"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-dean-cardinals-hwlt/22pope-francis-dean-cardinals-hwlt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Giovanni Battista Re, 91, at the Easter Vigil at the Vatican last week. He will preside over Pope Francis’ funeral on Saturday.",
+                "copyright": "Claudia Greco/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-dean-cardinals-hwlt/22pope-francis-dean-cardinals-hwlt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Giovanni Battista Re, 91, at the Easter Vigil at the Vatican last week. He will preside over Pope Francis’ funeral on Saturday.",
+                "copyright": "Claudia Greco/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-dean-cardinals-hwlt/22pope-francis-dean-cardinals-hwlt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Giovanni Battista Re, 91, at the Easter Vigil at the Vatican last week. He will preside over Pope Francis’ funeral on Saturday.",
+                "copyright": "Claudia Greco/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump and Zelensky Are Among the Leaders Planning to Attend Francis’ Funeral",
+        "abstract": "Pope Francis’ funeral on Saturday will bring together leaders who sometimes clashed with the pope on issues such as global migration.",
+        "url": "https://www.nytimes.com/2025/04/22/world/europe/pope-francis-funeral-guests.html",
+        "uri": "nyt://article/a9cd1cca-9cf7-54c1-aa13-e8f58de7dbf3",
+        "byline": "By Amelia Nierenberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T13:52:08-04:00",
+        "created_date": "2025-04-22T13:09:17-04:00",
+        "published_date": "2025-04-22T13:09:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Charles III, King of the United Kingdom",
+            "Da Silva, Luiz Inacio Lula",
+            "Duda, Andrzej (1972- )",
+            "Francis",
+            "Zelensky, Volodymyr",
+            "Trump, Donald J",
+            "von der Leyen, Ursula",
+            "Milei, Javier"
+        ],
+        "geo_facet": [
+            "Italy"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-leaders-funeral-gkwv/22pope-francis-leaders-funeral-gkwv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-leaders-funeral-gkwv/22pope-francis-leaders-funeral-gkwv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-leaders-funeral-gkwv/22pope-francis-leaders-funeral-gkwv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
