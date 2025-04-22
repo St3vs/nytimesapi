@@ -38132,5 +38132,281 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Latest Updates: Vatican to Hold Pope’s Funeral on Saturday",
+        "abstract": "Pope Francis’ funeral will be a more modest event, after the pontiff broke with longstanding Vatican tradition to simplify the ritual. It will likely take weeks to choose a new pontiff.",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news",
+        "uri": "nyt://promo/647b74b7-7112-5ab6-abc5-066c5fc94e59",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-22T07:01:40-04:00",
+        "created_date": "2025-04-22T06:23:18-04:00",
+        "published_date": "2025-04-22T06:23:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-promo-5a-bkvl/22pope-francis-promo-5a-bkvl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ezra Acayan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-promo-5a-bkvl/22pope-francis-promo-5a-bkvl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ezra Acayan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-promo-5a-bkvl/22pope-francis-promo-5a-bkvl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ezra Acayan for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What to Know About Pope Francis’ Death",
+        "abstract": "The pope’s funeral will take place on Saturday. Choosing his successor could take weeks.",
+        "url": "https://www.nytimes.com/article/pope-francis-death-health-problems.html",
+        "uri": "nyt://article/4f8e1930-3961-5f79-a59b-70ed3c61027a",
+        "byline": "By Elisabetta Povoledo and Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T06:53:15-04:00",
+        "created_date": "2025-02-24T12:04:27-05:00",
+        "published_date": "2025-02-24T12:04:27-05:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials",
+            "Cardinals (Roman Catholic Prelates)",
+            "Coffins",
+            "Priests",
+            "Grief (Emotion)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Francis",
+            "John Paul II",
+            "Re, Giovanni Battista"
+        ],
+        "geo_facet": [
+            "Rome (Italy)",
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-explainer-top-sub-bphw/21pope-explainer-top-sub-bphw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in St. Peter’s Square at the Vatican on April 13.",
+                "copyright": "Alessandra Tarantino/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-explainer-top-sub-bphw/21pope-explainer-top-sub-bphw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in St. Peter’s Square at the Vatican on April 13.",
+                "copyright": "Alessandra Tarantino/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-explainer-top-sub-bphw/21pope-explainer-top-sub-bphw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in St. Peter’s Square at the Vatican on April 13.",
+                "copyright": "Alessandra Tarantino/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Before his hospitalization, the pope gave his reflections on old age.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news/before-his-hospitalization-the-pope-gave-his-reflections-on-old-age",
+        "uri": "nyt://article/895e9634-db33-5581-b4b9-739ae1f7c472",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T07:01:38-04:00",
+        "created_date": "2025-04-22T07:01:38-04:00",
+        "published_date": "2025-04-22T07:01:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-aging-hcfm/22pope-francis-aging-hcfm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis, center, kneeling to wash and kiss the feet of older and disabled people in 2014.",
+                "copyright": "Riccardo De Luca/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-aging-hcfm/22pope-francis-aging-hcfm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis, center, kneeling to wash and kiss the feet of older and disabled people in 2014.",
+                "copyright": "Riccardo De Luca/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-aging-hcfm/22pope-francis-aging-hcfm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis, center, kneeling to wash and kiss the feet of older and disabled people in 2014.",
+                "copyright": "Riccardo De Luca/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "China says it is willing to keep improving ties with the Vatican.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news/china-says-it-is-willing-to-keep-improving-ties-with-the-vatican",
+        "uri": "nyt://article/dd3bc296-d2fc-5026-a745-ab014b125abb",
+        "byline": "By Tiffany May",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T06:36:47-04:00",
+        "created_date": "2025-04-22T06:36:47-04:00",
+        "published_date": "2025-04-22T06:36:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-china-vbqg/22pope-francis-china-vbqg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cathedral in Shanghai on Tuesday. There are 10 to 12 million Catholics in China, according to some estimates.",
+                "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-china-vbqg/22pope-francis-china-vbqg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cathedral in Shanghai on Tuesday. There are 10 to 12 million Catholics in China, according to some estimates.",
+                "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-china-vbqg/22pope-francis-china-vbqg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cathedral in Shanghai on Tuesday. There are 10 to 12 million Catholics in China, according to some estimates.",
+                "copyright": "Hector Retamal/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "In Caracas, remembering a pastor ‘who walked with his flock until his final day.’",
+        "abstract": "Though t",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-death-news/in-caracas-remembering-a-pastor-who-walked-with-his-flock-until-his-final-day",
+        "uri": "nyt://article/3742d94a-bdab-588e-95a8-cd0040542cd8",
+        "byline": "By Isayen Herrera",
+        "item_type": "Article",
+        "updated_date": "2025-04-22T06:27:54-04:00",
+        "created_date": "2025-04-22T06:27:54-04:00",
+        "published_date": "2025-04-22T06:27:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-venezuela-twzj/22pope-francis-venezuela-twzj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners mourned Pope Francis in the Caracas Cathedral in the Venezuelan capital.",
+                "copyright": "Adriana Loureiro Fernandez for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-venezuela-twzj/22pope-francis-venezuela-twzj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners mourned Pope Francis in the Caracas Cathedral in the Venezuelan capital.",
+                "copyright": "Adriana Loureiro Fernandez for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/22pope-francis-venezuela-twzj/22pope-francis-venezuela-twzj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners mourned Pope Francis in the Caracas Cathedral in the Venezuelan capital.",
+                "copyright": "Adriana Loureiro Fernandez for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
