@@ -37195,5 +37195,511 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "World Pays Tribute to Pope Francis",
+        "abstract": "The Vatican said Francis, the first pope from Latin America, had died after a stroke, and revealed that his will requested a simple tomb in Rome.",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-updates-vatican",
+        "uri": "nyt://promo/d93fa194-4b96-5bc5-862d-f525af769dc7",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-21T21:33:53-04:00",
+        "created_date": "2025-04-21T06:41:58-04:00",
+        "published_date": "2025-04-21T06:41:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-promo-9pm-gkml/21pope-francis-promo-9pm-gkml-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-promo-9pm-gkml/21pope-francis-promo-9pm-gkml-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-promo-9pm-gkml/21pope-francis-promo-9pm-gkml-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mark Abramson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Looking back at Pope Francis’ 2015 visit to the U.S.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-updates-vatican/looking-back-at-pope-francis-2015-visit-to-the-us",
+        "uri": "nyt://article/d4c0fe75-b2d4-5c30-bcf2-a1f13da503f9",
+        "byline": "",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T20:58:02-04:00",
+        "created_date": "2025-04-21T20:58:02-04:00",
+        "published_date": "2025-04-21T20:58:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Maryland Protected Nearly a Third of Its Land, and It’s Reaching for More",
+        "abstract": "Nine states have set goals to conserve 30 percent of their land by 2030. Maryland got there first.",
+        "url": "https://www.nytimes.com/2025/04/21/climate/maryland-30x30-conservation-land.html",
+        "uri": "nyt://article/802c1157-e0e6-578a-a51b-023f455ff0b9",
+        "byline": "By Cara Buckley and Andrew Mangum",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T20:49:54-04:00",
+        "created_date": "2025-04-21T20:00:25-04:00",
+        "published_date": "2025-04-21T20:00:25-04:00",
+        "material_type_facet": "",
+        "kicker": "50 States, 50 Fixes",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Land Use Policies",
+            "Conservation of Resources",
+            "Forests and Forestry",
+            "Environment",
+            "Agriculture and Farming"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Maryland",
+            "Chesapeake (Va)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/22CLI-50x50-Maryland-promo/00CLI-50x50-Maryland-02-zkgt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An overlook in the Green Ridge State Forest, 49,000 acres of protected land in Flintstone, Md.",
+                "copyright": "Andrew Mangum for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/22CLI-50x50-Maryland-promo/22CLI-50x50-Maryland-promo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An overlook in the Green Ridge State Forest, 49,000 acres of protected land in Flintstone, Md.",
+                "copyright": "Andrew Mangum for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/22CLI-50x50-Maryland-promo/22CLI-50x50-Maryland-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An overlook in the Green Ridge State Forest, 49,000 acres of protected land in Flintstone, Md.",
+                "copyright": "Andrew Mangum for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "In Indiana, Putting Up Solar Panels Is Doing God’s Work",
+        "abstract": "A cluster of evangelical groups in the state is pushing for environmental action. Leaders say they’re following the biblical mandate to care for creation.",
+        "url": "https://www.nytimes.com/2025/04/21/climate/indiana-evangelicals-creation-care-stewardship.html",
+        "uri": "nyt://article/920ed3c7-bbe8-5f4c-993e-32608c4dd20d",
+        "byline": "By Catrin Einhorn and A.J. Mast",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T20:28:54-04:00",
+        "created_date": "2025-04-21T20:00:23-04:00",
+        "published_date": "2025-04-21T20:00:23-04:00",
+        "material_type_facet": "",
+        "kicker": "50 States, 50 Fixes",
+        "des_facet": [
+            "Solar Energy",
+            "Sustainable Living",
+            "Evangelical Movement",
+            "Bible",
+            "Global Warming",
+            "Churches (Buildings)",
+            "States (US)",
+            "Colleges and Universities"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Taylor University",
+            "Indiana Wesleyan University"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Indiana",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/climate/00cli-indiana-rootop-promo/00cli-indiana-rootop-poster-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1280,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/climate/00cli-indiana-rootop-promo/00cli-indiana-rootop-poster-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/climate/00cli-indiana-rootop-promo/00cli-indiana-rootop-poster-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "How a Funeral Director Brought Wind Power to Rural Missouri",
+        "abstract": "Every year for nearly two decades, the small city of Rock Port has been producing more electricity from wind energy than it needs.",
+        "url": "https://www.nytimes.com/2025/04/21/climate/wind-power-missouri.html",
+        "uri": "nyt://article/02a9f61c-cff4-51f5-b7b3-534ffb7b933a",
+        "byline": "By Cara Buckley and David Robert Elliott",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T20:18:26-04:00",
+        "created_date": "2025-04-21T20:00:15-04:00",
+        "published_date": "2025-04-21T20:00:15-04:00",
+        "material_type_facet": "",
+        "kicker": "50 States, 50 Fixes",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Wind Power",
+            "Rural Areas",
+            "Electric Light and Power"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Missouri"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00cli-mo-promo-tqkc/00cli-mo-promo-tqkc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "David Robert Elliott for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00cli-mo-promo-tqkc/00cli-mo-promo-tqkc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "David Robert Elliott for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00cli-mo-promo-tqkc/00cli-mo-promo-tqkc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "David Robert Elliott for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Fighting Louisiana Floodwaters With Patches of Green",
+        "abstract": "Simple, affordable initiatives like rain gardens are helping to soak up water in New Orleans.",
+        "url": "https://www.nytimes.com/2025/04/21/climate/fighting-louisiana-floodwaters-solutions.html",
+        "uri": "nyt://article/f4cf4a79-2c15-53f1-83f7-b085fb6bc574",
+        "byline": "By Cara Buckley and Annie Flanagan",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T20:24:56-04:00",
+        "created_date": "2025-04-21T20:00:08-04:00",
+        "published_date": "2025-04-21T20:00:08-04:00",
+        "material_type_facet": "",
+        "kicker": "50 States, 50 Fixes",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Floods",
+            "Rain",
+            "Hurricanes and Tropical Storms",
+            "Water",
+            "Nonprofit Organizations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Louisiana",
+            "New Orleans (La)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00CLI-50x50-Louisiana-01-gwfq-copy/00CLI-50x50-Louisiana-01-gwfq-copy-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Annie Flanagan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00CLI-50x50-Louisiana-01-gwfq-copy/00CLI-50x50-Louisiana-01-gwfq-copy-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Annie Flanagan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/16/multimedia/00CLI-50x50-Louisiana-01-gwfq-copy/00CLI-50x50-Louisiana-01-gwfq-copy-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Annie Flanagan for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Latin Americans remember a pontiff who was one of their own.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/21/world/pope-francis-updates-vatican/latin-americans-remember-a-pontiff-who-was-one-of-their-own",
+        "uri": "nyt://article/8043a3cd-c774-5b73-a7fa-e92f07ade003",
+        "byline": "By Simon Romero, Frances Robles, Emiliano Rodríguez Mega, Paulina Villegas and Tibisay Romero",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T21:33:51-04:00",
+        "created_date": "2025-04-21T20:00:07-04:00",
+        "published_date": "2025-04-21T20:00:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-latam-reax-pclh/21pope-francis-latam-reax-pclh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners gathering to mourn the death of Pope Francis on Monday in Caracas, Venezuela.",
+                "copyright": "Adriana Loureiro Fernandez for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-latam-reax-pclh/21pope-francis-latam-reax-pclh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners gathering to mourn the death of Pope Francis on Monday in Caracas, Venezuela.",
+                "copyright": "Adriana Loureiro Fernandez for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-latam-reax-pclh/21pope-francis-latam-reax-pclh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners gathering to mourn the death of Pope Francis on Monday in Caracas, Venezuela.",
+                "copyright": "Adriana Loureiro Fernandez for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Argentines Mourn ‘Humble’ Pope and Native Son",
+        "abstract": "Across Argentina, many people flocked to churches to mourn Pope Francis. Some recalled personal encounters before he became pontiff.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/argentina-pope-francis-mourn.html",
+        "uri": "nyt://article/945c7b15-a6e2-5ee6-983d-e4f858eac674",
+        "byline": "By Natalie Alcoba, Lucía Cholakian Herrera and Daniel Politi",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T20:20:48-04:00",
+        "created_date": "2025-04-21T16:48:57-04:00",
+        "published_date": "2025-04-21T16:48:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Argentina",
+            "Vatican City",
+            "Buenos Aires (Argentina)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-argentina-scene1-qzmk/21pope-francis-argentina-scene1-qzmk-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Buenos Aires Metropolitan Cathedral on Monday after the death of Pope Francis was announced.",
+                "copyright": "Sarah Pabst for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-argentina-scene1-qzmk/21pope-francis-argentina-scene1-qzmk-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Buenos Aires Metropolitan Cathedral on Monday after the death of Pope Francis was announced.",
+                "copyright": "Sarah Pabst for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-argentina-scene1-qzmk/21pope-francis-argentina-scene1-qzmk-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Buenos Aires Metropolitan Cathedral on Monday after the death of Pope Francis was announced.",
+                "copyright": "Sarah Pabst for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "U.S. Catholics, and Some Protestants, Mourn a Different Kind of Pope",
+        "abstract": "Immigrants and L.G.B.T.Q. people were among those who saw Pope Francis as a force for change, offering a more welcoming version of the Catholic church.",
+        "url": "https://www.nytimes.com/2025/04/21/world/europe/us-catholics-pope-francisreaction.html",
+        "uri": "nyt://article/30fec814-21d7-51f5-baf7-684dcf0c1bf1",
+        "byline": "By Patricia Mazzei, Shayla Colon and Robert Chiarito",
+        "item_type": "Article",
+        "updated_date": "2025-04-21T20:27:09-04:00",
+        "created_date": "2025-04-21T12:14:15-04:00",
+        "published_date": "2025-04-21T12:14:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Grief (Emotion)",
+            "Popes",
+            "Homosexuality and Bisexuality",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "St Patrick's Cathedral (Manhattan, NY)",
+            "Roman Catholic Church",
+            "Holy Name Cathedral (Chicago)"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Chicago (Ill)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-us-catholics-react-01-qwgp/21pope-francis-us-catholics-react-01-qwgp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners attended Mass at Holy Name Cathedral in Chicago after Pope Francis’ death was announced on Monday.",
+                "copyright": "Jim Vondruska for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-us-catholics-react-01-qwgp/21pope-francis-us-catholics-react-01-qwgp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners attended Mass at Holy Name Cathedral in Chicago after Pope Francis’ death was announced on Monday.",
+                "copyright": "Jim Vondruska for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/21pope-francis-us-catholics-react-01-qwgp/21pope-francis-us-catholics-react-01-qwgp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Parishioners attended Mass at Holy Name Cathedral in Chicago after Pope Francis’ death was announced on Monday.",
+                "copyright": "Jim Vondruska for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
