@@ -41098,5 +41098,273 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Syria’s New President Talked to The New York Times. Here Are 3 Takeaways.",
+        "abstract": "Ahmed al-Shara said his government was discussing military support with Russia and Turkey, appealed for a lifting of sanctions and suggested foreign fighters could earn Syrian citizenship.",
+        "url": "https://www.nytimes.com/2025/04/23/world/middleeast/syria-president-nyt-interview-takeaways.html",
+        "uri": "nyt://article/d8244b38-a017-5875-b2fb-82b0487c5fd0",
+        "byline": "By Christina Goldbaum",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T06:15:27-04:00",
+        "created_date": "2025-04-23T05:50:30-04:00",
+        "published_date": "2025-04-23T05:50:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Embargoes and Sanctions",
+            "Politics and Government",
+            "International Relations"
+        ],
+        "org_facet": [
+            "Hayat Tahrir al-Sham"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )"
+        ],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/00int-syria-takeaways-fgbc/00int-syria-takeaways-fgbc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Ahmed al-Shara of Syria told The New York Times that his government was negotiating with both Russia and Turkey.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/00int-syria-takeaways-fgbc/00int-syria-takeaways-fgbc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Ahmed al-Shara of Syria told The New York Times that his government was negotiating with both Russia and Turkey.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/00int-syria-takeaways-fgbc/00int-syria-takeaways-fgbc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Ahmed al-Shara of Syria told The New York Times that his government was negotiating with both Russia and Turkey.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Ukraine Cease-Fire Talks in London Downgraded After Rubio Pulls Out",
+        "abstract": "Planned diplomatic talks on Wednesday have been scaled back, raising new doubts about progress toward a cease-fire between Russia and Ukraine.",
+        "url": "https://www.nytimes.com/2025/04/23/world/europe/ukraine-cease-fire-talks-london.html",
+        "uri": "nyt://article/482b239e-70af-5fc8-bff9-f7c6db6b92a4",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:52:00-04:00",
+        "created_date": "2025-04-23T05:42:43-04:00",
+        "published_date": "2025-04-23T05:42:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Trump, Donald J",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [
+            "Crimea (Ukraine)",
+            "Great Britain",
+            "London (England)",
+            "Europe",
+            "Ukraine",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-ukraine-diplo-kqlh/23int-ukraine-diplo-kqlh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio has warned that the President Trump could focus on other priorities if progress on a cease-fire in Ukraine is not made soon.",
+                "copyright": "Pool photo by Julien De Rosa"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-ukraine-diplo-kqlh/23int-ukraine-diplo-kqlh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio has warned that the President Trump could focus on other priorities if progress on a cease-fire in Ukraine is not made soon.",
+                "copyright": "Pool photo by Julien De Rosa"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-ukraine-diplo-kqlh/23int-ukraine-diplo-kqlh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio has warned that the President Trump could focus on other priorities if progress on a cease-fire in Ukraine is not made soon.",
+                "copyright": "Pool photo by Julien De Rosa"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "What to Know About the Tensions Over Kashmir",
+        "abstract": "A terrorist attack in the disputed territory in 2019 brought India and Pakistan to the verge of war. There are fears Tuesday’s violence could do the same.",
+        "url": "https://www.nytimes.com/2025/04/23/world/asia/kashmir-terrorist-attack-explainer.html",
+        "uri": "nyt://article/f3dfb011-b5a9-5876-879b-8ce94a93c142",
+        "byline": "By John Yoon",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:28:11-04:00",
+        "created_date": "2025-04-23T05:28:11-04:00",
+        "published_date": "2025-04-23T05:28:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Territorial Disputes",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "India",
+            "Kashmir",
+            "Kashmir and Jammu (India)",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-kashmir-fzkt/23xp-kashmir-fzkt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security forces escorting an ambulance with the bodies of tourists who were killed in Kashmir, on Wednesday.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-kashmir-fzkt/23xp-kashmir-fzkt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security forces escorting an ambulance with the bodies of tourists who were killed in Kashmir, on Wednesday.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-kashmir-fzkt/23xp-kashmir-fzkt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security forces escorting an ambulance with the bodies of tourists who were killed in Kashmir, on Wednesday.",
+                "copyright": "Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Catholics Expected a Revolution From Francis, Just Not the One He Gave Them",
+        "abstract": "Liberals hoped he’d ordain women or allow gay marriage. Conservatives thought he’d tear up Church doctrine. But his papacy favored debate over radical action.",
+        "url": "https://www.nytimes.com/2025/04/23/world/europe/pope-francis-catholic-church-legacy.html",
+        "uri": "nyt://article/52824666-3f1c-5ab2-9bbc-1e8ccbc3aa89",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T06:19:26-04:00",
+        "created_date": "2025-04-23T00:01:14-04:00",
+        "published_date": "2025-04-23T00:01:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Religion and Belief",
+            "Celibacy",
+            "Clergy",
+            "Conservatism (US Politics)",
+            "Homosexuality and Bisexuality",
+            "Popes",
+            "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+            "Priests",
+            "Poverty",
+            "Liberalism (US Politics)",
+            "Global Warming",
+            "Politics and Government",
+            "Divorce, Separations and Annulments"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Vatican Bank"
+        ],
+        "per_facet": [
+            "Allen, John L Jr",
+            "Benedict XVI",
+            "Francis",
+            "Gallagher, Paul R (1954- )",
+            "Ravasi, Gianfranco",
+            "Reese, Thomas J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pope-legacy-3-kvtz/23pope-legacy-3-kvtz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1368,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at St. Peter’s Square in the Vatican on Easter Sunday.",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pope-legacy-3-kvtz/23pope-legacy-3-kvtz-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at St. Peter’s Square in the Vatican on Easter Sunday.",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pope-legacy-3-kvtz/23pope-legacy-3-kvtz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at St. Peter’s Square in the Vatican on Easter Sunday.",
+                "copyright": "Yara Nardi/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
