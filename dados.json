@@ -41997,5 +41997,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India Takes Aim at Pakistan After Slaughter of Civilians in Kashmir",
+        "abstract": "India announced a series of retaliatory actions, and hinted at the possibility of more, in response to what it called Pakistan’s support of terrorism on Indian soil.",
+        "url": "https://www.nytimes.com/2025/04/23/world/asia/kashmir-attack-india-pakistan.html",
+        "uri": "nyt://article/3d37463c-19b0-59fa-b1f2-70616b487fd6",
+        "byline": "By Mujib Mashal and Suhasini Raj",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T13:27:18-04:00",
+        "created_date": "2025-04-23T04:19:28-04:00",
+        "published_date": "2025-04-23T04:19:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "Territorial Disputes",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra",
+            "Abdullah, Omar"
+        ],
+        "geo_facet": [
+            "India",
+            "Kashmir",
+            "Pakistan",
+            "Kashmir and Jammu (India)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23INT-KASHMIR-ATTACK-05-cklp/23INT-KASHMIR-ATTACK-05-cklp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian soldiers after a search operation on Wednesday in the aftermath of the attack.",
+                "copyright": "Tauseef Mustafa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23INT-KASHMIR-ATTACK-05-cklp/23INT-KASHMIR-ATTACK-05-cklp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian soldiers after a search operation on Wednesday in the aftermath of the attack.",
+                "copyright": "Tauseef Mustafa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23INT-KASHMIR-ATTACK-05-cklp/23INT-KASHMIR-ATTACK-05-cklp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian soldiers after a search operation on Wednesday in the aftermath of the attack.",
+                "copyright": "Tauseef Mustafa/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
