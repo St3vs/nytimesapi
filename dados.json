@@ -40712,5 +40712,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Pope Francis’ Coffin Is Moved to St. Peter’s in Solemn Procession",
+        "abstract": "Crowds flocked to pay their respects and bid farewell to the pontiff, who died on Monday at the age of 88.",
+        "url": "https://www.nytimes.com/2025/04/23/world/europe/pope-francis-coffin-lying-in-state-st-peters.html",
+        "uri": "nyt://article/36f9fb07-421e-54de-8d95-d8df6abb17a0",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T04:15:30-04:00",
+        "created_date": "2025-04-23T03:43:49-04:00",
+        "published_date": "2025-04-23T03:43:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-pope-procession-02-ltzf/23int-pope-procession-02-ltzf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1373,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis’ coffin was carried through Vatican City and into St. Peter’s Basilica on Wednesday.",
+                "copyright": "Guglielmo Mangiapane/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-pope-procession-02-ltzf/23int-pope-procession-02-ltzf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis’ coffin was carried through Vatican City and into St. Peter’s Basilica on Wednesday.",
+                "copyright": "Guglielmo Mangiapane/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-pope-procession-02-ltzf/23int-pope-procession-02-ltzf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis’ coffin was carried through Vatican City and into St. Peter’s Basilica on Wednesday.",
+                "copyright": "Guglielmo Mangiapane/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
