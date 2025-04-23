@@ -41366,5 +41366,62 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Map: 6.2-Magnitude Earthquake Strikes Near Istanbul",
+        "abstract": "View the location of the quake’s epicenter and shake area.",
+        "url": "https://www.nytimes.com/interactive/2025/04/23/world/europe/turkey-earthquake.html",
+        "uri": "nyt://interactive/c61aa83c-db56-5eae-8525-85cc7cd52396",
+        "byline": "By William B. Davis, Madison Dong, Judson Jones, John Keefe and Bea Malsky",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-23T07:16:29-04:00",
+        "created_date": "2025-04-23T07:14:49-04:00",
+        "published_date": "2025-04-23T07:14:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Earthquakes"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Turkey",
+            "Sea of Marmara"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23wea-quake-tracker-sea-of-marmara-nytf368q-index/23wea-quake-tracker-sea-of-marmara-nytf368q-index-superJumbo-v10.jpg",
+                "format": "Super Jumbo",
+                "height": 1332,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23wea-quake-tracker-sea-of-marmara-nytf368q-index/23wea-quake-tracker-sea-of-marmara-nytf368q-index-threeByTwoSmallAt2X-v11.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23wea-quake-tracker-sea-of-marmara-nytf368q-index/23wea-quake-tracker-sea-of-marmara-nytf368q-index-thumbLarge-v10.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
