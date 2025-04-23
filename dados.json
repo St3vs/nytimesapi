@@ -41676,5 +41676,138 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Vance Outlines U.S. Plan for Ukraine That Sharply Favors Russia",
+        "abstract": "Vice President JD Vance said the cease-fire plan would freeze territory along the current front lines of the Russia-Ukraine conflict and that the U.S. would “walk away” if Ukraine did not agree.",
+        "url": "https://www.nytimes.com/2025/04/23/world/europe/ukraine-cease-fire-talks-london.html",
+        "uri": "nyt://article/482b239e-70af-5fc8-bff9-f7c6db6b92a4",
+        "byline": "By Michael D. Shear and Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T11:14:42-04:00",
+        "created_date": "2025-04-23T05:42:43-04:00",
+        "published_date": "2025-04-23T05:42:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Trump, Donald J",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [
+            "Crimea (Ukraine)",
+            "Great Britain",
+            "London (England)",
+            "Europe",
+            "Ukraine",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-ukraine-diplo-add-fjlc/23int-ukraine-diplo-add-fjlc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“We’ve issued a very explicit proposal to both the Russians and the Ukrainians, and it’s time for them to either say yes or for the United States to walk away from this process,” Vice President JD Vance said on Wednesday in India.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-ukraine-diplo-add-fjlc/23int-ukraine-diplo-add-fjlc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“We’ve issued a very explicit proposal to both the Russians and the Ukrainians, and it’s time for them to either say yes or for the United States to walk away from this process,” Vice President JD Vance said on Wednesday in India.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-ukraine-diplo-add-fjlc/23int-ukraine-diplo-add-fjlc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“We’ve issued a very explicit proposal to both the Russians and the Ukrainians, and it’s time for them to either say yes or for the United States to walk away from this process,” Vice President JD Vance said on Wednesday in India.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "",
+        "title": "Canada’s Million-Dollar Housing Crisis",
+        "abstract": "Soaring housing costs, with many homes nearing $1 million, have sparked an exodus from cities like Vancouver, and Canadians want their next prime minister to do something about it.",
+        "url": "https://www.nytimes.com/2025/04/23/world/canada-election-housing-crisis.html",
+        "uri": "nyt://article/66f905e9-b314-5d13-a1ea-0b3c18c17539",
+        "byline": "By Vjosa Isai and Alana Paterson",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T10:28:10-04:00",
+        "created_date": "2025-04-23T05:01:42-04:00",
+        "published_date": "2025-04-23T05:01:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Real Estate and Housing (Residential)",
+            "Affordable Housing",
+            "Elections"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Poilievre, Pierre"
+        ],
+        "geo_facet": [
+            "Canada",
+            "British Columbia (Canada)",
+            "Vancouver (British Columbia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-canada-affordability-promo/23int-canada-affordability-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1463,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chilliwack, British Colombia, has become a magnet for people from Vancouver who can no longer afford living there.",
+                "copyright": "Alana Paterson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-canada-affordability-promo/23int-canada-affordability-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chilliwack, British Colombia, has become a magnet for people from Vancouver who can no longer afford living there.",
+                "copyright": "Alana Paterson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-canada-affordability-promo/23int-canada-affordability-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chilliwack, British Colombia, has become a magnet for people from Vancouver who can no longer afford living there.",
+                "copyright": "Alana Paterson for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
