@@ -42180,5 +42180,57 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Thursday Briefing: Trump Lashes Out at Zelensky",
+        "abstract": "Plus, the perfect pour-over coffee.",
+        "url": "https://www.nytimes.com/2025/04/23/briefing/trump-zelensky-syria-al-shara-pope-francis.html",
+        "uri": "nyt://article/b9ce77f8-58ec-5616-8ca9-b3f082907f5d",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T17:00:38-04:00",
+        "created_date": "2025-04-23T17:00:38-04:00",
+        "published_date": "2025-04-23T17:00:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24ambriefing-asia-trump-vcmq/24ambriefing-asia-trump-vcmq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1639,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump at the White House yesterday. ",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24ambriefing-asia-trump-vcmq/24ambriefing-asia-trump-vcmq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump at the White House yesterday. ",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24ambriefing-asia-trump-vcmq/24ambriefing-asia-trump-vcmq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump at the White House yesterday. ",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
