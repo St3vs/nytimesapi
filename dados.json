@@ -40773,5 +40773,330 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Syria’s Jihadist-Turned-President Seeks New Allies",
+        "abstract": "In an interview with The New York Times, President Ahmed al-Shara urged the United States to lift sanctions and alluded to the possibility of future military support from Russia and Turkey.",
+        "url": "https://www.nytimes.com/2025/04/23/world/middleeast/syria-president-al-shara-interview.html",
+        "uri": "nyt://article/f5db096a-9a99-5ccf-bf05-f7e7a7b663b3",
+        "byline": "By Christina Goldbaum",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:15:30-04:00",
+        "created_date": "2025-04-23T05:15:30-04:00",
+        "published_date": "2025-04-23T05:15:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Embargoes and Sanctions",
+            "Iran-Israel Proxy Conflict"
+        ],
+        "org_facet": [
+            "Al Qaeda",
+            "Hayat Tahrir al-Sham"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+            "Assad, Bashar al-"
+        ],
+        "geo_facet": [
+            "Damascus (Syria)",
+            "Moscow (Russia)",
+            "Turkey",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-syria-shara-top-mvbj/23int-syria-shara-top-mvbj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1536,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Syria’s new president, the former rebel leader Ahmed al-Shara.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-syria-shara-top-mvbj/23int-syria-shara-top-mvbj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Syria’s new president, the former rebel leader Ahmed al-Shara.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-syria-shara-top-mvbj/23int-syria-shara-top-mvbj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Syria’s new president, the former rebel leader Ahmed al-Shara.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Odes to Mexican Drug Lords Are Pop Hits, but the Law Is Turning Against Them",
+        "abstract": "Mexican artists built enormous audiences singing about drug cartels and narco culture. Cities and states are now moving against the style.",
+        "url": "https://www.nytimes.com/2025/04/23/world/americas/mexico-narcocorridos-ban.html",
+        "uri": "nyt://article/00e5cd3e-2944-5f0f-be72-711bc19146b1",
+        "byline": "By James Wagner",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:03:13-04:00",
+        "created_date": "2025-04-23T05:03:13-04:00",
+        "published_date": "2025-04-23T05:03:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Latin Music",
+            "Drug Abuse and Traffic",
+            "Drug Cartels"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Conriquez, Luis R",
+            "Sheinbaum, Claudia",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-mexico-corridos/23int-mexico-corridos-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1357,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Luis R. Conriquez performing last month in Monterrey, Mexico.",
+                "copyright": "Medios y Media, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-mexico-corridos/23int-mexico-corridos-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Luis R. Conriquez performing last month in Monterrey, Mexico.",
+                "copyright": "Medios y Media, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-mexico-corridos/23int-mexico-corridos-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Luis R. Conriquez performing last month in Monterrey, Mexico.",
+                "copyright": "Medios y Media, via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "",
+        "title": "Canada’s Million-Dollar Real Estate Crisis",
+        "abstract": "Soaring housing costs, with many homes nearing $1 million, have sparked an exodus from cities like Vancouver, and Canadians want their next prime minister to do something about it.",
+        "url": "https://www.nytimes.com/2025/04/23/world/canada-election-housing-crisis.html",
+        "uri": "nyt://article/66f905e9-b314-5d13-a1ea-0b3c18c17539",
+        "byline": "By Vjosa Isai and Alana Paterson",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:01:42-04:00",
+        "created_date": "2025-04-23T05:01:42-04:00",
+        "published_date": "2025-04-23T05:01:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Real Estate and Housing (Residential)",
+            "Affordable Housing",
+            "Elections"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Poilievre, Pierre"
+        ],
+        "geo_facet": [
+            "Canada",
+            "British Columbia (Canada)",
+            "Vancouver (British Columbia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-canada-affordability-promo/23int-canada-affordability-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1463,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chilliwack, British Colombia, has become a magnet for people from Vancouver who can no longer afford living there.",
+                "copyright": "Alana Paterson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-canada-affordability-promo/23int-canada-affordability-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chilliwack, British Colombia, has become a magnet for people from Vancouver who can no longer afford living there.",
+                "copyright": "Alana Paterson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-canada-affordability-promo/23int-canada-affordability-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chilliwack, British Colombia, has become a magnet for people from Vancouver who can no longer afford living there.",
+                "copyright": "Alana Paterson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "travel",
+        "subsection": "",
+        "title": "The Latest Battleground for Luxury Tourism: Albania’s Adriatic Coast",
+        "abstract": "Two major proposals led by Jared Kushner and a new airport championed by the Albanian government focus on an area prized for its biodiversity. Are they a sign of things to come?",
+        "url": "https://www.nytimes.com/2025/04/23/travel/albania-jared-kushner-tourism-trump.html",
+        "uri": "nyt://article/ef002b27-e169-5427-8d11-3312e4db5682",
+        "byline": "By Alexis Marie Adams and Ilir Tsouko",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T05:01:29-04:00",
+        "created_date": "2025-04-23T05:01:29-04:00",
+        "published_date": "2025-04-23T05:01:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Travel and Vacations",
+            "Endangered and Extinct Species",
+            "Birds",
+            "Politics and Government",
+            "Biodiversity",
+            "Pelicans",
+            "Environment",
+            "Developing Countries",
+            "Animal Migration",
+            "Hotels and Travel Lodgings",
+            "Islands",
+            "Coastal Areas"
+        ],
+        "org_facet": [
+            "Affinity Partners",
+            "Council of Europe",
+            "European Union",
+            "International Union for Conservation of Nature"
+        ],
+        "per_facet": [
+            "Kushner, Jared",
+            "Rama, Edi",
+            "Trump, Ivanka"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23travel-albania-01-hzlf/23travel-albania-01-hzlf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flamingos glide across the surface of the Narta lagoon, near the mouth of the Vjosa River.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23travel-albania-01-hzlf/23travel-albania-01-hzlf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flamingos glide across the surface of the Narta lagoon, near the mouth of the Vjosa River.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23travel-albania-01-hzlf/23travel-albania-01-hzlf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flamingos glide across the surface of the Narta lagoon, near the mouth of the Vjosa River.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Slaughter of Civilians in Kashmir Shatters an Illusion of Calm",
+        "abstract": "India had claimed in recent years that its heavy-handed approach had brought peace to the long restive region. The attack on Tuesday showed that wasn’t true.",
+        "url": "https://www.nytimes.com/2025/04/23/world/asia/kashmir-attack-india-pakistan.html",
+        "uri": "nyt://article/3d37463c-19b0-59fa-b1f2-70616b487fd6",
+        "byline": "By Mujib Mashal",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T04:19:28-04:00",
+        "created_date": "2025-04-23T04:19:28-04:00",
+        "published_date": "2025-04-23T04:19:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Territorial Disputes"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "Kashmir"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23INT-KASHMIR-ATTACK-wzhg/23INT-KASHMIR-ATTACK-wzhg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security officers patrolling a shopping area in Pahalgam on Wednesday, a day after militants opened fire on tourists near the town, killing at least 26.",
+                "copyright": "Dar Yasin/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23INT-KASHMIR-ATTACK-wzhg/23INT-KASHMIR-ATTACK-wzhg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security officers patrolling a shopping area in Pahalgam on Wednesday, a day after militants opened fire on tourists near the town, killing at least 26.",
+                "copyright": "Dar Yasin/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23INT-KASHMIR-ATTACK-wzhg/23INT-KASHMIR-ATTACK-wzhg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security officers patrolling a shopping area in Pahalgam on Wednesday, a day after militants opened fire on tourists near the town, killing at least 26.",
+                "copyright": "Dar Yasin/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
