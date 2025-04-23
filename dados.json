@@ -40565,5 +40565,152 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Catholics Expected a Revolution from Francis, Just Not the One He Gave Them",
+        "abstract": "Liberals hoped he’d ordain women or allow gay marriage. Conservatives thought he’d tear up Church doctrine. But his papacy favored debate over radical action.",
+        "url": "https://www.nytimes.com/2025/04/23/world/europe/pope-francis-catholic-church-legacy.html",
+        "uri": "nyt://article/52824666-3f1c-5ab2-9bbc-1e8ccbc3aa89",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T00:01:14-04:00",
+        "created_date": "2025-04-23T00:01:14-04:00",
+        "published_date": "2025-04-23T00:01:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Religion and Belief",
+            "Celibacy",
+            "Clergy",
+            "Conservatism (US Politics)",
+            "Homosexuality and Bisexuality",
+            "Popes",
+            "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
+            "Priests",
+            "Poverty",
+            "Liberalism (US Politics)",
+            "Global Warming",
+            "Politics and Government",
+            "Divorce, Separations and Annulments"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Vatican Bank"
+        ],
+        "per_facet": [
+            "Allen, John L Jr",
+            "Benedict XVI",
+            "Francis",
+            "Gallagher, Paul R (1954- )",
+            "Ravasi, Gianfranco",
+            "Reese, Thomas J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pope-legacy-3-kvtz/23pope-legacy-3-kvtz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1368,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at St. Peter’s Square in the Vatican on Easter Sunday.",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pope-legacy-3-kvtz/23pope-legacy-3-kvtz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at St. Peter’s Square in the Vatican on Easter Sunday.",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pope-legacy-3-kvtz/23pope-legacy-3-kvtz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis at St. Peter’s Square in the Vatican on Easter Sunday.",
+                "copyright": "Yara Nardi/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Almost Half of Americans Breathe Unhealthy Air, Report Finds",
+        "abstract": "Weakening or rolling back longstanding environmental regulations would worsen the problem, the American Lung Association assessment says.",
+        "url": "https://www.nytimes.com/2025/04/23/climate/american-lung-association-air-report.html",
+        "uri": "nyt://article/580ec07b-4abe-57ba-a4e3-3b4582473596",
+        "byline": "By Rebecca Dzombak",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T00:01:04-04:00",
+        "created_date": "2025-04-23T00:01:04-04:00",
+        "published_date": "2025-04-23T00:01:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Air Pollution",
+            "Global Warming",
+            "Clean Air Act",
+            "Wildfires",
+            "Coal",
+            "Urban Areas",
+            "Ozone",
+            "Hazardous and Toxic Substances",
+            "Environment",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "American Lung Assn"
+        ],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States",
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23cli-stateofair-gzhw/23cli-stateofair-gzhw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The view from Brooklyn in June 2023, when smoke from wildfires in Canada caused air quality to decline in New York City.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23cli-stateofair-gzhw/23cli-stateofair-gzhw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The view from Brooklyn in June 2023, when smoke from wildfires in Canada caused air quality to decline in New York City.",
+                "copyright": "Dave Sanders for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23cli-stateofair-gzhw/23cli-stateofair-gzhw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The view from Brooklyn in June 2023, when smoke from wildfires in Canada caused air quality to decline in New York City.",
+                "copyright": "Dave Sanders for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
