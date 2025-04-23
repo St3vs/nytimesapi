@@ -41809,5 +41809,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Jordan Cracks Down on Muslim Brotherhood",
+        "abstract": "The Arab monarchy had already taken steps toward disbanding the Islamist group in a 2020 court decision, but said it would now move to completely ban its activities.",
+        "url": "https://www.nytimes.com/2025/04/23/world/middleeast/jordan-muslim-brotherhood.html",
+        "uri": "nyt://article/abb40748-6b80-5ae9-b4da-1fba8323c74e",
+        "byline": "By Rana F. Sweis and Vivian Nereim",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T12:10:02-04:00",
+        "created_date": "2025-04-23T11:29:02-04:00",
+        "published_date": "2025-04-23T11:29:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Politics and Government",
+            "Muslims and Islam",
+            "Arabs"
+        ],
+        "org_facet": [
+            "Muslim Brotherhood (Egypt)",
+            "Islamic Action Front (Jordan)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Jordan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23jordan-brotherhood-01-hpmv/23jordan-brotherhood-01-hpmv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1437,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jordanian police outside the Islamic Action Front office in Amman, Jordan, on Wednesday.",
+                "copyright": "Alaa Al Sukhni/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23jordan-brotherhood-01-hpmv/23jordan-brotherhood-01-hpmv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jordanian police outside the Islamic Action Front office in Amman, Jordan, on Wednesday.",
+                "copyright": "Alaa Al Sukhni/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23jordan-brotherhood-01-hpmv/23jordan-brotherhood-01-hpmv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jordanian police outside the Islamic Action Front office in Amman, Jordan, on Wednesday.",
+                "copyright": "Alaa Al Sukhni/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
