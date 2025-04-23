@@ -42232,5 +42232,76 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Jordan Announced a Sweeping Ban on the Muslim Brotherhood. Here’s What to Know.",
+        "abstract": "The move could shutter the country’s largest opposition party, the Islamic Action Front, which is the Brotherhood’s political arm in Jordan.",
+        "url": "https://www.nytimes.com/2025/04/23/world/middleeast/muslim-brotherhood-explainer.html",
+        "uri": "nyt://article/45cf5391-dfc8-5f21-8beb-1b79656182f4",
+        "byline": "By Eve Sampson",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T18:02:55-04:00",
+        "created_date": "2025-04-23T18:02:31-04:00",
+        "published_date": "2025-04-23T18:02:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Bombs and Explosives",
+            "Muslims and Islam",
+            "Politics and Government",
+            "International Relations",
+            "United States International Relations",
+            "Terrorism",
+            "Israel-Gaza War (2023- )",
+            "Palestinians",
+            "Drones (Pilotless Planes)"
+        ],
+        "org_facet": [
+            "Muslim Brotherhood (Egypt)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Jordan",
+            "Middle East",
+            "Israel",
+            "Gaza Strip",
+            "Egypt",
+            "Iran"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23brotherhood-explainer-1-fcwj/23brotherhood-explainer-1-fcwj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters from the Islamic Action Front, the political arm of the Muslim Brotherhood in Jordan, and others marching and chanting in Amman, the capital, in 2019.",
+                "copyright": "Khalil Mazraawi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23brotherhood-explainer-1-fcwj/23brotherhood-explainer-1-fcwj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters from the Islamic Action Front, the political arm of the Muslim Brotherhood in Jordan, and others marching and chanting in Amman, the capital, in 2019.",
+                "copyright": "Khalil Mazraawi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23brotherhood-explainer-1-fcwj/23brotherhood-explainer-1-fcwj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters from the Islamic Action Front, the political arm of the Muslim Brotherhood in Jordan, and others marching and chanting in Amman, the capital, in 2019.",
+                "copyright": "Khalil Mazraawi/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
