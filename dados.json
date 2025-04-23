@@ -41481,5 +41481,134 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Vance Threatens U.S. Will ‘Walk Away’ Unless Trump’s Ukraine Deal Is Agreed",
+        "abstract": "Vice President JD Vance made the comments while traveling in India, hours after Secretary of State Marco Rubio pulled out of planned cease-fire talks in London on Wednesday.",
+        "url": "https://www.nytimes.com/2025/04/23/world/europe/ukraine-cease-fire-talks-london.html",
+        "uri": "nyt://article/482b239e-70af-5fc8-bff9-f7c6db6b92a4",
+        "byline": "By Michael D. Shear and Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T09:16:21-04:00",
+        "created_date": "2025-04-23T05:42:43-04:00",
+        "published_date": "2025-04-23T05:42:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Trump, Donald J",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [
+            "Crimea (Ukraine)",
+            "Great Britain",
+            "London (England)",
+            "Europe",
+            "Ukraine",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-ukraine-diplo-add-fjlc/23int-ukraine-diplo-add-fjlc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“We’ve issued a very explicit proposal to both the Russians and the Ukrainians, and it’s time for them to either say yes or for the United States to walk away from this process,” Vice President JD Vance said on Wednesday in India.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-ukraine-diplo-add-fjlc/23int-ukraine-diplo-add-fjlc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“We’ve issued a very explicit proposal to both the Russians and the Ukrainians, and it’s time for them to either say yes or for the United States to walk away from this process,” Vice President JD Vance said on Wednesday in India.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-ukraine-diplo-add-fjlc/23int-ukraine-diplo-add-fjlc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“We’ve issued a very explicit proposal to both the Russians and the Ukrainians, and it’s time for them to either say yes or for the United States to walk away from this process,” Vice President JD Vance said on Wednesday in India.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How to Watch the Funeral of Pope Francis",
+        "abstract": "World leaders and the Catholic faithful from around the globe will attend the funeral on Saturday. Here’s how to watch it and what to expect.",
+        "url": "https://www.nytimes.com/2025/04/23/world/europe/pope-francis-funeral-when-time-watch.html",
+        "uri": "nyt://article/84ce7e3f-c880-5366-be4a-8ba13d528a49",
+        "byline": "By Isabella Kwai",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T09:16:31-04:00",
+        "created_date": "2025-04-23T09:12:19-04:00",
+        "published_date": "2025-04-23T09:12:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials",
+            "Popes",
+            "Content Type: Service"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-pope-streaming-pqlk/23xp-pope-streaming-pqlk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The funeral mass for Pope Francis will be held in St. Peter’s Square on Saturday at 10 a.m. local time.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-pope-streaming-pqlk/23xp-pope-streaming-pqlk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The funeral mass for Pope Francis will be held in St. Peter’s Square on Saturday at 10 a.m. local time.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23xp-pope-streaming-pqlk/23xp-pope-streaming-pqlk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The funeral mass for Pope Francis will be held in St. Peter’s Square on Saturday at 10 a.m. local time.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
