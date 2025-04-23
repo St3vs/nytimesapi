@@ -42061,5 +42061,124 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Prelude to a Funeral",
+        "abstract": "A single image captures the subtle changes in how the Roman Catholic Church buries a pope.",
+        "url": "https://www.nytimes.com/2025/04/23/world/europe/pope-francis-death-vatican-rituals.html",
+        "uri": "nyt://article/0b4a315f-c7c2-5d49-b72a-565f7dae1c7e",
+        "byline": "By Tomás Munita and Peter Robins",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T16:02:09-04:00",
+        "created_date": "2025-04-23T15:56:54-04:00",
+        "published_date": "2025-04-23T15:56:54-04:00",
+        "material_type_facet": "",
+        "kicker": "In One Image",
+        "des_facet": [
+            "Funerals and Memorials",
+            "vis-photo"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-OneImage-Pope-jhqb/23int-OneImage-Pope-jhqb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tomás Munita for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-OneImage-Pope-jhqb/23int-OneImage-Pope-jhqb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tomás Munita for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-OneImage-Pope-jhqb/23int-OneImage-Pope-jhqb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tomás Munita for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Trump Takes On Improbable Task in Seeking Trade Deals Across the Globe",
+        "abstract": "The president’s threats of tariffs have brought countries like Japan, South Korea and India rushing to negotiate, but they have sown chaos with bigger trading partners like China.",
+        "url": "https://www.nytimes.com/2025/04/23/business/economy/trump-tariffs-trade-deals.html",
+        "uri": "nyt://article/cccfc632-8a9d-5cfb-8d3f-37a79f250559",
+        "byline": "By Ana Swanson",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T16:14:04-04:00",
+        "created_date": "2025-04-23T15:38:55-04:00",
+        "published_date": "2025-04-23T15:38:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Relations",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Protectionism (Trade)",
+            "United States Economy",
+            "Stocks and Bonds"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-trade-tvzk/23dc-trade-tvzk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has promised big gains for American trade, but given that deals typically take months or years to negotiate, experts say he has set up a seemingly impossible task.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-trade-tvzk/23dc-trade-tvzk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has promised big gains for American trade, but given that deals typically take months or years to negotiate, experts say he has set up a seemingly impossible task.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-trade-tvzk/23dc-trade-tvzk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has promised big gains for American trade, but given that deals typically take months or years to negotiate, experts say he has set up a seemingly impossible task.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
