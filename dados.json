@@ -41871,5 +41871,131 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "A Perfect Day in a Gentle Meadow Is Shattered by Bloody Carnage",
+        "abstract": "Victims and eyewitnesses described scenes of chaos and horror as militants killed 26 people in Kashmir as families, couples and friends took in a picturesque valley.",
+        "url": "https://www.nytimes.com/2025/04/23/world/asia/kashmir-pahalgam-attack-victims.html",
+        "uri": "nyt://article/f486f11c-e90c-5c81-b3a6-f898882f65c4",
+        "byline": "By Anupreeta Das, Pragati K.B., Showkat Nanda and Suhasini Raj",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T13:05:00-04:00",
+        "created_date": "2025-04-23T13:05:00-04:00",
+        "published_date": "2025-04-23T13:05:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "Travel and Vacations",
+            "International Relations",
+            "Mass Shootings"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kashmir and Jammu (India)",
+            "Kashmir",
+            "India"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-india-tourists-blvp/23int-india-tourists-blvp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Lidder River, flowing through Pahalgam, a town in the southern part of Indian-administered Kashmir.",
+                "copyright": "Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-india-tourists-blvp/23int-india-tourists-blvp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Lidder River, flowing through Pahalgam, a town in the southern part of Indian-administered Kashmir.",
+                "copyright": "Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-india-tourists-blvp/23int-india-tourists-blvp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Lidder River, flowing through Pahalgam, a town in the southern part of Indian-administered Kashmir.",
+                "copyright": "Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "U.S. Calls for Sweeping Reforms to I.M.F. and World Bank",
+        "abstract": "Treasury Secretary Scott Bessent argued in a speech that the multilateral economic institutions have veered away from their missions.",
+        "url": "https://www.nytimes.com/2025/04/23/business/bessent-imf-world-bank-overhauls.html",
+        "uri": "nyt://article/f0934abb-edd8-5d29-8885-3db3b627379f",
+        "byline": "By Alan Rappeport",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T13:09:03-04:00",
+        "created_date": "2025-04-23T10:00:39-04:00",
+        "published_date": "2025-04-23T10:00:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States Economy",
+            "Banking and Financial Institutions",
+            "Foreign Investments"
+        ],
+        "org_facet": [
+            "International Monetary Fund",
+            "World Bank"
+        ],
+        "per_facet": [
+            "Bessent, Scott",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-bessent-vpcj/23dc-bessent-vpcj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent is attending meetings with the International Monetary Fund and the World Bank on Wednesday in Washington.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-bessent-vpcj/23dc-bessent-vpcj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent is attending meetings with the International Monetary Fund and the World Bank on Wednesday in Washington.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23dc-bessent-vpcj/23dc-bessent-vpcj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasury Secretary Scott Bessent is attending meetings with the International Monetary Fund and the World Bank on Wednesday in Washington.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
