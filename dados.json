@@ -43240,5 +43240,130 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Red Line on Crimea Isn’t Just Zelensky’s. It’s Ukraine’s.",
+        "abstract": "In Ukraine, memories of Russia’s annexation are fresh and resentments run high, leaving the country’s president few choices on the latest American peace plan.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/zelensky-crimea-ceasefire-trump.html",
+        "uri": "nyt://article/86eb4a39-9731-53f9-af8c-26d2a793ce2e",
+        "byline": "By Andrew E. Kramer and Maria Varenikova",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T09:17:49-04:00",
+        "created_date": "2025-04-24T05:02:06-04:00",
+        "published_date": "2025-04-24T05:02:06-04:00",
+        "material_type_facet": "",
+        "kicker": "news analysis",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "International Relations",
+            "United States International Relations",
+            "Tatars (Ethnic Group)",
+            "Peace Process",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Crimea (Ukraine)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24ukraine-1-wklf/24ukraine-1-wklf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine during a news conference in Kyiv on Tuesday.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24ukraine-1-wklf/24ukraine-1-wklf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine during a news conference in Kyiv on Tuesday.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24ukraine-1-wklf/24ukraine-1-wklf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine during a news conference in Kyiv on Tuesday.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Man Shot by Police at Toronto Airport",
+        "abstract": "The agency that runs Canada’s busiest airport is warning travelers to expect delays at its largest terminal.",
+        "url": "https://www.nytimes.com/2025/04/24/world/canada/toronto-airport-shooting.html",
+        "uri": "nyt://article/370aa5e0-eb8a-553a-b816-3c3edd9c9fcb",
+        "byline": "By Vjosa Isai",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T09:13:50-04:00",
+        "created_date": "2025-04-24T09:13:50-04:00",
+        "published_date": "2025-04-24T09:13:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Airports",
+            "Police"
+        ],
+        "org_facet": [
+            "Toronto Pearson International Airport"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Canada",
+            "Toronto (Ontario)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-canada-airport-zqph/24int-canada-airport-zqph-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The shooting at Toronto Pearson International Airport in Canada on Thursday morning caused a partial shutdown of its largest terminal.",
+                "copyright": "Cole Burston/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-canada-airport-zqph/24int-canada-airport-zqph-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The shooting at Toronto Pearson International Airport in Canada on Thursday morning caused a partial shutdown of its largest terminal.",
+                "copyright": "Cole Burston/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-canada-airport-zqph/24int-canada-airport-zqph-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The shooting at Toronto Pearson International Airport in Canada on Thursday morning caused a partial shutdown of its largest terminal.",
+                "copyright": "Cole Burston/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
