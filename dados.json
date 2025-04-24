@@ -42303,5 +42303,76 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump Pressures Ukraine to Accept a Peace Plan That Sharply Favors Russia",
+        "abstract": "The U.S. proposal would freeze territory along the current front lines of the Russia-Ukraine conflict, which Ukraine has rejected.",
+        "url": "https://www.nytimes.com/2025/04/23/world/europe/ukraine-cease-fire-talks-london.html",
+        "uri": "nyt://article/482b239e-70af-5fc8-bff9-f7c6db6b92a4",
+        "byline": "By David E. Sanger, Michael D. Shear and Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-23T19:29:33-04:00",
+        "created_date": "2025-04-23T05:42:43-04:00",
+        "published_date": "2025-04-23T05:42:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "International Relations",
+            "Peace Process"
+        ],
+        "org_facet": [
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Trump, Donald J",
+            "Vance, J D",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [
+            "Crimea (Ukraine)",
+            "Ukraine",
+            "Europe",
+            "United States",
+            "Russia",
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-ukraine-diplo-topart-ghlj/23int-ukraine-diplo-topart-ghlj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "After President Volodymyr Zelensky of Ukraine rejected an American plan that would see his country cede Russia all the territory it currently occupies, President Trump shot back on social media that the Ukrainian president was being “inflammatory.”",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-ukraine-diplo-topart-ghlj/23int-ukraine-diplo-topart-ghlj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "After President Volodymyr Zelensky of Ukraine rejected an American plan that would see his country cede Russia all the territory it currently occupies, President Trump shot back on social media that the Ukrainian president was being “inflammatory.”",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-ukraine-diplo-topart-ghlj/23int-ukraine-diplo-topart-ghlj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "After President Volodymyr Zelensky of Ukraine rejected an American plan that would see his country cede Russia all the territory it currently occupies, President Trump shot back on social media that the Ukrainian president was being “inflammatory.”",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
