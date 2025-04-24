@@ -43483,5 +43483,133 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Man Shot and Killed by Police at Toronto Airport",
+        "abstract": "The police said that the man had displayed a firearm. The shooting caused a partial shutdown of Canada’s busiest airport.",
+        "url": "https://www.nytimes.com/2025/04/24/world/canada/toronto-airport-shooting.html",
+        "uri": "nyt://article/370aa5e0-eb8a-553a-b816-3c3edd9c9fcb",
+        "byline": "By Vjosa Isai",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T10:46:12-04:00",
+        "created_date": "2025-04-24T09:13:50-04:00",
+        "published_date": "2025-04-24T09:13:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Airports",
+            "Police"
+        ],
+        "org_facet": [
+            "Toronto Pearson International Airport"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Canada",
+            "Toronto (Ontario)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-canada-airport-zqph/24int-canada-airport-zqph-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The shooting at Toronto Pearson International Airport in Canada on Thursday morning caused a partial shutdown of its largest terminal.",
+                "copyright": "Cole Burston/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-canada-airport-zqph/24int-canada-airport-zqph-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The shooting at Toronto Pearson International Airport in Canada on Thursday morning caused a partial shutdown of its largest terminal.",
+                "copyright": "Cole Burston/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-canada-airport-zqph/24int-canada-airport-zqph-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The shooting at Toronto Pearson International Airport in Canada on Thursday morning caused a partial shutdown of its largest terminal.",
+                "copyright": "Cole Burston/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Overlooked Letter Rewrites History of Shakespeare’s Bad Marriage",
+        "abstract": "New research undermines the traditional view that Shakespeare was a distant, neglectful husband to his wife, Anne.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/shakespeare-wife-anne-hathaway.html",
+        "uri": "nyt://article/292c059e-5526-5e3a-a3eb-9f4372f9c99a",
+        "byline": "By Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T10:48:11-04:00",
+        "created_date": "2025-04-24T10:48:11-04:00",
+        "published_date": "2025-04-24T10:48:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Marriages",
+            "Theater",
+            "Child Abuse and Neglect",
+            "Books and Literature",
+            "Writing and Writers",
+            "Research",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [
+            "University of Bristol"
+        ],
+        "per_facet": [
+            "Shakespeare, William",
+            "Hathaway, Anne (1556-1623)"
+        ],
+        "geo_facet": [
+            "England",
+            "Stratford-upon-Avon (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-Shakespeare-Wife/23int-Shakespeare-Wife-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1000,
+                "width": 1502,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An illustration of William Shakespeare saying goodbye to his wife, Anne, and children, as he left home.",
+                "copyright": "Culture Club/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-Shakespeare-Wife/23int-Shakespeare-Wife-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 399,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An illustration of William Shakespeare saying goodbye to his wife, Anne, and children, as he left home.",
+                "copyright": "Culture Club/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/world/23int-Shakespeare-Wife/23int-Shakespeare-Wife-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An illustration of William Shakespeare saying goodbye to his wife, Anne, and children, as he left home.",
+                "copyright": "Culture Club/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
