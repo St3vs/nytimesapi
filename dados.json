@@ -43365,5 +43365,123 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia Pummels Kyiv, Prompting Rare Rebuke From Trump",
+        "abstract": "The attack, which killed at least 10 people, was the deadliest on Ukraine’s capital in nearly a year. President Trump called on President Vladimir V. Putin to “STOP!” in a post on social media.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/ukraine-kyiv-russia-attack.html",
+        "uri": "nyt://article/ca40831d-57f0-501c-a207-1e51ea8c3f1a",
+        "byline": "By Kim Barker and Maria Varenikova",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T10:13:40-04:00",
+        "created_date": "2025-04-24T02:34:41-04:00",
+        "published_date": "2025-04-24T02:34:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Civilian Casualties"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Kharkiv (Ukraine)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-ukraine-attacks-fthv/24int-ukraine-attacks-fthv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-ukraine-attacks-fthv/24int-ukraine-attacks-fthv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-ukraine-attacks-fthv/24int-ukraine-attacks-fthv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia Jails General Who Criticized Army’s Senior Command",
+        "abstract": "Maj. Gen. Ivan Popov, a popular battlefield commander, was fired after airing grievances against superiors.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/russia-general-prison.html",
+        "uri": "nyt://article/04636a2f-9c37-5815-8891-8094d4ec5cef",
+        "byline": "By Anatoly Kurmanaev",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T09:58:31-04:00",
+        "created_date": "2025-04-24T09:58:31-04:00",
+        "published_date": "2025-04-24T09:58:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Defense and Military Forces",
+            "Prisons and Prisoners"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Maj. Gen. Ivan Popov"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24-int-russia-commander-mpcg/24-int-russia-commander-mpcg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Maj. Gen. Ivan Popov attending a military court hearing in Moscow last year.",
+                "copyright": "Evgenia Novozhenina/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24-int-russia-commander-mpcg/24-int-russia-commander-mpcg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Maj. Gen. Ivan Popov attending a military court hearing in Moscow last year.",
+                "copyright": "Evgenia Novozhenina/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24-int-russia-commander-mpcg/24-int-russia-commander-mpcg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Maj. Gen. Ivan Popov attending a military court hearing in Moscow last year.",
+                "copyright": "Evgenia Novozhenina/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
