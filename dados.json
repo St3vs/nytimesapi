@@ -42562,5 +42562,63 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "At Least 9 Dead in Russian Airstrikes on Kyiv, Ukrainian Officials Say",
+        "abstract": "The overnight assault on Ukraine’s capital was the deadliest since last summer, and comes as the United States has threatened to walk away from the peace process.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/ukraine-russia-missiles-airstrikes.html",
+        "uri": "nyt://article/ca40831d-57f0-501c-a207-1e51ea8c3f1a",
+        "byline": "By Kim Barker and Maria Varenikova",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T03:09:04-04:00",
+        "created_date": "2025-04-24T02:34:41-04:00",
+        "published_date": "2025-04-24T02:34:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Civilian Casualties"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Kharkiv (Ukraine)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-ukraine-attacks-jwhb/24int-ukraine-attacks-jwhb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A residential building damaged by a Russian airstrike in Kyiv, Ukraine, on Thursday.",
+                "copyright": "Evgeniy Maloletka/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-ukraine-attacks-jwhb/24int-ukraine-attacks-jwhb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A residential building damaged by a Russian airstrike in Kyiv, Ukraine, on Thursday.",
+                "copyright": "Evgeniy Maloletka/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-ukraine-attacks-jwhb/24int-ukraine-attacks-jwhb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A residential building damaged by a Russian airstrike in Kyiv, Ukraine, on Thursday.",
+                "copyright": "Evgeniy Maloletka/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
