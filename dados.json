@@ -43918,5 +43918,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Congo Reverses Course and Agrees to Cease ‘Hostilities’ With M23",
+        "abstract": "Felix Tshisekedi of Congo had long said his country would not negotiate with the Rwanda-backed militia, making the joint agreement a rare bright spot in the conflict.",
+        "url": "https://www.nytimes.com/2025/04/24/world/africa/congo-reverses-course-and-agrees-to-cease-hostilities-with-m23.html",
+        "uri": "nyt://article/6a91b1d9-2143-5e7f-9c34-943150de1d2b",
+        "byline": "By Ruth Maclean",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T16:17:20-04:00",
+        "created_date": "2025-04-24T16:17:20-04:00",
+        "published_date": "2025-04-24T16:17:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Politics and Government",
+            "Conflict Minerals and Resources",
+            "International Relations",
+            "War Crimes, Genocide and Crimes Against Humanity"
+        ],
+        "org_facet": [
+            "March 23 Movement"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Africa",
+            "Congo, Democratic Republic of (Congo-Kinshasa)",
+            "Goma (Congo, Democratic Republic of)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/23/multimedia/24congo-1/23congo-m23-p1-lfwp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "M23 militiamen at first public meeting in Goma in February, after the militia captured the Congolese city on Jan. 31.",
+                "copyright": "Guerchom Ndebo for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/23/multimedia/24congo-1/23congo-m23-p1-lfwp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "M23 militiamen at first public meeting in Goma in February, after the militia captured the Congolese city on Jan. 31.",
+                "copyright": "Guerchom Ndebo for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/23/multimedia/24congo-1/23congo-m23-p1-lfwp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "M23 militiamen at first public meeting in Goma in February, after the militia captured the Congolese city on Jan. 31.",
+                "copyright": "Guerchom Ndebo for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
