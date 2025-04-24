@@ -42878,5 +42878,189 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia Attacks Kyiv, Killing at Least 8",
+        "abstract": "The assault was the deadliest on Ukraine’s capital in nearly a year. It came just hours after the Trump administration again threatened to walk away from the peace process.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/ukraine-kyiv-russia-attack.html",
+        "uri": "nyt://article/ca40831d-57f0-501c-a207-1e51ea8c3f1a",
+        "byline": "By Kim Barker and Maria Varenikova",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T07:10:02-04:00",
+        "created_date": "2025-04-24T02:34:41-04:00",
+        "published_date": "2025-04-24T02:34:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Civilian Casualties"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Kharkiv (Ukraine)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-ukraine-attacks-fthv/24int-ukraine-attacks-fthv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-ukraine-attacks-fthv/24int-ukraine-attacks-fthv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-ukraine-attacks-fthv/24int-ukraine-attacks-fthv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "‘This Moment Is Critical.’ Whither Progressive Christians After Pope Francis?",
+        "abstract": "Catholics and Protestants who saw Pope Francis as a guiding moral figure are losing their voice.",
+        "url": "https://www.nytimes.com/2025/04/24/us/pope-christians.html",
+        "uri": "nyt://article/e63e0957-a9b8-5727-9fc5-e1b1d5430dc0",
+        "byline": "By Elizabeth Dias and Ruth Graham",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T05:01:45-04:00",
+        "created_date": "2025-04-24T05:01:45-04:00",
+        "published_date": "2025-04-24T05:01:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Christians and Christianity",
+            "Conservatism (US Politics)",
+            "Episcopal Church"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "United Methodist Church"
+        ],
+        "per_facet": [
+            "Budde, Mariann Edgar",
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24NAT-LIBERAL-CHRISTIANS-01-qltp/24NAT-LIBERAL-CHRISTIANS-01-qltp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mayra Rossell, an administrative assistant for the Archdiocese of Miami, hanging a portrait of Pope Francis after displaying it during mass at Saint Martha Catholic Church in Miami on Monday.",
+                "copyright": "Scott McIntyre for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24NAT-LIBERAL-CHRISTIANS-01-qltp/24NAT-LIBERAL-CHRISTIANS-01-qltp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mayra Rossell, an administrative assistant for the Archdiocese of Miami, hanging a portrait of Pope Francis after displaying it during mass at Saint Martha Catholic Church in Miami on Monday.",
+                "copyright": "Scott McIntyre for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24NAT-LIBERAL-CHRISTIANS-01-qltp/24NAT-LIBERAL-CHRISTIANS-01-qltp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mayra Rossell, an administrative assistant for the Archdiocese of Miami, hanging a portrait of Pope Francis after displaying it during mass at Saint Martha Catholic Church in Miami on Monday.",
+                "copyright": "Scott McIntyre for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Cardinals Gather in Vatican to Fine Tune Preparations for Pope’s Funeral",
+        "abstract": "The conclave to select the next pontiff has not started yet, but meetings to set the agenda and to decide on the logistics of mourning for Francis were gathering pace.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/pope-francis-cardinals-conclave-vatican.html",
+        "uri": "nyt://article/6dfd95a3-bba4-5950-8cd9-1ead895b1bca",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T06:41:28-04:00",
+        "created_date": "2025-04-24T06:41:28-04:00",
+        "published_date": "2025-04-24T06:41:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Clergy",
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)",
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-pope-ptkm/24int-pope-ptkm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the Vatican on Thursday. More cardinals have arrived in Rome ahead of Francis’ funeral on Saturday.",
+                "copyright": "Andrew Medichini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-pope-ptkm/24int-pope-ptkm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the Vatican on Thursday. More cardinals have arrived in Rome ahead of Francis’ funeral on Saturday.",
+                "copyright": "Andrew Medichini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-pope-ptkm/24int-pope-ptkm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In the Vatican on Thursday. More cardinals have arrived in Rome ahead of Francis’ funeral on Saturday.",
+                "copyright": "Andrew Medichini/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
