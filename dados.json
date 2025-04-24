@@ -42620,5 +42620,263 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Zelensky’s Red Line on Crimea Tied to Political Realities at Home",
+        "abstract": "In Ukraine, memories of Russia’s annexation are fresh and resentments run high, leaving the country’s president few choices on the latest American peace plan.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/zelensky-crimea-ceasefire-trump.html",
+        "uri": "nyt://article/86eb4a39-9731-53f9-af8c-26d2a793ce2e",
+        "byline": "By Andrew E. Kramer and Maria Varenikova",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T05:02:06-04:00",
+        "created_date": "2025-04-24T05:02:06-04:00",
+        "published_date": "2025-04-24T05:02:06-04:00",
+        "material_type_facet": "",
+        "kicker": "news analysis",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "International Relations",
+            "United States International Relations",
+            "Tatars (Ethnic Group)",
+            "Peace Process",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Crimea (Ukraine)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24ukraine-1-wklf/24ukraine-1-wklf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine during a news conference in Kyiv on Tuesday.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24ukraine-1-wklf/24ukraine-1-wklf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine during a news conference in Kyiv on Tuesday.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24ukraine-1-wklf/24ukraine-1-wklf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine during a news conference in Kyiv on Tuesday.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Why Greater Toronto Could Decide Who Wins Canada’s Election",
+        "abstract": "The Conservatives had enjoyed a lead over Liberals in the region largely because of rising housing and food costs. But President Trump’s tariffs have shifted the equation.",
+        "url": "https://www.nytimes.com/2025/04/24/world/canada/canada-election-toronto.html",
+        "uri": "nyt://article/670cd065-61f4-579f-bb09-5f4d5bd5c490",
+        "byline": "By Ian Austen",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T05:01:59-04:00",
+        "created_date": "2025-04-24T05:01:59-04:00",
+        "published_date": "2025-04-24T05:01:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Poilievre, Pierre",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada",
+            "Toronto (Ontario)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-canada-toronto-bgmz/24int-canada-toronto-bgmz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "While voters in Toronto have backed the Liberal Party, the Conservatives had made inroads in the metropolitan region.",
+                "copyright": "Ian Willms for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-canada-toronto-bgmz/24int-canada-toronto-bgmz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "While voters in Toronto have backed the Liberal Party, the Conservatives had made inroads in the metropolitan region.",
+                "copyright": "Ian Willms for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-canada-toronto-bgmz/24int-canada-toronto-bgmz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "While voters in Toronto have backed the Liberal Party, the Conservatives had made inroads in the metropolitan region.",
+                "copyright": "Ian Willms for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "A Planned E.U. Rule Has Coffee Growers in Ethiopia Scrambling",
+        "abstract": "The measure will require geolocation data to show that beans aren’t linked to deforestation. Farmers say they need more time to prepare.",
+        "url": "https://www.nytimes.com/2025/04/24/climate/ethiopia-coffee-europe-deforestation.html",
+        "uri": "nyt://article/3db37025-014f-58ee-8183-9901b460831a",
+        "byline": "By Shola Lawal",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T05:00:33-04:00",
+        "created_date": "2025-04-24T05:00:33-04:00",
+        "published_date": "2025-04-24T05:00:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Coffee",
+            "Agriculture and Farming",
+            "Conservation of Resources",
+            "International Trade and World Market",
+            "Regulation and Deregulation of Industry",
+            "Forests and Forestry",
+            "Environment",
+            "Biodiversity"
+        ],
+        "org_facet": [
+            "European Union"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Ethiopia",
+            "Oromia (Ethiopia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24cli-ethiopia-coffee-01-hvpf/24cli-ethiopia-coffee-01-hvpf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Farmers gathered ripe coffee cherries in the Sidama region of Ethiopia. ",
+                "copyright": "Maheder Haileselassie/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24cli-ethiopia-coffee-01-hvpf/24cli-ethiopia-coffee-01-hvpf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Farmers gathered ripe coffee cherries in the Sidama region of Ethiopia. ",
+                "copyright": "Maheder Haileselassie/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24cli-ethiopia-coffee-01-hvpf/24cli-ethiopia-coffee-01-hvpf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Farmers gathered ripe coffee cherries in the Sidama region of Ethiopia. ",
+                "copyright": "Maheder Haileselassie/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "A New Medical Discipline in Israel: How to Receive Hostages",
+        "abstract": "From the first haircut to emotional support, a regularly updated guide covers what health professionals have learned about helping ex-hostages transition from captivity to freedom.",
+        "url": "https://www.nytimes.com/2025/04/24/world/middleeast/israel-hostages-return.html",
+        "uri": "nyt://article/fcc2c597-447f-592b-b6af-67d245bdc04e",
+        "byline": "By Johnatan Reiss and Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T05:00:08-04:00",
+        "created_date": "2025-04-24T05:00:08-04:00",
+        "published_date": "2025-04-24T05:00:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Kidnapping and Hostages",
+            "Defense and Military Forces",
+            "Hospitals"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23israel-hostage-protocols-01-mvbk/23israel-hostage-protocols-01-mvbk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Workers setting up screens to protect the privacy of the hostages on the grounds of Sheba hospital in Tel Aviv, in January. ",
+                "copyright": "Peter van Agtmael for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23israel-hostage-protocols-01-mvbk/23israel-hostage-protocols-01-mvbk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Workers setting up screens to protect the privacy of the hostages on the grounds of Sheba hospital in Tel Aviv, in January. ",
+                "copyright": "Peter van Agtmael for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23israel-hostage-protocols-01-mvbk/23israel-hostage-protocols-01-mvbk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Workers setting up screens to protect the privacy of the hostages on the grounds of Sheba hospital in Tel Aviv, in January. ",
+                "copyright": "Peter van Agtmael for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
