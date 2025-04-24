@@ -42501,5 +42501,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "South Korea Indicts Another Former President",
+        "abstract": "A bribery charge against Moon Jae-in makes him the latest in a line of former leaders to face criminal action, deepening the country’s political polarization.",
+        "url": "https://www.nytimes.com/2025/04/24/world/asia/south-korea-moon-indicted.html",
+        "uri": "nyt://article/01fad4f6-c496-5b9d-85c4-65b8021b484f",
+        "byline": "By Choe Sang-Hun",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T02:18:28-04:00",
+        "created_date": "2025-04-24T01:21:27-04:00",
+        "published_date": "2025-04-24T01:21:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Bribery and Kickbacks",
+            "Corruption (Institutional)",
+            "Nepotism"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Moon Jae-in"
+        ],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-skorea-moon-twvg/24int-skorea-moon-twvg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Moon Jae-in of South Korea in 2021.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-skorea-moon-twvg/24int-skorea-moon-twvg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Moon Jae-in of South Korea in 2021.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-skorea-moon-twvg/24int-skorea-moon-twvg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Moon Jae-in of South Korea in 2021.",
+                "copyright": "Chang W. Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
