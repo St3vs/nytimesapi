@@ -43727,5 +43727,133 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "How India’s Threat to Block Rivers Could Devastate Pakistan",
+        "abstract": "After a militant attack in Kashmir, the Indian government said it was suspending its participation in a treaty that governs most of the water used in Pakistani agriculture.",
+        "url": "https://www.nytimes.com/2025/04/24/world/asia/india-pakistan-indus-waters-treaty.html",
+        "uri": "nyt://article/96b46932-4dc4-572d-a489-f18ec0607a99",
+        "byline": "By Anupreeta Das, Pragati K.B. and Zia ur-Rehman",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T14:09:20-04:00",
+        "created_date": "2025-04-24T13:57:25-04:00",
+        "published_date": "2025-04-24T13:57:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Agriculture and Farming",
+            "Treaties",
+            "Water",
+            "Rivers",
+            "Territorial Disputes"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "India",
+            "Pakistan",
+            "Kashmir"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-india-water-explainer-qthz/24int-india-water-explainer-qthz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Ravi River, which India has control over, as seen in Lahore, Pakistan.",
+                "copyright": "Arif Ali/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-india-water-explainer-qthz/24int-india-water-explainer-qthz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Ravi River, which India has control over, as seen in Lahore, Pakistan.",
+                "copyright": "Arif Ali/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-india-water-explainer-qthz/24int-india-water-explainer-qthz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Ravi River, which India has control over, as seen in Lahore, Pakistan.",
+                "copyright": "Arif Ali/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Britain Lifts Sanctions on Syrian Security Agencies",
+        "abstract": "The move, which is intended to allow Syria’s new leaders the chance to rebuild, follows Britain’s earlier easing of sanctions on Syrian energy companies and the central bank.",
+        "url": "https://www.nytimes.com/2025/04/24/world/middleeast/britain-lifts-sanctions-syria.html",
+        "uri": "nyt://article/3157e97a-9f7b-585c-b87c-528a27a91adf",
+        "byline": "By Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T13:59:25-04:00",
+        "created_date": "2025-04-24T13:40:01-04:00",
+        "published_date": "2025-04-24T13:40:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Embargoes and Sanctions",
+            "International Relations",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+            "Assad, Bashar al-"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24syria-1-jktv/24syria-1-jktv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A rebel fighter standing on a staircase leading down to prison cells inside the complex of the Syrian military intelligence Branch 235, in December.",
+                "copyright": "David Guttenfelder/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24syria-1-jktv/24syria-1-jktv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A rebel fighter standing on a staircase leading down to prison cells inside the complex of the Syrian military intelligence Branch 235, in December.",
+                "copyright": "David Guttenfelder/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24syria-1-jktv/24syria-1-jktv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A rebel fighter standing on a staircase leading down to prison cells inside the complex of the Syrian military intelligence Branch 235, in December.",
+                "copyright": "David Guttenfelder/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
