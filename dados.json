@@ -44228,5 +44228,135 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Urges Russia to ‘STOP!’ After Deadly Attack on Ukraine’s Capital",
+        "abstract": "President Trump also sought to divert blame should negotiations fall apart, a sign that he is perhaps more pessimistic about a deal than he was when he took office in January.",
+        "url": "https://www.nytimes.com/2025/04/24/us/politics/russia-trump-putin-ukraine.html",
+        "uri": "nyt://article/785fe976-ce17-5fdb-a7ef-2cced6f186e8",
+        "byline": "By Jonathan Swan",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T19:08:18-04:00",
+        "created_date": "2025-04-24T19:08:18-04:00",
+        "published_date": "2025-04-24T19:08:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Russian Invasion of Ukraine (2022)",
+            "Peace Process"
+        ],
+        "org_facet": [
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24trump-news-ukraine-lbqw/24trump-news-ukraine-lbqw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Prime Minister Jonas Gahr Store of Norway at the White House on Thursday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24trump-news-ukraine-lbqw/24trump-news-ukraine-lbqw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Prime Minister Jonas Gahr Store of Norway at the White House on Thursday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24trump-news-ukraine-lbqw/24trump-news-ukraine-lbqw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Prime Minister Jonas Gahr Store of Norway at the White House on Thursday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump May Concede Crimea to Russia, Ending Decade of U.S. Resistance",
+        "abstract": "A new U.S. peace plan offered to Russia and Ukraine proposes American recognition of the peninsula, which Moscow seized in 2014.",
+        "url": "https://www.nytimes.com/2025/04/24/us/politics/trump-crimea-peace-agreement.html",
+        "uri": "nyt://article/aad929b9-8ba6-5ec2-998f-4a71883ce086",
+        "byline": "By Michael Crowley",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T19:04:19-04:00",
+        "created_date": "2025-04-24T18:50:32-04:00",
+        "published_date": "2025-04-24T18:50:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Russian Invasion of Ukraine (2022)",
+            "International Relations",
+            "Cold War Era",
+            "Peace Process",
+            "Territorial Disputes"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Crimea (Ukraine)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24dc-crimea2-blzg/24dc-crimea2-blzg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A mural in the colors of the Russian flag in Yevpatoriya, Crimea, on Thursday.",
+                "copyright": "Alexey Pavlishak/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24dc-crimea2-blzg/24dc-crimea2-blzg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A mural in the colors of the Russian flag in Yevpatoriya, Crimea, on Thursday.",
+                "copyright": "Alexey Pavlishak/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24dc-crimea2-blzg/24dc-crimea2-blzg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A mural in the colors of the Russian flag in Yevpatoriya, Crimea, on Thursday.",
+                "copyright": "Alexey Pavlishak/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
