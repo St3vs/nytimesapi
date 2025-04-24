@@ -43062,5 +43062,183 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia Pummels Kyiv Amid U.S. Threats to Abandon Peace Talks",
+        "abstract": "The attack, which killed at least eight people, was the deadliest on Ukraine’s capital in nearly a year. It came just hours after the Trump administration again threatened to walk away from the peace process.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/ukraine-kyiv-russia-attack.html",
+        "uri": "nyt://article/ca40831d-57f0-501c-a207-1e51ea8c3f1a",
+        "byline": "By Kim Barker and Maria Varenikova",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T08:01:26-04:00",
+        "created_date": "2025-04-24T02:34:41-04:00",
+        "published_date": "2025-04-24T02:34:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Civilian Casualties"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Kharkiv (Ukraine)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-ukraine-attacks-fthv/24int-ukraine-attacks-fthv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-ukraine-attacks-fthv/24int-ukraine-attacks-fthv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-ukraine-attacks-fthv/24int-ukraine-attacks-fthv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Crisis Deepens for India and Pakistan Over Kashmir Attack",
+        "abstract": "The Pakistani government announced a series of sweeping retaliatory measures a day after India took aim at its neighbor and archnemesis.",
+        "url": "https://www.nytimes.com/2025/04/24/world/asia/pakistan-india-kashmir-attack.html",
+        "uri": "nyt://article/9c8ac161-996a-592b-b1cf-85604a8bb98a",
+        "byline": "By Salman Masood",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T08:16:46-04:00",
+        "created_date": "2025-04-24T00:01:13-04:00",
+        "published_date": "2025-04-24T00:01:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Pakistan",
+            "India",
+            "Kashmir and Jammu (India)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pakistan-kashmir-1-jpgk/23pakistan-kashmir-1-jpgk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security personnel outside the Pakistan High Commission in New Delhi a day after militants opened fire on tourists in Indian-controlled Kashmir.",
+                "copyright": "Manish Swarup/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pakistan-kashmir-1-jpgk/23pakistan-kashmir-1-jpgk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security personnel outside the Pakistan High Commission in New Delhi a day after militants opened fire on tourists in Indian-controlled Kashmir.",
+                "copyright": "Manish Swarup/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pakistan-kashmir-1-jpgk/23pakistan-kashmir-1-jpgk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security personnel outside the Pakistan High Commission in New Delhi a day after militants opened fire on tourists in Indian-controlled Kashmir.",
+                "copyright": "Manish Swarup/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "If America Walks Away From Ukraine, What Will Europe Do?",
+        "abstract": "Europeans see Ukraine’s security as vital to their own and want to defend the principle of no border changes by force, even if President Trump does not.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/europe-ukraine-russia-trump.html",
+        "uri": "nyt://article/e0c2a1a1-b66b-5303-b119-fbd306d676f4",
+        "byline": "By Steven Erlanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T08:07:07-04:00",
+        "created_date": "2025-04-24T07:59:01-04:00",
+        "published_date": "2025-04-24T07:59:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-europe-ukraine-trump-01-qwtj/24int-europe-ukraine-trump-01-qwtj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A residential building that was severely damaged by a Russian missile strike on Thursday in Kyiv, Ukraine.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-europe-ukraine-trump-01-qwtj/24int-europe-ukraine-trump-01-qwtj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A residential building that was severely damaged by a Russian missile strike on Thursday in Kyiv, Ukraine.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-europe-ukraine-trump-01-qwtj/24int-europe-ukraine-trump-01-qwtj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A residential building that was severely damaged by a Russian missile strike on Thursday in Kyiv, Ukraine.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
