@@ -43855,5 +43855,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Killer of Gucci Heir Is Arrested on Suspicion of Shooting His Own Son",
+        "abstract": "Benedetto Ceraulo, who in 1995 killed Maurizio Gucci, the heir to the fashion house, was suspected of shooting his son over a scratch on a car, Italian police said.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/italy-gucci-killer-shooting.html",
+        "uri": "nyt://article/3615707f-e777-52af-b228-e857c229befb",
+        "byline": "By Jonathan Wolfe and Amelia Nierenberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T15:01:03-04:00",
+        "created_date": "2025-04-24T15:01:03-04:00",
+        "published_date": "2025-04-24T15:01:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Fashion and Apparel",
+            "Murders, Attempted Murders and Homicides"
+        ],
+        "org_facet": [
+            "Gucci"
+        ],
+        "per_facet": [
+            "Gucci, Maurizio",
+            "Reggiani, Patrizia"
+        ],
+        "geo_facet": [
+            "Italy",
+            "Pisa (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-italy-gucci-wbtc/23int-italy-gucci-wbtc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1608,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Benedetto Ceraulo, left, at the start of his trial in Milan in 1998.",
+                "copyright": "Luca Bruno/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-italy-gucci-wbtc/23int-italy-gucci-wbtc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Benedetto Ceraulo, left, at the start of his trial in Milan in 1998.",
+                "copyright": "Luca Bruno/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23int-italy-gucci-wbtc/23int-italy-gucci-wbtc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Benedetto Ceraulo, left, at the start of his trial in Milan in 1998.",
+                "copyright": "Luca Bruno/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
