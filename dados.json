@@ -43611,5 +43611,63 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Student Stabs 4 Others, One Fatally, at a French High School",
+        "abstract": "The motive was unclear for the attack, which occurred at a time of heightened concern in France about knife attacks in schools.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/french-school-knife-attack.html",
+        "uri": "nyt://article/573996af-efb2-5259-974e-ca88dfa90d62",
+        "byline": "By Roger Cohen",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T11:46:39-04:00",
+        "created_date": "2025-04-24T11:46:39-04:00",
+        "published_date": "2025-04-24T11:46:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "School Shootings and Armed Attacks",
+            "Assaults",
+            "Murders, Attempted Murders and Homicides"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Nantes (France)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-france-stabbing-kjlv/24int-france-stabbing-kjlv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Securing an area near the deadly assault at a high school in Nantes, France, on Thursday.",
+                "copyright": "Stephane Mahe/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-france-stabbing-kjlv/24int-france-stabbing-kjlv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Securing an area near the deadly assault at a high school in Nantes, France, on Thursday.",
+                "copyright": "Stephane Mahe/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24int-france-stabbing-kjlv/24int-france-stabbing-kjlv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Securing an area near the deadly assault at a high school in Nantes, France, on Thursday.",
+                "copyright": "Stephane Mahe/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
