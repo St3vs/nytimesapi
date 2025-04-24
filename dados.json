@@ -44096,5 +44096,137 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Trump Takes a Major Step Toward Seabed Mining in International Waters",
+        "abstract": "A new executive order pits the United States against the rest of the world over the question of who can exploit mineral resources in shared waters.",
+        "url": "https://www.nytimes.com/2025/04/24/climate/trump-seabed-mining.html",
+        "uri": "nyt://article/50c836bc-c52a-5022-93f5-65d37978c801",
+        "byline": "By Max Bearak, Rebecca Dzombak and Harry Stevens",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T18:02:11-04:00",
+        "created_date": "2025-04-24T17:43:13-04:00",
+        "published_date": "2025-04-24T17:43:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "United States Politics and Government",
+            "Mines and Mining",
+            "Oceans and Seas",
+            "Metals and Minerals",
+            "Fish and Other Marine Life",
+            "Law of the Sea (UN Convention)",
+            "Executive Orders and Memorandums",
+            "Environment",
+            "Marine Biology",
+            "Seafood"
+        ],
+        "org_facet": [
+            "International Seabed Authority",
+            "United Nations"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Pacific Ocean"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/23/multimedia/23cli-seabed-mining-01-jwgt/23cli-seabed-mining-01-jwgt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A 2021 expedition by a seabed-mining company explored the viability of the practice in the Pacific Ocean.",
+                "copyright": "Tamir Kalifa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/23/multimedia/23cli-seabed-mining-01-jwgt/23cli-seabed-mining-01-jwgt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A 2021 expedition by a seabed-mining company explored the viability of the practice in the Pacific Ocean.",
+                "copyright": "Tamir Kalifa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/23/multimedia/23cli-seabed-mining-01-jwgt/23cli-seabed-mining-01-jwgt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A 2021 expedition by a seabed-mining company explored the viability of the practice in the Pacific Ocean.",
+                "copyright": "Tamir Kalifa for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Acknowledges Second Deadly Attack on Aid Workers in Gaza",
+        "abstract": "In a rare apology to the United Nations, Israel said its forces had struck a U.N. compound in Gaza with tank fire. A Bulgarian aid worker was killed.",
+        "url": "https://www.nytimes.com/2025/04/24/world/middleeast/israel-gaza-aid-workers-deaths.html",
+        "uri": "nyt://article/9e84593e-c94b-55ce-8d4f-39eabb2dc527",
+        "byline": "By Farnaz Fassihi",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T17:34:38-04:00",
+        "created_date": "2025-04-24T17:34:38-04:00",
+        "published_date": "2025-04-24T17:34:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Civilian Casualties",
+            "International Relations",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [
+            "United Nations"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24un-1-qchw/24un-1-qchw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The impact of a projectile is visible in the wall of the U.N. guesthouse hit by Israeli tank fire on March 19.",
+                "copyright": "Abdel Kareem Hana/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24un-1-qchw/24un-1-qchw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The impact of a projectile is visible in the wall of the U.N. guesthouse hit by Israeli tank fire on March 19.",
+                "copyright": "Abdel Kareem Hana/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24un-1-qchw/24un-1-qchw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The impact of a projectile is visible in the wall of the U.N. guesthouse hit by Israeli tank fire on March 19.",
+                "copyright": "Abdel Kareem Hana/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
