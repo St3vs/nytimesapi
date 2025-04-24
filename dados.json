@@ -43982,5 +43982,119 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Friday Briefing: Trump Tells Putin to ‘STOP!’",
+        "abstract": "Plus, was Shakespeare a bad husband?",
+        "url": "https://www.nytimes.com/2025/04/24/briefing/trump-putin-ukraine-india-pakistan-pope-funeral.html",
+        "uri": "nyt://article/d7eb4410-a018-5ff8-8805-c9e74eaa3f78",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T17:00:11-04:00",
+        "created_date": "2025-04-24T17:00:11-04:00",
+        "published_date": "2025-04-24T17:00:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/25ambriefing-asia-strike/25ambriefing-asia-strike-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency workers searched for victims under the rubble in Kyiv, Ukraine, yesterday.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/25ambriefing-asia-strike/25ambriefing-asia-strike-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency workers searched for victims under the rubble in Kyiv, Ukraine, yesterday.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/25ambriefing-asia-strike/25ambriefing-asia-strike-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency workers searched for victims under the rubble in Kyiv, Ukraine, yesterday.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Amsterdam’s Mayor Apologizes for City’s Role in the Holocaust",
+        "abstract": "The city “horribly abandoned its Jewish residents,” more than 60,000 of whom were deported and killed during World War II, Mayor Femke Halsema said on Thursday.",
+        "url": "https://www.nytimes.com/2025/04/24/world/europe/amsterdam-holocaust-apology-wwii.html",
+        "uri": "nyt://article/0fad9cb3-7462-56d1-a528-d3c3024de063",
+        "byline": "By Claire Moses",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T16:39:32-04:00",
+        "created_date": "2025-04-24T16:35:24-04:00",
+        "published_date": "2025-04-24T16:35:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Apologies",
+            "World War II (1939-45)",
+            "Holocaust and the Nazi Era",
+            "War Crimes, Genocide and Crimes Against Humanity"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Halsema, Femke"
+        ],
+        "geo_facet": [
+            "Amsterdam (Netherlands)",
+            "Netherlands"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24xp-am-tcbg/24xp-am-tcbg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1435,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Antisemitism wasn’t brought to the Netherlands by the German occupier,” Mayor Halsema said on Thursday, “and it didn’t disappear after the liberation.” ",
+                "copyright": "Koen Van Weel/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24xp-am-tcbg/24xp-am-tcbg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Antisemitism wasn’t brought to the Netherlands by the German occupier,” Mayor Halsema said on Thursday, “and it didn’t disappear after the liberation.” ",
+                "copyright": "Koen Van Weel/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24xp-am-tcbg/24xp-am-tcbg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "“Antisemitism wasn’t brought to the Netherlands by the German occupier,” Mayor Halsema said on Thursday, “and it didn’t disappear after the liberation.” ",
+                "copyright": "Koen Van Weel/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
