@@ -42374,5 +42374,132 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "After Militant Attack in Kashmir, Pakistan Braces for Strike by India",
+        "abstract": "The Pakistani government said it did not want an escalation, but in the wake of a deadly attack in Indian-controlled Kashmir by unidentified militants, analysts warned of an unpredictable situation.",
+        "url": "https://www.nytimes.com/2025/04/24/world/asia/pakistan-india-kashmir-attack.html",
+        "uri": "nyt://article/9c8ac161-996a-592b-b1cf-85604a8bb98a",
+        "byline": "By Salman Masood",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T00:01:12-04:00",
+        "created_date": "2025-04-24T00:01:12-04:00",
+        "published_date": "2025-04-24T00:01:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Pakistan",
+            "India",
+            "Kashmir and Jammu (India)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pakistan-kashmir-1-jpgk/23pakistan-kashmir-1-jpgk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security personnel outside the Pakistan High Commission in New Delhi a day after militants opened fire on tourists in Indian-controlled Kashmir.",
+                "copyright": "Manish Swarup/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pakistan-kashmir-1-jpgk/23pakistan-kashmir-1-jpgk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security personnel outside the Pakistan High Commission in New Delhi a day after militants opened fire on tourists in Indian-controlled Kashmir.",
+                "copyright": "Manish Swarup/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/23pakistan-kashmir-1-jpgk/23pakistan-kashmir-1-jpgk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security personnel outside the Pakistan High Commission in New Delhi a day after militants opened fire on tourists in Indian-controlled Kashmir.",
+                "copyright": "Manish Swarup/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "At 99, a Seminal Asian Leader Reflects on a Contentious Legacy",
+        "abstract": "In his first, 22-year stretch as prime minister, Mahathir Mohamad transformed Malaysia’s economy. But he was also accused of being a strongman and antisemite. In an interview, he offers a self-assessment.",
+        "url": "https://www.nytimes.com/2025/04/24/world/asia/malaysia-mahathir-mohamad-interview.html",
+        "uri": "nyt://article/3502e30f-2eb3-509e-a765-ec9cad94063c",
+        "byline": "By Sui-Lee Wee and Chang W. Lee",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T00:01:12-04:00",
+        "created_date": "2025-04-24T00:01:12-04:00",
+        "published_date": "2025-04-24T00:01:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Anti-Semitism",
+            "Corruption (Institutional)",
+            "Authoritarianism (Theory and Philosophy)",
+            "International Relations",
+            "Economic Conditions and Trends",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [
+            "1Malaysia Development Berhad (1MDB)"
+        ],
+        "per_facet": [
+            "Mohamad, Mahathir",
+            "Ibrahim, Anwar",
+            "Najib Razak"
+        ],
+        "geo_facet": [
+            "Malaysia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00Malaysia-Mahathir-Legacy-Interview-01-ltmj/00Malaysia-Mahathir-Legacy-Interview-01-ltmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mahathir Mohamad, who served a total of 24 years as Malaysia’s prime minister, in his office in Putrajaya, Malaysia, in February.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00Malaysia-Mahathir-Legacy-Interview-01-ltmj/00Malaysia-Mahathir-Legacy-Interview-01-ltmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mahathir Mohamad, who served a total of 24 years as Malaysia’s prime minister, in his office in Putrajaya, Malaysia, in February.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00Malaysia-Mahathir-Legacy-Interview-01-ltmj/00Malaysia-Mahathir-Legacy-Interview-01-ltmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mahathir Mohamad, who served a total of 24 years as Malaysia’s prime minister, in his office in Putrajaya, Malaysia, in February.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
