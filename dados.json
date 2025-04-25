@@ -44948,5 +44948,154 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A British Magic Society Welcomes Its First Woman — Three Decades Late",
+        "abstract": "Last year, the Magic Circle began searching for Sophie Lloyd, who disguised herself as a man in 1991 to gain membership and was then ousted. On Thursday, she returned.",
+        "url": "https://www.nytimes.com/2025/04/25/world/europe/magic-circle-london-sophie-lloyd.html",
+        "uri": "nyt://article/b0f836ac-1a09-5d23-81cd-acaf4f4db1a0",
+        "byline": "By Amelia Nierenberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T06:55:30-04:00",
+        "created_date": "2025-04-25T06:55:30-04:00",
+        "published_date": "2025-04-25T06:55:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Magic and Magicians",
+            "Women and Girls"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Great Britain",
+            "London (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-uk-magic-02-jqct/25int-uk-magic-02-jqct-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1512,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sophie Lloyd as Raymond Lloyd back in the day, so that she could be accepted into the Magic Circle.",
+                "copyright": "Via Sophie Lloyd "
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-uk-magic-02-jqct/25int-uk-magic-02-jqct-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sophie Lloyd as Raymond Lloyd back in the day, so that she could be accepted into the Magic Circle.",
+                "copyright": "Via Sophie Lloyd "
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-uk-magic-02-jqct/25int-uk-magic-02-jqct-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sophie Lloyd as Raymond Lloyd back in the day, so that she could be accepted into the Magic Circle.",
+                "copyright": "Via Sophie Lloyd "
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Japan’s Rice Is So Expensive, It’s Willing to Eat South Korea’s",
+        "abstract": "Japanese consumers embraced Korean rice for the first time in 35 years, finding it more familiar than other types of foreign rice.",
+        "url": "https://www.nytimes.com/2025/04/25/world/asia/japan-south-korea-rice.html",
+        "uri": "nyt://article/b662a8d5-3998-5c50-af85-fc436c3f2753",
+        "byline": "By John Yoon and Hisako Ueno",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T06:52:28-04:00",
+        "created_date": "2025-04-25T06:52:28-04:00",
+        "published_date": "2025-04-25T06:52:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Shortages",
+            "Rice",
+            "Consumer Behavior",
+            "Agriculture and Farming",
+            "Shopping and Retail",
+            "Supermarkets and Grocery Stores"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Japan",
+            "South Korea",
+            "Haenam County (South Korea)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24xp-rice-top/24xp-rice-top-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1316,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Japanese tourists looking at rice at a supermarket in Seoul on Monday. Some Japanese visitors are taking rice souvenirs home with them. ",
+                "copyright": "Kim Jae-Hwan/SOPA Images, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24xp-rice-top/24xp-rice-top-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Japanese tourists looking at rice at a supermarket in Seoul on Monday. Some Japanese visitors are taking rice souvenirs home with them. ",
+                "copyright": "Kim Jae-Hwan/SOPA Images, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24xp-rice-top/24xp-rice-top-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Japanese tourists looking at rice at a supermarket in Seoul on Monday. Some Japanese visitors are taking rice souvenirs home with them. ",
+                "copyright": "Kim Jae-Hwan/SOPA Images, via Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Senior Russian Officer Killed in Car Explosion Near Moscow",
+        "abstract": "The general’s death is the latest in a series of fatalities involving Ukraine’s opponents inside Russia. The authorities in Kyiv had no immediate comment.",
+        "url": "https://www.nytimes.com/2025/04/25/world/europe/russian-officer-explosion-moscow-ukraine.html",
+        "uri": "nyt://article/9b990cb6-1ad0-553d-bd91-3d6a5222b9b7",
+        "byline": "By Ivan Nechepurenko",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T06:51:22-04:00",
+        "created_date": "2025-04-25T06:51:22-04:00",
+        "published_date": "2025-04-25T06:51:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [
+            "Investigative Committee (Russia)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Moscow (Russia)"
+        ],
+        "multimedia": null,
+        "short_url": ""
     }
 ]
