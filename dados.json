@@ -45217,5 +45217,134 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "He Was Welcome. She Was Not. A British Magic Club Rights a Wrong.",
+        "abstract": "Last year, the Magic Circle began searching for Sophie Lloyd, who disguised herself as a man in 1991 to gain membership and was then ousted. On Thursday, she returned.",
+        "url": "https://www.nytimes.com/2025/04/25/world/europe/magic-circle-london-sophie-lloyd.html",
+        "uri": "nyt://article/b0f836ac-1a09-5d23-81cd-acaf4f4db1a0",
+        "byline": "By Amelia Nierenberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T08:47:30-04:00",
+        "created_date": "2025-04-25T06:55:31-04:00",
+        "published_date": "2025-04-25T06:55:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Magic and Magicians",
+            "Women and Girls"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Great Britain",
+            "London (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-uk-magic-02-jqct/25int-uk-magic-02-jqct-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1512,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sophie Lloyd as Raymond Lloyd back in the day, so that she could be accepted into the Magic Circle.",
+                "copyright": "Via Sophie Lloyd "
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-uk-magic-02-jqct/25int-uk-magic-02-jqct-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sophie Lloyd as Raymond Lloyd back in the day, so that she could be accepted into the Magic Circle.",
+                "copyright": "Via Sophie Lloyd "
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-uk-magic-02-jqct/25int-uk-magic-02-jqct-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sophie Lloyd as Raymond Lloyd back in the day, so that she could be accepted into the Magic Circle.",
+                "copyright": "Via Sophie Lloyd "
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "Israel’s A.I. Experiments in Gaza War Raise Ethical Concerns",
+        "abstract": "Israel developed new artificial intelligence tools to gain an advantage in the war. The technologies have sometimes led to fatal consequences.",
+        "url": "https://www.nytimes.com/2025/04/25/technology/israel-gaza-ai.html",
+        "uri": "nyt://article/9183ef95-0a87-50b3-a0dc-e965ed651231",
+        "byline": "By Sheera Frenkel and Natan Odenheimer",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T09:12:07-04:00",
+        "created_date": "2025-04-25T05:00:36-04:00",
+        "published_date": "2025-04-25T05:00:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Artificial Intelligence",
+            "Drones (Pilotless Planes)",
+            "Defense and Military Forces",
+            "Arabic Language",
+            "Social Media",
+            "War and Armed Conflicts",
+            "Facial Recognition Software",
+            "Civilian Casualties",
+            "Terrorism",
+            "Computers and the Internet",
+            "Assassinations and Attempted Assassinations",
+            "Intelligence and Intelligence Tests (IQ)"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/07/business/00israel-ai/00israel-ai-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Joan Wong"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/07/business/00israel-ai/00israel-ai-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Joan Wong"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/07/business/00israel-ai/00israel-ai-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Joan Wong"
+            }
+        ],
+        "short_url": ""
     }
 ]
