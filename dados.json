@@ -45977,5 +45977,195 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Pakistan Official Calls for International Inquiry Into Kashmir Terror Attack",
+        "abstract": "Amid rising tensions with India, Pakistan’s defense minister declared his country’s innocence in a terror attack that killed 26 people this week in Kashmir territory.",
+        "url": "https://www.nytimes.com/2025/04/25/us/politics/pakistan-kashmir-terror-attack.html",
+        "uri": "nyt://article/aa704b94-a96d-59bd-9e9b-63b966f0eda7",
+        "byline": "By Julian E. Barnes",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T16:08:31-04:00",
+        "created_date": "2025-04-25T16:08:31-04:00",
+        "published_date": "2025-04-25T16:08:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Terrorism",
+            "Nuclear Weapons",
+            "Water",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [
+            "Lashkar-e-Taiba"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Kashmir",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/world/25dc-Kashmir-Attack-2/25dc-Kashmir-Attack-2-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Defense Minister Khawaja Muhammad Asif of Pakistan in New York last year. Mr. Asif on Friday declared his country’s innocence in a terror attack that killed 26 people.",
+                "copyright": "Richard Drew/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/world/25dc-Kashmir-Attack-2/25dc-Kashmir-Attack-2-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Defense Minister Khawaja Muhammad Asif of Pakistan in New York last year. Mr. Asif on Friday declared his country’s innocence in a terror attack that killed 26 people.",
+                "copyright": "Richard Drew/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/world/25dc-Kashmir-Attack-2/25dc-Kashmir-Attack-2-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Defense Minister Khawaja Muhammad Asif of Pakistan in New York last year. Mr. Asif on Friday declared his country’s innocence in a terror attack that killed 26 people.",
+                "copyright": "Richard Drew/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "The Trump Administration Wants Seafloor Mining. What Does That Mean?",
+        "abstract": "A recent executive order would accelerate mining in little-understood undersea ecosystems.",
+        "url": "https://www.nytimes.com/2025/04/25/climate/seafloor-mining-science.html",
+        "uri": "nyt://article/ef002aa7-94a0-578e-b2a5-9bbf8542bfc6",
+        "byline": "By Rebecca Dzombak, Max Bearak and Harry Stevens",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T16:07:10-04:00",
+        "created_date": "2025-04-25T15:52:02-04:00",
+        "published_date": "2025-04-25T15:52:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Mines and Mining",
+            "Metals and Minerals",
+            "Oceans and Seas",
+            "Conservation of Resources",
+            "Offshore Drilling and Exploration",
+            "Executive Orders and Memorandums"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25cli-seabed-science-01-gkzm/25cli-seabed-science-01-gkzm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Maersk Launcher in San Diego in 2021 after a mission to assess the environmental effects of seabed mining.",
+                "copyright": "Tamir Kalifa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25cli-seabed-science-01-gkzm/25cli-seabed-science-01-gkzm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Maersk Launcher in San Diego in 2021 after a mission to assess the environmental effects of seabed mining.",
+                "copyright": "Tamir Kalifa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25cli-seabed-science-01-gkzm/25cli-seabed-science-01-gkzm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Maersk Launcher in San Diego in 2021 after a mission to assess the environmental effects of seabed mining.",
+                "copyright": "Tamir Kalifa for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "books",
+        "subsection": "",
+        "title": "At 13, Charlotte Brontë Already Knew How Good a Writer She Would Be",
+        "abstract": "An anthology of her teenage poetry, published for the first time, shows ambition, even if the verse isn’t perfect.",
+        "url": "https://www.nytimes.com/2025/04/25/books/charlotte-bronte-teenage-poems.html",
+        "uri": "nyt://article/26af6037-1d1d-56a9-b48d-32cec48b3456",
+        "byline": "By Lynsey Chutel",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T15:47:36-04:00",
+        "created_date": "2025-04-25T15:47:36-04:00",
+        "published_date": "2025-04-25T15:47:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Books and Literature",
+            "Poetry and Poets",
+            "Book Trade and Publishing",
+            "Memorabilia and Souvenirs"
+        ],
+        "org_facet": [
+            "Bronte Parsonage Museum",
+            "Friends of the National Libraries (Nonprofit)"
+        ],
+        "per_facet": [
+            "Bronte, Charlotte",
+            "Smith, Patti"
+        ],
+        "geo_facet": [
+            "Yorkshire (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/arts/25cul-bronte1/25cul-bronte1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 480,
+                "width": 640,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Charlotte Brontë’s “Book of Rhymes” was written in tiny script to fit on a scraps of paper no larger than a playing card.",
+                "copyright": "The Brontë Parsonage Museum"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/arts/25cul-bronte1/25cul-bronte1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 399,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Charlotte Brontë’s “Book of Rhymes” was written in tiny script to fit on a scraps of paper no larger than a playing card.",
+                "copyright": "The Brontë Parsonage Museum"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/arts/25cul-bronte1/25cul-bronte1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Charlotte Brontë’s “Book of Rhymes” was written in tiny script to fit on a scraps of paper no larger than a playing card.",
+                "copyright": "The Brontë Parsonage Museum"
+            }
+        ],
+        "short_url": ""
     }
 ]
