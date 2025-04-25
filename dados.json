@@ -45793,5 +45793,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Indian and Pakistani Soldiers Briefly Exchange Fire Along Kashmir Border",
+        "abstract": "The clash took place just days after a terror attack killed 26 people on the Indian side of the disputed region, raising tensions between the two nuclear-armed nations.",
+        "url": "https://www.nytimes.com/2025/04/25/world/asia/india-pakistan-kashmir.html",
+        "uri": "nyt://article/ab1a2307-b409-504d-aae3-a2b2bf3f4a02",
+        "byline": "By Anupreeta Das",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T12:42:20-04:00",
+        "created_date": "2025-04-25T12:42:20-04:00",
+        "published_date": "2025-04-25T12:42:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Terrorism",
+            "Politics and Government",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "India",
+            "Kashmir",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-kashmir01-photo-glzt/25int-kashmir01-photo-glzt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1416,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security force personnel going on patrol on Dal Lake in Srinagar on Friday.",
+                "copyright": "Adnan Abidi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-kashmir01-photo-glzt/25int-kashmir01-photo-glzt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security force personnel going on patrol on Dal Lake in Srinagar on Friday.",
+                "copyright": "Adnan Abidi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-kashmir01-photo-glzt/25int-kashmir01-photo-glzt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security force personnel going on patrol on Dal Lake in Srinagar on Friday.",
+                "copyright": "Adnan Abidi/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
