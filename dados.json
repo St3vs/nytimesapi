@@ -45467,5 +45467,139 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Francis Wanted a Church of the Poor and Put It Into Practice",
+        "abstract": "Around St. Peter’s Square, the pope offered services to the homeless and migrants, in ways that often did not go down well with his fellow clerics.",
+        "url": "https://www.nytimes.com/2025/04/25/world/europe/francis-poor.html",
+        "uri": "nyt://article/3b910285-475e-51fa-b901-b1473f5f3da2",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T10:26:54-04:00",
+        "created_date": "2025-04-25T10:26:54-04:00",
+        "published_date": "2025-04-25T10:26:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Poverty",
+            "Illegal Immigration",
+            "Popes",
+            "Homeless Persons",
+            "Clergy",
+            "Refugees and Displaced Persons",
+            "Immigration Shelters",
+            "Funerals and Memorials",
+            "Sculpture"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Bernini, Gian Lorenzo",
+            "Francis",
+            "John Paul II",
+            "Schmalz, Timothy P"
+        ],
+        "geo_facet": [
+            "Rome (Italy)",
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25pope-poor-01-blfk/25pope-poor-01-blfk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Outside a shop in St. Peter’s Basilica, on Friday. The pope pushed for housing and medical care to be available for the homeless and the needy in Vatican City. ",
+                "copyright": "Antonio Masiello/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25pope-poor-01-blfk/25pope-poor-01-blfk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Outside a shop in St. Peter’s Basilica, on Friday. The pope pushed for housing and medical care to be available for the homeless and the needy in Vatican City. ",
+                "copyright": "Antonio Masiello/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25pope-poor-01-blfk/25pope-poor-01-blfk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Outside a shop in St. Peter’s Basilica, on Friday. The pope pushed for housing and medical care to be available for the homeless and the needy in Vatican City. ",
+                "copyright": "Antonio Masiello/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Standing With History to Say Goodbye",
+        "abstract": "As a reporter, I often observe from a press box or the sidelines. This time, I decided to join the masses.",
+        "url": "https://www.nytimes.com/2025/04/25/world/europe/pope-funeral-coffin.html",
+        "uri": "nyt://article/bcabce35-7b8a-54af-8db9-b3b93c5d4103",
+        "byline": "By Motoko Rich",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T11:14:18-04:00",
+        "created_date": "2025-04-25T11:05:20-04:00",
+        "published_date": "2025-04-25T11:05:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Churches (Buildings)",
+            "Death and Dying"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-pope-rich-01-pqlf/25int-pope-rich-01-pqlf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Large crowds came to St. Peter’s Basilica and lined up to pay their respects to Pope Francis as his body was lying in state.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-pope-rich-01-pqlf/25int-pope-rich-01-pqlf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Large crowds came to St. Peter’s Basilica and lined up to pay their respects to Pope Francis as his body was lying in state.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-pope-rich-01-pqlf/25int-pope-rich-01-pqlf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Large crowds came to St. Peter’s Basilica and lined up to pay their respects to Pope Francis as his body was lying in state.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
