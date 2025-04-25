@@ -46167,5 +46167,132 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "science",
+        "subsection": "",
+        "title": "David Paton, Creator of Flying Eye Hospital, Dies at 94",
+        "abstract": "An idealistic ophthalmologist, he came up with an ingenious way to treat blindness in far-flung places: by outfitting an airplane with an operating room.",
+        "url": "https://www.nytimes.com/2025/04/25/science/david-paton-dead.html",
+        "uri": "nyt://article/84250e88-2064-5e2a-a9e0-bcd1e4d1f80e",
+        "byline": "By Michael S. Rosenwald",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T18:04:52-04:00",
+        "created_date": "2025-04-25T17:19:31-04:00",
+        "published_date": "2025-04-25T17:19:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Surgery and Surgeons",
+            "Eyes and Eyesight",
+            "Blindness",
+            "Philanthropy",
+            "Airlines and Airplanes"
+        ],
+        "org_facet": [
+            "Orbis International"
+        ],
+        "per_facet": [
+            "Paton, David (1930-2025)",
+            "Baker, James A III"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27Paton-print1/24Paton-01-lmqg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1373,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "David Paton in 1973. He “was willing to take risks that others wouldn’t,” a colleague said. “He was charming. He was inspiring. And he didn’t quit.”",
+                "copyright": "Orbis"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27Paton-print1/24Paton-01-lmqg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "David Paton in 1973. He “was willing to take risks that others wouldn’t,” a colleague said. “He was charming. He was inspiring. And he didn’t quit.”",
+                "copyright": "Orbis"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27Paton-print1/24Paton-01-lmqg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "David Paton in 1973. He “was willing to take risks that others wouldn’t,” a colleague said. “He was charming. He was inspiring. And he didn’t quit.”",
+                "copyright": "Orbis"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "U.S. Restores Legal Status for Many International Students, but Warns of Removals to Come",
+        "abstract": "Immigration officials signaled that the Trump administration would continue to pursue efforts to terminate the legal status of the students, despite a wave of legal challenges.",
+        "url": "https://www.nytimes.com/2025/04/25/us/politics/trump-student-visa-cancellations.html",
+        "uri": "nyt://article/788a2d79-2d66-525d-a1f6-5989afb3b338",
+        "byline": "By Zach Montague and Hamed Aleaziz",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T18:07:19-04:00",
+        "created_date": "2025-04-25T13:18:13-04:00",
+        "published_date": "2025-04-25T13:18:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Students (in US)",
+            "United States Politics and Government",
+            "Visas",
+            "Deportation",
+            "Immigration Detention"
+        ],
+        "org_facet": [
+            "Immigration and Customs Enforcement (US)",
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25dc-studentvisas-kmpg/25dc-studentvisas-kmpg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Justice Department lawyer said immigration officials had begun work on a new system for reviewing and terminating records for international students.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25dc-studentvisas-kmpg/25dc-studentvisas-kmpg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Justice Department lawyer said immigration officials had begun work on a new system for reviewing and terminating records for international students.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25dc-studentvisas-kmpg/25dc-studentvisas-kmpg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Justice Department lawyer said immigration officials had begun work on a new system for reviewing and terminating records for international students.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
