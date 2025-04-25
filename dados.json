@@ -44621,5 +44621,208 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Air Raids and Antidepressants: Sleep Deprivation Takes a Toll in Ukraine",
+        "abstract": "Sleep deprivation has become a health crisis in the country, experts and psychologists say. They cite near-nightly drone attacks as one of the major impediments to getting proper rest.",
+        "url": "https://www.nytimes.com/2025/04/25/world/europe/ukraine-sleep-deprivation-russia-war.html",
+        "uri": "nyt://article/22d4ab66-9091-57e8-a501-1a42c2d47dad",
+        "byline": "By Maria Varenikova",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T05:06:07-04:00",
+        "created_date": "2025-04-25T05:06:07-04:00",
+        "published_date": "2025-04-25T05:06:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Drones (Pilotless Planes)",
+            "Russian Invasion of Ukraine (2022)",
+            "Sleep",
+            "Defense and Military Forces",
+            "Parasomnias (Sleep Disorders)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Dnipro (Ukraine)",
+            "Kyiv (Ukraine)",
+            "Lviv (Ukraine)",
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-ukraine-sleep-01-kvfh/00int-ukraine-sleep-01-kvfh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1376,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Trying to sleep in a metro station during missile strikes in Kyiv, Ukraine’s capital, last year.",
+                "copyright": "Alina Smutko/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-ukraine-sleep-01-kvfh/00int-ukraine-sleep-01-kvfh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Trying to sleep in a metro station during missile strikes in Kyiv, Ukraine’s capital, last year.",
+                "copyright": "Alina Smutko/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-ukraine-sleep-01-kvfh/00int-ukraine-sleep-01-kvfh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Trying to sleep in a metro station during missile strikes in Kyiv, Ukraine’s capital, last year.",
+                "copyright": "Alina Smutko/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Pope Francis Simplified Papal Funerals. Not Everyone Will Notice.",
+        "abstract": "The changes reflect Francis’ view of the pope as a pastor more than a powerful person, but the rites will still be on a grand scale.",
+        "url": "https://www.nytimes.com/2025/04/25/world/europe/pope-francis-simple-funeral.html",
+        "uri": "nyt://article/fe1e55dd-db6c-5de1-a211-a6d5b65c5998",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T05:03:23-04:00",
+        "created_date": "2025-04-25T05:03:23-04:00",
+        "published_date": "2025-04-25T05:03:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Funerals and Memorials",
+            "Cardinals (Roman Catholic Prelates)",
+            "Coffins",
+            "Tombs and Tombstones",
+            "Priests"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "John Paul II",
+            "Benedict XVI"
+        ],
+        "geo_facet": [
+            "Vatican City",
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25pope-1-jpht/25pope-1-jpht-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis’s body lies in state for three days to allow Catholic faithful to pay their final respects ahead of the funeral, in Vatican City, on Wednesday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25pope-1-jpht/25pope-1-jpht-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis’s body lies in state for three days to allow Catholic faithful to pay their final respects ahead of the funeral, in Vatican City, on Wednesday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25pope-1-jpht/25pope-1-jpht-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis’s body lies in state for three days to allow Catholic faithful to pay their final respects ahead of the funeral, in Vatican City, on Wednesday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "technology",
+        "subsection": "",
+        "title": "How the War in Gaza Drove Israel’s A.I. Experiments",
+        "abstract": "Israel developed new artificial intelligence tools to gain an advantage in the war. The technologies have sometimes led to fatal consequences.",
+        "url": "https://www.nytimes.com/2025/04/25/technology/israel-gaza-ai.html",
+        "uri": "nyt://article/9183ef95-0a87-50b3-a0dc-e965ed651231",
+        "byline": "By Sheera Frenkel and Natan Odenheimer",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T05:00:36-04:00",
+        "created_date": "2025-04-25T05:00:36-04:00",
+        "published_date": "2025-04-25T05:00:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Artificial Intelligence",
+            "Drones (Pilotless Planes)",
+            "Defense and Military Forces",
+            "Arabic Language",
+            "Social Media",
+            "War and Armed Conflicts",
+            "Facial Recognition Software",
+            "Civilian Casualties",
+            "Terrorism",
+            "Computers and the Internet",
+            "Assassinations and Attempted Assassinations",
+            "Intelligence and Intelligence Tests (IQ)"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/07/business/00israel-ai/00israel-ai-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Joan Wong"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/07/business/00israel-ai/00israel-ai-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Joan Wong"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/07/business/00israel-ai/00israel-ai-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Joan Wong"
+            }
+        ],
+        "short_url": ""
     }
 ]
