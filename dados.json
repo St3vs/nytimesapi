@@ -45601,5 +45601,197 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "In Trade War Clash With Washington, China Refuses to Take the Bait",
+        "abstract": "The Trump administration has been saying that the two countries are engaged in talks to resolve the dispute, but Beijing asserts that no such discussions are happening.",
+        "url": "https://www.nytimes.com/2025/04/25/world/asia/united-states-china-trade-fight.html",
+        "uri": "nyt://article/867f9f3d-f8fd-50af-9560-43d43d88e05f",
+        "byline": "By David Pierson",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T12:23:13-04:00",
+        "created_date": "2025-04-25T12:21:09-04:00",
+        "published_date": "2025-04-25T12:21:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States Politics and Government",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "American Chamber of Commerce in the People's Republic of China",
+            "Stimson Center"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-china-us-lfvq/25int-china-us-lfvq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1362,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Commuters in Beijing. China and the Trump administration have feuded over tariffs.",
+                "copyright": "Greg Baker/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-china-us-lfvq/25int-china-us-lfvq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Commuters in Beijing. China and the Trump administration have feuded over tariffs.",
+                "copyright": "Greg Baker/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-china-us-lfvq/25int-china-us-lfvq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Commuters in Beijing. China and the Trump administration have feuded over tariffs.",
+                "copyright": "Greg Baker/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Claims He’s Negotiating With China on Trade. China Says Otherwise.",
+        "abstract": "President Trump said that “we’re meeting with China” on tariffs, comments aimed at soothing jittery financial markets. But Chinese officials say no talks have taken place.",
+        "url": "https://www.nytimes.com/2025/04/25/us/politics/trump-china-tariffs-xi-jinping.html",
+        "uri": "nyt://article/f65fb80a-0da2-5f05-94ae-08d0c7d5613b",
+        "byline": "By Ana Swanson and Jonathan Swan",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T12:25:57-04:00",
+        "created_date": "2025-04-25T10:17:34-04:00",
+        "published_date": "2025-04-25T10:17:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Time (Magazine)"
+        ],
+        "per_facet": [
+            "Xi Jinping",
+            "Trump, Donald J",
+            "Bessent, Scott",
+            "Lutnick, Howard W"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25-dc-trump-wjkm/25-dc-trump-wjkm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has been saying that his tariffs are working out well, but in private, his team has been less cheery.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25-dc-trump-wjkm/25-dc-trump-wjkm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has been saying that his tariffs are working out well, but in private, his team has been less cheery.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25-dc-trump-wjkm/25-dc-trump-wjkm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump has been saying that his tariffs are working out well, but in private, his team has been less cheery.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Once Shunned by Japanese Consumers, Korean Rice Now Flies Off the Shelves",
+        "abstract": "Faced with shortages and rising prices for domestic rice, many Japanese are doing what was once unthinkable — buying a foreign variety.",
+        "url": "https://www.nytimes.com/2025/04/25/world/asia/japan-south-korea-rice.html",
+        "uri": "nyt://article/b662a8d5-3998-5c50-af85-fc436c3f2753",
+        "byline": "By John Yoon and Hisako Ueno",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T11:29:27-04:00",
+        "created_date": "2025-04-25T06:52:28-04:00",
+        "published_date": "2025-04-25T06:52:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Shortages",
+            "Rice",
+            "Consumer Behavior",
+            "Agriculture and Farming",
+            "Shopping and Retail",
+            "Supermarkets and Grocery Stores"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Japan",
+            "South Korea",
+            "Haenam County (South Korea)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24xp-rice-top/24xp-rice-top-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1316,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Japanese tourists looking at rice at a supermarket in Seoul on Monday. Some Japanese visitors are taking rice souvenirs home with them. ",
+                "copyright": "Kim Jae-Hwan/SOPA Images, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24xp-rice-top/24xp-rice-top-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Japanese tourists looking at rice at a supermarket in Seoul on Monday. Some Japanese visitors are taking rice souvenirs home with them. ",
+                "copyright": "Kim Jae-Hwan/SOPA Images, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24xp-rice-top/24xp-rice-top-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Japanese tourists looking at rice at a supermarket in Seoul on Monday. Some Japanese visitors are taking rice souvenirs home with them. ",
+                "copyright": "Kim Jae-Hwan/SOPA Images, via Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
