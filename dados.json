@@ -45856,5 +45856,126 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Video Catches Nun Bidding Unique Farewell to Pope Francis, an Old Friend",
+        "abstract": "Sister Geneviève Jeanningros left the queue of mourners and approached the body of Pope Francis as it lay in state.",
+        "url": "https://www.nytimes.com/2025/04/25/world/europe/nun-bids-tearful-farewell-to-pope-francis.html",
+        "uri": "nyt://article/2f28f463-98ab-571d-a70d-32d6c87370ba",
+        "byline": "By Eve Sampson",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T14:00:35-04:00",
+        "created_date": "2025-04-25T13:31:52-04:00",
+        "published_date": "2025-04-25T13:31:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials",
+            "Clergy",
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/world/europe/pope-francis-nun-mourns/pope-francis-nun-mourns-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1620,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Vatican Media, via AFP"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/world/europe/pope-francis-nun-mourns/pope-francis-nun-mourns-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Vatican Media, via AFP"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/world/europe/pope-francis-nun-mourns/pope-francis-nun-mourns-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Vatican Media, via AFP"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Administration Reverses Course on Student Visa Cancellations",
+        "abstract": "The sudden shift came as a reprieve for the more than 1,500 international students who have had their visas canceled in recent weeks.",
+        "url": "https://www.nytimes.com/2025/04/25/us/politics/trump-student-visa-cancellations.html",
+        "uri": "nyt://article/788a2d79-2d66-525d-a1f6-5989afb3b338",
+        "byline": "By Zach Montague",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T14:11:26-04:00",
+        "created_date": "2025-04-25T13:18:13-04:00",
+        "published_date": "2025-04-25T13:18:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Students (in US)",
+            "United States Politics and Government",
+            "Visas",
+            "Deportation",
+            "Immigration Detention"
+        ],
+        "org_facet": [
+            "Immigration and Customs Enforcement (US)",
+            "Justice Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25dc-studentvisas-kmpg/25dc-studentvisas-kmpg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Justice Department lawyer said immigration officials had begun work on a new system for reviewing and terminating visas for international students.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25dc-studentvisas-kmpg/25dc-studentvisas-kmpg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Justice Department lawyer said immigration officials had begun work on a new system for reviewing and terminating visas for international students.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25dc-studentvisas-kmpg/25dc-studentvisas-kmpg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Justice Department lawyer said immigration officials had begun work on a new system for reviewing and terminating visas for international students.",
+                "copyright": "Tierney L. Cross for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
