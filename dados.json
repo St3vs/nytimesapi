@@ -44358,5 +44358,201 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Forced Labor Taints Brazilian Coffee, Say Complaints to U.S. Authorities",
+        "abstract": "Two legal actions seeking U.S. government intervention say that some of the coffee bought by major American retailers is harvested in conditions that amount to slavery.",
+        "url": "https://www.nytimes.com/2025/04/24/world/americas/brazil-coffee-slave-labor.html",
+        "uri": "nyt://article/3af26584-340e-56e4-81f6-7dc658554203",
+        "byline": "By Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T21:46:11-04:00",
+        "created_date": "2025-04-24T20:13:25-04:00",
+        "published_date": "2025-04-24T20:13:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Coffee",
+            "Forced Labor",
+            "Suits and Litigation (Civil)"
+        ],
+        "org_facet": [
+            "Customs and Border Protection (US)",
+            "Starbucks Corporation",
+            "Jacobs Douwe Egberts",
+            "Nestle SA",
+            "Rainforest Alliance"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Brazil"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22int-brazil-coffee-gkql/22int-brazil-coffee-gkql-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Coffee beans imported from Brazil in Barquisimeto, Venezuela.",
+                "copyright": "Meridith Kohut for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22int-brazil-coffee-gkql/22int-brazil-coffee-gkql-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Coffee beans imported from Brazil in Barquisimeto, Venezuela.",
+                "copyright": "Meridith Kohut for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/22/multimedia/22int-brazil-coffee-gkql/22int-brazil-coffee-gkql-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Coffee beans imported from Brazil in Barquisimeto, Venezuela.",
+                "copyright": "Meridith Kohut for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "U.S. Says Blast in Yemen Was Caused by Houthi Missile, Not U.S. Strike",
+        "abstract": "An explosion near a UNESCO world heritage site in Yemen’s capital on Sunday killed 12 people, according to health authorities tied to the Houthi-led government.",
+        "url": "https://www.nytimes.com/2025/04/24/world/middleeast/us-yemen-houthi-misfire.html",
+        "uri": "nyt://article/5298378a-605d-50f6-bee9-6257fc40051a",
+        "byline": "By Vivian Nereim and Shuaib Almosawa",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T19:40:17-04:00",
+        "created_date": "2025-04-24T19:40:17-04:00",
+        "published_date": "2025-04-24T19:40:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "International Relations",
+            "Israel-Gaza War (2023- )",
+            "Peace Process"
+        ],
+        "org_facet": [
+            "Houthis",
+            "Hamas",
+            "United Nations High Commissioner for Refugees",
+            "United Nations"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Guterres, Antonio"
+        ],
+        "geo_facet": [
+            "Yemen",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24yemen-1-bzgk/24yemen-1-bzgk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People on Monday gathered at the site of a strike in the Farwah neighborhood in Sana, Yemen.",
+                "copyright": "Mohammed Huwais/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24yemen-1-bzgk/24yemen-1-bzgk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People on Monday gathered at the site of a strike in the Farwah neighborhood in Sana, Yemen.",
+                "copyright": "Mohammed Huwais/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24yemen-1-bzgk/24yemen-1-bzgk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People on Monday gathered at the site of a strike in the Farwah neighborhood in Sana, Yemen.",
+                "copyright": "Mohammed Huwais/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump’s Crimea Proposal Would End a Decade of U.S. Resistance",
+        "abstract": "A new U.S. peace plan offered to Russia and Ukraine proposes American recognition of the peninsula, which Moscow seized in 2014.",
+        "url": "https://www.nytimes.com/2025/04/24/us/politics/trump-crimea-peace-agreement.html",
+        "uri": "nyt://article/aad929b9-8ba6-5ec2-998f-4a71883ce086",
+        "byline": "By Michael Crowley",
+        "item_type": "Article",
+        "updated_date": "2025-04-24T20:56:33-04:00",
+        "created_date": "2025-04-24T18:50:32-04:00",
+        "published_date": "2025-04-24T18:50:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Russian Invasion of Ukraine (2022)",
+            "International Relations",
+            "Cold War Era",
+            "Peace Process",
+            "Territorial Disputes"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Crimea (Ukraine)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24dc-crimea2-blzg/24dc-crimea2-blzg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A mural in the colors of the Russian flag in Yevpatoriya, Crimea, on Thursday.",
+                "copyright": "Alexey Pavlishak/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24dc-crimea2-blzg/24dc-crimea2-blzg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A mural in the colors of the Russian flag in Yevpatoriya, Crimea, on Thursday.",
+                "copyright": "Alexey Pavlishak/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/24dc-crimea2-blzg/24dc-crimea2-blzg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A mural in the colors of the Russian flag in Yevpatoriya, Crimea, on Thursday.",
+                "copyright": "Alexey Pavlishak/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
