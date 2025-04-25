@@ -45097,5 +45097,125 @@
         ],
         "multimedia": null,
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A British Magic Society Welcomes Its First Woman, Three Decades Late",
+        "abstract": "Last year, the Magic Circle began searching for Sophie Lloyd, who disguised herself as a man in 1991 to gain membership and was then ousted. On Thursday, she returned.",
+        "url": "https://www.nytimes.com/2025/04/25/world/europe/magic-circle-london-sophie-lloyd.html",
+        "uri": "nyt://article/b0f836ac-1a09-5d23-81cd-acaf4f4db1a0",
+        "byline": "By Amelia Nierenberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T08:33:23-04:00",
+        "created_date": "2025-04-25T06:55:31-04:00",
+        "published_date": "2025-04-25T06:55:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Magic and Magicians",
+            "Women and Girls"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Great Britain",
+            "London (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-uk-magic-02-jqct/25int-uk-magic-02-jqct-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1512,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sophie Lloyd as Raymond Lloyd back in the day, so that she could be accepted into the Magic Circle.",
+                "copyright": "Via Sophie Lloyd "
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-uk-magic-02-jqct/25int-uk-magic-02-jqct-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sophie Lloyd as Raymond Lloyd back in the day, so that she could be accepted into the Magic Circle.",
+                "copyright": "Via Sophie Lloyd "
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-uk-magic-02-jqct/25int-uk-magic-02-jqct-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sophie Lloyd as Raymond Lloyd back in the day, so that she could be accepted into the Magic Circle.",
+                "copyright": "Via Sophie Lloyd "
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israeli Prime Minister Offers Condolences Three Days After Pope’s Death",
+        "abstract": "The delay in issuing a statement reflected apparent tensions between Israel and Francis, who criticized Israel’s conduct in the war in Gaza.",
+        "url": "https://www.nytimes.com/2025/04/25/world/middleeast/netanyahu-pope-francis-death-condolences.html",
+        "uri": "nyt://article/5417c78a-b9e8-554b-8fe8-979d0bbcb7bf",
+        "byline": "By Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T07:46:19-04:00",
+        "created_date": "2025-04-25T07:30:15-04:00",
+        "published_date": "2025-04-25T07:30:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Popes",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Religion-State Relations"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-netanyahu-pope-bwvj/25int-netanyahu-pope-bwvj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1375,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis is flanked by Prime Minister Benjamin Netanyahu and President Shimon Peres in Jerusalem in 2014.",
+                "copyright": "Baz Ratner/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-netanyahu-pope-bwvj/25int-netanyahu-pope-bwvj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis is flanked by Prime Minister Benjamin Netanyahu and President Shimon Peres in Jerusalem in 2014.",
+                "copyright": "Baz Ratner/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-netanyahu-pope-bwvj/25int-netanyahu-pope-bwvj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis is flanked by Prime Minister Benjamin Netanyahu and President Shimon Peres in Jerusalem in 2014.",
+                "copyright": "Baz Ratner/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
