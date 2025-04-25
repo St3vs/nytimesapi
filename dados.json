@@ -45346,5 +45346,126 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Cardinal Accused of Hiding Priest Sex Abuse Will Help Close Pope Francis’ Casket",
+        "abstract": "Cardinal Roger M. Mahony, who was accused of covering up cases of abuse as archbishop of Los Angeles, will have an official role in the ceremonies around Francis’ funeral.",
+        "url": "https://www.nytimes.com/2025/04/25/us/cardinal-roger-mahony-pope-francis-funeral.html",
+        "uri": "nyt://article/01ec8c6f-da8c-5145-b1f6-9cfd55d496c3",
+        "byline": "By Jonathan Wolfe",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T10:04:36-04:00",
+        "created_date": "2025-04-25T10:04:36-04:00",
+        "published_date": "2025-04-25T10:04:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Clergy",
+            "Sex Crimes",
+            "Cardinals (Roman Catholic Prelates)",
+            "Popes",
+            "Child Abuse and Neglect",
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Mahony, Roger M"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25xp-pope-mahony-fzwg/25xp-pope-mahony-fzwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1379,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Roger M. Mahony, the former archbishop of Los Angeles, covered up cases of sexual abuse by priests.",
+                "copyright": "Max Rossi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25xp-pope-mahony-fzwg/25xp-pope-mahony-fzwg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Roger M. Mahony, the former archbishop of Los Angeles, covered up cases of sexual abuse by priests.",
+                "copyright": "Max Rossi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25xp-pope-mahony-fzwg/25xp-pope-mahony-fzwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Roger M. Mahony, the former archbishop of Los Angeles, covered up cases of sexual abuse by priests.",
+                "copyright": "Max Rossi/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Map: 6.3-Magnitude Earthquake Strikes Near Ecuador",
+        "abstract": "View the location of the quake’s epicenter and shake area.",
+        "url": "https://www.nytimes.com/interactive/2025/04/25/world/americas/ecuador-quake-tracker.html",
+        "uri": "nyt://interactive/2b92d5d9-6d98-5ed3-a0c1-a0fcc2a3f160",
+        "byline": "By William B. Davis, Madison Dong, Judson Jones, John Keefe and Bea Malsky",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-25T10:14:59-04:00",
+        "created_date": "2025-04-25T09:56:54-04:00",
+        "published_date": "2025-04-25T09:56:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Earthquakes"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Ecuador",
+            "Pacific Ocean"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/world/25wea-quake-tracker-north-pacific-ocean-nyt1d0mh-index/25wea-quake-tracker-north-pacific-ocean-nyt1d0mh-index-superJumbo-v16.jpg",
+                "format": "Super Jumbo",
+                "height": 1332,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/world/25wea-quake-tracker-north-pacific-ocean-nyt1d0mh-index/25wea-quake-tracker-north-pacific-ocean-nyt1d0mh-index-threeByTwoSmallAt2X-v18.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/world/25wea-quake-tracker-north-pacific-ocean-nyt1d0mh-index/25wea-quake-tracker-north-pacific-ocean-nyt1d0mh-index-thumbLarge-v16.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
