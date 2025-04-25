@@ -44554,5 +44554,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Where Bruce Lee Practiced on the Roof, a Shrine to Old Hong Kong Rises",
+        "abstract": "At a formerly grand hotel where the famed martial arts star once stayed, a group of collectors is trying to preserve vestiges of the city’s past as its political identity changes.",
+        "url": "https://www.nytimes.com/2025/04/25/world/asia/hong-kong-museum-nostalgia.html",
+        "uri": "nyt://article/4b7f66c1-ac98-5c8d-b05b-8962b2be5bde",
+        "byline": "By Tiffany May and Billy H.C. Kwok",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T00:01:14-04:00",
+        "created_date": "2025-04-25T00:01:14-04:00",
+        "published_date": "2025-04-25T00:01:14-04:00",
+        "material_type_facet": "",
+        "kicker": "Hong Kong dispatch",
+        "des_facet": [
+            "Museums",
+            "Collectors and Collections",
+            "Memorabilia and Souvenirs",
+            "Restaurants",
+            "Antiques",
+            "Hotels and Travel Lodgings",
+            "Movies",
+            "Opera",
+            "Twilight of the Warriors: Walled In (Movie)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Lee, Bruce"
+        ],
+        "geo_facet": [
+            "Hong Kong",
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-hongkong-dispatch-01-ktcg/00int-hongkong-dispatch-01-ktcg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1368,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Visitors at Lung Wah Hotel, remade into a museum, in Hong Kong.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-hongkong-dispatch-01-ktcg/00int-hongkong-dispatch-01-ktcg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Visitors at Lung Wah Hotel, remade into a museum, in Hong Kong.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/14/multimedia/00int-hongkong-dispatch-01-ktcg/00int-hongkong-dispatch-01-ktcg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Visitors at Lung Wah Hotel, remade into a museum, in Hong Kong.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
