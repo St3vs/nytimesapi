@@ -44824,5 +44824,129 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Putin Keeps Pummeling Ukraine, Convinced Trump Is on His Side",
+        "abstract": "The concessions offered so far by President Trump fall short of Russia’s stated war aims. But President Vladimir V. Putin appears certain that he has the upper hand in talks.",
+        "url": "https://www.nytimes.com/2025/04/25/world/europe/russia-ukraine-trump.html",
+        "uri": "nyt://article/a30eddaf-3151-52e2-880f-48435649a709",
+        "byline": "By Anton Troianovski",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T05:40:58-04:00",
+        "created_date": "2025-04-25T05:40:58-04:00",
+        "published_date": "2025-04-25T05:40:58-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Putin, Vladimir V",
+            "Witkoff, Steven",
+            "Zelensky, Volodymyr",
+            "Lavrov, Sergey V"
+        ],
+        "geo_facet": [
+            "Russia",
+            "Ukraine",
+            "United States",
+            "Kyiv (Ukraine)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-russia-assess-01-plmq/25int-russia-assess-01-plmq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Damage on Thursday after Russian missile strikes on Kyiv. It was the deadliest attack on the Ukrainian capital in nearly a year.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-russia-assess-01-plmq/25int-russia-assess-01-plmq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Damage on Thursday after Russian missile strikes on Kyiv. It was the deadliest attack on the Ukrainian capital in nearly a year.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-russia-assess-01-plmq/25int-russia-assess-01-plmq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Damage on Thursday after Russian missile strikes on Kyiv. It was the deadliest attack on the Ukrainian capital in nearly a year.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A Faithful Throng Pays Last Respects to Pope Francis",
+        "abstract": "“It meant a lot to me to see him, he gave us so much,” said one woman who waited in line to file past the pontiff’s casket.",
+        "url": "https://www.nytimes.com/2025/04/25/world/europe/francis-pope-funeral.html",
+        "uri": "nyt://article/d13fa94d-218c-53ef-b39c-181e4c79c1b9",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T05:44:44-04:00",
+        "created_date": "2025-04-25T05:37:04-04:00",
+        "published_date": "2025-04-25T05:37:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-pope-pbzh/25int-pope-pbzh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The crowd waiting to enter St. Peter’s Basilica at the Vatican on Friday morning to pay their respects to Pope Francis. Depending on the time of day, the wait to pass by the coffin could take hours. ",
+                "copyright": "Emilio Morenatti/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-pope-pbzh/25int-pope-pbzh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The crowd waiting to enter St. Peter’s Basilica at the Vatican on Friday morning to pay their respects to Pope Francis. Depending on the time of day, the wait to pass by the coffin could take hours. ",
+                "copyright": "Emilio Morenatti/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-pope-pbzh/25int-pope-pbzh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The crowd waiting to enter St. Peter’s Basilica at the Vatican on Friday morning to pay their respects to Pope Francis. Depending on the time of day, the wait to pass by the coffin could take hours. ",
+                "copyright": "Emilio Morenatti/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
