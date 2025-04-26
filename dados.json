@@ -46294,5 +46294,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Ukrainian Peace Plan Hints at Concessions, but Major Obstacles Remain",
+        "abstract": "Officials in Kyiv plan to deliver their proposal to President Trump’s team, after rejecting a White House plan that would have given the Kremlin much of what it wants.",
+        "url": "https://www.nytimes.com/2025/04/25/world/europe/ukraine-peace-counterproposal.html",
+        "uri": "nyt://article/a4cf3e1b-192c-58a9-8210-848a383bcd05",
+        "byline": "By Michael Schwirtz and Adam Entous",
+        "item_type": "Article",
+        "updated_date": "2025-04-25T20:43:15-04:00",
+        "created_date": "2025-04-25T19:26:22-04:00",
+        "published_date": "2025-04-25T19:26:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Zelensky, Volodymyr",
+            "Vance, J D"
+        ],
+        "geo_facet": [
+            "Ukraine",
+            "Kyiv (Ukraine)",
+            "Sumy (Ukraine)",
+            "Moscow (Russia)",
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25Ukraine-Peace-cjtq/25Ukraine-Peace-cjtq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine laying flowers at the site of a Russian missile attack on a residential building in Kyiv on Friday.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25Ukraine-Peace-cjtq/25Ukraine-Peace-cjtq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine laying flowers at the site of a Russian missile attack on a residential building in Kyiv on Friday.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25Ukraine-Peace-cjtq/25Ukraine-Peace-cjtq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky of Ukraine laying flowers at the site of a Russian missile attack on a residential building in Kyiv on Friday.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
