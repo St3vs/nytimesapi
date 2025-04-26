@@ -48514,5 +48514,172 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The church’s attention now turns to its future.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/26/world/pope-francis-funeral/the-churchs-attention-now-turns-to-its-future",
+        "uri": "nyt://article/416766cc-11be-5340-868b-280cb536e1cf",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T12:00:02-04:00",
+        "created_date": "2025-04-26T12:00:02-04:00",
+        "published_date": "2025-04-26T12:00:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-upnext-khtq/26pope-funeral-upnext-khtq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The conclave to select the next pope will begin on May 6.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-upnext-khtq/26pope-funeral-upnext-khtq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The conclave to select the next pope will begin on May 6.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-upnext-khtq/26pope-funeral-upnext-khtq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The conclave to select the next pope will begin on May 6.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "",
+        "title": "See Who Attended Pope Francis’ Funeral",
+        "abstract": "Explore a photo of world leaders who were at the funeral.",
+        "url": "https://www.nytimes.com/interactive/2025/04/26/world/europe/pope-francis-funeral-attendees-photo.html",
+        "uri": "nyt://interactive/5793e96c-aa48-5951-b853-943328b34a8c",
+        "byline": "By Eric Lee, Jon Huang, Elena Shao and Karen Yourish",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-26T11:28:36-04:00",
+        "created_date": "2025-04-26T11:28:05-04:00",
+        "published_date": "2025-04-26T11:28:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/2025-04-25-pope-funeral-zoomer-index/2025-04-25-pope-funeral-zoomer-index-superJumbo-v5.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/2025-04-25-pope-funeral-zoomer-index/2025-04-25-pope-funeral-zoomer-index-threeByTwoSmallAt2X-v6.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/2025-04-25-pope-funeral-zoomer-index/2025-04-25-pope-funeral-zoomer-index-thumbLarge-v5.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump’s Blue Suit at Pope’s Funeral Draws Attention",
+        "abstract": "President Trump’s choice stood out in a sea of world leaders and famous faces who were dressed in customary black.",
+        "url": "https://www.nytimes.com/2025/04/26/world/europe/trump-pope-francis-funeral-blue-suit.html",
+        "uri": "nyt://article/09b1bb1e-882e-5565-aacc-0066a93fecbc",
+        "byline": "By Vanessa Friedman",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T12:09:12-04:00",
+        "created_date": "2025-04-26T11:24:05-04:00",
+        "published_date": "2025-04-26T11:24:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-trump-suit-tzmj/26pope-funeral-trump-suit-tzmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump dressed in blue for the funeral, while other dignitaries dressed in black.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-trump-suit-tzmj/26pope-funeral-trump-suit-tzmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump dressed in blue for the funeral, while other dignitaries dressed in black.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-trump-suit-tzmj/26pope-funeral-trump-suit-tzmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump dressed in blue for the funeral, while other dignitaries dressed in black.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
