@@ -48142,5 +48142,248 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Who Was the American Who Did the First Reading at Pope Francis’ Funeral Mass?",
+        "abstract": "Kielce Gussie is a reporter with Vatican News. She has been working in Rome since 2019.",
+        "url": "https://www.nytimes.com/2025/04/26/world/europe/kielce-gussie-pope-francis-funeral.html",
+        "uri": "nyt://article/fb2ab0ad-fecd-504b-9d33-960806735f45",
+        "byline": "By Bernhard Warner",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T10:16:16-04:00",
+        "created_date": "2025-04-26T10:16:16-04:00",
+        "published_date": "2025-04-26T10:16:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials",
+            "Popes"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-gussie-wfzm/26pope-funeral-gussie-wfzm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The funeral for Pope Francis outside St. Peter’s Basilica in Vatican City on Saturday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-gussie-wfzm/26pope-funeral-gussie-wfzm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The funeral for Pope Francis outside St. Peter’s Basilica in Vatican City on Saturday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-gussie-wfzm/26pope-funeral-gussie-wfzm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The funeral for Pope Francis outside St. Peter’s Basilica in Vatican City on Saturday.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Massive Iran Port Explosion Kills 4, Injures Hundreds",
+        "abstract": "There was no immediate indication that the blast was caused by sabotage or a deliberate attack. State media said it was likely caused by containers of chemicals catching fire.",
+        "url": "https://www.nytimes.com/2025/04/26/world/middleeast/massive-iran-port-explosion-kills-4-injures-hundreds.html",
+        "uri": "nyt://article/c180a8d8-717a-5855-9f91-dc55d919062f",
+        "byline": "By Leily Nikounazar and Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T10:13:59-04:00",
+        "created_date": "2025-04-26T10:13:59-04:00",
+        "published_date": "2025-04-26T10:13:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Explosions (Accidental)",
+            "Ports",
+            "Fires and Firefighters",
+            "Deaths (Fatalities)",
+            "Chemicals"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Iran",
+            "Strait of Hormuz",
+            "Persian Gulf"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-iran-explosion-video-vjhq/26int-iran-explosion-video-vjhq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mohammad Rasoul Moradi/Islamic Republic News Agency"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-iran-explosion-video-vjhq/26int-iran-explosion-video-vjhq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mohammad Rasoul Moradi/Islamic Republic News Agency"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-iran-explosion-video-vjhq/26int-iran-explosion-video-vjhq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mohammad Rasoul Moradi/Islamic Republic News Agency"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Decoding the Vatican: Key Terms in the Papal Transition",
+        "abstract": "From “camerlengo” to white smoke, here’s what to know about the words and phrases that guide the process after a pope dies.",
+        "url": "https://www.nytimes.com/2025/04/26/world/europe/pope-death-election-words-definition.html",
+        "uri": "nyt://article/c976a32e-8118-5570-ad1b-5bc52d3fd7e6",
+        "byline": "By Jonathan Wolfe",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T09:54:06-04:00",
+        "created_date": "2025-04-26T09:54:06-04:00",
+        "published_date": "2025-04-26T09:54:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Clergy",
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)",
+            "Priests",
+            "Funerals and Memorials"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26xp-papal-terms-kgvj/26xp-papal-terms-kgvj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The funeral of Pope Francis in Rome on Saturday.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26xp-papal-terms-kgvj/26xp-papal-terms-kgvj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The funeral of Pope Francis in Rome on Saturday.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26xp-papal-terms-kgvj/26xp-papal-terms-kgvj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The funeral of Pope Francis in Rome on Saturday.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump Meets With Zelensky in Vatican City",
+        "abstract": "During his whirlwind trip to Italy, President Trump’s interactions with world leaders, as they paid their respects to Francis, were being watched closely.",
+        "url": "https://www.nytimes.com/2025/04/26/world/europe/trump-pope-francis-funeral.html",
+        "uri": "nyt://article/c040d8c1-559f-5af5-83a1-bec6ea49145f",
+        "byline": "By David E. Sanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T09:41:32-04:00",
+        "created_date": "2025-04-26T05:03:05-04:00",
+        "published_date": "2025-04-26T05:03:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "United States Defense and Military Forces",
+            "Russian Invasion of Ukraine (2022)",
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-trump-htjb/26pope-funeral-trump-htjb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with reporters on Friday on Air Force One as he traveled to Italy for Pope Francis’ funeral.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-trump-htjb/26pope-funeral-trump-htjb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with reporters on Friday on Air Force One as he traveled to Italy for Pope Francis’ funeral.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-trump-htjb/26pope-funeral-trump-htjb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with reporters on Friday on Air Force One as he traveled to Italy for Pope Francis’ funeral.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
