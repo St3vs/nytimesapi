@@ -49099,5 +49099,134 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Massive Iran Port Explosion Kills at Least 8 and Injures Hundreds",
+        "abstract": "State media reported the blast was most likely caused by chemicals catching fire. There was no indication of an attack or sabotage.",
+        "url": "https://www.nytimes.com/2025/04/26/world/middleeast/iran-port-explosion-bandar-abbas.html",
+        "uri": "nyt://article/c180a8d8-717a-5855-9f91-dc55d919062f",
+        "byline": "By Leily Nikounazar, Aaron Boxerman and Farnaz Fassihi",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T17:09:06-04:00",
+        "created_date": "2025-04-26T10:14:00-04:00",
+        "published_date": "2025-04-26T10:14:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Explosions (Accidental)",
+            "Ports",
+            "Fires and Firefighters",
+            "Deaths (Fatalities)",
+            "Chemicals"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Iran",
+            "Strait of Hormuz",
+            "Persian Gulf"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-iran-explosion-video-vjhq/26int-iran-explosion-video-vjhq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mohammad Rasoul Moradi/Islamic Republic News Agency"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-iran-explosion-video-vjhq/26int-iran-explosion-video-vjhq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mohammad Rasoul Moradi/Islamic Republic News Agency"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-iran-explosion-video-vjhq/26int-iran-explosion-video-vjhq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mohammad Rasoul Moradi/Islamic Republic News Agency"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Palestinian Leader Abbas Appoints Deputy Amid Fears About Succession",
+        "abstract": "For many ordinary Palestinians, the appointment of Hussein al-Sheikh was emblematic of how out-of-touch the leadership of the Western-backed Palestinian Authority has become.",
+        "url": "https://www.nytimes.com/2025/04/26/world/middleeast/palestinian-authority-abbas-hussein-al-sheikh.html",
+        "uri": "nyt://article/b97ddfad-766e-5cc3-9fdc-44e590187001",
+        "byline": "By Adam Rasgon and Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T16:40:27-04:00",
+        "created_date": "2025-04-26T16:40:27-04:00",
+        "published_date": "2025-04-26T16:40:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Peace Process",
+            "Palestinians"
+        ],
+        "org_facet": [
+            "Fatah, Al",
+            "Hamas",
+            "Palestine Liberation Organization",
+            "Palestinian Authority"
+        ],
+        "per_facet": [
+            "Sheikh, Hussein al-",
+            "Abbas, Mahmoud"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Ramallah (West Bank)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-palestinians-deputy-top-vcwg/26int-palestinians-deputy-top-vcwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mahmoud Abbas formally named a close confidant, Hussein al-Sheikh, as his deputy on Saturday.",
+                "copyright": "Samar Hazboun for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-palestinians-deputy-top-vcwg/26int-palestinians-deputy-top-vcwg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mahmoud Abbas formally named a close confidant, Hussein al-Sheikh, as his deputy on Saturday.",
+                "copyright": "Samar Hazboun for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-palestinians-deputy-top-vcwg/26int-palestinians-deputy-top-vcwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mahmoud Abbas formally named a close confidant, Hussein al-Sheikh, as his deputy on Saturday.",
+                "copyright": "Samar Hazboun for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
