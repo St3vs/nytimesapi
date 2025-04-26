@@ -46614,5 +46614,230 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The funeral plan is simple (for a pope).",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/26/world/pope-francis-funeral/the-funeral-plan-is-simple-for-a-pope",
+        "uri": "nyt://article/bee834fd-6b2d-5f3b-8a0d-7b2371963e67",
+        "byline": "By Talya Minsberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T03:48:41-04:00",
+        "created_date": "2025-04-26T03:48:41-04:00",
+        "published_date": "2025-04-26T03:48:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-simple-fpvj/26pope-funeral-simple-fpvj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Francis’ simple coffin, which was placed low to the ground instead of on an elevated bier, lying in state this week.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-simple-fpvj/26pope-funeral-simple-fpvj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Francis’ simple coffin, which was placed low to the ground instead of on an elevated bier, lying in state this week.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-simple-fpvj/26pope-funeral-simple-fpvj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Francis’ simple coffin, which was placed low to the ground instead of on an elevated bier, lying in state this week.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Twenty years ago, three U.S. presidents traveled together to mourn a pope. Not so this time.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/26/world/pope-francis-funeral/twenty-years-ago-three-us-presidents-traveled-together-to-mourn-a-pope-not-so-this-time",
+        "uri": "nyt://article/35eb655b-1aa9-526f-8856-1f70e6ed5eac",
+        "byline": "By David E. Sanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T03:48:15-04:00",
+        "created_date": "2025-04-26T03:30:47-04:00",
+        "published_date": "2025-04-26T03:30:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/us/politics/26pope-funeral-bush-clinton/26pope-funeral-bush-clinton-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1339,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left, President George W. Bush, his wife Laura, former President George H.W. Bush and former President Bill Clinton at the funeral of Pope John Paul II in 2005.",
+                "copyright": "Pool photo by Danilo Schiavella"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/us/politics/26pope-funeral-bush-clinton/26pope-funeral-bush-clinton-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left, President George W. Bush, his wife Laura, former President George H.W. Bush and former President Bill Clinton at the funeral of Pope John Paul II in 2005.",
+                "copyright": "Pool photo by Danilo Schiavella"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/us/politics/26pope-funeral-bush-clinton/26pope-funeral-bush-clinton-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left, President George W. Bush, his wife Laura, former President George H.W. Bush and former President Bill Clinton at the funeral of Pope John Paul II in 2005.",
+                "copyright": "Pool photo by Danilo Schiavella"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "My Selfie With Francis: The Digital Legacy of an Approachable Pope",
+        "abstract": "Many of the Catholics he counseled were much younger, but he made a habit of trying to meet them where they were.",
+        "url": "https://www.nytimes.com/2025/04/26/world/europe/pope-francis-selfies-photos-videos.html",
+        "uri": "nyt://article/fb483159-a3b7-594e-b4ac-a85ddde2edab",
+        "byline": "By Claire Fahy, Sara Ruberg and Sopan Deb",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T03:30:09-04:00",
+        "created_date": "2025-04-26T03:30:09-04:00",
+        "published_date": "2025-04-26T03:30:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Photography",
+            "Religion and Belief",
+            "Smartphones"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26xp-pope-selfies-social/26xp-pope-selfies-social-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 748,
+                "width": 1514,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Annie Klare, Massimo Lobuglio, Father Eduardo Perdomo, Father James Sichko"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26xp-pope-selfies-social/26xp-pope-selfies-social-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Annie Klare, Massimo Lobuglio, Father Eduardo Perdomo, Father James Sichko"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26xp-pope-selfies-social/26xp-pope-selfies-social-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Annie Klare, Massimo Lobuglio, Father Eduardo Perdomo, Father James Sichko"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Who Is Sitting Where at Pope Francis’ Funeral?",
+        "abstract": "With dozens of foreign delegations attending, some from hostile countries, the funeral’s seating arrangements presented a possible nightmare for Vatican planners.",
+        "url": "https://www.nytimes.com/2025/04/26/world/europe/pope-francis-funeral-seating.html",
+        "uri": "nyt://article/36cf2264-f8ee-5bc6-8dbc-5ab536ff5204",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T04:11:23-04:00",
+        "created_date": "2025-04-26T03:19:27-04:00",
+        "published_date": "2025-04-26T03:19:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-seating-khjw/26pope-funeral-seating-khjw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At Francis’ open-air funeral Mass in St. Peter’s Square, members of foreign delegations are being divided into groups.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-seating-khjw/26pope-funeral-seating-khjw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At Francis’ open-air funeral Mass in St. Peter’s Square, members of foreign delegations are being divided into groups.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-seating-khjw/26pope-funeral-seating-khjw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "At Francis’ open-air funeral Mass in St. Peter’s Square, members of foreign delegations are being divided into groups.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
