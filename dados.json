@@ -48040,5 +48040,107 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Famous Faces Were in the Crowd at Pope Francis’ Funeral",
+        "abstract": "President Trump, Melania Trump, Prince William and President Volodymyr Zelensky of Ukraine were among those who paid respects to the pontiff in St. Peter’s Square.",
+        "url": "https://www.nytimes.com/2025/04/26/world/europe/trump-prince-william-zelensky-pope-funeral.html",
+        "uri": "nyt://article/fec648bb-7e11-5ef3-8436-ac7ea4c7ebd3",
+        "byline": "By Lynsey Chutel",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T09:20:07-04:00",
+        "created_date": "2025-04-26T09:20:07-04:00",
+        "published_date": "2025-04-26T09:20:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Assange, Julian P",
+            "Biden, Joseph R Jr",
+            "Felipe VI, King of Spain",
+            "Macron, Emmanuel (1977- )",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr",
+            "Meloni, Giorgia (1977- )",
+            "Letizia, Queen of Spain",
+            "Trump, Melania"
+        ],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump Meets With Zelensky in Vatican City, White House Says",
+        "abstract": "During his whirlwind trip to Italy, President Trump’s interactions with world leaders, as they paid their respects to Francis, were being watched closely.",
+        "url": "https://www.nytimes.com/2025/04/26/world/europe/trump-pope-francis-funeral.html",
+        "uri": "nyt://article/c040d8c1-559f-5af5-83a1-bec6ea49145f",
+        "byline": "By David E. Sanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T09:01:35-04:00",
+        "created_date": "2025-04-26T05:03:05-04:00",
+        "published_date": "2025-04-26T05:03:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "United States Defense and Military Forces",
+            "Russian Invasion of Ukraine (2022)",
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-trump-htjb/26pope-funeral-trump-htjb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with reporters on Friday on Air Force One as he traveled to Italy for Pope Francis’ funeral.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-trump-htjb/26pope-funeral-trump-htjb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with reporters on Friday on Air Force One as he traveled to Italy for Pope Francis’ funeral.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-trump-htjb/26pope-funeral-trump-htjb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with reporters on Friday on Air Force One as he traveled to Italy for Pope Francis’ funeral.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
