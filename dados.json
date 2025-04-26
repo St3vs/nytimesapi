@@ -47863,5 +47863,109 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Francis is being buried in a place of solace for him.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/26/world/pope-francis-funeral/francis-is-being-buried-in-a-place-of-solace-for-him",
+        "uri": "nyt://article/a266c115-a4b9-5ce3-9cc1-a76a1e0e44ea",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T07:00:20-04:00",
+        "created_date": "2025-04-26T07:00:20-04:00",
+        "published_date": "2025-04-26T07:00:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-burial-church-kmbz/26pope-funeral-burial-church-kmbz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nuns waiting for a prayer in honor of Pope Francis at the Basilica of St. Mary Major on Tuesday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-burial-church-kmbz/26pope-funeral-burial-church-kmbz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nuns waiting for a prayer in honor of Pope Francis at the Basilica of St. Mary Major on Tuesday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-burial-church-kmbz/26pope-funeral-burial-church-kmbz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nuns waiting for a prayer in honor of Pope Francis at the Basilica of St. Mary Major on Tuesday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The route to Santa Maria Maggiore recalls centuries-old traditions.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/26/world/pope-francis-funeral/the-route-to-santa-maria-maggiore-recalls-centuries-old-traditions",
+        "uri": "nyt://article/18cbe917-fc57-56a2-ba29-70c4fd244506",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T06:33:15-04:00",
+        "created_date": "2025-04-26T06:31:27-04:00",
+        "published_date": "2025-04-26T06:31:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-route-01/26pope-funeral-carousel-cvjp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The coffin of Pope Francis on Saturday.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-route-01/26pope-funeral-carousel-cvjp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The coffin of Pope Francis on Saturday.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-route-01/26pope-funeral-route-01-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The coffin of Pope Francis on Saturday.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
