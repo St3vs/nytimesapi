@@ -49228,5 +49228,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Massive Iran Port Explosion Kills at Least 14 and Injures Hundreds",
+        "abstract": "An Iranian with ties to the security services and an international security firm said that a missile fuel component exploded, but Iranian officials did not report any indication of an attack.",
+        "url": "https://www.nytimes.com/2025/04/26/world/middleeast/iran-port-explosion-bandar-abbas.html",
+        "uri": "nyt://article/c180a8d8-717a-5855-9f91-dc55d919062f",
+        "byline": "By Leily Nikounazar, Aaron Boxerman and Farnaz Fassihi",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T17:59:29-04:00",
+        "created_date": "2025-04-26T10:14:00-04:00",
+        "published_date": "2025-04-26T10:14:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Explosions (Accidental)",
+            "Ports",
+            "Fires and Firefighters",
+            "Deaths (Fatalities)",
+            "Chemicals"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Iran",
+            "Strait of Hormuz",
+            "Persian Gulf"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-iran-explosion-video-vjhq/26int-iran-explosion-video-vjhq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mohammad Rasoul Moradi/Islamic Republic News Agency"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-iran-explosion-video-vjhq/26int-iran-explosion-video-vjhq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mohammad Rasoul Moradi/Islamic Republic News Agency"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-iran-explosion-video-vjhq/26int-iran-explosion-video-vjhq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mohammad Rasoul Moradi/Islamic Republic News Agency"
+            }
+        ],
+        "short_url": ""
     }
 ]
