@@ -48804,5 +48804,238 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Mourners Bid Solemn Farewell to Pope Francis",
+        "abstract": "More than 250,000 people paid their respects to the pontiff at his funeral in front of St. Peter’s Basilica, the Vatican said. Dozens of world leaders attended, including President Trump.",
+        "url": "https://www.nytimes.com/live/2025/04/26/world/pope-francis-funeral",
+        "uri": "nyt://promo/ef44157a-12fd-5bbe-825e-faf6385bb5cd",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-26T14:20:50-04:00",
+        "created_date": "2025-04-26T03:08:48-04:00",
+        "published_date": "2025-04-26T03:08:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-promo-830am-gcwk/26pope-funeral-promo-830am-gcwk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Alkis Konstantinidis/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-promo-830am-gcwk/26pope-funeral-promo-830am-gcwk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Alkis Konstantinidis/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-promo-830am-gcwk/26pope-funeral-promo-830am-gcwk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Alkis Konstantinidis/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump’s 14 Hours in Rome: Fleeting Encounters Amid Global Discord",
+        "abstract": "During his whirlwind trip to Italy, President Trump’s interactions with world leaders, as they paid their respects to Francis, were being watched closely.",
+        "url": "https://www.nytimes.com/2025/04/26/world/europe/trump-pope-francis-funeral.html",
+        "uri": "nyt://article/c040d8c1-559f-5af5-83a1-bec6ea49145f",
+        "byline": "By David E. Sanger and Motoko Rich",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T14:20:48-04:00",
+        "created_date": "2025-04-26T05:03:05-04:00",
+        "published_date": "2025-04-26T05:03:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "United States Defense and Military Forces",
+            "Russian Invasion of Ukraine (2022)",
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-trump-htjb/26pope-funeral-trump-htjb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with reporters on Friday on Air Force One as he traveled to Italy for Pope Francis’ funeral.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-trump-htjb/26pope-funeral-trump-htjb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with reporters on Friday on Air Force One as he traveled to Italy for Pope Francis’ funeral.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-trump-htjb/26pope-funeral-trump-htjb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with reporters on Friday on Air Force One as he traveled to Italy for Pope Francis’ funeral.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Pope Francis, Who Sought a More Pastoral Church, Laid to Rest in a Majestic Ceremony",
+        "abstract": "The funeral drew world leaders, including President Trump and President Volodymyr Zelensky of Ukraine, who had a talk in the Basilica.",
+        "url": "https://www.nytimes.com/2025/04/26/world/europe/pope-francis-funeral-vatican-catholic-church.html",
+        "uri": "nyt://article/402c0b4a-de7d-54d5-8cf6-f487766fb92a",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T14:00:44-04:00",
+        "created_date": "2025-04-26T14:00:44-04:00",
+        "published_date": "2025-04-26T14:00:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Funerals and Memorials",
+            "Christians and Christianity",
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Benedict XVI",
+            "Francis",
+            "Re, Giovanni Battista"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-pope-ledeall-jtwb/26int-pope-ledeall-jtwb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis’ funeral procession passes the Temple of Venus and Rome on its way to the Basilica of Santa Maria Maggiore on Saturday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-pope-ledeall-jtwb/26int-pope-ledeall-jtwb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis’ funeral procession passes the Temple of Venus and Rome on its way to the Basilica of Santa Maria Maggiore on Saturday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-pope-ledeall-jtwb/26int-pope-ledeall-jtwb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis’ funeral procession passes the Temple of Venus and Rome on its way to the Basilica of Santa Maria Maggiore on Saturday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "As the pope’s funeral ended, a 6-year-old boy was baptized in a small church nearby.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/26/world/pope-francis-funeral/as-the-popes-funeral-ended-a-latin-american-boy-was-baptized-in-a-small-church-nearby",
+        "uri": "nyt://article/393df2f0-0267-5964-ad4d-643dae5f84e6",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T14:06:26-04:00",
+        "created_date": "2025-04-26T13:09:51-04:00",
+        "published_date": "2025-04-26T13:09:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-baptism/26pope-funeral-baptism-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1096,
+                "width": 730,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nathan Valentino wears a white suit and tie on the day of his baptism in Sant’Anna on Saturday.",
+                "copyright": "Angel Roa"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-baptism/26pope-funeral-baptism-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nathan Valentino wears a white suit and tie on the day of his baptism in Sant’Anna on Saturday.",
+                "copyright": "Angel Roa"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-baptism/26pope-funeral-baptism-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nathan Valentino wears a white suit and tie on the day of his baptism in Sant’Anna on Saturday.",
+                "copyright": "Angel Roa"
+            }
+        ],
+        "short_url": ""
     }
 ]
