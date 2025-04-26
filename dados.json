@@ -48681,5 +48681,128 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Massive Iran Port Explosion Kills 5 and Injures Hundreds",
+        "abstract": "State media reported the blast was likely caused by chemicals catching fire. There was no indication of an attack or sabotage.",
+        "url": "https://www.nytimes.com/2025/04/26/world/middleeast/iran-port-explosion-bandar-abbas.html",
+        "uri": "nyt://article/c180a8d8-717a-5855-9f91-dc55d919062f",
+        "byline": "By Leily Nikounazar and Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T12:37:06-04:00",
+        "created_date": "2025-04-26T10:14:00-04:00",
+        "published_date": "2025-04-26T10:14:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Explosions (Accidental)",
+            "Ports",
+            "Fires and Firefighters",
+            "Deaths (Fatalities)",
+            "Chemicals"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Iran",
+            "Strait of Hormuz",
+            "Persian Gulf"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-iran-explosion-video-vjhq/26int-iran-explosion-video-vjhq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mohammad Rasoul Moradi/Islamic Republic News Agency"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-iran-explosion-video-vjhq/26int-iran-explosion-video-vjhq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mohammad Rasoul Moradi/Islamic Republic News Agency"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-iran-explosion-video-vjhq/26int-iran-explosion-video-vjhq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mohammad Rasoul Moradi/Islamic Republic News Agency"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "‘He Was Like Family’: Faithful Descend on St. Peter’s Square for Pope’s Funeral",
+        "abstract": "Cardinals, royals and heads of state attended. But many mourners, some of whom slept on the streets overnight, said they came for a pope who had cared for the poor and marginalized.",
+        "url": "https://www.nytimes.com/2025/04/26/world/europe/pope-francis-funeral-st-peters-square.html",
+        "uri": "nyt://article/ff7ff02f-4b31-58cb-8e42-bef905af1ef5",
+        "byline": "By Emma Bubola and Matthew Mpoke Bigg",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T12:30:04-04:00",
+        "created_date": "2025-04-26T12:30:04-04:00",
+        "published_date": "2025-04-26T12:30:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials",
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-scene-top-mqvf/26pope-funeral-scene-top-mqvf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The crowds at Pope Francis’ funeral in St. Peter’s Square in Vatican City on Saturday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-scene-top-mqvf/26pope-funeral-scene-top-mqvf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The crowds at Pope Francis’ funeral in St. Peter’s Square in Vatican City on Saturday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-scene-top-mqvf/26pope-funeral-scene-top-mqvf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The crowds at Pope Francis’ funeral in St. Peter’s Square in Vatican City on Saturday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
