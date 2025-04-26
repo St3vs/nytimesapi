@@ -46361,5 +46361,71 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "What’s at Stake in the Iran-U.S. Nuclear Talks",
+        "abstract": "Plans for a third round of talks in three weeks have raised hopes for an Iran nuclear accord, which could avert a new Mideast conflict. President Trump said he believed a deal was within reach.",
+        "url": "https://www.nytimes.com/2025/04/26/world/middleeast/us-iran-nuclear-talks.html",
+        "uri": "nyt://article/fcf364da-eb74-5d7d-8f6c-386f10336505",
+        "byline": "By Vivian Nereim and Farnaz Fassihi",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T00:01:06-04:00",
+        "created_date": "2025-04-26T00:01:06-04:00",
+        "published_date": "2025-04-26T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Nuclear Weapons",
+            "Iran-Israel Proxy Conflict",
+            "United States International Relations",
+            "Uranium",
+            "Nuclear Energy"
+        ],
+        "org_facet": [
+            "International Atomic Energy Agency"
+        ],
+        "per_facet": [
+            "Araghchi, Abbas",
+            "Witkoff, Steven"
+        ],
+        "geo_facet": [
+            "Iran"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-us-iran01-photo-tpzm/26int-us-iran01-photo-tpzm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Tehran this month. A new nuclear deal could transform Iran’s economic and political landscape by easing Western sanctions.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-us-iran01-photo-tpzm/26int-us-iran01-photo-tpzm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Tehran this month. A new nuclear deal could transform Iran’s economic and political landscape by easing Western sanctions.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-us-iran01-photo-tpzm/26int-us-iran01-photo-tpzm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "In Tehran this month. A new nuclear deal could transform Iran’s economic and political landscape by easing Western sanctions.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
