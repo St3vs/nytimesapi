@@ -46839,5 +46839,912 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Latest Updates: Mourners Bid Solemn Farewell to Pope Francis",
+        "abstract": "The pontiff will be laid to rest after a funeral Mass in front of St. Peter’s Basilica in Vatican City. Dozens of world leaders were attending, including President Trump, who met with President Volodymyr Zelensky of Ukraine, the White House said.",
+        "url": "https://www.nytimes.com/live/2025/04/26/world/pope-francis-funeral",
+        "uri": "nyt://promo/ef44157a-12fd-5bbe-825e-faf6385bb5cd",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-26T05:16:14-04:00",
+        "created_date": "2025-04-26T03:08:48-04:00",
+        "published_date": "2025-04-26T03:08:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-promo-5a-zfcw/26pope-funeral-promo-5a-zfcw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-promo-5a-zfcw/26pope-funeral-promo-5a-zfcw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-promo-5a-zfcw/26pope-funeral-promo-5a-zfcw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Did Excessive Noise and Weight Cause a Nightclub Catastrophe?",
+        "abstract": "The Dominican nightclub where a roof loaded with equipment collapsed, killing 232 people, had repeatedly violated excessive noise rules. Now some wonder if sound vibrations played a role.",
+        "url": "https://www.nytimes.com/2025/04/26/world/americas/noise-weight-dominican-nightclub.html",
+        "uri": "nyt://article/904f9120-acb2-53e2-9c4f-26e0d7a4bcbb",
+        "byline": "By Frances Robles and Hogla Enecia Pérez",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T05:01:53-04:00",
+        "created_date": "2025-04-26T05:01:53-04:00",
+        "published_date": "2025-04-26T05:01:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Accidents and Safety",
+            "Bars and Nightclubs",
+            "Roofs",
+            "Noise",
+            "Deaths (Fatalities)",
+            "Buildings (Structures)"
+        ],
+        "org_facet": [
+            "Jet Set (Santo Domingo, Dominican Republic, Nightclub)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Santo Domingo (Dominican Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/00in-dr-collapse01-photo-wqmp/00in-dr-collapse01-photo-wqmp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Jet Set nightclub in Santo Domingo, Dominican Republic, after its roof caved in and much of the debris had been cleared.",
+                "copyright": "Martin Bernetti/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/00in-dr-collapse01-photo-wqmp/00in-dr-collapse01-photo-wqmp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Jet Set nightclub in Santo Domingo, Dominican Republic, after its roof caved in and much of the debris had been cleared.",
+                "copyright": "Martin Bernetti/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/00in-dr-collapse01-photo-wqmp/00in-dr-collapse01-photo-wqmp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Jet Set nightclub in Santo Domingo, Dominican Republic, after its roof caved in and much of the debris had been cleared.",
+                "copyright": "Martin Bernetti/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Canada’s Anti-Trump Finds His Moment",
+        "abstract": "Mark Carney, the new prime minister seeking a full term in Monday’s election, has built his campaign around President Trump’s threats to the country.",
+        "url": "https://www.nytimes.com/2025/04/26/world/canada/mark-carney-canada-election-trump.html",
+        "uri": "nyt://article/7197a48b-158c-5df3-8909-beb605c87e31",
+        "byline": "By Matina Stevis-Gridneff",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T05:06:15-04:00",
+        "created_date": "2025-04-26T05:01:22-04:00",
+        "published_date": "2025-04-26T05:01:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "Polls and Public Opinion"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Carney, Mark J",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/xxint-canada-carney-gjwb/xxint-canada-carney-gjwb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney has built his campaign around President Trump’s threats to Canada, promising to negotiate a holistic new deal with the United States to tackle trade and other areas.",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/xxint-canada-carney-gjwb/xxint-canada-carney-gjwb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney has built his campaign around President Trump’s threats to Canada, promising to negotiate a holistic new deal with the United States to tackle trade and other areas.",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/xxint-canada-carney-gjwb/xxint-canada-carney-gjwb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney has built his campaign around President Trump’s threats to Canada, promising to negotiate a holistic new deal with the United States to tackle trade and other areas.",
+                "copyright": "Cole Burston for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "Mike Myers Is Ready to Defend Canada",
+        "abstract": "The “Saturday Night Live” alum on getting political in Studio 8H, playing Elon Musk and why he decided to film a campaign ad for Canada’s Liberal Party.",
+        "url": "https://www.nytimes.com/2025/04/26/style/mike-myers-elon-musk-snl-canadian-election.html",
+        "uri": "nyt://article/15c9c731-ab5e-553f-abfe-61ffd22b2a7d",
+        "byline": "By Sarah Lyall",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T05:03:11-04:00",
+        "created_date": "2025-04-26T05:03:11-04:00",
+        "published_date": "2025-04-26T05:03:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Comedy and Humor",
+            "Canadian Federal Election (2019)",
+            "Political Advertising"
+        ],
+        "org_facet": [
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Myers, Mike"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26ST-MIKE-MYERS-01-tgzm/26ST-MIKE-MYERS-01-tgzm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1597,
+                "width": 1065,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Myers said he was thinking about the Canadian hockey legend Gordie Howe and his famous “elbows up” response to aggression on the ice when he revealed his “Canada Is Not for Sale” T-shirt on “Saturday Night Live.”",
+                "copyright": "NBC"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26ST-MIKE-MYERS-01-tgzm/26ST-MIKE-MYERS-01-tgzm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Myers said he was thinking about the Canadian hockey legend Gordie Howe and his famous “elbows up” response to aggression on the ice when he revealed his “Canada Is Not for Sale” T-shirt on “Saturday Night Live.”",
+                "copyright": "NBC"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26ST-MIKE-MYERS-01-tgzm/26ST-MIKE-MYERS-01-tgzm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Myers said he was thinking about the Canadian hockey legend Gordie Howe and his famous “elbows up” response to aggression on the ice when he revealed his “Canada Is Not for Sale” T-shirt on “Saturday Night Live.”",
+                "copyright": "NBC"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Polls Tighten in Homestretch of Canada’s Election",
+        "abstract": "Prime Minister Mark Carney’s Liberal Party still appears poised to win, pollsters say, even as its lead over the Conservative Party has shrunk.",
+        "url": "https://www.nytimes.com/2025/04/26/world/canada/election-polls-carney-poilievre.html",
+        "uri": "nyt://article/b1840902-1b71-525a-9419-df832b92c561",
+        "byline": "By Kaleigh Rogers",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T05:02:10-04:00",
+        "created_date": "2025-04-26T05:02:10-04:00",
+        "published_date": "2025-04-26T05:02:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Polls and Public Opinion",
+            "Elections"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Poilievre, Pierre"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-canada-election-polling-ltgc/26int-canada-election-polling-ltgc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 901,
+                "width": 1288,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Conservative leader Pierre Poilievre, left, and Prime Minister Mark Carney during a debate last month.",
+                "copyright": "Pool photo by Adrian Wyld"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-canada-election-polling-ltgc/26int-canada-election-polling-ltgc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Conservative leader Pierre Poilievre, left, and Prime Minister Mark Carney during a debate last month.",
+                "copyright": "Pool photo by Adrian Wyld"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-canada-election-polling-ltgc/26int-canada-election-polling-ltgc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Conservative leader Pierre Poilievre, left, and Prime Minister Mark Carney during a debate last month.",
+                "copyright": "Pool photo by Adrian Wyld"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "magazine",
+        "subsection": "",
+        "title": "What the Pope Told Me About Politics",
+        "abstract": "My brief tour with Pope Francis, the diplomat of our times.",
+        "url": "https://www.nytimes.com/2025/04/26/magazine/pope-politics.html",
+        "uri": "nyt://article/c8119082-9d10-509f-afd1-4bb40470584b",
+        "byline": "By John Jeremiah Sullivan",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T05:03:24-04:00",
+        "created_date": "2025-04-26T05:03:24-04:00",
+        "published_date": "2025-04-26T05:03:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Customs, Etiquette and Manners",
+            "United States Politics and Government",
+            "Presidential Election of 2016"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Francis",
+            "Aliyev, Ilham H"
+        ],
+        "geo_facet": [
+            "Baku (Azerbaijan)",
+            "Georgia (Georgian Republic)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/magazine/Mag-Pope-Sullivan/Mag-Pope-Sullivan-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1343,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis welcoming journalists, including the author (lower left), on a flight to Tbilisi, Georgia, on Sept. 30, 2016.",
+                "copyright": "Vincenzo Pinto/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/magazine/Mag-Pope-Sullivan/Mag-Pope-Sullivan-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis welcoming journalists, including the author (lower left), on a flight to Tbilisi, Georgia, on Sept. 30, 2016.",
+                "copyright": "Vincenzo Pinto/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/magazine/Mag-Pope-Sullivan/Mag-Pope-Sullivan-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis welcoming journalists, including the author (lower left), on a flight to Tbilisi, Georgia, on Sept. 30, 2016.",
+                "copyright": "Vincenzo Pinto/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Canada’s Extraordinary Yet Uneventful Election Draws to a Close",
+        "abstract": "President Trump’s tariffs and annexation ambitions continue to loom over all other issues in a race without any moments of campaign drama.",
+        "url": "https://www.nytimes.com/2025/04/26/world/canada/canada-election-liberals.html",
+        "uri": "nyt://article/016803d8-1c5f-599b-92fc-6eec16373af0",
+        "byline": "By Ian Austen",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T05:03:19-04:00",
+        "created_date": "2025-04-26T05:03:19-04:00",
+        "published_date": "2025-04-26T05:03:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Polls and Public Opinion",
+            "Politics and Government",
+            "Customs (Tariff)",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Poilievre, Pierre",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25canadaletter-carney-cvml/25canadaletter-carney-cvml-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney, with his wife, Diana Fox Carney, in Georgetown, Ontario, on Friday. President Trump’s trade war with Canada has changed his party’s fortunes.",
+                "copyright": "Carlos Osorio/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25canadaletter-carney-cvml/25canadaletter-carney-cvml-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney, with his wife, Diana Fox Carney, in Georgetown, Ontario, on Friday. President Trump’s trade war with Canada has changed his party’s fortunes.",
+                "copyright": "Carlos Osorio/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25canadaletter-carney-cvml/25canadaletter-carney-cvml-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney, with his wife, Diana Fox Carney, in Georgetown, Ontario, on Friday. President Trump’s trade war with Canada has changed his party’s fortunes.",
+                "copyright": "Carlos Osorio/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Climate Change, Once a Big Issue, Fades From Canada’s Election",
+        "abstract": "Even though Liberal candidate Mark Carney has a lengthy climate policy résumé, Trump’s threats have nearly drowned the issue out of the campaign.",
+        "url": "https://www.nytimes.com/2025/04/26/climate/canada-election-climate-change.html",
+        "uri": "nyt://article/1651a62c-99f7-50b8-b98e-fad4b85f4f86",
+        "byline": "By Max Bearak",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T05:03:17-04:00",
+        "created_date": "2025-04-26T05:03:17-04:00",
+        "published_date": "2025-04-26T05:03:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Oil (Petroleum) and Gasoline",
+            "Carbon Dioxide",
+            "United Nations Framework Convention on Climate Change",
+            "Natural Gas",
+            "Carbon Caps and Emissions Trading Programs"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Poilievre, Pierre"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25cli-canada-election-01-fwqg/25cli-canada-election-01-fwqg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1279,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney, right, has years of experience in the climate space. His main opponent, Pierre Poilievre, champions Canada’s oil and gas industries.",
+                "copyright": "Pool photo by Christopher Katsarov"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25cli-canada-election-01-fwqg/25cli-canada-election-01-fwqg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney, right, has years of experience in the climate space. His main opponent, Pierre Poilievre, champions Canada’s oil and gas industries.",
+                "copyright": "Pool photo by Christopher Katsarov"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25cli-canada-election-01-fwqg/25cli-canada-election-01-fwqg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney, right, has years of experience in the climate space. His main opponent, Pierre Poilievre, champions Canada’s oil and gas industries.",
+                "copyright": "Pool photo by Christopher Katsarov"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump Meets With Zelensky in Rome, White House Says",
+        "abstract": "During his whirlwind trip to Italy, President Trump’s interactions with world leaders, as they paid their respects to Francis, were being watched closely.",
+        "url": "https://www.nytimes.com/2025/04/26/world/europe/trump-pope-francis-funeral.html",
+        "uri": "nyt://article/c040d8c1-559f-5af5-83a1-bec6ea49145f",
+        "byline": "By David E. Sanger",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T05:16:13-04:00",
+        "created_date": "2025-04-26T05:03:05-04:00",
+        "published_date": "2025-04-26T05:03:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "United States Defense and Military Forces",
+            "Russian Invasion of Ukraine (2022)",
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-trump-htjb/26pope-funeral-trump-htjb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with reporters on Friday on Air Force One as he traveled to Italy for Pope Francis’ funeral.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-trump-htjb/26pope-funeral-trump-htjb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with reporters on Friday on Air Force One as he traveled to Italy for Pope Francis’ funeral.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-trump-htjb/26pope-funeral-trump-htjb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump speaking with reporters on Friday on Air Force One as he traveled to Italy for Pope Francis’ funeral.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "How Trump Plays Into Putin’s Hands, From Ukraine to Slashing U.S. Institutions",
+        "abstract": "Many of President Trump’s actions have been seen as benefiting Russia either directly or indirectly, so much so that Russian officials have celebrated some of his moves.",
+        "url": "https://www.nytimes.com/2025/04/26/us/politics/trump-putin-russia-ukraine.html",
+        "uri": "nyt://article/c9548ec7-a0f4-5bed-a1e6-fc0679e2a42c",
+        "byline": "By Peter Baker",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T05:02:17-04:00",
+        "created_date": "2025-04-26T05:02:17-04:00",
+        "published_date": "2025-04-26T05:02:17-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "RT (TV Network)",
+            "State Department"
+        ],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Rubio, Marco",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Crimea (Ukraine)",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26dc-assess1-kfzv/26dc-assess1-kfzv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russian President Vladimir V. Putin greets President Trump’s special envoy Steve Witkoff before their talks at the Kremlin in Moscow on Friday.",
+                "copyright": "Pool photo by Kristina Kormilitsyna"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26dc-assess1-kfzv/26dc-assess1-kfzv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russian President Vladimir V. Putin greets President Trump’s special envoy Steve Witkoff before their talks at the Kremlin in Moscow on Friday.",
+                "copyright": "Pool photo by Kristina Kormilitsyna"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26dc-assess1-kfzv/26dc-assess1-kfzv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russian President Vladimir V. Putin greets President Trump’s special envoy Steve Witkoff before their talks at the Kremlin in Moscow on Friday.",
+                "copyright": "Pool photo by Kristina Kormilitsyna"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "For Trump, Chemicals in Straws Are a Crisis. In Water, Maybe Less So.",
+        "abstract": "An administration document aimed at eradicating paper straws highlights the dangers of PFAS chemicals. Their presence in tap water nationwide hasn’t gotten the same attention.",
+        "url": "https://www.nytimes.com/2025/04/26/climate/trump-straws-pfas-water-forever-chemicals.html",
+        "uri": "nyt://article/9242e8fb-d418-5b84-9f6c-acbb4651e980",
+        "byline": "By Hiroko Tabuchi",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T05:01:38-04:00",
+        "created_date": "2025-04-26T05:01:38-04:00",
+        "published_date": "2025-04-26T05:01:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Straws (Drinking)",
+            "PFAS (Per- and Polyfluoroalkyl Substances)",
+            "Plastics",
+            "Water Pollution",
+            "Hazardous and Toxic Substances",
+            "Regulation and Deregulation of Industry",
+            "Conservation of Resources",
+            "Environment",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Environmental Protection Agency"
+        ],
+        "per_facet": [
+            "Biden, Joseph R Jr",
+            "Trump, Donald J",
+            "Zeldin, Lee M"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25CLI-PAPER-STRAWS-01-kvqt/25CLI-PAPER-STRAWS-01-kvqt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The debate over straws reaches back to the mid-2010s, when they suddenly became a pariah for their role in an exploding plastic waste crisis.",
+                "copyright": "Stephen Speranza for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25CLI-PAPER-STRAWS-01-kvqt/25CLI-PAPER-STRAWS-01-kvqt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The debate over straws reaches back to the mid-2010s, when they suddenly became a pariah for their role in an exploding plastic waste crisis.",
+                "copyright": "Stephen Speranza for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25CLI-PAPER-STRAWS-01-kvqt/25CLI-PAPER-STRAWS-01-kvqt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The debate over straws reaches back to the mid-2010s, when they suddenly became a pariah for their role in an exploding plastic waste crisis.",
+                "copyright": "Stephen Speranza for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The funeral homily captures Francis’ life and legacy.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/26/world/pope-francis-funeral/the-funeral-homily-captures-francis-life-and-legacy",
+        "uri": "nyt://article/57334a17-bc0b-5657-adac-1d99fa97647e",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T04:59:41-04:00",
+        "created_date": "2025-04-26T04:59:41-04:00",
+        "published_date": "2025-04-26T04:59:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-homily-qjpt/26pope-funeral-homily-qjpt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1278,
+                "width": 1916,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis arriving in Juarez, Mexico, during a trip in 2016. In his funeral Mass homily on Saturday, Cardinal Giovanni Battista Re recalled one of the late pope’s many “gestures and exhortations in favor of refugees and displaced persons.”",
+                "copyright": "Eric Gay/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-homily-qjpt/26pope-funeral-homily-qjpt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis arriving in Juarez, Mexico, during a trip in 2016. In his funeral Mass homily on Saturday, Cardinal Giovanni Battista Re recalled one of the late pope’s many “gestures and exhortations in favor of refugees and displaced persons.”",
+                "copyright": "Eric Gay/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-homily-qjpt/26pope-funeral-homily-qjpt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis arriving in Juarez, Mexico, during a trip in 2016. In his funeral Mass homily on Saturday, Cardinal Giovanni Battista Re recalled one of the late pope’s many “gestures and exhortations in favor of refugees and displaced persons.”",
+                "copyright": "Eric Gay/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The funeral Mass readings reflect Francis’ priorities and nod to John Paul II.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/26/world/pope-francis-funeral/the-funeral-mass-readings-reflect-francis-priorities-and-nod-to-john-paul-ii",
+        "uri": "nyt://article/050c3859-eea3-57af-9769-d46ef6740fb6",
+        "byline": "By Matthew Mpoke Bigg",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T04:37:12-04:00",
+        "created_date": "2025-04-26T04:37:12-04:00",
+        "published_date": "2025-04-26T04:37:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-readings-vczl/26pope-funeral-readings-vczl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis meeting members of the Roma community in Slovakia in 2021. His choice of readings for his funeral Mass speaks to his efforts to reach out to people previously excluded by the church.",
+                "copyright": "Petr David Josek/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-readings-vczl/26pope-funeral-readings-vczl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis meeting members of the Roma community in Slovakia in 2021. His choice of readings for his funeral Mass speaks to his efforts to reach out to people previously excluded by the church.",
+                "copyright": "Petr David Josek/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-readings-vczl/26pope-funeral-readings-vczl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis meeting members of the Roma community in Slovakia in 2021. His choice of readings for his funeral Mass speaks to his efforts to reach out to people previously excluded by the church.",
+                "copyright": "Petr David Josek/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The funeral music is largely being sung in Gregorian chant.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/26/world/pope-francis-funeral/the-funeral-music-is-largely-being-sung-in-gregorian-chant",
+        "uri": "nyt://article/3dd1c986-9085-58ca-b5de-628eccc03be2",
+        "byline": "By Zachary Woolfe",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T04:29:34-04:00",
+        "created_date": "2025-04-26T04:29:34-04:00",
+        "published_date": "2025-04-26T04:29:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/arts/26pope-funeral-music/26pope-funeral-music-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Sistine Chapel Choir will be the featured ensemble at Pope Francis’ funeral.",
+                "copyright": "Franco Origlia/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/arts/26pope-funeral-music/26pope-funeral-music-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Sistine Chapel Choir will be the featured ensemble at Pope Francis’ funeral.",
+                "copyright": "Franco Origlia/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/arts/26pope-funeral-music/26pope-funeral-music-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Sistine Chapel Choir will be the featured ensemble at Pope Francis’ funeral.",
+                "copyright": "Franco Origlia/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Who is presiding over the funeral?",
+        "abstract": "Cardinal Giovanni Battista Re, dean of the College of Cardinals, is a 91-year-old Italian who has spent most of his career serving in the Roman curia.",
+        "url": "https://www.nytimes.com/live/2025/04/26/world/pope-francis-funeral/who-is-presiding-over-the-funeral",
+        "uri": "nyt://article/e5192dac-5b5b-562d-bcb2-39c6cef3557a",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T04:27:29-04:00",
+        "created_date": "2025-04-26T04:21:17-04:00",
+        "published_date": "2025-04-26T04:21:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-officiant-bvqk/26pope-funeral-officiant-bvqk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "El cardenal Giovanni Battista Re en la Vigilia Pascual celebrada la semana pasada en el Vaticano.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-officiant-bvqk/26pope-funeral-officiant-bvqk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "El cardenal Giovanni Battista Re en la Vigilia Pascual celebrada la semana pasada en el Vaticano.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-officiant-bvqk/26pope-funeral-officiant-bvqk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "El cardenal Giovanni Battista Re en la Vigilia Pascual celebrada la semana pasada en el Vaticano.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
