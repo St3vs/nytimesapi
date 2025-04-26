@@ -46489,5 +46489,26 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Here’s the latest.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/26/world/pope-francis-funeral/heres-the-latest",
+        "uri": "nyt://article/bfaae778-3a5f-5d79-8f83-26547012ea1c",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T01:49:07-04:00",
+        "created_date": "2025-04-26T01:38:27-04:00",
+        "published_date": "2025-04-26T01:38:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
     }
 ]
