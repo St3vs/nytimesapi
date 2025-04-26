@@ -47746,5 +47746,122 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Will Pope Francis Be Made a Saint?",
+        "abstract": "Two of the five popes before Francis have become saints, but merely serving as pontiff is no longer a guarantee of canonization.",
+        "url": "https://www.nytimes.com/2025/04/26/world/europe/pope-francis-saint-canonization.html",
+        "uri": "nyt://article/f612f930-0bb1-50e0-a727-ff57c7c94f0e",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T05:56:58-04:00",
+        "created_date": "2025-04-26T05:55:56-04:00",
+        "published_date": "2025-04-26T05:55:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-sainthood-top1-wmbc/26pope-funeral-sainthood-top1-wmbc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Carrying a picture of Pope Francis before a memorial Mass at the Cathedral of Cubao in Quezon City, Philippines, on Tuesday.",
+                "copyright": "Ezra Acayan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-sainthood-top1-wmbc/26pope-funeral-sainthood-top1-wmbc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Carrying a picture of Pope Francis before a memorial Mass at the Cathedral of Cubao in Quezon City, Philippines, on Tuesday.",
+                "copyright": "Ezra Acayan for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-sainthood-top1-wmbc/26pope-funeral-sainthood-top1-wmbc-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Carrying a picture of Pope Francis before a memorial Mass at the Cathedral of Cubao in Quezon City, Philippines, on Tuesday.",
+                "copyright": "Ezra Acayan for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Francis’ Last Journey",
+        "abstract": "As pope, Francis traveled to dozens of countries on five continents. In his last days, he stayed much closer to home.",
+        "url": "https://www.nytimes.com/2025/04/26/world/europe/francis-funeral-photos.html",
+        "uri": "nyt://article/490ae766-c44e-58d9-9ae2-5cc332b73951",
+        "byline": "By The New York Times",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T06:13:47-04:00",
+        "created_date": "2025-04-26T05:36:33-04:00",
+        "published_date": "2025-04-26T05:36:33-04:00",
+        "material_type_facet": "",
+        "kicker": "In Pictures and Video",
+        "des_facet": [
+            "Popes",
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-visual-retop-mztl/26pope-funeral-visual-retop-mztl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1369,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-visual-retop-mztl/26pope-funeral-visual-retop-mztl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-visual-retop-mztl/26pope-funeral-visual-retop-mztl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
