@@ -46427,5 +46427,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "As Tensions Rise With Pakistan, a Moment of Truth for India’s Military",
+        "abstract": "The risk of exposing a military still being modernized may constrain Prime Minister Narendra Modi as he weighs retaliation for a terrorist attack.",
+        "url": "https://www.nytimes.com/2025/04/26/world/asia/india-pakistan-military-kashmir-attack.html",
+        "uri": "nyt://article/04999a1c-f468-53e2-bcc0-eedc10c6e6b0",
+        "byline": "By Mujib Mashal and Suhasini Raj",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T01:05:36-04:00",
+        "created_date": "2025-04-26T01:05:36-04:00",
+        "published_date": "2025-04-26T01:05:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Defense and Military Forces",
+            "Arms Trade",
+            "Supply Chain"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "India",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-india-military-mwgz/26int-india-military-mwgz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian military vehicles during the Republic Day parade in New Delhi in January.",
+                "copyright": "Adnan Abidi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-india-military-mwgz/26int-india-military-mwgz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian military vehicles during the Republic Day parade in New Delhi in January.",
+                "copyright": "Adnan Abidi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-india-military-mwgz/26int-india-military-mwgz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian military vehicles during the Republic Day parade in New Delhi in January.",
+                "copyright": "Adnan Abidi/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
