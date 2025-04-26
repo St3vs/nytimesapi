@@ -46510,5 +46510,109 @@
         "geo_facet": [],
         "multimedia": null,
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Latest Updates: Mourners Gather for Pope Francis’ Funeral",
+        "abstract": "The pontiff will be laid to rest after a Mass in front of St. Peter’s Basilica in Vatican City. The first Jesuit and first Latin American pope, he championed a more inclusive Roman Catholic Church.",
+        "url": "https://www.nytimes.com/live/2025/04/26/world/pope-francis-funeral",
+        "uri": "nyt://promo/ef44157a-12fd-5bbe-825e-faf6385bb5cd",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-26T03:11:07-04:00",
+        "created_date": "2025-04-26T03:08:48-04:00",
+        "published_date": "2025-04-26T03:08:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-promo-250a-khvf/26pope-funeral-promo-250a-khvf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1369,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-promo-250a-khvf/26pope-funeral-promo-250a-khvf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-promo-250a-khvf/26pope-funeral-promo-250a-khvf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Security is tight at St. Peter’s Square and across Rome.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/26/world/pope-francis-funeral/security-is-tight-at-st-peters-square-and-across-rome",
+        "uri": "nyt://article/adeb4014-70d8-51ae-a9bd-7b00db98193f",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-26T02:36:24-04:00",
+        "created_date": "2025-04-26T02:36:24-04:00",
+        "published_date": "2025-04-26T02:36:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-security-vhcm/26pope-funeral-security-vhcm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security officers at the entrance to St. Peter’s Square on Thursday.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-security-vhcm/26pope-funeral-security-vhcm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security officers at the entrance to St. Peter’s Square on Thursday.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26pope-funeral-security-vhcm/26pope-funeral-security-vhcm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security officers at the entrance to St. Peter’s Square on Thursday.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
