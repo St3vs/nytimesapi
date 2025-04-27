@@ -49867,5 +49867,125 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "At Least Nine People Killed After Driver Plows Into Street Party in Canada",
+        "abstract": "A man was arrested after a vehicle drove into people attending a Filipino community festival in Vancouver on Saturday in a “mass casualty incident,” the police said.",
+        "url": "https://www.nytimes.com/2025/04/27/world/asia/vehicle-ramming-vancouver-deaths.html",
+        "uri": "nyt://article/4a872d5b-063a-5181-b7a9-1275c2d4e5d4",
+        "byline": "By Ali Watkins and Jin Yu Young",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T06:18:38-04:00",
+        "created_date": "2025-04-27T03:12:31-04:00",
+        "published_date": "2025-04-27T03:12:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Vehicle-Ramming Attacks",
+            "Street Fairs and Festivals"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Vancouver (British Columbia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27xp-vancouver-wqbc/27xp-vancouver-wqbc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1143,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The police at a scene after a vehicle drove into a crowd at the Lapu Lapu Day festival in Vancouver on Saturday.",
+                "copyright": "Rich Lam/The Canadian Press, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27xp-vancouver-wqbc/27xp-vancouver-wqbc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The police at a scene after a vehicle drove into a crowd at the Lapu Lapu Day festival in Vancouver on Saturday.",
+                "copyright": "Rich Lam/The Canadian Press, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27xp-vancouver-wqbc/27xp-vancouver-wqbc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The police at a scene after a vehicle drove into a crowd at the Lapu Lapu Day festival in Vancouver on Saturday.",
+                "copyright": "Rich Lam/The Canadian Press, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Death Toll in Iranian Port Blast Rises to 25",
+        "abstract": "More than 1,100 people were also injured in the explosion at the Shahid Rajaee port, the largest in Iran.",
+        "url": "https://www.nytimes.com/2025/04/27/world/middleeast/iran-port-explosion.html",
+        "uri": "nyt://article/395bfb8b-871d-5d13-ae92-37d2843595f1",
+        "byline": "By Raja Abdulrahim",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T05:57:22-04:00",
+        "created_date": "2025-04-27T05:57:22-04:00",
+        "published_date": "2025-04-27T05:57:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Fires and Firefighters",
+            "Deaths (Fatalities)",
+            "Ports",
+            "Explosions (Accidental)",
+            "Disasters and Emergencies",
+            "Hazardous and Toxic Substances"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Pezeshkian, Masoud"
+        ],
+        "geo_facet": [
+            "Iran"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-iran-explosion-pfwt/27int-iran-explosion-pfwt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Shahid Rajaee port in Bandar Abbas, Iran, on Saturday. The country’s health ministry has told people to stay indoors.",
+                "copyright": "Razieh Pudat/Iranian Students' News Agency, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-iran-explosion-pfwt/27int-iran-explosion-pfwt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Shahid Rajaee port in Bandar Abbas, Iran, on Saturday. The country’s health ministry has told people to stay indoors.",
+                "copyright": "Razieh Pudat/Iranian Students' News Agency, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-iran-explosion-pfwt/27int-iran-explosion-pfwt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Shahid Rajaee port in Bandar Abbas, Iran, on Saturday. The country’s health ministry has told people to stay indoors.",
+                "copyright": "Razieh Pudat/Iranian Students' News Agency, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
