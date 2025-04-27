@@ -50186,5 +50186,36 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "U.K. Counterterrorism Police Investigate After Crossbow Attack Injures 2 Women",
+        "abstract": "The British police arrested a man on Saturday after an attack in Leeds, a city in northern England.",
+        "url": "https://www.nytimes.com/2025/04/27/world/europe/crossbow-attack-leeds-terrorism.html",
+        "uri": "nyt://article/d678019a-4a5c-598b-ab6d-b985c7d9fe42",
+        "byline": "By Amelia Nierenberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T08:55:50-04:00",
+        "created_date": "2025-04-27T08:55:50-04:00",
+        "published_date": "2025-04-27T08:55:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "Police",
+            "Civilian Casualties"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Starmer, Keir"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "Leeds (England)",
+            "Southport (England)"
+        ],
+        "multimedia": null,
+        "short_url": ""
     }
 ]
