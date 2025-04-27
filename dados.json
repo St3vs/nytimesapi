@@ -50583,5 +50583,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Pakistan Says It Killed 54 Militants Trying to Enter From Afghanistan",
+        "abstract": "The Pakistani military is under strain on several fronts as it also faces the possibility of armed conflict with India.",
+        "url": "https://www.nytimes.com/2025/04/27/world/asia/pakistan-afghanistan-militants.html",
+        "uri": "nyt://article/fbe5d35f-132f-58fc-985c-058955d33927",
+        "byline": "By Salman Masood",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T13:24:58-04:00",
+        "created_date": "2025-04-27T13:24:34-04:00",
+        "published_date": "2025-04-27T13:24:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Defense and Military Forces",
+            "International Relations"
+        ],
+        "org_facet": [
+            "Taliban",
+            "Tehrik-e-Taliban"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Pakistan",
+            "Afghanistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27pakistan-afghanistan-photo-fbtm/27pakistan-afghanistan-photo-fbtm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Pakistani guard on the border between Pakistan and Afghanistan’s Nangarhar Province earlier this month.",
+                "copyright": "Wakil Kohsar/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27pakistan-afghanistan-photo-fbtm/27pakistan-afghanistan-photo-fbtm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Pakistani guard on the border between Pakistan and Afghanistan’s Nangarhar Province earlier this month.",
+                "copyright": "Wakil Kohsar/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27pakistan-afghanistan-photo-fbtm/27pakistan-afghanistan-photo-fbtm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Pakistani guard on the border between Pakistan and Afghanistan’s Nangarhar Province earlier this month.",
+                "copyright": "Wakil Kohsar/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
