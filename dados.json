@@ -49290,5 +49290,207 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "As Cardinals Prepare to Elect a Pope, One Motto Is ‘Unity.’ That’s Divisive.",
+        "abstract": "Some see the byword as a rallying call in a conservative campaign to reverse Francis’ push for a more inclusive church.",
+        "url": "https://www.nytimes.com/2025/04/27/world/europe/cardinals-church-conclave-pope.html",
+        "uri": "nyt://article/3630a7d4-529a-5cfa-9fa3-916b9841335a",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T00:01:16-04:00",
+        "created_date": "2025-04-27T00:01:16-04:00",
+        "published_date": "2025-04-27T00:01:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Clergy",
+            "Celibacy",
+            "Minorities",
+            "Cardinals (Roman Catholic Prelates)",
+            "Conservatism (US Politics)",
+            "Politics and Government",
+            "Priests",
+            "Liberalism (US Politics)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Benedict XVI",
+            "Francis",
+            "Muller, Gerhard Ludwig",
+            "Sarah, Robert",
+            "Spadaro, Antonio"
+        ],
+        "geo_facet": [
+            "Vatican City",
+            "The Vatican"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-conclave-unity01-photo-zkml/27int-conclave-unity01-photo-zkml-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals returned to St. Peter’s Basilica after Pope Francis’ funeral on Saturday.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-conclave-unity01-photo-zkml/27int-conclave-unity01-photo-zkml-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals returned to St. Peter’s Basilica after Pope Francis’ funeral on Saturday.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-conclave-unity01-photo-zkml/27int-conclave-unity01-photo-zkml-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals returned to St. Peter’s Basilica after Pope Francis’ funeral on Saturday.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Europe’s Pharma Industry Braces for Pain as Trump Tariff Threat Looms",
+        "abstract": "Medicines and chemicals are huge exports for European Union countries. That makes the sector a weak spot as trade tensions drag on.",
+        "url": "https://www.nytimes.com/2025/04/27/world/europe/tariffs-pharmaceuticals-drugs-medicine-trump.html",
+        "uri": "nyt://article/f6d151f9-70b2-5e0c-b793-92d0ecd6551a",
+        "byline": "By Jeanna Smialek, Liz Alderman and Melissa Eddy",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T00:01:07-04:00",
+        "created_date": "2025-04-27T00:01:07-04:00",
+        "published_date": "2025-04-27T00:01:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Drugs (Pharmaceuticals)",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Taxation",
+            "Medicine and Health"
+        ],
+        "org_facet": [
+            "European Union"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Ireland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-europe-pharma-tariffs-01-whpt/00int-europe-pharma-tariffs-01-whpt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Employees at Bayer’s pharmaceutical production plant in Berlin. President Trump is considering tariffs on pharmaceuticals, which are the European Union’s No. 1 export to the United States. ",
+                "copyright": "Bernd von Jutrczenka/Picture Alliance, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-europe-pharma-tariffs-01-whpt/00int-europe-pharma-tariffs-01-whpt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Employees at Bayer’s pharmaceutical production plant in Berlin. President Trump is considering tariffs on pharmaceuticals, which are the European Union’s No. 1 export to the United States. ",
+                "copyright": "Bernd von Jutrczenka/Picture Alliance, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00int-europe-pharma-tariffs-01-whpt/00int-europe-pharma-tariffs-01-whpt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Employees at Bayer’s pharmaceutical production plant in Berlin. President Trump is considering tariffs on pharmaceuticals, which are the European Union’s No. 1 export to the United States. ",
+                "copyright": "Bernd von Jutrczenka/Picture Alliance, via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "australia",
+        "title": "How Foreign Students Lost Their Sheen in a Nation of Immigrants",
+        "abstract": "Both major political parties are pledging steep cuts on the number of foreigners allowed to study in Australia as a way to rein in runaway housing prices.",
+        "url": "https://www.nytimes.com/2025/04/27/world/australia/international-students-caps.html",
+        "uri": "nyt://article/125b36ce-69c6-5415-8c03-aef16b8a42ac",
+        "byline": "By Victoria Kim",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T00:01:06-04:00",
+        "created_date": "2025-04-27T00:01:06-04:00",
+        "published_date": "2025-04-27T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Study and Teaching",
+            "Colleges and Universities",
+            "Immigration and Emigration",
+            "Real Estate and Housing (Residential)",
+            "Elections"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Albanese, Anthony (1963- )",
+            "Dutton, Peter C"
+        ],
+        "geo_facet": [
+            "Australia",
+            "Melbourne (Australia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00oz-students-pgct/00oz-students-pgct-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ali Bajwa, a native of Pakistan who pursued his doctorate in Australia, arrived in the country a decade ago and now teaches at La Trobe University in Melbourne.",
+                "copyright": "Abigail Varney for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00oz-students-pgct/00oz-students-pgct-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ali Bajwa, a native of Pakistan who pursued his doctorate in Australia, arrived in the country a decade ago and now teaches at La Trobe University in Melbourne.",
+                "copyright": "Abigail Varney for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/21/multimedia/00oz-students-pgct/00oz-students-pgct-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ali Bajwa, a native of Pakistan who pursued his doctorate in Australia, arrived in the country a decade ago and now teaches at La Trobe University in Melbourne.",
+                "copyright": "Abigail Varney for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
