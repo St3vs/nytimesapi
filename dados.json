@@ -50903,5 +50903,120 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Monday Briefing: Canada Is Electing a New Leader",
+        "abstract": "Plus, when a child’s life is the family business.",
+        "url": "https://www.nytimes.com/2025/04/27/briefing/canada-elections-ukraine-russia-talks-pope-funeral.html",
+        "uri": "nyt://article/2ddde825-5c2f-51a4-9418-1233dd856159",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T17:00:11-04:00",
+        "created_date": "2025-04-27T17:00:11-04:00",
+        "published_date": "2025-04-27T17:00:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28ambriefing-asia-el-jvbp/28ambriefing-asia-el-jvbp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1637,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Conservative Leader Pierre Poilievre and Liberal Leader Mark Carney last week.",
+                "copyright": "Pool photo by Christopher Katsarov"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28ambriefing-asia-el-jvbp/28ambriefing-asia-el-jvbp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Conservative Leader Pierre Poilievre and Liberal Leader Mark Carney last week.",
+                "copyright": "Pool photo by Christopher Katsarov"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28ambriefing-asia-el-jvbp/28ambriefing-asia-el-jvbp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Conservative Leader Pierre Poilievre and Liberal Leader Mark Carney last week.",
+                "copyright": "Pool photo by Christopher Katsarov"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Netanyahu Accuses Israel’s Domestic Security Chief of Lying to Court",
+        "abstract": "Intent on firing the Shin Bet chief, Ronen Bar, Prime Minister Benjamin Netanyahu denounced him in a sharp affidavit, deepening national political divisions.",
+        "url": "https://www.nytimes.com/2025/04/27/world/middleeast/israel-netanyahu-ronen-bar.html",
+        "uri": "nyt://article/caf9580b-8742-521f-b19a-05e5f1043e70",
+        "byline": "By Isabel Kershner and Johnatan Reiss",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T16:29:32-04:00",
+        "created_date": "2025-04-27T16:29:32-04:00",
+        "published_date": "2025-04-27T16:29:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Appointments and Executive Changes"
+        ],
+        "org_facet": [
+            "Shin Bet",
+            "Supreme Court of Israel"
+        ],
+        "per_facet": [
+            "Bar, Ronen (1965- )",
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-israel-netanyahu01-photo-jhwv/27int-israel-netanyahu01-photo-jhwv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel in Jerusalem on Thursday.",
+                "copyright": "Pool photo by Maya Alleruzzo"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-israel-netanyahu01-photo-jhwv/27int-israel-netanyahu01-photo-jhwv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel in Jerusalem on Thursday.",
+                "copyright": "Pool photo by Maya Alleruzzo"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-israel-netanyahu01-photo-jhwv/27int-israel-netanyahu01-photo-jhwv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Benjamin Netanyahu of Israel in Jerusalem on Thursday.",
+                "copyright": "Pool photo by Maya Alleruzzo"
+            }
+        ],
+        "short_url": ""
     }
 ]
