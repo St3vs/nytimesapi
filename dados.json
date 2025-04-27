@@ -49492,5 +49492,71 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India Seems to Be Building Its Case for Striking Pakistan",
+        "abstract": "As world powers face multiple crises, the one set off by a terror attack in Kashmir is getting scant attention, and little help de-escalating between two nuclear-armed neighbors.",
+        "url": "https://www.nytimes.com/2025/04/27/world/asia/india-pakistan-kashmir.html",
+        "uri": "nyt://article/d1458c20-dde4-53a6-9ebd-39a654164d78",
+        "byline": "By Mujib Mashal",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T01:06:39-04:00",
+        "created_date": "2025-04-27T00:47:14-04:00",
+        "published_date": "2025-04-27T00:47:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Terrorism",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [
+            "Lashkar-e-Taiba",
+            "Jaish-e-Muhammad"
+        ],
+        "per_facet": [
+            "Modi, Narendra",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "India",
+            "Pakistan",
+            "Kashmir and Jammu (India)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-india-pakistan-diplomacy-hgqj/27int-india-pakistan-diplomacy-hgqj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An Indian paramilitary soldier on the bank of Dal Lake in Srinagar, India, on Saturday.",
+                "copyright": "Yawar Nazir/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-india-pakistan-diplomacy-hgqj/27int-india-pakistan-diplomacy-hgqj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An Indian paramilitary soldier on the bank of Dal Lake in Srinagar, India, on Saturday.",
+                "copyright": "Yawar Nazir/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-india-pakistan-diplomacy-hgqj/27int-india-pakistan-diplomacy-hgqj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An Indian paramilitary soldier on the bank of Dal Lake in Srinagar, India, on Saturday.",
+                "copyright": "Yawar Nazir/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
