@@ -49615,5 +49615,257 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "How These Little Elves Turned Into a Global Sensation",
+        "abstract": "Online and in person, people are clamoring to get their hands on Labubus, which are dolls that are “well-intentioned” but somewhat mischievous.",
+        "url": "https://www.nytimes.com/2025/04/27/style/labubus-pop-mart-toys.html",
+        "uri": "nyt://article/79e728a2-cc55-52c6-a2ae-3fc75950fd6b",
+        "byline": "By Alisha Haridasani Gupta",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T05:04:01-04:00",
+        "created_date": "2025-04-27T05:04:01-04:00",
+        "published_date": "2025-04-27T05:04:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Dolls",
+            "Collectors and Collections",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "Pop Mart"
+        ],
+        "per_facet": [
+            "Lisa (Rapper)"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/fashion/27ST-LABUBU-DOLLS-GROUP/27ST-LABUBU-DOLLS-GROUP-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Labubu dolls, which are known collectively as The Monsters, come in various collections, like the Big into Energy series.",
+                "copyright": "Pop Mart"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/fashion/27ST-LABUBU-DOLLS-GROUP/27ST-LABUBU-DOLLS-GROUP-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Labubu dolls, which are known collectively as The Monsters, come in various collections, like the Big into Energy series.",
+                "copyright": "Pop Mart"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/fashion/27ST-LABUBU-DOLLS-GROUP/27ST-LABUBU-DOLLS-GROUP-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Labubu dolls, which are known collectively as The Monsters, come in various collections, like the Big into Energy series.",
+                "copyright": "Pop Mart"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "With a Bounty on His Head, a Critic of China Runs in Canada’s Election",
+        "abstract": "After Joe Tay set up a run for Parliament, China issued a warrant for his arrest and coordinated online attacks on his candidacy.",
+        "url": "https://www.nytimes.com/2025/04/27/world/americas/canada-election-china-joe-tay.html",
+        "uri": "nyt://article/cd76b3c4-7d53-5ed8-b072-dbb54773108c",
+        "byline": "By Norimitsu Onishi",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T05:03:33-04:00",
+        "created_date": "2025-04-27T05:03:33-04:00",
+        "published_date": "2025-04-27T05:03:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Politics and Government",
+            "Elections"
+        ],
+        "org_facet": [
+            "Communist Party of China",
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Dong, Han (1977- )"
+        ],
+        "geo_facet": [
+            "Canada",
+            "Toronto (Ontario)",
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-canada-foreign-interference-czlq/27int-canada-foreign-interference-czlq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People talking in front of the campaign office for Joe Tay, a Conservative Party candidate, in Don Valley North, a district with a large Chinese diaspora in Toronto.",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-canada-foreign-interference-czlq/27int-canada-foreign-interference-czlq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People talking in front of the campaign office for Joe Tay, a Conservative Party candidate, in Don Valley North, a district with a large Chinese diaspora in Toronto.",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-canada-foreign-interference-czlq/27int-canada-foreign-interference-czlq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People talking in front of the campaign office for Joe Tay, a Conservative Party candidate, in Don Valley North, a district with a large Chinese diaspora in Toronto.",
+                "copyright": "Cole Burston for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "China Experience Was Once a Plus. In Canada’s Election, It’s a Liability.",
+        "abstract": "Mark Carney, who is running to win a full term as prime minister, has years of experience dealing with Chinese businesses and leadership. It’s become fodder for his opponents.",
+        "url": "https://www.nytimes.com/2025/04/27/world/canada/canada-election-mark-carney-china.html",
+        "uri": "nyt://article/8ae05115-4aac-536f-a967-2fd9b9c26923",
+        "byline": "By Matina Stevis-Gridneff and Alexandra Stevenson",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T05:01:40-04:00",
+        "created_date": "2025-04-27T05:01:40-04:00",
+        "published_date": "2025-04-27T05:01:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "International Relations",
+            "Politics and Government",
+            "Foreign Investments"
+        ],
+        "org_facet": [
+            "Communist Party of China",
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "Canada",
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-canada-carney-china01-photo-bctf/27int-canada-carney-china01-photo-bctf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney of Canada during a campaign event in Surrey, British Columbia, on Wednesday.",
+                "copyright": "Carlos Osorio/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-canada-carney-china01-photo-bctf/27int-canada-carney-china01-photo-bctf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney of Canada during a campaign event in Surrey, British Columbia, on Wednesday.",
+                "copyright": "Carlos Osorio/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-canada-carney-china01-photo-bctf/27int-canada-carney-china01-photo-bctf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney of Canada during a campaign event in Surrey, British Columbia, on Wednesday.",
+                "copyright": "Carlos Osorio/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Your Home Without China",
+        "abstract": "We analyzed import data to show where Americans may see product shortages, fewer choices and price increases.",
+        "url": "https://www.nytimes.com/interactive/2025/04/27/world/asia/china-products-us-tariffs-trump.html",
+        "uri": "nyt://interactive/6ddba219-e2fa-50be-a693-00d260ad1fcf",
+        "byline": "By Pablo Robles, Agnes Chang and Lazaro Gamio",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-27T04:55:43-04:00",
+        "created_date": "2025-04-27T04:55:43-04:00",
+        "published_date": "2025-04-27T04:55:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "International Trade and World Market"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/2025-04-14-china-us-tariffs-household-goods-index/2025-04-14-china-us-tariffs-household-goods-index-superJumbo-v13.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Pablo Robles"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/2025-04-14-china-us-tariffs-household-goods-index/2025-04-14-china-us-tariffs-household-goods-index-threeByTwoSmallAt2X-v19.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Pablo Robles"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/2025-04-14-china-us-tariffs-household-goods-index/2025-04-14-china-us-tariffs-household-goods-index-thumbLarge-v13.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Pablo Robles"
+            }
+        ],
+        "short_url": ""
     }
 ]
