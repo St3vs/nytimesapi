@@ -49987,5 +49987,73 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump Meeting Offers Ukrainians a Glimmer of Hope",
+        "abstract": "The United States has been pushing Ukraine to accept a peace plan that seems in part a gift to Moscow. But a short meeting with President Volodymyr Zelensky, and subsequent comments, appeared to be a change in tone.",
+        "url": "https://www.nytimes.com/2025/04/27/world/europe/ukraine-trump-zelensky-putin.html",
+        "uri": "nyt://article/83b2de82-dbf4-5bc5-8191-acc3d087425f",
+        "byline": "By Kim Barker",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T06:52:21-04:00",
+        "created_date": "2025-04-27T06:51:51-04:00",
+        "published_date": "2025-04-27T06:51:51-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Klitschko, Vitali",
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Crimea (Ukraine)",
+            "Donbas (Ukraine)",
+            "Kyiv (Ukraine)",
+            "Moscow (Russia)",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-ukraine-moment-01-qztm/27int-ukraine-moment-01-qztm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency workers at the site of an apartment building that was destroyed in a Russian strike on Kyiv on Thursday.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-ukraine-moment-01-qztm/27int-ukraine-moment-01-qztm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency workers at the site of an apartment building that was destroyed in a Russian strike on Kyiv on Thursday.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27int-ukraine-moment-01-qztm/27int-ukraine-moment-01-qztm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency workers at the site of an apartment building that was destroyed in a Russian strike on Kyiv on Thursday.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
