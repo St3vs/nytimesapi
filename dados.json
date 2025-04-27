@@ -49558,5 +49558,62 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Multiple Casualties After Driver Plows Into a Street Festival in Canada",
+        "abstract": "The ramming episode, at a Filipino-themed block party in Vancouver on Saturday, killed “a number of people,” and injured more, the police said.",
+        "url": "https://www.nytimes.com/2025/04/27/world/asia/vehicle-ramming-vancouver-deaths.html",
+        "uri": "nyt://article/4a872d5b-063a-5181-b7a9-1275c2d4e5d4",
+        "byline": "By Jin Yu Young",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T03:31:50-04:00",
+        "created_date": "2025-04-27T03:12:31-04:00",
+        "published_date": "2025-04-27T03:12:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Vehicle-Ramming Attacks",
+            "Street Fairs and Festivals"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Vancouver (British Columbia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27xp-vancouver-wqbc/27xp-vancouver-wqbc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1143,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The police at a scene after a vehicle drove into a crowd at the Lapu Lapu Day festival in Vancouver on Saturday.",
+                "copyright": "Rich Lam/The Canadian Press, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27xp-vancouver-wqbc/27xp-vancouver-wqbc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The police at a scene after a vehicle drove into a crowd at the Lapu Lapu Day festival in Vancouver on Saturday.",
+                "copyright": "Rich Lam/The Canadian Press, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27xp-vancouver-wqbc/27xp-vancouver-wqbc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The police at a scene after a vehicle drove into a crowd at the Lapu Lapu Day festival in Vancouver on Saturday.",
+                "copyright": "Rich Lam/The Canadian Press, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
