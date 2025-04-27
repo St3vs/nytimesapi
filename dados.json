@@ -50217,5 +50217,122 @@
         ],
         "multimedia": null,
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "At Least Nine People Killed After Driver Plows Into Street Party in Vancouver",
+        "abstract": "A man was arrested after a vehicle drove into a Filipino community festival on Saturday in British Columbia, in a “mass casualty incident,” the police said.",
+        "url": "https://www.nytimes.com/2025/04/27/world/asia/vancouver-festival-vehicle-ramming-deaths.html",
+        "uri": "nyt://article/4a872d5b-063a-5181-b7a9-1275c2d4e5d4",
+        "byline": "By Ali Watkins, Jin Yu Young and Ian Austen",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T10:04:19-04:00",
+        "created_date": "2025-04-27T03:12:31-04:00",
+        "published_date": "2025-04-27T03:12:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Vehicle-Ramming Attacks",
+            "Street Fairs and Festivals"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Vancouver (British Columbia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27xp-vancouver-wqbc/27xp-vancouver-wqbc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1143,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The police on Saturday at the scene after a vehicle drove into a crowd at the Lapu Lapu Day festival in Vancouver, British Columbia.",
+                "copyright": "Rich Lam/The Canadian Press, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27xp-vancouver-wqbc/27xp-vancouver-wqbc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The police on Saturday at the scene after a vehicle drove into a crowd at the Lapu Lapu Day festival in Vancouver, British Columbia.",
+                "copyright": "Rich Lam/The Canadian Press, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/27xp-vancouver-wqbc/27xp-vancouver-wqbc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The police on Saturday at the scene after a vehicle drove into a crowd at the Lapu Lapu Day festival in Vancouver, British Columbia.",
+                "copyright": "Rich Lam/The Canadian Press, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "aMassive Iran Port Explosion Kills at Least 14 and Injures Hundreds",
+        "abstract": "An Iranian with ties to the security services and an international security firm said that a missile fuel component exploded, but Iranian officials did not report any indication of an attack.",
+        "url": "https://www.nytimes.com/2025/04/26/world/middleeast/iran-port-explosion-bandar-abbas.html",
+        "uri": "nyt://article/c180a8d8-717a-5855-9f91-dc55d919062f",
+        "byline": "By Leily Nikounazar, Aaron Boxerman and Farnaz Fassihi",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T09:34:39-04:00",
+        "created_date": "2025-04-26T10:14:00-04:00",
+        "published_date": "2025-04-26T10:14:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Ports",
+            "Explosions (Accidental)",
+            "Fires and Firefighters",
+            "Chemicals",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Iran"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-iran-explosion-video-vjhq/26int-iran-explosion-video-vjhq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mohammad Rasoul Moradi/Islamic Republic News Agency"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-iran-explosion-video-vjhq/26int-iran-explosion-video-vjhq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mohammad Rasoul Moradi/Islamic Republic News Agency"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/26int-iran-explosion-video-vjhq/26int-iran-explosion-video-vjhq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mohammad Rasoul Moradi/Islamic Republic News Agency"
+            }
+        ],
+        "short_url": ""
     }
 ]
