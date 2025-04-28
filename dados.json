@@ -52728,5 +52728,169 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "When the left is too left in a Canada rattled by Trump.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election/when-the-left-is-too-left-in-a-canada-rattled-by-trump",
+        "uri": "nyt://article/c31d3798-276e-5294-9347-ea25d7f07aab",
+        "byline": "By Vjosa Isai",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T13:00:05-04:00",
+        "created_date": "2025-04-28T13:00:05-04:00",
+        "published_date": "2025-04-28T13:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-party-fading-VERSION-kjqm/28canada-election-party-fading-VERSION-kjqm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jagmeet Singh and his New Democrats Party face dwindling support in the election.",
+                "copyright": "Jennifer Gauthier/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-party-fading-VERSION-kjqm/28canada-election-party-fading-VERSION-kjqm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jagmeet Singh and his New Democrats Party face dwindling support in the election.",
+                "copyright": "Jennifer Gauthier/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-party-fading-VERSION-kjqm/28canada-election-party-fading-VERSION-kjqm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jagmeet Singh and his New Democrats Party face dwindling support in the election.",
+                "copyright": "Jennifer Gauthier/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Even on Canada’s Election Day, Trump Again Insists Country Should Join U.S.",
+        "abstract": "The American president repeated his “51st state” talk on social media as voting began.",
+        "url": "https://www.nytimes.com/2025/04/28/world/canada/trump-51-state.html",
+        "uri": "nyt://article/36ca980e-a0d1-5041-8313-a898e9be28e1",
+        "byline": "By Matina Stevis-Gridneff",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T12:34:26-04:00",
+        "created_date": "2025-04-28T12:33:31-04:00",
+        "published_date": "2025-04-28T12:33:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "Voting and Voters"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada",
+            "Ottawa (Ontario)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-trump-lzbq/28canada-election-trump-lzbq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump on Sunday. He has repeatedly referred to Canada as “the 51st state.”",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-trump-lzbq/28canada-election-trump-lzbq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump on Sunday. He has repeatedly referred to Canada as “the 51st state.”",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-trump-lzbq/28canada-election-trump-lzbq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump on Sunday. He has repeatedly referred to Canada as “the 51st state.”",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Outside his political base, Poilievre’s populist pitch is a harder sell.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election/outside-his-political-base-poilievres-populist-pitch-is-a-harder-sell",
+        "uri": "nyt://article/8b80a916-a794-59ed-9e91-2de641311c92",
+        "byline": "By Norimitsu Onishi",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T12:30:04-04:00",
+        "created_date": "2025-04-28T12:30:04-04:00",
+        "published_date": "2025-04-28T12:30:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/world/28canada-election-poilievre-alberta-VERSION/10int-alberta-poilievre-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pierre Poilievre, the Conservative leader, speaking during a rally this month in Nisku, just south of Edmonton, Alberta.",
+                "copyright": "Amber Bracken for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/world/28canada-election-poilievre-alberta-VERSION/10int-alberta-poilievre-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pierre Poilievre, the Conservative leader, speaking during a rally this month in Nisku, just south of Edmonton, Alberta.",
+                "copyright": "Amber Bracken for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/10/world/28canada-election-poilievre-alberta-VERSION/10int-alberta-poilievre-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pierre Poilievre, the Conservative leader, speaking during a rally this month in Nisku, just south of Edmonton, Alberta.",
+                "copyright": "Amber Bracken for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
