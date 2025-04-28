@@ -52206,5 +52206,26 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Canadians are going to the polls. Here’s the latest.",
+        "abstract": "In the most important election of a generation, Canadians are heading to the polls Monday. Here’s what to know, and what to expect.",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election/canadians-are-going-to-the-polls-heres-the-latest",
+        "uri": "nyt://article/448595ee-5de1-5b24-8f98-61e75eb08b94",
+        "byline": "By Matina Stevis-Gridneff",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T10:01:47-04:00",
+        "created_date": "2025-04-28T10:01:47-04:00",
+        "published_date": "2025-04-28T10:01:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
     }
 ]
