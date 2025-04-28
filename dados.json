@@ -52227,5 +52227,153 @@
         "geo_facet": [],
         "multimedia": null,
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Widespread Power Outage Hits Spain and Portugal",
+        "abstract": "The blackout hit critical infrastructure like airports and caused transportation disruptions across the two countries. The cause of the outage was unclear.",
+        "url": "https://www.nytimes.com/2025/04/28/world/europe/power-outage-spain-portugal-france.html",
+        "uri": "nyt://article/1858d469-5958-5a1a-8bad-e90a2c58d287",
+        "byline": "By Amelia Nierenberg, Jonathan Wolfe, Tiago Carrasco and Rachel Chaundler",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T10:52:23-04:00",
+        "created_date": "2025-04-28T07:54:58-04:00",
+        "published_date": "2025-04-28T07:54:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Power Failures and Blackouts",
+            "Electric Light and Power",
+            "Computer Network Outages",
+            "Airports"
+        ],
+        "org_facet": [
+            "Renfe Operadora"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Spain",
+            "Portugal",
+            "France"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-spain-power-01-qzhf/28int-spain-power-01-qzhf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A dark market in Vigo, Spain, after a massive power outage hit Spain, Portugal, and France on Monday.",
+                "copyright": "Miguel Riopa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-spain-power-01-qzhf/28int-spain-power-01-qzhf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A dark market in Vigo, Spain, after a massive power outage hit Spain, Portugal, and France on Monday.",
+                "copyright": "Miguel Riopa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-spain-power-01-qzhf/28int-spain-power-01-qzhf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A dark market in Vigo, Spain, after a massive power outage hit Spain, Portugal, and France on Monday.",
+                "copyright": "Miguel Riopa/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "News is blocked on Meta’s feeds in Canada. Here’s what fills the void.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election/news-is-blocked-on-metas-feeds-in-canada-heres-what-fills-the-void",
+        "uri": "nyt://article/4ac982ac-12d6-5029-83ee-9e6e6187d507",
+        "byline": "By Matina Stevis-Gridneff and Stuart A. Thompson",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T11:00:06-04:00",
+        "created_date": "2025-04-28T11:00:06-04:00",
+        "published_date": "2025-04-28T11:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "How Trump, Trudeau and Tariffs Upended Canada’s Political Landscape",
+        "abstract": "After nearly a decade in power, the Liberal Party seemed destined to be swept out on a wave of anti-incumbency sentiment. Then events took a surprising turn.",
+        "url": "https://www.nytimes.com/2025/04/28/world/canada/canada-elections-tariffs.html",
+        "uri": "nyt://article/7afdc888-eed3-534d-9805-5fa0f4cb0a5e",
+        "byline": "By Ian Austen",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T10:31:31-04:00",
+        "created_date": "2025-04-28T10:30:07-04:00",
+        "published_date": "2025-04-28T10:30:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "Customs (Tariff)",
+            "United States International Relations",
+            "International Trade and World Market",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Carney, Mark J",
+            "Poilievre, Pierre",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-tariffs-lbcz/28canada-election-tariffs-lbcz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A port in Montreal. President Trump’s tariff threats have been a campaign issue in Canada’s election.",
+                "copyright": "Carlos Osorio/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-tariffs-lbcz/28canada-election-tariffs-lbcz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A port in Montreal. President Trump’s tariff threats have been a campaign issue in Canada’s election.",
+                "copyright": "Carlos Osorio/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-tariffs-lbcz/28canada-election-tariffs-lbcz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A port in Montreal. President Trump’s tariff threats have been a campaign issue in Canada’s election.",
+                "copyright": "Carlos Osorio/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
