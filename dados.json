@@ -51076,5 +51076,133 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "One Key to a Successful Campaign for Pope? Act Like You’re Not Campaigning.",
+        "abstract": "Crucial meetings will be held this week in which contenders begin jockeying in earnest for the job of leading the Roman Catholic Church.",
+        "url": "https://www.nytimes.com/2025/04/28/world/europe/pope-conclave-campaigning.html",
+        "uri": "nyt://article/67005d32-0e46-58b9-aa90-e100c1621c99",
+        "byline": "By Jason Horowitz and Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T00:01:05-04:00",
+        "created_date": "2025-04-28T00:01:05-04:00",
+        "published_date": "2025-04-28T00:01:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Clergy",
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Italy"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-conclave-meetings01-photo-plqm/28int-conclave-meetings01-photo-plqm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals taking communion during the funeral for Pope Francis on Saturday. On Monday cardinals will begin a critical week of meetings, where church leaders, including those considered papabili, or pope material, will give brief statements.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-conclave-meetings01-photo-plqm/28int-conclave-meetings01-photo-plqm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals taking communion during the funeral for Pope Francis on Saturday. On Monday cardinals will begin a critical week of meetings, where church leaders, including those considered papabili, or pope material, will give brief statements.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-conclave-meetings01-photo-plqm/28int-conclave-meetings01-photo-plqm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals taking communion during the funeral for Pope Francis on Saturday. On Monday cardinals will begin a critical week of meetings, where church leaders, including those considered papabili, or pope material, will give brief statements.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "​North Korea Confirms It Sent Troops to Fight for Russia",
+        "abstract": "Its leader, Kim Jong-un, ordered a monument for soldiers killed in the war against Ukraine and praised their “heroism and bravery​.”",
+        "url": "https://www.nytimes.com/2025/04/27/world/asia/north-korea-troops-russia.html",
+        "uri": "nyt://article/5e4d5e84-1922-58c1-bb56-3141a0b670ea",
+        "byline": "By Choe Sang-Hun",
+        "item_type": "Article",
+        "updated_date": "2025-04-27T23:48:33-04:00",
+        "created_date": "2025-04-27T23:48:33-04:00",
+        "published_date": "2025-04-27T23:48:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Defense and Military Forces",
+            "International Relations",
+            "War and Armed Conflicts",
+            "Monuments and Memorials (Structures)",
+            "Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kim Jong-un"
+        ],
+        "geo_facet": [
+            "North Korea",
+            "Russia",
+            "Kursk (Russia)",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-nkorea-russia-btpv/28int-nkorea-russia-btpv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A commemorative march marking an anniversary of the Korean People’s Revolutionary Army was held in Pyongyang on Friday.",
+                "copyright": "Kim Won Jin/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-nkorea-russia-btpv/28int-nkorea-russia-btpv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A commemorative march marking an anniversary of the Korean People’s Revolutionary Army was held in Pyongyang on Friday.",
+                "copyright": "Kim Won Jin/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-nkorea-russia-btpv/28int-nkorea-russia-btpv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A commemorative march marking an anniversary of the Korean People’s Revolutionary Army was held in Pyongyang on Friday.",
+                "copyright": "Kim Won Jin/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
