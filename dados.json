@@ -51392,5 +51392,193 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "​Putin Thanks Kim for North Korean Troops Fighting Against Ukraine",
+        "abstract": "North Korea’s leader, Kim Jong-un, ordered a monument for the “heroic” soldiers killed in Russia’s war against Ukraine, as Moscow and Pyongyang make first comments on the joint operation.",
+        "url": "https://www.nytimes.com/2025/04/27/world/asia/north-korea-troops-russia-ukraine.html",
+        "uri": "nyt://article/5e4d5e84-1922-58c1-bb56-3141a0b670ea",
+        "byline": "By Choe Sang-Hun",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T06:01:15-04:00",
+        "created_date": "2025-04-27T23:48:33-04:00",
+        "published_date": "2025-04-27T23:48:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Defense and Military Forces",
+            "International Relations",
+            "War and Armed Conflicts",
+            "Monuments and Memorials (Structures)",
+            "Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kim Jong-un"
+        ],
+        "geo_facet": [
+            "North Korea",
+            "Russia",
+            "Kursk (Russia)",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-nkorea-russia-qtjh/28int-nkorea-russia-qtjh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by Russian state media shows its leader Vladimir V. Putin meeting with Kim Jong-un, North Korea’s leader, in Pyongyang last year.",
+                "copyright": "Gavriil Grigorov/Sputnik"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-nkorea-russia-qtjh/28int-nkorea-russia-qtjh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by Russian state media shows its leader Vladimir V. Putin meeting with Kim Jong-un, North Korea’s leader, in Pyongyang last year.",
+                "copyright": "Gavriil Grigorov/Sputnik"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-nkorea-russia-qtjh/28int-nkorea-russia-qtjh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by Russian state media shows its leader Vladimir V. Putin meeting with Kim Jong-un, North Korea’s leader, in Pyongyang last year.",
+                "copyright": "Gavriil Grigorov/Sputnik"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Ukraine Pinning War Hopes on Expanded Drone Program",
+        "abstract": "With uncertainty looming over cease-fire talks and U.S. support, the Ukrainian military is relying more than ever on domestically produced drones.",
+        "url": "https://www.nytimes.com/2025/04/28/world/europe/ukraine-russia-war-drones.html",
+        "uri": "nyt://article/eeb76cf7-857b-57d1-a3da-62bd5b85bddf",
+        "byline": "By Andrew E. Kramer",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T06:24:24-04:00",
+        "created_date": "2025-04-28T05:44:29-04:00",
+        "published_date": "2025-04-28T05:44:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Drones (Pilotless Planes)",
+            "Defense and Military Forces",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-ukraine-battlefield-01-bwml/28int-ukraine-battlefield-01-bwml-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flying a drone in Ukraine last week. The technology gives the pilot the video equivalent of a front-row seat as bombs hurtle into Russian soldiers, cars, tanks or bunkers. ",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-ukraine-battlefield-01-bwml/28int-ukraine-battlefield-01-bwml-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flying a drone in Ukraine last week. The technology gives the pilot the video equivalent of a front-row seat as bombs hurtle into Russian soldiers, cars, tanks or bunkers. ",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-ukraine-battlefield-01-bwml/28int-ukraine-battlefield-01-bwml-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flying a drone in Ukraine last week. The technology gives the pilot the video equivalent of a front-row seat as bombs hurtle into Russian soldiers, cars, tanks or bunkers. ",
+                "copyright": "Tyler Hicks/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Kurdish Distrust of Syria’s New Government Runs Deep",
+        "abstract": "The Kurdish-led force that runs northeast Syria has agreed to integrate into a new national army, but some of its supporters remain wary.",
+        "url": "https://www.nytimes.com/2025/04/28/world/middleeast/kurds-syria-government.html",
+        "uri": "nyt://article/fe16e618-a5c9-548e-94db-0da3cf5d72f4",
+        "byline": "By Alissa J. Rubin and Daniel Berehulak",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T05:26:13-04:00",
+        "created_date": "2025-04-28T05:26:13-04:00",
+        "published_date": "2025-04-28T05:26:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Kurds",
+            "Peace Process",
+            "War and Armed Conflicts",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Syrian Democratic Forces"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )"
+        ],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-syria-kurds-promo/25int-syria-kurds-01-wbjq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Coffins display deceased family members’ photographs as mourners gather to grieve the loss of a couple and their eight children, killed by a Turkish forces attack on their home days before, during a funeral last month in Kobani, Syria.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-syria-kurds-promo/25int-syria-kurds-01-wbjq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Coffins display deceased family members’ photographs as mourners gather to grieve the loss of a couple and their eight children, killed by a Turkish forces attack on their home days before, during a funeral last month in Kobani, Syria.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/25int-syria-kurds-promo/25int-syria-kurds-01-wbjq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Coffins display deceased family members’ photographs as mourners gather to grieve the loss of a couple and their eight children, killed by a Turkish forces attack on their home days before, during a funeral last month in Kobani, Syria.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
