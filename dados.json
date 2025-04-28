@@ -51204,5 +51204,63 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "As India and Pakistan Cancel Visas, Parents and Children Are Separated",
+        "abstract": "The repercussions from a terrorist attack led to painful scenes at the countries’ border, as families with mixed citizenship were suddenly divided.",
+        "url": "https://www.nytimes.com/2025/04/28/world/asia/india-pakistan-visas-kashmir.html",
+        "uri": "nyt://article/b54e8c11-74f8-546d-b5b0-c83afa0c2e3c",
+        "byline": "By Suhasini Raj, Mujib Mashal, Pragati K.B. and Atul Loke",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T03:33:14-04:00",
+        "created_date": "2025-04-28T02:57:34-04:00",
+        "published_date": "2025-04-28T02:57:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Visas"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-india-pakistan-border-01-zcvf/28int-india-pakistan-border-01-zcvf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Checking the passports of people waiting to cross into Pakistan from India on Sunday. Last week, India ordered nearly all Pakistani citizens to leave the country. ",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-india-pakistan-border-01-zcvf/28int-india-pakistan-border-01-zcvf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Checking the passports of people waiting to cross into Pakistan from India on Sunday. Last week, India ordered nearly all Pakistani citizens to leave the country. ",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-india-pakistan-border-01-zcvf/28int-india-pakistan-border-01-zcvf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Checking the passports of people waiting to cross into Pakistan from India on Sunday. Last week, India ordered nearly all Pakistani citizens to leave the country. ",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
