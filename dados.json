@@ -53590,5 +53590,109 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Tuesday Briefing: Canada’s Momentous Election",
+        "abstract": "Plus, the poetry challenge.",
+        "url": "https://www.nytimes.com/2025/04/28/briefing/canada-elections-putin-cease-fire-europe-blackout.html",
+        "uri": "nyt://article/b0d234d3-fda7-58f0-8f27-4d094b48f14c",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T17:12:54-04:00",
+        "created_date": "2025-04-28T17:12:54-04:00",
+        "published_date": "2025-04-28T17:12:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/29ambriefing-asia-canada/29ambriefing-asia-canada-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2001,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Voters cast ballots yesterday at a high school in Montreal. ",
+                "copyright": "Nasuna Stuart-Ulin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/29ambriefing-asia-canada/29ambriefing-asia-canada-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Voters cast ballots yesterday at a high school in Montreal. ",
+                "copyright": "Nasuna Stuart-Ulin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/29ambriefing-asia-canada/28canada-election-01-hwjz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Voters cast ballots yesterday at a high school in Montreal. ",
+                "copyright": "Nasuna Stuart-Ulin for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "In French-speaking Quebec, a local party shakes up the race.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election/in-french-speaking-quebec-a-local-party-shakes-up-the-race",
+        "uri": "nyt://article/cf1b3dee-c647-59ea-bdf9-5d38fb9d06a4",
+        "byline": "By Norimitsu Onishi",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T16:54:15-04:00",
+        "created_date": "2025-04-28T16:54:15-04:00",
+        "published_date": "2025-04-28T16:54:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-quebec-voices-bkpz/28canada-election-quebec-voices-bkpz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Voters in Montreal.",
+                "copyright": "Nasuna Stuart-Ulin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-quebec-voices-bkpz/28canada-election-quebec-voices-bkpz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Voters in Montreal.",
+                "copyright": "Nasuna Stuart-Ulin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-quebec-voices-bkpz/28canada-election-quebec-voices-bkpz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Voters in Montreal.",
+                "copyright": "Nasuna Stuart-Ulin for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
