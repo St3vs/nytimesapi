@@ -51262,5 +51262,135 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Canada Votes: What’s at Stake?",
+        "abstract": "Many Canadians believe Monday’s election is the most important of their lifetime. It will determine who will take on a stagnant economy and deal with President Trump.",
+        "url": "https://www.nytimes.com/2025/04/28/world/canada/canada-election-issues-voters.html",
+        "uri": "nyt://article/b6f26bdb-903a-513f-b7a0-476848398d2a",
+        "byline": "By Matina Stevis-Gridneff",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T05:02:03-04:00",
+        "created_date": "2025-04-28T05:02:03-04:00",
+        "published_date": "2025-04-28T05:02:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Elections",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Poilievre, Pierre",
+            "Trudeau, Justin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-canada-elections-stakes01-photo-fkpl/28int-canada-elections-stakes01-photo-fkpl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1650,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney, left, and the Conservative Party of Canada leader Pierre Poilievre campaigning over the weekend.",
+                "copyright": "Carlos Osorio/Reuters, left; Jennifer Gauthier/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-canada-elections-stakes01-photo-fkpl/28int-canada-elections-stakes01-photo-fkpl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney, left, and the Conservative Party of Canada leader Pierre Poilievre campaigning over the weekend.",
+                "copyright": "Carlos Osorio/Reuters, left; Jennifer Gauthier/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-canada-elections-stakes01-photo-fkpl/28int-canada-elections-stakes01-photo-fkpl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney, left, and the Conservative Party of Canada leader Pierre Poilievre campaigning over the weekend.",
+                "copyright": "Carlos Osorio/Reuters, left; Jennifer Gauthier/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "China and the Philippines Spar Over a Sandbar in the South China Sea",
+        "abstract": "The standoff over Sandy Cay, which lies close to military outposts built by both Beijing and Manila, was the latest between the two nations.",
+        "url": "https://www.nytimes.com/2025/04/28/world/asia/south-china-philippine-sandy.html",
+        "uri": "nyt://article/8fc32db5-f64e-5734-91ca-afdb6863db28",
+        "byline": "By Sui-Lee Wee and Aie Balagtas See",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T04:24:01-04:00",
+        "created_date": "2025-04-28T04:24:01-04:00",
+        "published_date": "2025-04-28T04:24:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Military Bases and Installations",
+            "Defense and Military Forces",
+            "Reefs",
+            "Territorial Disputes",
+            "Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "South China Sea",
+            "Spratly Islands"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28philippines-china-01-qvkz/28philippines-china-01-qvkz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by the Philippine Coast Guard showing the disputed Sandy Cay, which covers an area of about 2,150 square feet, last year. ",
+                "copyright": "Philippine Coast Guard"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28philippines-china-01-qvkz/28philippines-china-01-qvkz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by the Philippine Coast Guard showing the disputed Sandy Cay, which covers an area of about 2,150 square feet, last year. ",
+                "copyright": "Philippine Coast Guard"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28philippines-china-01-qvkz/28philippines-china-01-qvkz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by the Philippine Coast Guard showing the disputed Sandy Cay, which covers an area of about 2,150 square feet, last year. ",
+                "copyright": "Philippine Coast Guard"
+            }
+        ],
+        "short_url": ""
     }
 ]
