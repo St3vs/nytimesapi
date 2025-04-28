@@ -53116,5 +53116,124 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "E.P.A. Says It Will Tackle ‘Forever Chemicals.’ Details Are Sparse.",
+        "abstract": "A new proposal to combat PFAS contamination, announced by the Environmental Protection Agency, left critical questions unanswered.",
+        "url": "https://www.nytimes.com/2025/04/28/climate/epa-pfas-forever-chemicals.html",
+        "uri": "nyt://article/e67888a8-beaf-5801-954d-e9554d853960",
+        "byline": "By Hiroko Tabuchi",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T15:11:09-04:00",
+        "created_date": "2025-04-28T15:06:24-04:00",
+        "published_date": "2025-04-28T15:06:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Water Pollution",
+            "Hazardous and Toxic Substances",
+            "Chemicals",
+            "Water",
+            "PFAS (Per- and Polyfluoroalkyl Substances)",
+            "Environment"
+        ],
+        "org_facet": [
+            "Environmental Protection Agency"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Biden, Joseph R Jr",
+            "Zeldin, Lee M"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/climate/28cli-pfas-epa/28cli-pfas-epa-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Testing samples of water for PFAS chemicals at a water treatment plant lab in Wilmette, Ill.",
+                "copyright": "Erin Hooley/Chicago Tribune/Tribune News Service, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/climate/28cli-pfas-epa/28cli-pfas-epa-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Testing samples of water for PFAS chemicals at a water treatment plant lab in Wilmette, Ill.",
+                "copyright": "Erin Hooley/Chicago Tribune/Tribune News Service, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/climate/28cli-pfas-epa/28cli-pfas-epa-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Testing samples of water for PFAS chemicals at a water treatment plant lab in Wilmette, Ill.",
+                "copyright": "Erin Hooley/Chicago Tribune/Tribune News Service, via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Mike Myers is ready to defend Canada.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election/mike-myers-is-ready-to-defend-canada",
+        "uri": "nyt://article/16efee48-be28-5324-b9e3-bfcc807f055d",
+        "byline": "By Sarah Lyall",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T14:30:01-04:00",
+        "created_date": "2025-04-28T14:30:01-04:00",
+        "published_date": "2025-04-28T14:30:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/28canada-election-mike-meyers-VERSION/26ST-MIKE-MYERS-01-tgzm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1597,
+                "width": 1065,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Myers said he was thinking about the Canadian hockey legend Gordie Howe and his famous “elbows up” response to aggression on the ice when he revealed his “Canada Is Not for Sale” T-shirt on “Saturday Night Live.”",
+                "copyright": "NBC"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/28canada-election-mike-meyers-VERSION/26ST-MIKE-MYERS-01-tgzm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Myers said he was thinking about the Canadian hockey legend Gordie Howe and his famous “elbows up” response to aggression on the ice when he revealed his “Canada Is Not for Sale” T-shirt on “Saturday Night Live.”",
+                "copyright": "NBC"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/multimedia/28canada-election-mike-meyers-VERSION/26ST-MIKE-MYERS-01-tgzm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mike Myers said he was thinking about the Canadian hockey legend Gordie Howe and his famous “elbows up” response to aggression on the ice when he revealed his “Canada Is Not for Sale” T-shirt on “Saturday Night Live.”",
+                "copyright": "NBC"
+            }
+        ],
+        "short_url": ""
     }
 ]
