@@ -53855,5 +53855,225 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: First Polls Close in Canada as Voters Choose Leader for Tumultuous Moment",
+        "abstract": "Results are expected late Monday in an election once seen as heavily favoring the Conservative Party. But President Trump’s trade war upended the campaign, with the Liberal Party surging.",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election",
+        "uri": "nyt://promo/fe4527b3-c427-5a83-b211-8864b2347dbd",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-28T19:16:13-04:00",
+        "created_date": "2025-04-28T11:58:41-04:00",
+        "published_date": "2025-04-28T11:58:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-live-promo610p-gvhl/28canada-election-live-promo610p-gvhl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ian Willms for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-live-promo610p-gvhl/28canada-election-live-promo610p-gvhl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ian Willms for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-live-promo610p-gvhl/28canada-election-live-promo610p-gvhl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ian Willms for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "China experience was once a plus. In Canada’s election, it’s a liability.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election/china-experience-was-once-a-plus-in-canadas-election-its-a-liability",
+        "uri": "nyt://article/81dac3c5-6cc6-56c9-8e6b-c9a815eff6c0",
+        "byline": "By Matina Stevis-Gridneff and Alexandra Stevenson",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T19:00:03-04:00",
+        "created_date": "2025-04-28T19:00:03-04:00",
+        "published_date": "2025-04-28T19:00:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/28canada-election-canada-carney-china-VERSION/27int-canada-carney-china02-photo-jfhm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1334,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney with Xi Jinping of China during G20 meetings in Hangzhou, China, in 2016.",
+                "copyright": "Bernd von Jutrczenka/picture alliance, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/28canada-election-canada-carney-china-VERSION/27int-canada-carney-china02-photo-jfhm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney with Xi Jinping of China during G20 meetings in Hangzhou, China, in 2016.",
+                "copyright": "Bernd von Jutrczenka/picture alliance, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/28canada-election-canada-carney-china-VERSION/27int-canada-carney-china02-photo-jfhm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mark Carney with Xi Jinping of China during G20 meetings in Hangzhou, China, in 2016.",
+                "copyright": "Bernd von Jutrczenka/picture alliance, via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "All Authors Working on Flagship U.S. Climate Report Are Dismissed",
+        "abstract": "The Trump administration told researchers it was “releasing” them from their roles. It puts the future of the assessment, which is required by Congress, in doubt.",
+        "url": "https://www.nytimes.com/2025/04/28/climate/national-climate-assessment-authors-dismissed.html",
+        "uri": "nyt://article/6b632a95-2389-5540-97f1-1cc33343a9e3",
+        "byline": "By Brad Plumer and Rebecca Dzombak",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T19:13:21-04:00",
+        "created_date": "2025-04-28T18:59:11-04:00",
+        "published_date": "2025-04-28T18:59:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "United States Politics and Government",
+            "Research",
+            "United States Economy",
+            "Agriculture and Farming",
+            "Environment"
+        ],
+        "org_facet": [
+            "US Global Change Research Program (USGCRP)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28cli-climate-assessment-vzjl/28cli-climate-assessment-vzjl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sunrise, shrouded in wildfire smoke, in Forked River, N.J., on Thursday. The National Climate Assessment examines how global warming affects aspects of American life from public health to the economy.",
+                "copyright": "Adam Gray/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28cli-climate-assessment-vzjl/28cli-climate-assessment-vzjl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sunrise, shrouded in wildfire smoke, in Forked River, N.J., on Thursday. The National Climate Assessment examines how global warming affects aspects of American life from public health to the economy.",
+                "copyright": "Adam Gray/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28cli-climate-assessment-vzjl/28cli-climate-assessment-vzjl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sunrise, shrouded in wildfire smoke, in Forked River, N.J., on Thursday. The National Climate Assessment examines how global warming affects aspects of American life from public health to the economy.",
+                "copyright": "Adam Gray/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Immigration policy, once expected to be an election-defining issue, has fallen among voters’ concerns.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election/immigration-policy-once-expected-to-be-an-election-defining-issue-has-fallen-among-voters-concerns",
+        "uri": "nyt://article/b535edae-1eb9-5451-98ae-0a11c7263400",
+        "byline": "By Vjosa Isai",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T18:30:04-04:00",
+        "created_date": "2025-04-28T18:30:04-04:00",
+        "published_date": "2025-04-28T18:30:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/10/08/multimedia/28canada-election-immigration/00canada-immigration-08-wqpl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1360,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "International students and others lining up for buses in Brampton, Ontario, where many students and temporary workers from India have settled.",
+                "copyright": "Ian Willms for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/10/08/multimedia/28canada-election-immigration/00canada-immigration-08-wqpl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "International students and others lining up for buses in Brampton, Ontario, where many students and temporary workers from India have settled.",
+                "copyright": "Ian Willms for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/10/08/multimedia/28canada-election-immigration/00canada-immigration-08-wqpl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "International students and others lining up for buses in Brampton, Ontario, where many students and temporary workers from India have settled.",
+                "copyright": "Ian Willms for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
