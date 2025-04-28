@@ -52892,5 +52892,229 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "To Win This Contest, Just Squawk Like a Seagull",
+        "abstract": "Contestants gathered in Belgium to screech and move like gulls in a competition that is meant to “make sea gulls sexy again.”",
+        "url": "https://www.nytimes.com/2025/04/28/world/europe/seagull-screeching-competition-europe.html",
+        "uri": "nyt://article/176fb920-56d1-59a3-ba9c-b54a9687004b",
+        "byline": "By Amanda Holpuch",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T14:13:23-04:00",
+        "created_date": "2025-04-28T14:05:03-04:00",
+        "published_date": "2025-04-28T14:05:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Seagulls",
+            "Birds",
+            "Contests and Prizes"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Belgium",
+            "Denmark",
+            "England",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/world/europe/Seagull-Screech-V5/Seagull-Screech-V5-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1620,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/world/europe/Seagull-Screech-V5/Seagull-Screech-V5-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/world/europe/Seagull-Screech-V5/Seagull-Screech-V5-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Despite his shaky French, Mark Carney is a hit in Quebec.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election/despite-his-shaky-french-mark-carney-is-a-hit-in-quebec",
+        "uri": "nyt://article/6391e3d5-a3bb-5c99-a0b5-6883c1bc41a2",
+        "byline": "By Norimitsu Onishi",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T14:00:05-04:00",
+        "created_date": "2025-04-28T14:00:05-04:00",
+        "published_date": "2025-04-28T14:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/28canada-election-quebec-french-VERSION/28canada-election-quebec-french-VERSION-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An election poster for Prime Minister Mark Carney in Blainville, Quebec.",
+                "copyright": "Renaud Philippe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/28canada-election-quebec-french-VERSION/19int-quebec-campaign-kvgc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An election poster for Prime Minister Mark Carney in Blainville, Quebec.",
+                "copyright": "Renaud Philippe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/19/multimedia/28canada-election-quebec-french-VERSION/19int-quebec-campaign-kvgc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An election poster for Prime Minister Mark Carney in Blainville, Quebec.",
+                "copyright": "Renaud Philippe for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Dutch Municipality Accidentally Discards a 1980s Warhol Print",
+        "abstract": "A portrait of former Queen Beatrix of the Netherlands might have been worth tens of thousands of dollars. It was probably thrown out during a renovation.",
+        "url": "https://www.nytimes.com/2025/04/28/world/europe/andy-warhol-netherlands-town-hall-beatrix.html",
+        "uri": "nyt://article/49ebde45-85e5-5796-a527-bdea35ea1b8e",
+        "byline": "By Claire Moses",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T13:36:08-04:00",
+        "created_date": "2025-04-28T13:36:08-04:00",
+        "published_date": "2025-04-28T13:36:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Collectors and Collections"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Beatrix, Princess of the Netherlands",
+            "Warhol, Andy"
+        ],
+        "geo_facet": [
+            "Amsterdam (Netherlands)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28xp-warhol1-gplv/28xp-warhol1-gplv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Beatrix, former Queen of the Netherlands, posed in front of her Warhol portrait during the opening of the “Queens” exhibition at the Palace Het Loo in Apeldoorn last year. ",
+                "copyright": "Robin Van Lonkhuijsen/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28xp-warhol1-gplv/28xp-warhol1-gplv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Beatrix, former Queen of the Netherlands, posed in front of her Warhol portrait during the opening of the “Queens” exhibition at the Palace Het Loo in Apeldoorn last year. ",
+                "copyright": "Robin Van Lonkhuijsen/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28xp-warhol1-gplv/28xp-warhol1-gplv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Beatrix, former Queen of the Netherlands, posed in front of her Warhol portrait during the opening of the “Queens” exhibition at the Palace Het Loo in Apeldoorn last year. ",
+                "copyright": "Robin Van Lonkhuijsen/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Canada’s million-dollar housing crisis is a top concern for voters.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election/canadas-million-dollar-housing-crisis-is-a-top-concern-for-voters",
+        "uri": "nyt://article/977e8f24-c653-5408-96b6-ddebf81b145d",
+        "byline": "By Vjosa Isai",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T13:30:05-04:00",
+        "created_date": "2025-04-28T13:30:05-04:00",
+        "published_date": "2025-04-28T13:30:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/28canada-election-affordability-VERSION/28canada-election-affordability-VERSION-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The town of Chilliwack has attracted people who can no longer afford Vancouver, Canada’s most expensive city. “I really didn’t have any other options,” said Janet Robertson.",
+                "copyright": "Alana Paterson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/28canada-election-affordability-VERSION/28canada-election-affordability-VERSION-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The town of Chilliwack has attracted people who can no longer afford Vancouver, Canada’s most expensive city. “I really didn’t have any other options,” said Janet Robertson.",
+                "copyright": "Alana Paterson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/28canada-election-affordability-VERSION/28canada-election-affordability-VERSION-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The town of Chilliwack has attracted people who can no longer afford Vancouver, Canada’s most expensive city. “I really didn’t have any other options,” said Janet Robertson.",
+                "copyright": "Alana Paterson for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
