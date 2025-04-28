@@ -52375,5 +52375,358 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Canada Votes on New Leader in Tumultuous Moment",
+        "abstract": "The Conservative Party was once considered the heavy favorite in Canada’s election. But President Trump’s trade war has upended the campaign, with the Liberal Party surging.",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election",
+        "uri": "nyt://promo/fe4527b3-c427-5a83-b211-8864b2347dbd",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-28T12:21:09-04:00",
+        "created_date": "2025-04-28T11:58:41-04:00",
+        "published_date": "2025-04-28T11:58:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-1200-kgfz/28canada-1200-kgfz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Nasuna Stuart-Ulin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-1200-kgfz/28canada-1200-kgfz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Nasuna Stuart-Ulin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-1200-kgfz/28canada-1200-kgfz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Nasuna Stuart-Ulin for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Faces World Court Hearings Over Gaza Aid",
+        "abstract": "The United Nations criticized Israel for its ban on aid in hearings at the International Court of Justice. Israel did not send a legal delegation and rejected the proceedings as biased.",
+        "url": "https://www.nytimes.com/2025/04/28/world/middleeast/israel-icj-gaza-aid.html",
+        "uri": "nyt://article/39498f51-9a5b-5bf1-873a-0715817b9cf4",
+        "byline": "By Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T11:58:04-04:00",
+        "created_date": "2025-04-28T11:58:04-04:00",
+        "published_date": "2025-04-28T11:58:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Humanitarian Aid",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "International Court of Justice (UN)",
+            "United Nations",
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-israel-aid-01-tlhv/28int-israel-aid-01-tlhv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The International Court of Justice in The Hague, Netherlands, on Monday.",
+                "copyright": "Peter Dejong/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-israel-aid-01-tlhv/28int-israel-aid-01-tlhv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The International Court of Justice in The Hague, Netherlands, on Monday.",
+                "copyright": "Peter Dejong/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-israel-aid-01-tlhv/28int-israel-aid-01-tlhv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The International Court of Justice in The Hague, Netherlands, on Monday.",
+                "copyright": "Peter Dejong/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Attack on Migrant Facility in Yemen Kills Dozens, Houthis and Aid Officials Say",
+        "abstract": "There was no immediate comment from the U.S. military, which the Iran-backed Houthi militia blamed for the attack in Saada.",
+        "url": "https://www.nytimes.com/2025/04/28/world/middleeast/yemen-houthis-saada-migrants.html",
+        "uri": "nyt://article/106f2a6d-cd47-569b-8681-652e3b9b26dd",
+        "byline": "By Ismaeel Naar",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T12:06:36-04:00",
+        "created_date": "2025-04-28T09:11:52-04:00",
+        "published_date": "2025-04-28T09:11:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Deaths (Fatalities)",
+            "Immigration and Emigration",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "Houthis",
+            "United States Central Command"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Middle East",
+            "Yemen",
+            "United States",
+            "Horn of Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-yemen-strike-hczj/28int-yemen-strike-hczj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers at the scene of the attack in Saada, Yemen, on Monday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-yemen-strike-hczj/28int-yemen-strike-hczj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers at the scene of the attack in Saada, Yemen, on Monday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-yemen-strike-hczj/28int-yemen-strike-hczj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers at the scene of the attack in Saada, Yemen, on Monday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Pakistan’s Detention of Indian Border Guard Adds to Tensions",
+        "abstract": "While the case is fairly routine, it comes as India indicates it is preparing to strike Pakistan in response to last week’s deadly terrorist attack.",
+        "url": "https://www.nytimes.com/2025/04/28/world/asia/pakistan-india-border-guard-detained.html",
+        "uri": "nyt://article/d45a161a-7ac9-5eed-af6c-445e979a1bc5",
+        "byline": "By Mujib Mashal and Hari Kumar",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T11:29:44-04:00",
+        "created_date": "2025-04-28T11:29:44-04:00",
+        "published_date": "2025-04-28T11:29:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Terrorism",
+            "Agriculture and Farming"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-india-pakistan-ckpv/28int-india-pakistan-ckpv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian Border Security Force soldiers returning to a base near Daoke village near Amritsar in Punjab, India, on Sunday.",
+                "copyright": "Narinder Nanu/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-india-pakistan-ckpv/28int-india-pakistan-ckpv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian Border Security Force soldiers returning to a base near Daoke village near Amritsar in Punjab, India, on Sunday.",
+                "copyright": "Narinder Nanu/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-india-pakistan-ckpv/28int-india-pakistan-ckpv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian Border Security Force soldiers returning to a base near Daoke village near Amritsar in Punjab, India, on Sunday.",
+                "copyright": "Narinder Nanu/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "australia",
+        "title": "After 529 Days, Valerie the Dachshund Has Been Rescued",
+        "abstract": "She survived more than a year in the Australian wilderness. But reuniting her with her owners will take a little more time.",
+        "url": "https://www.nytimes.com/2025/04/28/world/australia/dachshund-australia-valerie-rescued.html",
+        "uri": "nyt://article/69c4704d-d47a-5f64-ab3a-5b34cafc7124",
+        "byline": "By Victor Mather",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T12:17:59-04:00",
+        "created_date": "2025-04-28T12:04:05-04:00",
+        "published_date": "2025-04-28T12:04:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Pets",
+            "Dogs",
+            "Rescues"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kangaroo Island (Australia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28xp-dachshund1-vfhw/28xp-dachshund1-vfhw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Valerie the dachshund before she was lost.",
+                "copyright": "9News"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28xp-dachshund1-vfhw/28xp-dachshund1-vfhw-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Valerie the dachshund before she was lost.",
+                "copyright": "9News"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28xp-dachshund1-vfhw/28xp-dachshund1-vfhw-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Valerie the dachshund before she was lost.",
+                "copyright": "9News"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Where to Vote in Canada’s Election",
+        "abstract": "You can find a voting station on Canada’s election website or by calling a toll-free number.",
+        "url": "https://www.nytimes.com/2025/04/28/world/canada/federal-election-where-to-vote.html",
+        "uri": "nyt://article/6a132b07-d1bf-5401-8aed-338237459261",
+        "byline": "By Talya Minsberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T12:14:55-04:00",
+        "created_date": "2025-04-28T11:54:50-04:00",
+        "published_date": "2025-04-28T11:54:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Voting and Voters"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Canada",
+            "Ottawa (Ontario)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-voting-guide-tkmh/28canada-election-voting-guide-tkmh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1361,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Voters heading to a polling station in Mississauga, Ontario, on Monday.",
+                "copyright": "Ian Willms for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-voting-guide-tkmh/28canada-election-voting-guide-tkmh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Voters heading to a polling station in Mississauga, Ontario, on Monday.",
+                "copyright": "Ian Willms for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-voting-guide-tkmh/28canada-election-voting-guide-tkmh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Voters heading to a polling station in Mississauga, Ontario, on Monday.",
+                "copyright": "Ian Willms for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
