@@ -51955,5 +51955,256 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Putin Orders 3-Day Truce in Ukraine Next Month, Kremlin Says",
+        "abstract": "Ukraine’s foreign minister responded with skepticism to the unexpected announcement.",
+        "url": "https://www.nytimes.com/2025/04/28/world/europe/putin-ukraine-ceasefire.html",
+        "uri": "nyt://article/f9657207-6784-59bb-8eae-ddb282e3e185",
+        "byline": "By Nataliya Vasilyeva and Anton Troianovski",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T09:15:10-04:00",
+        "created_date": "2025-04-28T07:46:50-04:00",
+        "published_date": "2025-04-28T07:46:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Russia",
+            "Ukraine",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-russia-ukraine-vcbg/28int-russia-ukraine-vcbg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene of a Russian attack in the Ukrainian city of Sumy in April.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-russia-ukraine-vcbg/28int-russia-ukraine-vcbg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene of a Russian attack in the Ukrainian city of Sumy in April.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-russia-ukraine-vcbg/28int-russia-ukraine-vcbg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene of a Russian attack in the Ukrainian city of Sumy in April.",
+                "copyright": "Tyler Hicks/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Dozens Killed in Attack on Migrant Facility in Yemen, Houthis Say",
+        "abstract": "There was no immediate comment from the U.S. military, which the Iran-backed Houthi militia blamed for the attack in Saada.",
+        "url": "https://www.nytimes.com/2025/04/28/world/middleeast/yemen-houthis-saada-migrants.html",
+        "uri": "nyt://article/106f2a6d-cd47-569b-8681-652e3b9b26dd",
+        "byline": "By Ismaeel Naar",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T09:19:59-04:00",
+        "created_date": "2025-04-28T09:11:52-04:00",
+        "published_date": "2025-04-28T09:11:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Deaths (Fatalities)",
+            "Immigration and Emigration",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "Houthis",
+            "United States Central Command"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Middle East",
+            "Yemen",
+            "United States",
+            "Horn of Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-yemen-strike-hczj/28int-yemen-strike-hczj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers at the scene of the attack in Saada, Yemen, on Monday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-yemen-strike-hczj/28int-yemen-strike-hczj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers at the scene of the attack in Saada, Yemen, on Monday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-yemen-strike-hczj/28int-yemen-strike-hczj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Rescue workers at the scene of the attack in Saada, Yemen, on Monday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Widespread Power Outage Hits Spain and Parts of France and Portugal",
+        "abstract": "The blackout hit critical infrastructure like airports and caused transportation disruptions across Spain and Portugal. The cause of the outage was unclear.",
+        "url": "https://www.nytimes.com/2025/04/28/world/europe/power-outage-spain-portugal-france.html",
+        "uri": "nyt://article/1858d469-5958-5a1a-8bad-e90a2c58d287",
+        "byline": "By Amelia Nierenberg, Jonathan Wolfe and Tiago Carrasco",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T09:19:47-04:00",
+        "created_date": "2025-04-28T07:54:58-04:00",
+        "published_date": "2025-04-28T07:54:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Power Failures and Blackouts",
+            "Electric Light and Power",
+            "Computer Network Outages",
+            "Airports"
+        ],
+        "org_facet": [
+            "Renfe Operadora"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Spain",
+            "Portugal",
+            "France"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-spain-power-01-qzhf/28int-spain-power-01-qzhf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A dark market in Vigo, Spain, after a massive power outage hit Spain, Portugal, and France on Monday.",
+                "copyright": "Miguel Riopa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-spain-power-01-qzhf/28int-spain-power-01-qzhf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A dark market in Vigo, Spain, after a massive power outage hit Spain, Portugal, and France on Monday.",
+                "copyright": "Miguel Riopa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-spain-power-01-qzhf/28int-spain-power-01-qzhf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A dark market in Vigo, Spain, after a massive power outage hit Spain, Portugal, and France on Monday.",
+                "copyright": "Miguel Riopa/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "‘Grandpa Robbers’ Go on Trial in Paris Over 2016 Kim Kardashian Heist",
+        "abstract": "The reality TV star and entrepreneur was tied up and held at gunpoint, and jewelry worth nearly $9 million was stolen in the incident.",
+        "url": "https://www.nytimes.com/2025/04/28/world/europe/grandpa-robbers-go-on-trial-in-paris-over-2016-kim-kardashian-heist.html",
+        "uri": "nyt://article/d032248e-c832-5b7e-8563-5ffec56ea5a1",
+        "byline": "By Ségolène Le Stradic and Aurelien Breeden",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T08:47:41-04:00",
+        "created_date": "2025-04-28T08:46:16-04:00",
+        "published_date": "2025-04-28T08:46:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Robberies and Thefts",
+            "Reality Television",
+            "Kidnapping and Hostages",
+            "Social Media"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kardashian, Kim"
+        ],
+        "geo_facet": [
+            "Paris (France)",
+            "France"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-france-kardashian-01-plcw/28int-france-kardashian-01-plcw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The violent robbery of Kim Kardashian, pictured last month, spurred concerns about safety for tourists visiting Paris.",
+                "copyright": "Evan Agostini/Invision, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-france-kardashian-01-plcw/28int-france-kardashian-01-plcw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The violent robbery of Kim Kardashian, pictured last month, spurred concerns about safety for tourists visiting Paris.",
+                "copyright": "Evan Agostini/Invision, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-france-kardashian-01-plcw/28int-france-kardashian-01-plcw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The violent robbery of Kim Kardashian, pictured last month, spurred concerns about safety for tourists visiting Paris.",
+                "copyright": "Evan Agostini/Invision, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
