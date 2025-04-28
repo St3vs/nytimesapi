@@ -53694,5 +53694,166 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "In Canada’s fight with Trump, Danielle Smith is playing the good cop.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election/in-canadas-fight-with-trump-danielle-smith-is-playing-the-good-cop",
+        "uri": "nyt://article/4ecb56dd-88ef-51d4-94a9-a2461ce4ce0d",
+        "byline": "By Matina Stevis-Gridneff",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T18:00:04-04:00",
+        "created_date": "2025-04-28T18:00:04-04:00",
+        "published_date": "2025-04-28T18:00:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-profile-smith-VERSION-lhck/28canada-election-profile-smith-VERSION-lhck-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Danielle Smith, the premier of Alberta, has riled Canadians across the country by speaking admiringly of President Trump, even as the American administration menaces Canada.",
+                "copyright": "Amber Bracken for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-profile-smith-VERSION-lhck/28canada-election-profile-smith-VERSION-lhck-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Danielle Smith, the premier of Alberta, has riled Canadians across the country by speaking admiringly of President Trump, even as the American administration menaces Canada.",
+                "copyright": "Amber Bracken for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-profile-smith-VERSION-lhck/28canada-election-profile-smith-VERSION-lhck-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Danielle Smith, the premier of Alberta, has riled Canadians across the country by speaking admiringly of President Trump, even as the American administration menaces Canada.",
+                "copyright": "Amber Bracken for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "When Do Polls Close?",
+        "abstract": "The poll closures are synchronized to happen at roughly the same time across Canada.",
+        "url": "https://www.nytimes.com/2025/04/28/world/canada/when-do-polls-close.html",
+        "uri": "nyt://article/30f42f68-327d-508c-9ef5-587ed4fed0dd",
+        "byline": "By Ian Austen",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T18:04:55-04:00",
+        "created_date": "2025-04-28T17:30:06-04:00",
+        "published_date": "2025-04-28T17:30:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Voting and Voters",
+            "Elections"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-poll-times-wkgl/28canada-election-poll-times-wkgl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A polling station in Ottawa.",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-poll-times-wkgl/28canada-election-poll-times-wkgl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A polling station in Ottawa.",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-poll-times-wkgl/28canada-election-poll-times-wkgl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A polling station in Ottawa.",
+                "copyright": "Cole Burston for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "In French-speaking Quebec, a regional party shakes up the race.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election/in-french-speaking-quebec-a-local-party-shakes-up-the-race",
+        "uri": "nyt://article/cf1b3dee-c647-59ea-bdf9-5d38fb9d06a4",
+        "byline": "By Norimitsu Onishi",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T17:31:45-04:00",
+        "created_date": "2025-04-28T16:54:16-04:00",
+        "published_date": "2025-04-28T16:54:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-quebec-voices-bkpz/28canada-election-quebec-voices-bkpz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Voters in Montreal.",
+                "copyright": "Nasuna Stuart-Ulin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-quebec-voices-bkpz/28canada-election-quebec-voices-bkpz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Voters in Montreal.",
+                "copyright": "Nasuna Stuart-Ulin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-quebec-voices-bkpz/28canada-election-quebec-voices-bkpz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Voters in Montreal.",
+                "copyright": "Nasuna Stuart-Ulin for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
