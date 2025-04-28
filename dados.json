@@ -51580,5 +51580,380 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Amid Uncertainty About U.S. Support, Ukraine Pins Its Hopes on Innovation",
+        "abstract": "Ukraine has adapted strategies and weapons during its fight against Russia. It is now banking on expanding the use of domestically produced drones, even though American arms remain crucial.",
+        "url": "https://www.nytimes.com/2025/04/28/world/europe/ukraine-russia-war-drones.html",
+        "uri": "nyt://article/eeb76cf7-857b-57d1-a3da-62bd5b85bddf",
+        "byline": "By Andrew E. Kramer and Tyler Hicks",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T08:33:29-04:00",
+        "created_date": "2025-04-28T05:44:29-04:00",
+        "published_date": "2025-04-28T05:44:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Drones (Pilotless Planes)",
+            "Defense and Military Forces",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-ukraine-battlefield-01-bwml-promo/28int-ukraine-battlefield-01-bwml-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flying a drone in Ukraine last week. The technology gives the pilot the video equivalent of a front-row seat as bombs hurtle into Russian soldiers, cars, tanks or bunkers. ",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-ukraine-battlefield-01-bwml-promo/28int-ukraine-battlefield-01-bwml-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flying a drone in Ukraine last week. The technology gives the pilot the video equivalent of a front-row seat as bombs hurtle into Russian soldiers, cars, tanks or bunkers. ",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-ukraine-battlefield-01-bwml-promo/28int-ukraine-battlefield-01-bwml-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flying a drone in Ukraine last week. The technology gives the pilot the video equivalent of a front-row seat as bombs hurtle into Russian soldiers, cars, tanks or bunkers. ",
+                "copyright": "Tyler Hicks/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Widespread Power Outage Is Reported in Spain, France and Portugal",
+        "abstract": "The blackout hit critical infrastructure like airports and caused transportation disruptions in the three countries. The cause of the outage was unclear.",
+        "url": "https://www.nytimes.com/2025/04/28/world/europe/power-outage-spain-portugal-france.html",
+        "uri": "nyt://article/1858d469-5958-5a1a-8bad-e90a2c58d287",
+        "byline": "By Amelia Nierenberg, Jonathan Wolfe and Tiago Carrasco",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T08:14:21-04:00",
+        "created_date": "2025-04-28T07:54:58-04:00",
+        "published_date": "2025-04-28T07:54:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Power Failures and Blackouts",
+            "Electric Light and Power",
+            "Computer Network Outages",
+            "Airports"
+        ],
+        "org_facet": [
+            "Renfe Operadora"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Spain",
+            "Portugal",
+            "France"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-spain-bhkj/28int-spain-bhkj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cooking at a restaurant in Madrid by the light of a phone flashlight on Monday.",
+                "copyright": "Susana Vera/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-spain-bhkj/28int-spain-bhkj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cooking at a restaurant in Madrid by the light of a phone flashlight on Monday.",
+                "copyright": "Susana Vera/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-spain-bhkj/28int-spain-bhkj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cooking at a restaurant in Madrid by the light of a phone flashlight on Monday.",
+                "copyright": "Susana Vera/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "dealbook",
+        "title": "Canada Votes, With an Eye on Trump’s Trade Policies",
+        "abstract": "The two leading candidates, Pierre Poilievre and Mark Carney, both plan to fight the U.S., its largest trading partner, over tariffs. But who would be more successful as relations grow icy?",
+        "url": "https://www.nytimes.com/2025/04/28/business/dealbook/canada-elections-mark-carney-pierre-poilievre-trump-tariffs.html",
+        "uri": "nyt://article/b62d9236-e891-5c9d-83a3-ddff20579f1d",
+        "byline": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch, Edmund Lee, Ian Austen and Jessica Testa",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T07:53:22-04:00",
+        "created_date": "2025-04-28T07:53:22-04:00",
+        "published_date": "2025-04-28T07:53:22-04:00",
+        "material_type_facet": "",
+        "kicker": "DealBook Newsletter",
+        "des_facet": [
+            "internal-storyline-no",
+            "International Trade and World Market",
+            "Territorial Disputes",
+            "Customs (Tariff)",
+            "International Relations",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Brookfield Asset Management",
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Poilievre, Pierre"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28db-newsletter-pjhw/28db-newsletter-pjhw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Canada’s Conservative leader Pierre Poilievre (left) and Liberal leader Mark Carney (right) face off in today’s elections. Both plan to fight President Trump’s tariffs.",
+                "copyright": "Pool photo by Christopher Katsarov"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28db-newsletter-pjhw/28db-newsletter-pjhw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Canada’s Conservative leader Pierre Poilievre (left) and Liberal leader Mark Carney (right) face off in today’s elections. Both plan to fight President Trump’s tariffs.",
+                "copyright": "Pool photo by Christopher Katsarov"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28db-newsletter-pjhw/28db-newsletter-pjhw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Canada’s Conservative leader Pierre Poilievre (left) and Liberal leader Mark Carney (right) face off in today’s elections. Both plan to fight President Trump’s tariffs.",
+                "copyright": "Pool photo by Christopher Katsarov"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Kremlin Says Putin Ordered a 3-Day Cease-Fire in Ukraine for Next Month",
+        "abstract": "There was no immediate comment from Ukraine about the unexpected announcement.",
+        "url": "https://www.nytimes.com/2025/04/28/world/europe/putin-ukraine-ceasefire.html",
+        "uri": "nyt://article/f9657207-6784-59bb-8eae-ddb282e3e185",
+        "byline": "By Nataliya Vasilyeva",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T08:38:58-04:00",
+        "created_date": "2025-04-28T07:46:50-04:00",
+        "published_date": "2025-04-28T07:46:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Russia",
+            "Ukraine",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-russia-ukraine-vcbg/28int-russia-ukraine-vcbg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene of a Russian attack in the Ukrainian city of Sumy in April.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-russia-ukraine-vcbg/28int-russia-ukraine-vcbg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene of a Russian attack in the Ukrainian city of Sumy in April.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-russia-ukraine-vcbg/28int-russia-ukraine-vcbg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene of a Russian attack in the Ukrainian city of Sumy in April.",
+                "copyright": "Tyler Hicks/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Saudi Arabia and Qatar to Pay Off Syria’s Debt to the World Bank",
+        "abstract": "The countries agreed to cover $15 million owed to the lender as the new government in Damascus looks to rebuild the economy after the civil war.",
+        "url": "https://www.nytimes.com/2025/04/28/world/middleeast/saudi-arabia-qatar-syria-debt.html",
+        "uri": "nyt://article/697bc69e-2bea-5a45-b798-8c9d70c26b7b",
+        "byline": "By Raja Abdulrahim",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T07:28:45-04:00",
+        "created_date": "2025-04-28T07:28:45-04:00",
+        "published_date": "2025-04-28T07:28:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "World Bank"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+            "Assad, Bashar al-"
+        ],
+        "geo_facet": [
+            "Syria",
+            "Saudi Arabia",
+            "Qatar",
+            "Middle East"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-syria-debt-wqbl/28int-syria-debt-wqbl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A market in Damascus, Syria. The civil war has taken a huge toll on the country’s economy, with industries decimated and infrastructure destroyed. The Syrian government expressed its “deep gratitude” for the joint payment.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-syria-debt-wqbl/28int-syria-debt-wqbl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A market in Damascus, Syria. The civil war has taken a huge toll on the country’s economy, with industries decimated and infrastructure destroyed. The Syrian government expressed its “deep gratitude” for the joint payment.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-syria-debt-wqbl/28int-syria-debt-wqbl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A market in Damascus, Syria. The civil war has taken a huge toll on the country’s economy, with industries decimated and infrastructure destroyed. The Syrian government expressed its “deep gratitude” for the joint payment.",
+                "copyright": "Kiana Hayeri for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Conclave to Choose New Pope Will Start May 7, Vatican Says",
+        "abstract": "About 130 cardinals will be able to vote on a successor for Francis, and a two-thirds majority is needed to elect the new head of the Roman Catholic Church.",
+        "url": "https://www.nytimes.com/2025/04/28/world/europe/papal-conclave-date.html",
+        "uri": "nyt://article/b27dbd34-d3a6-5389-ae9d-d2568537da41",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T07:53:34-04:00",
+        "created_date": "2025-04-28T07:10:55-04:00",
+        "published_date": "2025-04-28T07:10:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Cardinals (Roman Catholic Prelates)",
+            "Popes",
+            "Clergy"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00HFO-Conclave-Date-wclt/00HFO-Conclave-Date-wclt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Black smoke rising from the Sistine Chapel in 2013 after cardinals failed to reach consensus on a new pope. ",
+                "copyright": "Vincenzo Pintovincenzo Pinto/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00HFO-Conclave-Date-wclt/00HFO-Conclave-Date-wclt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Black smoke rising from the Sistine Chapel in 2013 after cardinals failed to reach consensus on a new pope. ",
+                "copyright": "Vincenzo Pintovincenzo Pinto/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/23/multimedia/00HFO-Conclave-Date-wclt/00HFO-Conclave-Date-wclt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Black smoke rising from the Sistine Chapel in 2013 after cardinals failed to reach consensus on a new pope. ",
+                "copyright": "Vincenzo Pintovincenzo Pinto/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
