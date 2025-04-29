@@ -54580,5 +54580,123 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Power Is Largely Restored in Spain After Widespread Outage",
+        "abstract": "Electricity returned to nearly all of Spain almost 18 hours after a blackout there and in neighboring Portugal. The cause of the outage was unclear.",
+        "url": "https://www.nytimes.com/2025/04/29/world/europe/power-outage-spain-portugal.html",
+        "uri": "nyt://article/1220940d-b7b7-539c-96db-ccb9489d0ba0",
+        "byline": "By John Yoon",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T02:02:30-04:00",
+        "created_date": "2025-04-29T02:00:58-04:00",
+        "published_date": "2025-04-29T02:00:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Electric Light and Power",
+            "Infrastructure (Public Works)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Spain",
+            "Portugal"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29xp-spain-qjbw/29xp-spain-qjbw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1388,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Travelers preparing to spend the night at the Atocha train station in Madrid after an immense power outage, on Monday.",
+                "copyright": "Oscar Del Pozo/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29xp-spain-qjbw/29xp-spain-qjbw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Travelers preparing to spend the night at the Atocha train station in Madrid after an immense power outage, on Monday.",
+                "copyright": "Oscar Del Pozo/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29xp-spain-qjbw/29xp-spain-qjbw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Travelers preparing to spend the night at the Atocha train station in Madrid after an immense power outage, on Monday.",
+                "copyright": "Oscar Del Pozo/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India Accuses Pakistan of Supporting Terrorism. Here’s What We Know.",
+        "abstract": "India renewed its claims after a deadly terror attack last week in Kashmir, a territory that it has long fought over with Pakistan.",
+        "url": "https://www.nytimes.com/2025/04/29/world/asia/india-pakistan-kashmir-terrorism.html",
+        "uri": "nyt://article/0d3763da-7f3a-57a8-bb17-4528d3ed9bdf",
+        "byline": "By Zia ur-Rehman",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T01:18:59-04:00",
+        "created_date": "2025-04-29T01:18:59-04:00",
+        "published_date": "2025-04-29T01:18:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism"
+        ],
+        "org_facet": [
+            "Lashkar-e-Taiba"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Kashmir",
+            "Pakistan",
+            "India"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-pakistan-terrorism-chmj/29int-pakistan-terrorism-chmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1380,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security forces patrolling the banks of Dal Lake, in Kashmir, on Friday.",
+                "copyright": "Adnan Abidi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-pakistan-terrorism-chmj/29int-pakistan-terrorism-chmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security forces patrolling the banks of Dal Lake, in Kashmir, on Friday.",
+                "copyright": "Adnan Abidi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-pakistan-terrorism-chmj/29int-pakistan-terrorism-chmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security forces patrolling the banks of Dal Lake, in Kashmir, on Friday.",
+                "copyright": "Adnan Abidi/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
