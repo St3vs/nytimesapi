@@ -55639,5 +55639,194 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Power Is Restored in Spain and Portugal After Widespread Outage",
+        "abstract": "Electricity was back in most of the two countries almost 18 hours after a blackout that shut down much of daily life. The cause of the outage remained unclear.",
+        "url": "https://www.nytimes.com/2025/04/29/world/europe/power-outage-spain-portugal.html",
+        "uri": "nyt://article/1220940d-b7b7-539c-96db-ccb9489d0ba0",
+        "byline": "By Catherine Porter, José Bautista, Amelia Nierenberg, Jonathan Wolfe and John Yoon",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T08:32:22-04:00",
+        "created_date": "2025-04-29T02:00:58-04:00",
+        "published_date": "2025-04-29T02:00:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Electric Light and Power",
+            "Infrastructure (Public Works)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Spain",
+            "Portugal"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29vid-madrid-power-returning-cmzb/29vid-madrid-power-returning-cmzb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Susana Vera/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29vid-madrid-power-returning-cmzb/29vid-madrid-power-returning-cmzb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Susana Vera/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29vid-madrid-power-returning-cmzb/29vid-madrid-power-returning-cmzb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Susana Vera/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Cargo That Set Off Blast at Iran Port Was Improperly Documented, Investigators Say",
+        "abstract": "The death toll from the explosion rose to 70, as officials said the massive blast involved a shipment whose documentation obscured the nature of the substances it carried.",
+        "url": "https://www.nytimes.com/2025/04/29/world/europe/iran-port-explosion.html",
+        "uri": "nyt://article/2d926399-4e3a-5a2e-9fae-174dd09fe6c7",
+        "byline": "By Leily Nikounazar and Erika Solomon",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T07:37:06-04:00",
+        "created_date": "2025-04-29T07:37:06-04:00",
+        "published_date": "2025-04-29T07:37:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Ports",
+            "Freight (Cargo)",
+            "Ships and Shipping",
+            "Iran-Israel Proxy Conflict",
+            "Explosions (Accidental)"
+        ],
+        "org_facet": [
+            "Islamic Revolutionary Guards Corps",
+            "New York Times"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Iran",
+            "Gulf of Oman",
+            "Strait of Hormuz",
+            "Persian Gulf"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-iran-port-explosion-01-zfgl/29int-iran-port-explosion-01-zfgl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A billboard in Tehran on Monday paid tribute to those killed in the port explosion.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-iran-port-explosion-01-zfgl/29int-iran-port-explosion-01-zfgl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A billboard in Tehran on Monday paid tribute to those killed in the port explosion.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-iran-port-explosion-01-zfgl/29int-iran-port-explosion-01-zfgl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A billboard in Tehran on Monday paid tribute to those killed in the port explosion.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Felling of Sycamore Gap Tree Was ‘Deliberate and Mindless,’ Prosecutor Says",
+        "abstract": "A prosecutor in northeastern England has begun outlining the case against two men accused of cutting down the 200-year-old Hadrian’s Wall tree with a chain saw. Both have pleaded not guilty.",
+        "url": "https://www.nytimes.com/2025/04/29/world/europe/uk-trial-sycamore-gap-tree-plea.html",
+        "uri": "nyt://article/3d59114a-23ef-594b-bf98-531d1d953bdc",
+        "byline": "By Amelia Nierenberg and Lizzie Dearden",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T08:25:24-04:00",
+        "created_date": "2025-04-29T06:32:22-04:00",
+        "published_date": "2025-04-29T06:32:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Trees and Shrubs",
+            "Vandalism",
+            "National Parks, Monuments and Seashores",
+            "World Heritage Sites",
+            "Historic Buildings and Sites"
+        ],
+        "org_facet": [
+            "National Trust Group (England)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Cumbria (England)",
+            "England",
+            "Great Britain",
+            "Hadrian's Wall (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/12/09/world/09uk-tree-NORTHUMBERLAND/09uk-tree-NORTHUMBERLAND-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The felled Sycamore Gap tree on Hadrian’s Wall in northeastern England in 2023.",
+                "copyright": "Jeff J Mitchell/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/12/09/world/09uk-tree-NORTHUMBERLAND/09uk-tree-NORTHUMBERLAND-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The felled Sycamore Gap tree on Hadrian’s Wall in northeastern England in 2023.",
+                "copyright": "Jeff J Mitchell/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/12/09/world/09uk-tree-NORTHUMBERLAND/09uk-tree-NORTHUMBERLAND-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The felled Sycamore Gap tree on Hadrian’s Wall in northeastern England in 2023.",
+                "copyright": "Jeff J Mitchell/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
