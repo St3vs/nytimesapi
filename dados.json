@@ -56569,5 +56569,132 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Canada’s Liberals Narrowly Miss Out on Majority in Parliament",
+        "abstract": "Final results from Monday’s crucial election showed Mark Carney’s party had secured 169 of 343 seats and would need help from other parties to pass laws.",
+        "url": "https://www.nytimes.com/2025/04/29/world/canada/carney-liberals-canada-election-results.html",
+        "uri": "nyt://article/137a7432-8a9e-5e87-a567-e31fc822a2e7",
+        "byline": "By Matina Stevis-Gridneff",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T18:02:31-04:00",
+        "created_date": "2025-04-29T17:42:31-04:00",
+        "published_date": "2025-04-29T17:42:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Legislatures and Parliaments",
+            "United States International Relations",
+            "International Trade and World Market",
+            "Elections",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Poilievre, Pierre",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29nt-canada-election-pqfl/29nt-canada-election-pqfl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney during his election night party in Ottawa on Monday.",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29nt-canada-election-pqfl/29nt-canada-election-pqfl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney during his election night party in Ottawa on Monday.",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29nt-canada-election-pqfl/29nt-canada-election-pqfl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney during his election night party in Ottawa on Monday.",
+                "copyright": "Cole Burston for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Grants Carmakers Some Relief From His Punishing Tariffs",
+        "abstract": "Most levies on imported cars and car parts will remain in place, but automakers have secured some relaxation of the trade policy.",
+        "url": "https://www.nytimes.com/2025/04/29/us/politics/trump-auto-tariffs-executive-order.html",
+        "uri": "nyt://article/8d9d7262-7b68-512c-8abb-720772de7ead",
+        "byline": "By Ana Swanson and Jack Ewing",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T17:57:42-04:00",
+        "created_date": "2025-04-29T13:37:29-04:00",
+        "published_date": "2025-04-29T13:37:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Customs (Tariff)",
+            "Prices (Fares, Fees and Rates)",
+            "Federal Aid (US)",
+            "United States Economy",
+            "Factories and Manufacturing"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30DC-CARTARIFFS-tcql/29DC-CARTARIFFS-tcql-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1360,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Ford assembly plant in Wayne, Mich. Automakers have welcomed any relaxation of tariffs, which they said would raise car prices, cause sales to fall and threaten their financial viability.",
+                "copyright": "Nic Antaya for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30DC-CARTARIFFS-tcql/29DC-CARTARIFFS-tcql-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Ford assembly plant in Wayne, Mich. Automakers have welcomed any relaxation of tariffs, which they said would raise car prices, cause sales to fall and threaten their financial viability.",
+                "copyright": "Nic Antaya for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30DC-CARTARIFFS-tcql/29DC-CARTARIFFS-tcql-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Ford assembly plant in Wayne, Mich. Automakers have welcomed any relaxation of tariffs, which they said would raise car prices, cause sales to fall and threaten their financial viability.",
+                "copyright": "Nic Antaya for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
