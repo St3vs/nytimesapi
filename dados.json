@@ -54075,5 +54075,220 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Polls Closing in Canada as Voters Choose Leader for Tumultuous Moment",
+        "abstract": "Results are expected late Monday in an election once seen as heavily favoring the Conservative Party. But President Trump’s trade war upended the campaign, with the Liberal Party surging.",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election",
+        "uri": "nyt://promo/fe4527b3-c427-5a83-b211-8864b2347dbd",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-28T21:41:51-04:00",
+        "created_date": "2025-04-28T11:58:41-04:00",
+        "published_date": "2025-04-28T11:58:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-live-promo845p-lbqp/28canada-election-live-promo845p-lbqp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ian Willms for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-live-promo845p-lbqp/28canada-election-live-promo845p-lbqp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ian Willms for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-live-promo845p-lbqp/28canada-election-live-promo845p-lbqp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ian Willms for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Despair Blankets Scene of Car-Ramming Attack at Festival",
+        "abstract": "Filipinos in Vancouver returned to a neighborhood to mourn the 11 people killed in a weekend attack.",
+        "url": "https://www.nytimes.com/2025/04/28/world/canada/vancouver-festival-attack.html",
+        "uri": "nyt://article/0a0e8f28-e28c-567e-a31a-2704edfe5729",
+        "byline": "By Vjosa Isai",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T20:31:01-04:00",
+        "created_date": "2025-04-28T20:31:01-04:00",
+        "published_date": "2025-04-28T20:31:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Murders, Attempted Murders and Homicides",
+            "Festivals",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Vancouver (British Columbia)",
+            "Philippines"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-canada-vancouver-attack-kwvc/28int-canada-vancouver-attack-kwvc-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People visiting a makeshift memorial near the scene where a car drove into a crowd during the Lapu Lapu Festival in Vancouver, British Columbia.",
+                "copyright": "Andrew Chin/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-canada-vancouver-attack-kwvc/28int-canada-vancouver-attack-kwvc-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People visiting a makeshift memorial near the scene where a car drove into a crowd during the Lapu Lapu Festival in Vancouver, British Columbia.",
+                "copyright": "Andrew Chin/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28int-canada-vancouver-attack-kwvc/28int-canada-vancouver-attack-kwvc-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People visiting a makeshift memorial near the scene where a car drove into a crowd during the Lapu Lapu Festival in Vancouver, British Columbia.",
+                "copyright": "Andrew Chin/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "When will we know the results?",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election/when-will-we-know-the-results",
+        "uri": "nyt://article/45fcc535-d5ba-5a2a-b564-856258088d72",
+        "byline": "By Ian Austen",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T20:27:28-04:00",
+        "created_date": "2025-04-28T20:27:28-04:00",
+        "published_date": "2025-04-28T20:27:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-results-bvlq/28canada-election-results-bvlq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Canada uses paper ballots, which employees of Elections Canada count by hand at every polling station.",
+                "copyright": "Nasuna Stuart-Ulin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-results-bvlq/28canada-election-results-bvlq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Canada uses paper ballots, which employees of Elections Canada count by hand at every polling station.",
+                "copyright": "Nasuna Stuart-Ulin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-results-bvlq/28canada-election-results-bvlq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Canada uses paper ballots, which employees of Elections Canada count by hand at every polling station.",
+                "copyright": "Nasuna Stuart-Ulin for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Climate change, once a big issue, fades from Canada’s election.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election/climate-change-once-a-big-issue-fades-from-canadas-election",
+        "uri": "nyt://article/d1081f3f-575b-501b-b2db-85363642b24d",
+        "byline": "By Max Bearak",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T19:30:04-04:00",
+        "created_date": "2025-04-28T19:30:04-04:00",
+        "published_date": "2025-04-28T19:30:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-climate-change-VERSION1-zjvl/28canada-election-climate-change-VERSION1-zjvl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gas flare as seen from Kitamaat, British Columbia.",
+                "copyright": "Pat Kane for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-climate-change-VERSION1-zjvl/28canada-election-climate-change-VERSION1-zjvl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gas flare as seen from Kitamaat, British Columbia.",
+                "copyright": "Pat Kane for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-climate-change-VERSION1-zjvl/28canada-election-climate-change-VERSION1-zjvl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gas flare as seen from Kitamaat, British Columbia.",
+                "copyright": "Pat Kane for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
