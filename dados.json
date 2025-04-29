@@ -56329,5 +56329,128 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Clashes Erupt on Outskirts of Syria’s Capital, Killing 12",
+        "abstract": "The sectarian-tinged violence was directed at a suburb of the Syrian capital with a large population from the Druse minority. Local Druse leaders said they held the government responsible.",
+        "url": "https://www.nytimes.com/2025/04/29/world/middleeast/syria-clashes-damascus-druse.html",
+        "uri": "nyt://article/60d39c4a-61ff-54d3-b2ee-51202104cfb2",
+        "byline": "By Euan Ward and Reham Mourshed",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T15:46:06-04:00",
+        "created_date": "2025-04-29T09:56:40-04:00",
+        "published_date": "2025-04-29T09:56:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Druse (Sect)",
+            "Demonstrations, Protests and Riots",
+            "Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Assad, Bashar al-"
+        ],
+        "geo_facet": [
+            "Damascus (Syria)",
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-syria-clashes-kqjh/29int-syria-clashes-kqjh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gunmen from Syria’s Druse minority standing guard near a checkpoint after sectarian-fueled clashes erupted in a Damascus suburb with a large Druse population.",
+                "copyright": "Omar Sanadiki/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-syria-clashes-kqjh/29int-syria-clashes-kqjh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gunmen from Syria’s Druse minority standing guard near a checkpoint after sectarian-fueled clashes erupted in a Damascus suburb with a large Druse population.",
+                "copyright": "Omar Sanadiki/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-syria-clashes-kqjh/29int-syria-clashes-kqjh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gunmen from Syria’s Druse minority standing guard near a checkpoint after sectarian-fueled clashes erupted in a Damascus suburb with a large Druse population.",
+                "copyright": "Omar Sanadiki/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "French Lawmakers Cracking Down on Drug Traffickers",
+        "abstract": "A rare consensus in France’s lower house of Parliament prompted by fears that drug-related violence has grown out of control.",
+        "url": "https://www.nytimes.com/2025/04/29/world/europe/french-lawmakers-cracking-down-on-drug-traffickers.html",
+        "uri": "nyt://article/2ec1c2d9-fefe-5adf-9b42-94b14ca92c28",
+        "byline": "By Aurelien Breeden",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T16:07:02-04:00",
+        "created_date": "2025-04-29T16:07:02-04:00",
+        "published_date": "2025-04-29T16:07:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Drug Abuse and Traffic",
+            "Law and Legislation",
+            "Organized Crime",
+            "Legislatures and Parliaments",
+            "Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Bayrou, Francois"
+        ],
+        "geo_facet": [
+            "France"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29france-drugs-mhzb/29france-drugs-mhzb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "French lawmakers debating bills to combat drug trafficking on Tuesday.",
+                "copyright": "Ludovic Marin/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29france-drugs-mhzb/29france-drugs-mhzb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "French lawmakers debating bills to combat drug trafficking on Tuesday.",
+                "copyright": "Ludovic Marin/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29france-drugs-mhzb/29france-drugs-mhzb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "French lawmakers debating bills to combat drug trafficking on Tuesday.",
+                "copyright": "Ludovic Marin/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
