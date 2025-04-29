@@ -54698,5 +54698,438 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Zelensky Calls Putin’s 72-Hour Truce Pledge ‘Manipulation’",
+        "abstract": "Russian forces launched 100 attack drones across Ukraine overnight, hours after President Vladimir V. Putin ordered a unilateral three-day cease-fire starting on May 8.",
+        "url": "https://www.nytimes.com/2025/04/29/world/europe/ukraine-russia-zelensky-putin-truce.html",
+        "uri": "nyt://article/146709b6-7cd6-514e-82aa-95a4d832dd5b",
+        "byline": "By Maria Varenikova",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T05:14:23-04:00",
+        "created_date": "2025-04-29T05:14:23-04:00",
+        "published_date": "2025-04-29T05:14:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Zelensky, Volodymyr",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Dnipro (Ukraine)",
+            "Kyiv (Ukraine)",
+            "Russia",
+            "Ukraine",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-ukraine-fighting-gkwh/29int-ukraine-fighting-gkwh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1406,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The sky over Kyiv, the Ukrainian capital, early Tuesday morning.",
+                "copyright": "Gleb Garanich/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-ukraine-fighting-gkwh/29int-ukraine-fighting-gkwh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The sky over Kyiv, the Ukrainian capital, early Tuesday morning.",
+                "copyright": "Gleb Garanich/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-ukraine-fighting-gkwh/29int-ukraine-fighting-gkwh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The sky over Kyiv, the Ukrainian capital, early Tuesday morning.",
+                "copyright": "Gleb Garanich/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Pierre Poilievre loses his parliamentary seat, the CBC says.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election/pierre-poilievre-loses-his-parliamentary-seat-the-cbc-says",
+        "uri": "nyt://article/f9ca6547-68bd-56c9-ad71-e5b3cce6cfa9",
+        "byline": "By Vjosa Isai",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T05:10:38-04:00",
+        "created_date": "2025-04-29T05:10:38-04:00",
+        "published_date": "2025-04-29T05:10:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-poilievre-seat-kvbh/28canada-election-poilievre-seat-kvbh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Conservative Party leader, Pierre Poilievre, during a campaign rally this month in Nisku, Alberta.",
+                "copyright": "Amber Bracken for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-poilievre-seat-kvbh/28canada-election-poilievre-seat-kvbh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Conservative Party leader, Pierre Poilievre, during a campaign rally this month in Nisku, Alberta.",
+                "copyright": "Amber Bracken for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-poilievre-seat-kvbh/28canada-election-poilievre-seat-kvbh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Conservative Party leader, Pierre Poilievre, during a campaign rally this month in Nisku, Alberta.",
+                "copyright": "Amber Bracken for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "3 Takeaways From The Times’s Interview With Finland’s President",
+        "abstract": "Alexander Stubb warned against subjecting Ukraine to “Finlandization,” called for more pressure on Russia’s leader to get a peace deal and said President Trump was running out of patience.",
+        "url": "https://www.nytimes.com/2025/04/29/world/europe/finland-president-interview-takeaways.html",
+        "uri": "nyt://article/9091fd92-af3e-5cbb-9648-0779b05ae43e",
+        "byline": "By Paul Sonne",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T05:04:10-04:00",
+        "created_date": "2025-04-29T05:04:10-04:00",
+        "published_date": "2025-04-29T05:04:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Peace Process",
+            "Defense and Military Forces",
+            "United States Politics and Government",
+            "United States International Relations",
+            "Politics and Government",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Putin, Vladimir V",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Finland",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/00finland-president-takeaways-1-gqwz/00finland-president-takeaways-1-gqwz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Alexander Stubb of Finland.",
+                "copyright": "Saara Mansikkamaki for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/00finland-president-takeaways-1-gqwz/00finland-president-takeaways-1-gqwz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Alexander Stubb of Finland.",
+                "copyright": "Saara Mansikkamaki for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/00finland-president-takeaways-1-gqwz/00finland-president-takeaways-1-gqwz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Alexander Stubb of Finland.",
+                "copyright": "Saara Mansikkamaki for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A Russian Missile Blew Apart These Kyiv Apartments, and a Decades-Old Community",
+        "abstract": "“It feels like I lost my whole extended family,” one survivor said.",
+        "url": "https://www.nytimes.com/2025/04/29/world/europe/kyiv-russia-missile-strike.html",
+        "uri": "nyt://article/4d52e54e-d4a3-531c-aae1-363bb1d15da2",
+        "byline": "By Kim Barker, Maria Varenikova, Oleksandra Mykolyshyn and Brendan Hoffman",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T05:04:08-04:00",
+        "created_date": "2025-04-29T05:04:08-04:00",
+        "published_date": "2025-04-29T05:04:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Civilian Casualties",
+            "Missiles and Missile Defense Systems"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kyiv (Ukraine)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29ukraine-1-bltz/29ukraine-1-bltz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A woman laying flowers on Saturday at a two-story apartment building in Kyiv, Ukraine, that was destroyed by a Russian ballistic missile two days earlier, killing 13 people.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29ukraine-1-bltz/29ukraine-1-bltz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A woman laying flowers on Saturday at a two-story apartment building in Kyiv, Ukraine, that was destroyed by a Russian ballistic missile two days earlier, killing 13 people.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29ukraine-1-bltz/29ukraine-1-bltz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A woman laying flowers on Saturday at a two-story apartment building in Kyiv, Ukraine, that was destroyed by a Russian ballistic missile two days earlier, killing 13 people.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Finnish Leader Warns the Kremlin: ‘You Don’t Play With President Trump’",
+        "abstract": "President Alexander Stubb of Finland, who has become an interlocutor in peace talks, says in an interview he doesn’t want Ukraine to suffer the same fate his country once endured.",
+        "url": "https://www.nytimes.com/2025/04/29/world/europe/finland-stubb-russia-trump-ukraine.html",
+        "uri": "nyt://article/6547dede-6292-509e-8ee7-8e79494c1db4",
+        "byline": "By Paul Sonne",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T05:17:40-04:00",
+        "created_date": "2025-04-29T05:04:04-04:00",
+        "published_date": "2025-04-29T05:04:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "International Relations",
+            "Defense and Military Forces",
+            "Peace Process",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "North Atlantic Treaty Organization",
+            "Warsaw Pact"
+        ],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Finland",
+            "United States",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/00finland-1-pgzm/00finland-1-pgzm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Alexander Stubb of Finland has inserted himself in the Ukraine peace process in what he calls “a humble way,” regularly speaking with President Volodymyr Zelensky of Ukraine and also talking to President Trump.",
+                "copyright": "Saara Mansikkamaki for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/00finland-1-pgzm/00finland-1-pgzm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Alexander Stubb of Finland has inserted himself in the Ukraine peace process in what he calls “a humble way,” regularly speaking with President Volodymyr Zelensky of Ukraine and also talking to President Trump.",
+                "copyright": "Saara Mansikkamaki for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/00finland-1-pgzm/00finland-1-pgzm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Alexander Stubb of Finland has inserted himself in the Ukraine peace process in what he calls “a humble way,” regularly speaking with President Volodymyr Zelensky of Ukraine and also talking to President Trump.",
+                "copyright": "Saara Mansikkamaki for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "The Americans Fled Vietnam 50 Years Ago. I Visited the Buildings They Left Behind.",
+        "abstract": "These structures, now surrounded by a modern metropolis, tell the story of the nation that has evolved in the decades since the war’s end.",
+        "url": "https://www.nytimes.com/2025/04/29/world/asia/vietnam-saigon-pittman-building.html",
+        "uri": "nyt://article/636f8783-2f09-57a7-b9e2-cfeaabb04da2",
+        "byline": "By Damien Cave and Hannah Reyes Morales",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T05:02:37-04:00",
+        "created_date": "2025-04-29T05:02:37-04:00",
+        "published_date": "2025-04-29T05:02:37-04:00",
+        "material_type_facet": "",
+        "kicker": "Vietnam Dispatch",
+        "des_facet": [
+            "Buildings (Structures)",
+            "United States Defense and Military Forces",
+            "Vietnam War"
+        ],
+        "org_facet": [
+            "Central Intelligence Agency",
+            "United States Agency for International Development"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Ho Chi Minh City (Vietnam)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/INT-SAIGON-01-zjfm/INT-SAIGON-01-zjfm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The rooftop of the Pittman apartment building in Ho Chi Minh City, formerly used by U.S. personnel during the Vietnam War.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/INT-SAIGON-01-zjfm/INT-SAIGON-01-zjfm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The rooftop of the Pittman apartment building in Ho Chi Minh City, formerly used by U.S. personnel during the Vietnam War.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/INT-SAIGON-01-zjfm/INT-SAIGON-01-zjfm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The rooftop of the Pittman apartment building in Ho Chi Minh City, formerly used by U.S. personnel during the Vietnam War.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "How Photography From the Vietnam War Changed America",
+        "abstract": "The images changed how the world saw Vietnam, but especially how Americans saw their country, soldiers and the war itself, which ended 50 years ago this month.",
+        "url": "https://www.nytimes.com/2025/04/29/world/asia/vietnam-war-photography-impact.html",
+        "uri": "nyt://article/d773ba0f-5a06-5ed2-ade3-c8e8e2be8c23",
+        "byline": "By The New York Times and Damien Cave",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T05:01:49-04:00",
+        "created_date": "2025-04-29T05:01:49-04:00",
+        "published_date": "2025-04-29T05:01:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-photo",
+            "Photography",
+            "United States Defense and Military Forces",
+            "War and Armed Conflicts",
+            "Vietnam War"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Vietnam"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/00int-vietnam-waranniversary-photos-01-vmwg/00int-vietnam-waranniversary-photos-01-vmwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1343,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vietnam was the first “living room war,” seen on TV and through remarkable photography.",
+                "copyright": "Tay Ninh, 1965. Photograph by Horst Faas/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/00int-vietnam-waranniversary-photos-01-vmwg/00int-vietnam-waranniversary-photos-01-vmwg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vietnam was the first “living room war,” seen on TV and through remarkable photography.",
+                "copyright": "Tay Ninh, 1965. Photograph by Horst Faas/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/00int-vietnam-waranniversary-photos-01-vmwg/00int-vietnam-waranniversary-photos-01-vmwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vietnam was the first “living room war,” seen on TV and through remarkable photography.",
+                "copyright": "Tay Ninh, 1965. Photograph by Horst Faas/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
