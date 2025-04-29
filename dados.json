@@ -56138,5 +56138,196 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A Killing in a Mosque Puts France’s View of Muslims Under Scrutiny",
+        "abstract": "The victim was stabbed dozens of times last Friday while he was praying, and critics say officials were slow to call it a bias crime or show concern.",
+        "url": "https://www.nytimes.com/2025/04/29/world/europe/france-mosque-killing.html",
+        "uri": "nyt://article/86a505ee-4fea-5895-8f42-6d64d29a5951",
+        "byline": "By Ségolène Le Stradic",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T13:56:15-04:00",
+        "created_date": "2025-04-29T13:54:46-04:00",
+        "published_date": "2025-04-29T13:54:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Mosques",
+            "Murders, Attempted Murders and Homicides",
+            "Muslims and Islam",
+            "Discrimination",
+            "Religion-State Relations"
+        ],
+        "org_facet": [
+            "France Unbowed (Political Party)"
+        ],
+        "per_facet": [
+            "Aboubakar Cisse",
+            "Melenchon, Jean-Luc",
+            "Braun-Pivet, Yael",
+            "Macron, Emmanuel (1977- )"
+        ],
+        "geo_facet": [
+            "France",
+            "Bosnia and Herzegovina",
+            "Italy",
+            "Mali"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29france-mosque-1-qtvk/29france-mosque-1-qtvk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A march on Sunday in memory of Aboubakar Cissé, who was killed in a mosque on Friday in La Grand-Combe, France.",
+                "copyright": "Miguel Medina/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29france-mosque-1-qtvk/29france-mosque-1-qtvk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A march on Sunday in memory of Aboubakar Cissé, who was killed in a mosque on Friday in La Grand-Combe, France.",
+                "copyright": "Miguel Medina/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29france-mosque-1-qtvk/29france-mosque-1-qtvk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A march on Sunday in memory of Aboubakar Cissé, who was killed in a mosque on Friday in La Grand-Combe, France.",
+                "copyright": "Miguel Medina/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "U.K. Crossbow Attack Suspect Voiced Racist and Misogynist Views",
+        "abstract": "The British police said a man accused of an attack on the weekend in Leeds died from a self-inflicted injury. Investigators are reviewing two Facebook accounts associated with him.",
+        "url": "https://www.nytimes.com/2025/04/29/world/europe/uk-crossbow-attack-suspect.html",
+        "uri": "nyt://article/31f0b2e5-4142-5b2c-bcfc-2bf33969631c",
+        "byline": "By Lizzie Dearden",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T14:00:20-04:00",
+        "created_date": "2025-04-29T14:00:20-04:00",
+        "published_date": "2025-04-29T14:00:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Hate Crimes",
+            "Murders, Attempted Murders and Homicides",
+            "Right-Wing Extremism and Alt-Right",
+            "Fringe Groups and Movements",
+            "Police",
+            "Social Media"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Great Britain",
+            "Leeds (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/world/29int-uk-crossbow-attacker/29int-uk-crossbow-attacker-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A police officer in Leeds, England, after the attack on Saturday.",
+                "copyright": "Garry Clarkson/BMT, via Alamy"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/world/29int-uk-crossbow-attacker/29int-uk-crossbow-attacker-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A police officer in Leeds, England, after the attack on Saturday.",
+                "copyright": "Garry Clarkson/BMT, via Alamy"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/world/29int-uk-crossbow-attacker/29int-uk-crossbow-attacker-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A police officer in Leeds, England, after the attack on Saturday.",
+                "copyright": "Garry Clarkson/BMT, via Alamy"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump to Grant Carmakers Some Relief From His Punishing Tariffs",
+        "abstract": "Most levies on imported cars and car parts will remain in place, but automakers have secured some relaxation of the trade policy.",
+        "url": "https://www.nytimes.com/2025/04/29/us/politics/trump-auto-tariffs-executive-order.html",
+        "uri": "nyt://article/8d9d7262-7b68-512c-8abb-720772de7ead",
+        "byline": "By Ana Swanson and Jack Ewing",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T13:43:51-04:00",
+        "created_date": "2025-04-29T13:37:29-04:00",
+        "published_date": "2025-04-29T13:37:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Customs (Tariff)",
+            "Prices (Fares, Fees and Rates)",
+            "Federal Aid (US)",
+            "United States Economy",
+            "Factories and Manufacturing"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30DC-CARTARIFFS-tcql/29DC-CARTARIFFS-tcql-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1360,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Ford assembly plant in Wayne, Mich. Automakers have welcomed any relaxation of tariffs, which they said would raise car prices, cause sales to fall and threaten their financial viability. ",
+                "copyright": "Nic Antaya for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30DC-CARTARIFFS-tcql/29DC-CARTARIFFS-tcql-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Ford assembly plant in Wayne, Mich. Automakers have welcomed any relaxation of tariffs, which they said would raise car prices, cause sales to fall and threaten their financial viability. ",
+                "copyright": "Nic Antaya for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30DC-CARTARIFFS-tcql/29DC-CARTARIFFS-tcql-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Ford assembly plant in Wayne, Mich. Automakers have welcomed any relaxation of tariffs, which they said would raise car prices, cause sales to fall and threaten their financial viability. ",
+                "copyright": "Nic Antaya for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
