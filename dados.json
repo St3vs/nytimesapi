@@ -55131,5 +55131,387 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Mark Carney’s Liberals Win Canada’s Election. Here Are 4 Takeaways.",
+        "abstract": "The former central banker successfully convinced voters that he was the right candidate to confront President Trump’s trade war and threats to annex the country.",
+        "url": "https://www.nytimes.com/2025/04/29/world/canada/canada-election-results-carney-trump-takeaways.html",
+        "uri": "nyt://article/e2301a35-49ff-5bcb-8f06-832485452495",
+        "byline": "By Matina Stevis-Gridneff and Ian Austen",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T06:20:12-04:00",
+        "created_date": "2025-04-29T05:21:05-04:00",
+        "published_date": "2025-04-29T05:21:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "International Relations"
+        ],
+        "org_facet": [
+            "Liberal Party (Canada)",
+            "Conservative Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Poilievre, Pierre",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-canada-election-takeaways-pzwg/29int-canada-election-takeaways-pzwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-canada-election-takeaways-pzwg/29int-canada-election-takeaways-pzwg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-canada-election-takeaways-pzwg/29int-canada-election-takeaways-pzwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Cole Burston for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Power Is Largely Restored in Spain and Portugal After Widespread Outage",
+        "abstract": "Electricity was back in most of the two countries almost 18 hours after a blackout that shut down much of daily life. The cause of the outage remained unclear.",
+        "url": "https://www.nytimes.com/2025/04/29/world/europe/power-outage-spain-portugal.html",
+        "uri": "nyt://article/1220940d-b7b7-539c-96db-ccb9489d0ba0",
+        "byline": "By Catherine Porter, José Bautista, Amelia Nierenberg, Jonathan Wolfe and John Yoon",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T06:03:50-04:00",
+        "created_date": "2025-04-29T02:00:58-04:00",
+        "published_date": "2025-04-29T02:00:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Electric Light and Power",
+            "Infrastructure (Public Works)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Spain",
+            "Portugal"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29vid-madrid-power-returning-cmzb/29vid-madrid-power-returning-cmzb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Susana Vera/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29vid-madrid-power-returning-cmzb/29vid-madrid-power-returning-cmzb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Susana Vera/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29vid-madrid-power-returning-cmzb/29vid-madrid-power-returning-cmzb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Susana Vera/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Cardinal Who Threatened to Crash the Conclave Now Says He Won’t",
+        "abstract": "The Vatican said that Francis had stripped a convicted cardinal, Angelo Becciu, of his right to vote for the next pope. Cardinal Becciu maintains his innocence but said he would sit this one out.",
+        "url": "https://www.nytimes.com/2025/04/29/world/europe/pope-conclave-cardinal-angelo-becciu.html",
+        "uri": "nyt://article/4a5fa0d4-fc9b-53f9-bfab-2e8ae3072a83",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T05:54:03-04:00",
+        "created_date": "2025-04-29T05:54:03-04:00",
+        "published_date": "2025-04-29T05:54:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Cardinals (Roman Catholic Prelates)",
+            "Decisions and Verdicts",
+            "Clergy",
+            "Embezzlement",
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Cardinal Angelo Becciu",
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-conclave-becciu-clvk/29int-conclave-becciu-clvk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Angelo Becciu at Pope Francis’ funeral in Vatican City on Saturday.",
+                "copyright": "Franco Origlia/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-conclave-becciu-clvk/29int-conclave-becciu-clvk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Angelo Becciu at Pope Francis’ funeral in Vatican City on Saturday.",
+                "copyright": "Franco Origlia/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-conclave-becciu-clvk/29int-conclave-becciu-clvk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Angelo Becciu at Pope Francis’ funeral in Vatican City on Saturday.",
+                "copyright": "Franco Origlia/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What to Know About the Conclave to Choose Pope Francis’ Successor",
+        "abstract": "The pope’s funeral was on Saturday. Now the process of selecting the church’s future leader will begin.",
+        "url": "https://www.nytimes.com/article/pope-francis-death-health-problems.html",
+        "uri": "nyt://article/4f8e1930-3961-5f79-a59b-70ed3c61027a",
+        "byline": "By Elisabetta Povoledo, Jason Horowitz and Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-04-28T12:15:06-04:00",
+        "created_date": "2025-02-24T12:04:27-05:00",
+        "published_date": "2025-02-24T12:04:27-05:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Funerals and Memorials",
+            "Cardinals (Roman Catholic Prelates)",
+            "Coffins",
+            "Priests",
+            "Grief (Emotion)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Francis",
+            "John Paul II",
+            "Re, Giovanni Battista"
+        ],
+        "geo_facet": [
+            "Rome (Italy)",
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/00int-pope-explainer-new-zhkt/00int-pope-explainer-new-zhkt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals at the Vatican on Thursday.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/00int-pope-explainer-new-zhkt/00int-pope-explainer-new-zhkt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals at the Vatican on Thursday.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/00int-pope-explainer-new-zhkt/00int-pope-explainer-new-zhkt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals at the Vatican on Thursday.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Pierre Poilievre, Canada’s Opposition Leader, Loses Seat in Parliament",
+        "abstract": "It was a stunning upset for the Conservative Party leader, who was first elected in 2004.",
+        "url": "https://www.nytimes.com/2025/04/28/world/canada/pierre-poilievre-canada-election-loss-parliament.html",
+        "uri": "nyt://article/f9ca6547-68bd-56c9-ad71-e5b3cce6cfa9",
+        "byline": "By Vjosa Isai",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T05:42:34-04:00",
+        "created_date": "2025-04-29T05:10:39-04:00",
+        "published_date": "2025-04-29T05:10:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Legislatures and Parliaments",
+            "Elections"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)"
+        ],
+        "per_facet": [
+            "Fanjoy, Bruce",
+            "Poilievre, Pierre"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-poilievre-seat-kvbh/28canada-election-poilievre-seat-kvbh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Conservative Party leader, Pierre Poilievre, during a campaign rally this month in Nisku, Alberta.",
+                "copyright": "Amber Bracken for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-poilievre-seat-kvbh/28canada-election-poilievre-seat-kvbh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Conservative Party leader, Pierre Poilievre, during a campaign rally this month in Nisku, Alberta.",
+                "copyright": "Amber Bracken for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28canada-election-poilievre-seat-kvbh/28canada-election-poilievre-seat-kvbh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Conservative Party leader, Pierre Poilievre, during a campaign rally this month in Nisku, Alberta.",
+                "copyright": "Amber Bracken for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Mark Carney Wins New Term as Canada’s Prime Minister on Anti-Trump Platform",
+        "abstract": "The election was dominated by Mr. Trump and his relentless focus on Canada. Pierre Poilievre, the opposition leader, lost the seat he had held for 20 years.",
+        "url": "https://www.nytimes.com/2025/04/28/world/canada/canada-election-mark-carney-win.html",
+        "uri": "nyt://article/35ef6a89-f772-53bf-8225-fcfcaedf1a95",
+        "byline": "By Matina Stevis-Gridneff",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T06:07:03-04:00",
+        "created_date": "2025-04-28T22:11:48-04:00",
+        "published_date": "2025-04-28T22:11:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Elections"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Poilievre, Pierre",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/28/multimedia/28canada-election-hfo-winner-cklf/28canada-election-hfo-winner-cklf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney of Canada, the Liberal Party candidate, won a new term on Monday night.",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/28/multimedia/28canada-election-hfo-winner-cklf/28canada-election-hfo-winner-cklf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney of Canada, the Liberal Party candidate, won a new term on Monday night.",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/28/multimedia/28canada-election-hfo-winner-cklf/28canada-election-hfo-winner-cklf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney of Canada, the Liberal Party candidate, won a new term on Monday night.",
+                "copyright": "Cole Burston for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
