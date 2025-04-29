@@ -55513,5 +55513,131 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trial Opens for 2 Men Accused of Felling Sycamore Gap Tree",
+        "abstract": "The men have pleaded not guilty to charges of criminal destruction. The cutting down of the tree, an icon in Britain, stunned people across the world in 2023.",
+        "url": "https://www.nytimes.com/2025/04/29/world/europe/uk-trial-sycamore-gap-tree-plea.html",
+        "uri": "nyt://article/3d59114a-23ef-594b-bf98-531d1d953bdc",
+        "byline": "By Amelia Nierenberg",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T06:32:21-04:00",
+        "created_date": "2025-04-29T06:32:21-04:00",
+        "published_date": "2025-04-29T06:32:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Trees and Shrubs",
+            "Vandalism",
+            "National Parks, Monuments and Seashores",
+            "World Heritage Sites",
+            "Historic Buildings and Sites"
+        ],
+        "org_facet": [
+            "National Trust Group (England)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Cumbria (England)",
+            "England",
+            "Great Britain",
+            "Hadrian's Wall (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/12/09/world/09uk-tree-NORTHUMBERLAND/09uk-tree-NORTHUMBERLAND-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The felled Sycamore Gap tree on Hadrian’s Wall in northeastern England in 2023.",
+                "copyright": "Jeff J Mitchell/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/12/09/world/09uk-tree-NORTHUMBERLAND/09uk-tree-NORTHUMBERLAND-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The felled Sycamore Gap tree on Hadrian’s Wall in northeastern England in 2023.",
+                "copyright": "Jeff J Mitchell/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/12/09/world/09uk-tree-NORTHUMBERLAND/09uk-tree-NORTHUMBERLAND-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The felled Sycamore Gap tree on Hadrian’s Wall in northeastern England in 2023.",
+                "copyright": "Jeff J Mitchell/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What We Know About the Power Outage in Spain and Portugal",
+        "abstract": "Electricity returned to much of Spain and Portugal a day after a blackout affected critical infrastructure. The cause of the outage remained unclear.",
+        "url": "https://www.nytimes.com/2025/04/28/world/europe/spain-portugal-power-outage-what-we-know.html",
+        "uri": "nyt://article/b2917866-7b3e-5573-88b2-74db5e02896a",
+        "byline": "By Sara Ruberg and Michael Levenson",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T07:02:44-04:00",
+        "created_date": "2025-04-28T16:05:18-04:00",
+        "published_date": "2025-04-28T16:05:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Electric Light and Power",
+            "Power Failures and Blackouts"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Sanchez Perez-Castejon, Pedro (1972- )"
+        ],
+        "geo_facet": [
+            "Spain",
+            "Portugal",
+            "France"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28xp-wwk-europe-outage2-wpbl/28xp-wwk-europe-outage2-wpbl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Restaurant workers at La Taberna, a restaurant in the southern city of Ronda, Spain, worked by candlelight during a massive power outage affecting the entire Iberian Peninsula on Monday.",
+                "copyright": "Jorge Guerrero/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28xp-wwk-europe-outage2-wpbl/28xp-wwk-europe-outage2-wpbl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Restaurant workers at La Taberna, a restaurant in the southern city of Ronda, Spain, worked by candlelight during a massive power outage affecting the entire Iberian Peninsula on Monday.",
+                "copyright": "Jorge Guerrero/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/28xp-wwk-europe-outage2-wpbl/28xp-wwk-europe-outage2-wpbl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Restaurant workers at La Taberna, a restaurant in the southern city of Ronda, Spain, worked by candlelight during a massive power outage affecting the entire Iberian Peninsula on Monday.",
+                "copyright": "Jorge Guerrero/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
