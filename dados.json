@@ -54290,5 +54290,114 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Mark Carney Wins Full Term as Canada’s Prime Minister on Anti-Trump Platform",
+        "abstract": "CBC/Radio Canada, the national broadcaster, projected a win for the Liberal Party in an extraordinary election that was dominated by President Trump’s threats to Canada’s sovereignty and its economy.",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election",
+        "uri": "nyt://promo/fe4527b3-c427-5a83-b211-8864b2347dbd",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-28T22:45:50-04:00",
+        "created_date": "2025-04-28T11:58:41-04:00",
+        "published_date": "2025-04-28T11:58:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/28/multimedia/28canada-election-carney-promo-chzj/28canada-election-carney-promo-chzj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/28/multimedia/28canada-election-carney-promo-chzj/28canada-election-carney-promo-chzj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/28/multimedia/28canada-election-carney-promo-chzj/28canada-election-carney-promo-chzj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Cole Burston for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "2025 Canada Federal Election Live Results: Liberals Win",
+        "abstract": "Canadians are heading to the polls today to elect their members of Parliament. First polls close at 7 p.m. Eastern.",
+        "url": "https://www.nytimes.com/interactive/2025/04/28/world/canada/results-canada-federal-election.html",
+        "uri": "nyt://interactive/0b3b24cf-85d7-52f0-8653-d72c5f1ab784",
+        "byline": "By Joel Eastwood, Martín González Gómez, K.K. Rebecca Lai, Eric Rabinowitz, Matina Stevis-Gridneff, Urvashi Uberoy and Christine Zhang",
+        "item_type": "Interactive",
+        "updated_date": "2025-04-28T22:55:03-04:00",
+        "created_date": "2025-04-28T15:30:15-04:00",
+        "published_date": "2025-04-28T15:30:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "internal-paywall-exempt"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/2025-04-04-canada-election-index/2025-04-04-canada-election-index-superJumbo-v2.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/2025-04-04-canada-election-index/2025-04-04-canada-election-index-threeByTwoSmallAt2X-v3.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/2025-04-04-canada-election-index/2025-04-04-canada-election-index-thumbLarge-v2.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
