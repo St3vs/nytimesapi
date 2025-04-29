@@ -56452,5 +56452,122 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Wednesday Briefing: 100 Days of Trump",
+        "abstract": "Plus, advice on how to be happy.",
+        "url": "https://www.nytimes.com/2025/04/29/briefing/trump-100-carney-canada-election-vietnam-50-years.html",
+        "uri": "nyt://article/b9891d3a-b984-542f-9ee0-d78dc6d69b4d",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T17:06:17-04:00",
+        "created_date": "2025-04-29T17:06:17-04:00",
+        "published_date": "2025-04-29T17:06:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/30ambriefing-asia-trump/30ambriefing-asia-trump-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Al Drago for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/30ambriefing-asia-trump/30ambriefing-asia-trump-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Al Drago for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/30ambriefing-asia-trump/trump-100days-promostill-zhwb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Al Drago for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Days After Trump Commits to Seabed Mining, Two Sides Face Off",
+        "abstract": "At a congressional hearing, one executive welcomed President Trump’s “starting gun” to begin mining. Democrats and Republicans clashed over environmental and business concerns.",
+        "url": "https://www.nytimes.com/2025/04/29/climate/seabed-mining-trump-congress.html",
+        "uri": "nyt://article/60832037-dff1-53b5-b40d-028cc5dce5fa",
+        "byline": "By Max Bearak",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T16:41:42-04:00",
+        "created_date": "2025-04-29T16:18:52-04:00",
+        "published_date": "2025-04-29T16:18:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Metals and Minerals",
+            "Mines and Mining",
+            "Oceans and Seas",
+            "Nickel"
+        ],
+        "org_facet": [
+            "International Seabed Authority",
+            "House of Representatives"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "American Samoa",
+            "Hawaii",
+            "Pacific Ocean"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/23/multimedia/29cli-seabed-mining/23cli-seabed-mining-04-jwgt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gerard Barron, the chief executive of the Metals Company, holding a nodule during a 2021 event.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/23/multimedia/29cli-seabed-mining/23cli-seabed-mining-04-jwgt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gerard Barron, the chief executive of the Metals Company, holding a nodule during a 2021 event.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/23/multimedia/29cli-seabed-mining/23cli-seabed-mining-04-jwgt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gerard Barron, the chief executive of the Metals Company, holding a nodule during a 2021 event.",
+                "copyright": "Ashley Gilbertson for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
