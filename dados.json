@@ -54399,5 +54399,186 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Mark Carney Wins New Term as Canada’s Prime Minister on Anti-Trump Platform",
+        "abstract": "CBC/Radio Canada, the national broadcaster, projected a win for the Liberal Party in an extraordinary election that was dominated by President Trump’s threats to Canada’s sovereignty and its economy.",
+        "url": "https://www.nytimes.com/live/2025/04/28/world/canada-election",
+        "uri": "nyt://promo/fe4527b3-c427-5a83-b211-8864b2347dbd",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-04-29T00:23:16-04:00",
+        "created_date": "2025-04-28T11:58:41-04:00",
+        "published_date": "2025-04-28T11:58:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/28/multimedia/28canada-election-promo-0015a/28canada-election-carousel-gpth-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/28/multimedia/28canada-election-promo-0015a/28canada-election-carousel-gpth-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/28/multimedia/28canada-election-promo-0015a/28canada-election-promo-0015a-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Cole Burston for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "A Contender for the Papacy in the Mold of Francis",
+        "abstract": "Cardinal Luis Tagle of the Philippines is known as the “Asian Francis.” But he has been criticized for not being vocal enough about his country’s brutal drug war and clerical sex abuse.",
+        "url": "https://www.nytimes.com/2025/04/29/world/asia/luis-tagle-asian-pope.html",
+        "uri": "nyt://article/fe3dd60d-16c8-5256-8539-cb9955a9e8bd",
+        "byline": "By Sui-Lee Wee and Aie Balagtas See",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T00:01:07-04:00",
+        "created_date": "2025-04-29T00:01:07-04:00",
+        "published_date": "2025-04-29T00:01:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Cardinals (Roman Catholic Prelates)",
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis",
+            "Luis Tagle"
+        ],
+        "geo_facet": [
+            "Philippines",
+            "Manila (Philippines)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/00philippines-tagle-kwfc/00philippines-tagle-kwfc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Luis Tagle of the Philippines is on many unofficial short lists of “papabile” cardinals, or those with a good shot at succeeding the ailing Pope Francis.",
+                "copyright": "Guglielmo Mangiapane/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/00philippines-tagle-kwfc/00philippines-tagle-kwfc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Luis Tagle of the Philippines is on many unofficial short lists of “papabile” cardinals, or those with a good shot at succeeding the ailing Pope Francis.",
+                "copyright": "Guglielmo Mangiapane/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/00philippines-tagle-kwfc/00philippines-tagle-kwfc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Luis Tagle of the Philippines is on many unofficial short lists of “papabile” cardinals, or those with a good shot at succeeding the ailing Pope Francis.",
+                "copyright": "Guglielmo Mangiapane/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Trump’s Tariffs Put China’s E-Commerce Superpowers to the Test",
+        "abstract": "Companies like Alibaba that built China’s world-leading online shopping sector are now helping its sellers find markets beyond the United States.",
+        "url": "https://www.nytimes.com/2025/04/29/world/asia/trump-tariffs-china.html",
+        "uri": "nyt://article/9b22906c-f2d0-5aed-a19e-8aac9f4ed632",
+        "byline": "By Vivian Wang",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T00:03:31-04:00",
+        "created_date": "2025-04-29T00:01:07-04:00",
+        "published_date": "2025-04-29T00:01:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "E-Commerce",
+            "International Trade and World Market",
+            "Computers and the Internet",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "Alibaba Group Holding Ltd",
+            "Amazon.com Inc"
+        ],
+        "per_facet": [
+            "Ma, Jack",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "Hangzhou (China)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/29int-china-tariffs-01-vtjz/00int-china-tariffs-01-vtjz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alibaba’s headquarters in Hangzhou, China, in February. China’s success at e-commerce has become a key feature of the country’s broader economic rise.",
+                "copyright": "Long Wei/VCG via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/29int-china-tariffs-01-vtjz/29int-china-tariffs-01-vtjz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alibaba’s headquarters in Hangzhou, China, in February. China’s success at e-commerce has become a key feature of the country’s broader economic rise.",
+                "copyright": "Long Wei/VCG via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/29int-china-tariffs-01-vtjz/29int-china-tariffs-01-vtjz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alibaba’s headquarters in Hangzhou, China, in February. China’s success at e-commerce has become a key feature of the country’s broader economic rise.",
+                "copyright": "Long Wei/VCG via Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
