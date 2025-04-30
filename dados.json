@@ -58103,5 +58103,127 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Israeli Military Intervenes in Syrian Sectarian Violence",
+        "abstract": "Israel launched airstrikes on Syria amid a spreading wave of sectarian violence in areas dominated by the Druse minority. Dozens of people have been killed in two days of clashes.",
+        "url": "https://www.nytimes.com/2025/04/30/world/europe/syria-sectarian-fighting-druse.html",
+        "uri": "nyt://article/201a64a7-ed24-53c2-82a8-82d468a55bc7",
+        "byline": "By Euan Ward and Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T11:15:11-04:00",
+        "created_date": "2025-04-30T07:31:47-04:00",
+        "published_date": "2025-04-30T07:31:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Druse (Sect)",
+            "Demonstrations, Protests and Riots",
+            "Religion-State Relations",
+            "Muslims and Islam"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Assad, Bashar al-"
+        ],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-syria-fighting-mpfl/30int-syria-fighting-mpfl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1537,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A funeral for members of a Druse militia who were killed fighting in Jaramana, a city on the outskirts of Damascus, on Wednesday.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-syria-fighting-mpfl/30int-syria-fighting-mpfl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A funeral for members of a Druse militia who were killed fighting in Jaramana, a city on the outskirts of Damascus, on Wednesday.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-syria-fighting-mpfl/30int-syria-fighting-mpfl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A funeral for members of a Druse militia who were killed fighting in Jaramana, a city on the outskirts of Damascus, on Wednesday.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Taiwan Condemns Somalia for Barring Its Passport Holders From Entering",
+        "abstract": "The decision comes as Taipei has been building ties with Somaliland, a breakaway territory that has resisted Chinese efforts to expand its influence in Africa.",
+        "url": "https://www.nytimes.com/2025/04/30/world/africa/taiwan-somalia-passport-ban-china.html",
+        "uri": "nyt://article/1cb0450d-7aaa-5d92-93db-6780dd25fde8",
+        "byline": "By Abdi Latif Dahir",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T10:23:33-04:00",
+        "created_date": "2025-04-30T10:23:33-04:00",
+        "published_date": "2025-04-30T10:23:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Somaliland",
+            "Hargeisa (Somaliland)",
+            "Mogadishu (Somalia)",
+            "Taiwan",
+            "Beijing (China)",
+            "Somalia",
+            "Horn of Africa",
+            "Ethiopia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-somalia-taiwan-01-qclg/30int-somalia-taiwan-01-qclg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Taiwan representative office in Hargeisa, Somaliland. Taiwan opened the mission in 2020 and appointed an ambassador to the enclave, as the two territories sought to deepen ties.",
+                "copyright": "Joao Silva/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-somalia-taiwan-01-qclg/30int-somalia-taiwan-01-qclg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Taiwan representative office in Hargeisa, Somaliland. Taiwan opened the mission in 2020 and appointed an ambassador to the enclave, as the two territories sought to deepen ties.",
+                "copyright": "Joao Silva/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-somalia-taiwan-01-qclg/30int-somalia-taiwan-01-qclg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Taiwan representative office in Hargeisa, Somaliland. Taiwan opened the mission in 2020 and appointed an ambassador to the enclave, as the two territories sought to deepen ties.",
+                "copyright": "Joao Silva/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
