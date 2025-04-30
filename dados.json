@@ -56968,5 +56968,327 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India’s Muslims Fear a Growing Backlash After Kashmir Attack",
+        "abstract": "State officials have detained thousands of Muslims and demolished homes, and activists say that right-wing Hindus are intensifying a demonization campaign.",
+        "url": "https://www.nytimes.com/2025/04/30/world/asia/india-muslims-detentions-demolitions.html",
+        "uri": "nyt://article/cd1b532d-e27c-5680-b867-af2a363f8c33",
+        "byline": "By Mujib Mashal and Hari Kumar",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T00:21:38-04:00",
+        "created_date": "2025-04-30T00:11:02-04:00",
+        "published_date": "2025-04-30T00:11:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Discrimination",
+            "Minorities",
+            "Hinduism",
+            "Muslims and Islam"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Abdullah, Omar"
+        ],
+        "geo_facet": [
+            "India"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-india-backlash-01-ghct/30int-india-backlash-01-ghct-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1397,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A house that was demolished by the Indian authorities at a village in southern Kashmir.",
+                "copyright": "Sharafat Ali/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-india-backlash-01-ghct/30int-india-backlash-01-ghct-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A house that was demolished by the Indian authorities at a village in southern Kashmir.",
+                "copyright": "Sharafat Ali/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-india-backlash-01-ghct/30int-india-backlash-01-ghct-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A house that was demolished by the Indian authorities at a village in southern Kashmir.",
+                "copyright": "Sharafat Ali/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Out of War’s Shadow: Vietnam on the Move",
+        "abstract": "Nothing defines Vietnam more right now than the desire to be seen anew, to have the country and its people recognized for their strengths.",
+        "url": "https://www.nytimes.com/2025/04/30/world/asia/vietnam-country-progress-growth.html",
+        "uri": "nyt://article/00425298-42db-568d-87ec-7abb289c0bd5",
+        "byline": "By Damien Cave and Tung Ngo",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T00:01:25-04:00",
+        "created_date": "2025-04-30T00:01:25-04:00",
+        "published_date": "2025-04-30T00:01:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Politics and Government",
+            "Factories and Manufacturing",
+            "Agriculture and Farming",
+            "Developing Countries",
+            "Economic Conditions and Trends",
+            "Water Pollution",
+            "Youth",
+            "International Trade and World Market"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Vietnam",
+            "Mekong River",
+            "Ho Chi Minh City (Vietnam)",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/INT-YOUNG-VIETNAM-06-wftz/INT-YOUNG-VIETNAM-06-wftz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/INT-YOUNG-VIETNAM-06-wftz/INT-YOUNG-VIETNAM-06-wftz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/22/multimedia/INT-YOUNG-VIETNAM-06-wftz/INT-YOUNG-VIETNAM-06-wftz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Can MAGA-Style Rallies Work in Britain? Farage Will Find Out.",
+        "abstract": "Nigel Farage, a right-wing populist ally of President Trump, has been touring England ahead of local elections, hoping to convert a polling surge for his party into power.",
+        "url": "https://www.nytimes.com/2025/04/30/world/europe/nigel-farage-rallies-uk-local-elections.html",
+        "uri": "nyt://article/bb5d4e43-d6ee-5b5b-bdfc-249f3e0351e0",
+        "byline": "By Stephen Castle and Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T00:01:08-04:00",
+        "created_date": "2025-04-30T00:01:08-04:00",
+        "published_date": "2025-04-30T00:01:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Deportation",
+            "Great Britain Withdrawal from EU (Brexit)",
+            "Polls and Public Opinion",
+            "Illegal Immigration",
+            "Immigration and Emigration",
+            "Elections"
+        ],
+        "org_facet": [
+            "Reform UK (British Political Party)",
+            "Labour Party (Great Britain)",
+            "Conservative Party (Great Britain)"
+        ],
+        "per_facet": [
+            "Farage, Nigel (1964- )",
+            "Kinnock, Neil",
+            "Bannon, Stephen K"
+        ],
+        "geo_facet": [
+            "Birmingham (England)",
+            "England",
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-uk-reform-rallies-01-cqbz/29int-uk-reform-rallies-01-cqbz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mr. Farage rode onto the stage at the rally on an excavator.",
+                "copyright": "Andrew Testa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-uk-reform-rallies-01-cqbz/29int-uk-reform-rallies-01-cqbz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mr. Farage rode onto the stage at the rally on an excavator.",
+                "copyright": "Andrew Testa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29int-uk-reform-rallies-01-cqbz/29int-uk-reform-rallies-01-cqbz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mr. Farage rode onto the stage at the rally on an excavator.",
+                "copyright": "Andrew Testa for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Families Are Split as Pakistan Deports Thousands of Afghan Refugees",
+        "abstract": "Many undocumented Afghan migrants have Pakistani spouses and have lived in the country for years. Nevertheless, the government says they must leave.",
+        "url": "https://www.nytimes.com/2025/04/30/world/asia/afghan-pakistan-deportations.html",
+        "uri": "nyt://article/03a37c54-bdb2-5854-a5ac-68af670e7b30",
+        "byline": "By Zia ur-Rehman",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T00:01:06-04:00",
+        "created_date": "2025-04-30T00:01:06-04:00",
+        "published_date": "2025-04-30T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Citizenship and Naturalization",
+            "Politics and Government",
+            "International Relations"
+        ],
+        "org_facet": [
+            "Taliban"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Pakistan",
+            "Afghanistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/00int-pakistan-deportations01-photo-qmvz/00int-pakistan-deportations01-photo-qmvz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Boys arrived at a refugee camp in Nangarhar Province in eastern Afghanistan after being expelled from Pakistan this month.",
+                "copyright": "Wakil Kohsar/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/00int-pakistan-deportations01-photo-qmvz/00int-pakistan-deportations01-photo-qmvz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Boys arrived at a refugee camp in Nangarhar Province in eastern Afghanistan after being expelled from Pakistan this month.",
+                "copyright": "Wakil Kohsar/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/25/multimedia/00int-pakistan-deportations01-photo-qmvz/00int-pakistan-deportations01-photo-qmvz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Boys arrived at a refugee camp in Nangarhar Province in eastern Afghanistan after being expelled from Pakistan this month.",
+                "copyright": "Wakil Kohsar/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "A U.S. Businessman Is Sentenced to 5 Years in Prison in China",
+        "abstract": "The charges stemmed from a criminal case more than 20 years ago. In the interim, the businessman, David Lee, had repeatedly visited China without issue.",
+        "url": "https://www.nytimes.com/2025/04/29/world/asia/american-businessman-jailed-china.html",
+        "uri": "nyt://article/57477a87-e8ae-5673-9661-75af057811b0",
+        "byline": "By Vivian Wang",
+        "item_type": "Article",
+        "updated_date": "2025-04-29T23:36:20-04:00",
+        "created_date": "2025-04-29T23:36:20-04:00",
+        "published_date": "2025-04-29T23:36:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "Dui Hua"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Baoding (China)",
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-china-prisoner-bjgw/30int-china-prisoner-bjgw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 427,
+                "width": 640,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "David Lee, an American businessman who was sentenced to five years in prison on charges related to a case that took place nearly 25 years ago.",
+                "copyright": "Louise Lin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-china-prisoner-bjgw/30int-china-prisoner-bjgw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "David Lee, an American businessman who was sentenced to five years in prison on charges related to a case that took place nearly 25 years ago.",
+                "copyright": "Louise Lin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-china-prisoner-bjgw/30int-china-prisoner-bjgw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "David Lee, an American businessman who was sentenced to five years in prison on charges related to a case that took place nearly 25 years ago.",
+                "copyright": "Louise Lin"
+            }
+        ],
+        "short_url": ""
     }
 ]
