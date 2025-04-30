@@ -58417,5 +58417,187 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Wildfires in Israel Force Towns Near Jerusalem to Evacuate",
+        "abstract": "The fires interrupted memorial day ceremonies, and Israel’s top firefighter called the blazes “one of the toughest events” he has faced.",
+        "url": "https://www.nytimes.com/2025/04/30/world/middleeast/israel-wildfires-evacuations-jerusalem.html",
+        "uri": "nyt://article/cc9c8164-6856-593e-a618-accfa0cd7f5f",
+        "byline": "By Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T14:07:11-04:00",
+        "created_date": "2025-04-30T14:07:11-04:00",
+        "published_date": "2025-04-30T14:07:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Wildfires",
+            "Fires and Firefighters",
+            "Evacuations and Evacuees"
+        ],
+        "org_facet": [
+            "Magen David Adom"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "Jerusalem (Israel)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30israel-wildfires-1-qzlt/30israel-wildfires-1-qzlt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A helicopter dropping water to fight a wildfire near Latrun, Israel, on Wednesday.",
+                "copyright": "Oren Ben Hakoon/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30israel-wildfires-1-qzlt/30israel-wildfires-1-qzlt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A helicopter dropping water to fight a wildfire near Latrun, Israel, on Wednesday.",
+                "copyright": "Oren Ben Hakoon/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30israel-wildfires-1-qzlt/30israel-wildfires-1-qzlt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A helicopter dropping water to fight a wildfire near Latrun, Israel, on Wednesday.",
+                "copyright": "Oren Ben Hakoon/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Trump Family Business Signs Middle East Deal Ahead of State Visit",
+        "abstract": "President Trump’s son is in the region this week promoting the Trump Organization’s business interests ahead of his father’s trip next month.",
+        "url": "https://www.nytimes.com/2025/04/30/world/middleeast/trump-family-qatar-dubai.html",
+        "uri": "nyt://article/24903613-8063-5fd3-acef-c2c24659e87e",
+        "byline": "By Vivian Nereim and Eric Lipton",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T14:13:15-04:00",
+        "created_date": "2025-04-30T11:32:47-04:00",
+        "published_date": "2025-04-30T11:32:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Trump Organization"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Middle East",
+            "Qatar",
+            "United Arab Emirates"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-trump-gulf2-gpvq/30int-trump-gulf2-gpvq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People look at a model of the Trump-branded golf course and luxury home project proposed for Qatar.",
+                "copyright": "Bassam Masoud/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-trump-gulf2-gpvq/30int-trump-gulf2-gpvq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People look at a model of the Trump-branded golf course and luxury home project proposed for Qatar.",
+                "copyright": "Bassam Masoud/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-trump-gulf2-gpvq/30int-trump-gulf2-gpvq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People look at a model of the Trump-branded golf course and luxury home project proposed for Qatar.",
+                "copyright": "Bassam Masoud/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Somalia Bars Taiwanese Passport Holders From Entering the Country",
+        "abstract": "The decision comes as Taipei has worked to build its ties with Somaliland, a breakaway territory that declared independence from Somalia decades ago.",
+        "url": "https://www.nytimes.com/2025/04/30/world/africa/taiwan-somalia-passport-ban-china.html",
+        "uri": "nyt://article/1cb0450d-7aaa-5d92-93db-6780dd25fde8",
+        "byline": "By Abdi Latif Dahir",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T14:29:58-04:00",
+        "created_date": "2025-04-30T10:23:34-04:00",
+        "published_date": "2025-04-30T10:23:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Somaliland",
+            "Hargeisa (Somaliland)",
+            "Mogadishu (Somalia)",
+            "Taiwan",
+            "Beijing (China)",
+            "Somalia",
+            "Horn of Africa",
+            "Ethiopia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-somalia-taiwan-01-qclg/30int-somalia-taiwan-01-qclg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Taiwan representative office in Hargeisa, Somaliland. Taiwan opened the mission in 2020 and appointed an ambassador to the enclave, as the two territories sought to deepen ties.",
+                "copyright": "Joao Silva/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-somalia-taiwan-01-qclg/30int-somalia-taiwan-01-qclg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Taiwan representative office in Hargeisa, Somaliland. Taiwan opened the mission in 2020 and appointed an ambassador to the enclave, as the two territories sought to deepen ties.",
+                "copyright": "Joao Silva/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-somalia-taiwan-01-qclg/30int-somalia-taiwan-01-qclg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Taiwan representative office in Hargeisa, Somaliland. Taiwan opened the mission in 2020 and appointed an ambassador to the enclave, as the two territories sought to deepen ties.",
+                "copyright": "Joao Silva/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
