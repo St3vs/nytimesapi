@@ -57907,5 +57907,201 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "5 Takeaways from The Times’s Examination of the Salvadoran Prison Deal",
+        "abstract": "Internal documents and interviews with people familiar with the operation reveal how the White House seized on a wartime law to accelerate immigrant deportations.",
+        "url": "https://www.nytimes.com/2025/04/30/us/politics/trump-el-salvador-prison-deal-takeaways.html",
+        "uri": "nyt://article/6bf716a1-7ffc-5607-8930-b47c8fe2350b",
+        "byline": "By Zolan Kanno-Youngs, Hamed Aleaziz, Devlin Barrett, Jonathan Swan, Maggie Haberman and Annie Correal",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T10:07:17-04:00",
+        "created_date": "2025-04-30T10:07:00-04:00",
+        "published_date": "2025-04-30T10:07:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "Tren de Aragua (Gang)",
+            "Mara Salvatrucha (MS-13)"
+        ],
+        "per_facet": [
+            "Bukele, Nayib",
+            "Trump, Donald J",
+            "Miller, Stephen (1985- )"
+        ],
+        "geo_facet": [
+            "Venezuela",
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30dc-deport-takeaways-topart-qkvl/30dc-deport-takeaways-topart-qkvl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Nayib Bukele, left, and President Trump during a meeting at the Oval Office in April, weeks after 200 Venezuelan migrants were sent from the United States to a prison in El Salvador. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30dc-deport-takeaways-topart-qkvl/30dc-deport-takeaways-topart-qkvl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Nayib Bukele, left, and President Trump during a meeting at the Oval Office in April, weeks after 200 Venezuelan migrants were sent from the United States to a prison in El Salvador. ",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30dc-deport-takeaways-topart-qkvl/30dc-deport-takeaways-topart-qkvl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Nayib Bukele, left, and President Trump during a meeting at the Oval Office in April, weeks after 200 Venezuelan migrants were sent from the United States to a prison in El Salvador. ",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Behind Trump’s Deal to Deport Venezuelans to El Salvador’s Most Feared Prison",
+        "abstract": "New details deepen questions about the deportations, showing that El Salvador’s president pressed for assurances that the migrants were really members of the Tren de Aragua gang.",
+        "url": "https://www.nytimes.com/2025/04/30/us/politics/trump-deportations-venezuela-el-salvador.html",
+        "uri": "nyt://article/2f9c9b28-c3bb-5038-8d7c-ce903b4595cb",
+        "byline": "By Zolan Kanno-Youngs, Hamed Aleaziz, Alan Feuer, Devlin Barrett, Julie Turkewitz, Jonathan Swan, Maggie Haberman and Annie Correal",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T10:02:47-04:00",
+        "created_date": "2025-04-30T10:02:47-04:00",
+        "published_date": "2025-04-30T10:02:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Presidential Power (US)",
+            "Illegal Immigration",
+            "Gangs",
+            "Immigration Detention"
+        ],
+        "org_facet": [
+            "American Civil Liberties Union",
+            "Homeland Security Department",
+            "Immigration and Customs Enforcement (US)",
+            "Mara Salvatrucha (MS-13)",
+            "Tren de Aragua (Gang)"
+        ],
+        "per_facet": [
+            "Abrego Garcia, Kilmar Armando",
+            "Boasberg, James E",
+            "Bukele, Nayib",
+            "Miller, Stephen (1985- )",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/us/politics/30dc-deportation-reconstruct-promo/30dc-deportation-reconstruct-promo-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/us/politics/30dc-deportation-reconstruct-promo/30dc-deportation-reconstruct-promo-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/us/politics/30dc-deportation-reconstruct-promo/30dc-deportation-reconstruct-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Spain and Portugal Look for Cause of Widespread Blackout",
+        "abstract": "The countries’ top officials were trying to determine the cause of an outage that left tens of millions of people across the Iberian Peninsula without power.",
+        "url": "https://www.nytimes.com/2025/04/30/world/europe/power-outage-spain-portugal-cause.html",
+        "uri": "nyt://article/64d3c103-07e7-5704-ad16-9e2433deeaee",
+        "byline": "By José Bautista, Jenny Gross and John Yoon",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T09:57:15-04:00",
+        "created_date": "2025-04-30T04:40:20-04:00",
+        "published_date": "2025-04-30T04:40:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Power Failures and Blackouts",
+            "Electric Light and Power"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Sanchez Perez-Castejon, Pedro (1972- )"
+        ],
+        "geo_facet": [
+            "Spain",
+            "Portugal"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30xp-spain-vlpz/30xp-spain-vlpz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People sitting in the dark during a nationwide power outage in Madrid on Monday.",
+                "copyright": "Susana Vera/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30xp-spain-vlpz/30xp-spain-vlpz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People sitting in the dark during a nationwide power outage in Madrid on Monday.",
+                "copyright": "Susana Vera/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30xp-spain-vlpz/30xp-spain-vlpz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People sitting in the dark during a nationwide power outage in Madrid on Monday.",
+                "copyright": "Susana Vera/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
