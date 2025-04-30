@@ -57663,5 +57663,125 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Ho Chi Minh City Celebrates the Fall of Saigon",
+        "abstract": "Surging Vietnamese nationalism appeared on the streets, as thousands gathered to commemorate the 50th anniversary of the end of the war.",
+        "url": "https://www.nytimes.com/2025/04/30/world/asia/saigon-parade-vietnam-war.html",
+        "uri": "nyt://article/016b0ab7-8e6d-5ddd-b4dd-089f6a2c7f10",
+        "byline": "By Damien Cave",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T06:41:33-04:00",
+        "created_date": "2025-04-30T06:41:33-04:00",
+        "published_date": "2025-04-30T06:41:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Parades",
+            "Politics and Government",
+            "Youth",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Ho Chi Minh City (Vietnam)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30vietnam-parade-01-jhlk/30vietnam-parade-01-jhlk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "To Lam, the top leader of the Communist Party of Vietnam, acknowledged a need for greater reconciliation between North and South but also spoke about “respecting differences.”",
+                "copyright": "Linh Pham for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30vietnam-parade-01-jhlk/30vietnam-parade-01-jhlk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "To Lam, the top leader of the Communist Party of Vietnam, acknowledged a need for greater reconciliation between North and South but also spoke about “respecting differences.”",
+                "copyright": "Linh Pham for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30vietnam-parade-01-jhlk/30vietnam-parade-01-jhlk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "To Lam, the top leader of the Communist Party of Vietnam, acknowledged a need for greater reconciliation between North and South but also spoke about “respecting differences.”",
+                "copyright": "Linh Pham for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Spain Looks for Answers on What Caused Widespread Blackout",
+        "abstract": "The country’s top officials were trying to determine the cause of an outage that left tens of millions of people across the Iberian Peninsula without power.",
+        "url": "https://www.nytimes.com/2025/04/30/world/europe/power-outage-spain-portugal-cause.html",
+        "uri": "nyt://article/64d3c103-07e7-5704-ad16-9e2433deeaee",
+        "byline": "By José Bautista, John Yoon and Jenny Gross",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T06:54:43-04:00",
+        "created_date": "2025-04-30T04:40:20-04:00",
+        "published_date": "2025-04-30T04:40:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Power Failures and Blackouts",
+            "Electric Light and Power"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Sanchez Perez-Castejon, Pedro (1972- )"
+        ],
+        "geo_facet": [
+            "Spain",
+            "Portugal"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30xp-spain-vlpz/30xp-spain-vlpz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People sitting in the dark during a nationwide power outage in Madrid on Monday.",
+                "copyright": "Susana Vera/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30xp-spain-vlpz/30xp-spain-vlpz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People sitting in the dark during a nationwide power outage in Madrid on Monday.",
+                "copyright": "Susana Vera/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30xp-spain-vlpz/30xp-spain-vlpz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People sitting in the dark during a nationwide power outage in Madrid on Monday.",
+                "copyright": "Susana Vera/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
