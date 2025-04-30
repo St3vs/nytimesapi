@@ -58354,5 +58354,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Man Who Tried to Enter Israeli Embassy in London Charged With Terror Offense",
+        "abstract": "A man was arrested after trying to enter the grounds of the embassy on Monday with two knives, the police said. Nobody was harmed in the incident.",
+        "url": "https://www.nytimes.com/2025/04/30/world/europe/israel-embassy-london.html",
+        "uri": "nyt://article/d1f32af2-ff8a-5662-891d-f3a0ab440bab",
+        "byline": "By Lizzie Dearden",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T13:05:18-04:00",
+        "created_date": "2025-04-30T08:18:02-04:00",
+        "published_date": "2025-04-30T08:18:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "Trespassing",
+            "Security and Warning Systems"
+        ],
+        "org_facet": [
+            "Scotland Yard (Metropolitan Police Service)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "Great Britain",
+            "England",
+            "London (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-uk-israel-embassy-qfkt/30int-uk-israel-embassy-qfkt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1369,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The street leading to the Israeli Embassy in London in 2023.",
+                "copyright": "Henry Nicholls/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-uk-israel-embassy-qfkt/30int-uk-israel-embassy-qfkt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The street leading to the Israeli Embassy in London in 2023.",
+                "copyright": "Henry Nicholls/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-uk-israel-embassy-qfkt/30int-uk-israel-embassy-qfkt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The street leading to the Israeli Embassy in London in 2023.",
+                "copyright": "Henry Nicholls/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
