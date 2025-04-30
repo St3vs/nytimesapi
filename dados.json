@@ -58960,5 +58960,127 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Strikes in Syria, Intervening in Sectarian Violence",
+        "abstract": "Israel launched airstrikes on Syria amid a spreading wave of sectarian violence in areas dominated by the Druse minority. Dozens of people have been killed in two days of clashes.",
+        "url": "https://www.nytimes.com/2025/04/30/world/middleeast/syria-sectarian-fighting-druse.html",
+        "uri": "nyt://article/201a64a7-ed24-53c2-82a8-82d468a55bc7",
+        "byline": "By Euan Ward, Aaron Boxerman, Hwaida Saad and Vivian Yee",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T17:16:08-04:00",
+        "created_date": "2025-04-30T07:31:47-04:00",
+        "published_date": "2025-04-30T07:31:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Druse (Sect)",
+            "Demonstrations, Protests and Riots",
+            "Religion-State Relations",
+            "Muslims and Islam"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Assad, Bashar al-"
+        ],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-syria-fighting-mpfl/30int-syria-fighting-mpfl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1537,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A funeral for members of a Druse militia who were killed fighting in Jaramana, a city on the outskirts of Damascus, on Wednesday.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-syria-fighting-mpfl/30int-syria-fighting-mpfl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A funeral for members of a Druse militia who were killed fighting in Jaramana, a city on the outskirts of Damascus, on Wednesday.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-syria-fighting-mpfl/30int-syria-fighting-mpfl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A funeral for members of a Druse militia who were killed fighting in Jaramana, a city on the outskirts of Damascus, on Wednesday.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Man Accused of Hacking Climate Groups Can Be Sent to U.S., Judge Says",
+        "abstract": "A London court approved the extradition of Amit Forlit, who ran companies that allegedly stole information on behalf of a lobbying firm hired by Exxon.",
+        "url": "https://www.nytimes.com/2025/04/30/climate/hacking-for-hire-exxon-forlit-extradition.html",
+        "uri": "nyt://article/a14679c4-1ba0-5dc7-ac24-0d1733ec0a0a",
+        "byline": "By Karen Zraick",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T17:32:08-04:00",
+        "created_date": "2025-04-30T17:32:08-04:00",
+        "published_date": "2025-04-30T17:32:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Extradition",
+            "Oil (Petroleum) and Gasoline"
+        ],
+        "org_facet": [
+            "Exxon Mobil Corp"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "London (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/science/30cli-hacking/30cli-hacking-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An ExxonMobil facility in Louisiana. A lobbying firm that worked for the oil company is accused of hiring hackers to target environmentalists.",
+                "copyright": "Kathleen Flynn/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/science/30cli-hacking/30cli-hacking-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An ExxonMobil facility in Louisiana. A lobbying firm that worked for the oil company is accused of hiring hackers to target environmentalists.",
+                "copyright": "Kathleen Flynn/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/science/30cli-hacking/30cli-hacking-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An ExxonMobil facility in Louisiana. A lobbying firm that worked for the oil company is accused of hiring hackers to target environmentalists.",
+                "copyright": "Kathleen Flynn/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
