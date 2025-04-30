@@ -58599,5 +58599,126 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "New Mideast Project Is Latest Trump Company Deal Tied to a Foreign Government",
+        "abstract": "The Trump Organization agreed to partner on a real estate project in Qatar in the latest of a series of projects tied to foreign governments.",
+        "url": "https://www.nytimes.com/2025/04/30/world/middleeast/trump-family-qatar-dubai.html",
+        "uri": "nyt://article/24903613-8063-5fd3-acef-c2c24659e87e",
+        "byline": "By Vivian Nereim and Eric Lipton",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T15:10:34-04:00",
+        "created_date": "2025-04-30T11:32:47-04:00",
+        "published_date": "2025-04-30T11:32:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Trump Organization"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Middle East",
+            "Qatar",
+            "United Arab Emirates"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-trump-gulf2-gpvq/30int-trump-gulf2-gpvq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People look at a model of the Trump-branded golf course and luxury home project proposed for Qatar.",
+                "copyright": "Bassam Masoud/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-trump-gulf2-gpvq/30int-trump-gulf2-gpvq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People look at a model of the Trump-branded golf course and luxury home project proposed for Qatar.",
+                "copyright": "Bassam Masoud/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-trump-gulf2-gpvq/30int-trump-gulf2-gpvq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People look at a model of the Trump-branded golf course and luxury home project proposed for Qatar.",
+                "copyright": "Bassam Masoud/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "King Charles Issues Message of Support to Fellow Cancer Patients",
+        "abstract": "The British monarch said the “frightening” experience of cancer could also illuminate the “best of humanity” as he thanked medical workers and charities.",
+        "url": "https://www.nytimes.com/2025/04/30/world/europe/king-charles-cancer-uk.html",
+        "uri": "nyt://article/19cfed64-a519-514c-82a4-a1efa6cda730",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T14:57:31-04:00",
+        "created_date": "2025-04-30T14:57:31-04:00",
+        "published_date": "2025-04-30T14:57:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Royal Families",
+            "Cancer"
+        ],
+        "org_facet": [
+            "Buckingham Palace"
+        ],
+        "per_facet": [
+            "Charles III, King of the United Kingdom",
+            "Camilla, Queen Consort of the United Kingdom",
+            "William, Prince of Wales"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30uk-charles-new-lfqt/30uk-charles-new-lfqt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "King Charles III with guests during a reception to celebrate the charitable work being undertaken by local and national cancer charities and support organizations, at Buckingham Palace on Wednesday.",
+                "copyright": "Pool photo by Yui Mok"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30uk-charles-new-lfqt/30uk-charles-new-lfqt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "King Charles III with guests during a reception to celebrate the charitable work being undertaken by local and national cancer charities and support organizations, at Buckingham Palace on Wednesday.",
+                "copyright": "Pool photo by Yui Mok"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30uk-charles-new-lfqt/30uk-charles-new-lfqt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "King Charles III with guests during a reception to celebrate the charitable work being undertaken by local and national cancer charities and support organizations, at Buckingham Palace on Wednesday.",
+                "copyright": "Pool photo by Yui Mok"
+            }
+        ],
+        "short_url": ""
     }
 ]
