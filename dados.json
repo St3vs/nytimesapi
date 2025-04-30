@@ -57534,5 +57534,134 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "South Korea to Use Drones to Deter Birds After Deadly Air Crash",
+        "abstract": "The government announced a raft of aviation safety measures after a Jeju Air crash late last year that killed 179 people, including upgrading airport infrastructure.",
+        "url": "https://www.nytimes.com/2025/04/30/world/asia/south-korea-jeju-air-birds.html",
+        "uri": "nyt://article/f58f69ea-ed9c-5023-88ad-003de4fe0b17",
+        "byline": "By Jin Yu Young",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T05:51:40-04:00",
+        "created_date": "2025-04-30T05:46:43-04:00",
+        "published_date": "2025-04-30T05:46:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Jeju Air Flight 2216",
+            "Airports",
+            "Drones (Pilotless Planes)",
+            "Aviation Accidents, Safety and Disasters",
+            "Birds",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Jeju Air Co Ltd",
+            "Muan International Airport"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Muan (South Korea)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-skorea-birds-ftbp/30int-skorea-birds-ftbp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Muan International Airport, where Jeju Air Flight 2216 crashed in December, is situated close to wetlands that are a habitat for many birds.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-skorea-birds-ftbp/30int-skorea-birds-ftbp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Muan International Airport, where Jeju Air Flight 2216 crashed in December, is situated close to wetlands that are a habitat for many birds.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-skorea-birds-ftbp/30int-skorea-birds-ftbp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Muan International Airport, where Jeju Air Flight 2216 crashed in December, is situated close to wetlands that are a habitat for many birds.",
+                "copyright": "Chang W. Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Britain Joins U.S. in Strike Against Houthis in Yemen",
+        "abstract": "There was no immediate comment from the American military about the joint operation, the first since President Trump took office.",
+        "url": "https://www.nytimes.com/2025/04/30/world/middleeast/uk-us-yemen-houthis-strikes.html",
+        "uri": "nyt://article/fd50d547-8c1d-5eca-9a37-6e78709a8717",
+        "byline": "By Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T05:54:00-04:00",
+        "created_date": "2025-04-30T05:29:34-04:00",
+        "published_date": "2025-04-30T05:29:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Strikes",
+            "Military Aircraft",
+            "Iran-Israel Proxy Conflict",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "Houthis"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Great Britain",
+            "Iran",
+            "Yemen",
+            "Red Sea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-uk-yemen-jvkc/30int-uk-yemen-jvkc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A building in northern Yemen that was hit in a previous strike. In March, President Trump ordered an intensified campaign — known as “Operation Rough Rider” — against Houthi targets in the country.",
+                "copyright": "Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-uk-yemen-jvkc/30int-uk-yemen-jvkc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A building in northern Yemen that was hit in a previous strike. In March, President Trump ordered an intensified campaign — known as “Operation Rough Rider” — against Houthi targets in the country.",
+                "copyright": "Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-uk-yemen-jvkc/30int-uk-yemen-jvkc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A building in northern Yemen that was hit in a previous strike. In March, President Trump ordered an intensified campaign — known as “Operation Rough Rider” — against Houthi targets in the country.",
+                "copyright": "Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
