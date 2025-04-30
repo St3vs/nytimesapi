@@ -58781,5 +58781,184 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "",
+        "title": "Julia Parsons, U.S. Navy Code Breaker During World War II, Dies at 104",
+        "abstract": "Soon after her officer training in Washington, she was recruited to a classified code-breaking team. She kept her work secret for decades, even from her family.",
+        "url": "https://www.nytimes.com/2025/04/30/world/julia-parsons-dead.html",
+        "uri": "nyt://article/01a79d7a-7d58-5bf4-aff3-a14b61821026",
+        "byline": "By Michael S. Rosenwald",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T17:01:00-04:00",
+        "created_date": "2025-04-30T17:01:00-04:00",
+        "published_date": "2025-04-30T17:01:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Defense and Military Forces",
+            "Deaths (Obituaries)",
+            "World War II (1939-45)",
+            "Cryptography, Codes and Ciphers",
+            "Defense and Military Forces",
+            "Submarines and Submersibles"
+        ],
+        "org_facet": [
+            "United States Navy"
+        ],
+        "per_facet": [
+            "Julia Parsons"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29Parsons--01-zwpk/29Parsons--01-zwpk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1421,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Julia Parsons, then Julia Potter, around 1942. Her code-breaking work helped Allied forces to evade, attack and sink German submarines.",
+                "copyright": "via The World War II Foundation"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29Parsons--01-zwpk/29Parsons--01-zwpk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Julia Parsons, then Julia Potter, around 1942. Her code-breaking work helped Allied forces to evade, attack and sink German submarines.",
+                "copyright": "via The World War II Foundation"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/29Parsons--01-zwpk/29Parsons--01-zwpk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Julia Parsons, then Julia Potter, around 1942. Her code-breaking work helped Allied forces to evade, attack and sink German submarines.",
+                "copyright": "via The World War II Foundation"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Thursday Briefing: Anger Is Building in India",
+        "abstract": "Plus, books that whisk you away.",
+        "url": "https://www.nytimes.com/2025/04/30/briefing/india-pakistan-trump-gulf-projects-syria-israel.html",
+        "uri": "nyt://article/d82fb928-62f9-5c20-b359-00f3848dbe47",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T17:00:22-04:00",
+        "created_date": "2025-04-30T17:00:22-04:00",
+        "published_date": "2025-04-30T17:00:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/01ambriefing-asia-india/01ambriefing-asia-india-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The government in Gujarat razed about 2,000 huts in a settlement that it said was occupied illegally by Bangladeshis. ",
+                "copyright": "Sam Panthaky/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/01ambriefing-asia-india/01ambriefing-asia-india-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The government in Gujarat razed about 2,000 huts in a settlement that it said was occupied illegally by Bangladeshis. ",
+                "copyright": "Sam Panthaky/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/01ambriefing-asia-india/01ambriefing-asia-india-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The government in Gujarat razed about 2,000 huts in a settlement that it said was occupied illegally by Bangladeshis. ",
+                "copyright": "Sam Panthaky/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A.I. Can Trick You, Warns Book That Hid A.I.’s Help Writing It",
+        "abstract": "People were deceived. Accusations of dishonesty and even illegality flew. But the man behind the book defends it, calling it not a prank but a “philosophical experiment.”",
+        "url": "https://www.nytimes.com/2025/04/30/world/europe/hypnocracy-ai-philosopher-book.html",
+        "uri": "nyt://article/8cfee75a-3bfe-52c9-8701-d53e84186db3",
+        "byline": "By Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T16:29:42-04:00",
+        "created_date": "2025-04-30T16:29:42-04:00",
+        "published_date": "2025-04-30T16:29:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Artificial Intelligence",
+            "Book Trade and Publishing",
+            "Hoaxes and Pranks"
+        ],
+        "org_facet": [
+            "El Pais",
+            "L'Espresso",
+            "Le Figaro (Newspaper)"
+        ],
+        "per_facet": [
+            "Andrea Colamedici"
+        ],
+        "geo_facet": [
+            "Italy"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30ai-philosopher-1-qmtj/30ai-philosopher-1-qmtj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1200,
+                "width": 800,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The cover of the book, with its authorship attributed to an invented philosopher. ",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30ai-philosopher-1-qmtj/30ai-philosopher-1-qmtj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The cover of the book, with its authorship attributed to an invented philosopher. ",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30ai-philosopher-1-qmtj/30ai-philosopher-1-qmtj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The cover of the book, with its authorship attributed to an invented philosopher. ",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
