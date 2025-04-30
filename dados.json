@@ -58720,5 +58720,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Teenager Is Arrested on Suspicion of Murder After 3 Are Shot in Sweden",
+        "abstract": "The motive was unclear but the police said they were investigating if the shooting had been gang-related.",
+        "url": "https://www.nytimes.com/2025/04/30/world/europe/sweden-shooting-teenager-arrested.html",
+        "uri": "nyt://article/e5d89ee7-12b2-5033-9a55-e13f7e15bb9f",
+        "byline": "By Eve Sampson and Christina Anderson",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T15:56:43-04:00",
+        "created_date": "2025-04-30T15:56:43-04:00",
+        "published_date": "2025-04-30T15:56:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Murders, Attempted Murders and Homicides",
+            "Firearms",
+            "Gangs",
+            "Crime and Criminals",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Uppsala (Sweden)",
+            "Sweden"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30sweden-shooting-1-jbth/30sweden-shooting-1-jbth-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police officers on Wednesday near the site of a deadly shooting the day before in Uppsala, Sweden.",
+                "copyright": "Fredrik Sandberg/TT News Agency, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30sweden-shooting-1-jbth/30sweden-shooting-1-jbth-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police officers on Wednesday near the site of a deadly shooting the day before in Uppsala, Sweden.",
+                "copyright": "Fredrik Sandberg/TT News Agency, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30sweden-shooting-1-jbth/30sweden-shooting-1-jbth-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police officers on Wednesday near the site of a deadly shooting the day before in Uppsala, Sweden.",
+                "copyright": "Fredrik Sandberg/TT News Agency, via Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
