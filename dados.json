@@ -59598,5 +59598,141 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "100 Days of Solitude: Trump and the Retreat of America",
+        "abstract": "President Trump’s approach to foreign policy in his second term has been transactional, unpredictable and exploitative. Allies and enemies alike are beginning to adapt.",
+        "url": "https://www.nytimes.com/2025/05/01/world/europe/100-days-of-solitude-trump-and-the-retreat-of-america.html",
+        "uri": "nyt://article/62ede9ea-be93-536f-8389-b77e3ebb0be8",
+        "byline": "By Mark Landler and Andrew E. Kramer",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T05:02:04-04:00",
+        "created_date": "2025-05-01T05:02:04-04:00",
+        "published_date": "2025-05-01T05:02:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "International Relations",
+            "International Trade and World Market",
+            "Presidential Election of 2024"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Abdullah II, King of Jordan",
+            "Bannon, Stephen K",
+            "Trump, Donald J",
+            "Turnbull, Malcolm (1954- )",
+            "Vance, J D"
+        ],
+        "geo_facet": [
+            "Australia",
+            "Europe",
+            "United States",
+            "Ukraine",
+            "South Korea",
+            "Munich (Germany)",
+            "China",
+            "Far East, South and Southeast Asia and Pacific Areas",
+            "Germany",
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-trump-world-01-lfkb/01int-trump-world-01-lfkb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-trump-world-01-lfkb/01int-trump-world-01-lfkb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-trump-world-01-lfkb/01int-trump-world-01-lfkb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Lost in the ‘Death Realm’ of El Salvador’s Prisons",
+        "abstract": "President Trump’s decision to send migrants to a Salvadoran prison has set off a national debate in the U.S. In El Salvador, the phenomenon of men disappearing into prisons is all too familiar.",
+        "url": "https://www.nytimes.com/2025/05/01/world/americas/elsalvador-prisons-disappearances.html",
+        "uri": "nyt://article/4a509504-8108-5566-9901-61849da936c5",
+        "byline": "By Annie Correal and Daniele Volpe",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T05:01:28-04:00",
+        "created_date": "2025-05-01T05:01:28-04:00",
+        "published_date": "2025-05-01T05:01:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Prisons and Prisoners",
+            "Deportation",
+            "Human Rights and Human Rights Violations",
+            "Torture"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Bukele, Nayib",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-elsalvador-prison-promo/01int-elsalvador-prison-gjlf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mr. Vega and his wife, Marta González, with photographs of their sons.",
+                "copyright": "Daniele Volpe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-elsalvador-prison-promo/01int-elsalvador-prison-gjlf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mr. Vega and his wife, Marta González, with photographs of their sons.",
+                "copyright": "Daniele Volpe for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-elsalvador-prison-promo/01int-elsalvador-prison-gjlf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Mr. Vega and his wife, Marta González, with photographs of their sons.",
+                "copyright": "Daniele Volpe for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
