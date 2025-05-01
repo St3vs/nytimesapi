@@ -59994,5 +59994,263 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Fatal Storm Rips Through Oklahoma and Texas, Flooding Roads",
+        "abstract": "At least two people were reported to have died as heavy rains soaked the region. More thunderstorms were expected on Thursday.",
+        "url": "https://www.nytimes.com/2025/05/01/us/oklahoma-texas-storm.html",
+        "uri": "nyt://article/e1c40c07-23bd-5b7c-bb3c-c45128307e4c",
+        "byline": "By Claire Moses and Nazaneen Ghaffar",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T08:08:41-04:00",
+        "created_date": "2025-05-01T08:08:41-04:00",
+        "published_date": "2025-05-01T08:08:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Floods",
+            "Weather",
+            "Deaths (Fatalities)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Arkansas",
+            "Oklahoma",
+            "Louisiana",
+            "Texas"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01xp-storm-tlzq/01xp-storm-tlzq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Heavy rain fell on Dallas on Wednesday, and there were more storms in the forecast. ",
+                "copyright": "Elías Valverde II/The Dallas Morning News, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01xp-storm-tlzq/01xp-storm-tlzq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Heavy rain fell on Dallas on Wednesday, and there were more storms in the forecast. ",
+                "copyright": "Elías Valverde II/The Dallas Morning News, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01xp-storm-tlzq/01xp-storm-tlzq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Heavy rain fell on Dallas on Wednesday, and there were more storms in the forecast. ",
+                "copyright": "Elías Valverde II/The Dallas Morning News, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Scrambles to Extinguish Wildfires Near Jerusalem for 2nd Day",
+        "abstract": "Authorities reopened the main highway between Tel Aviv and Jerusalem after gaining partial control of the blaze, but warned that a change in the wind could fan the flames.",
+        "url": "https://www.nytimes.com/2025/05/01/world/middleeast/israel-wildfires-jerusalem.html",
+        "uri": "nyt://article/f547fd67-314a-54b1-9d62-006a523ad359",
+        "byline": "By Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T07:45:43-04:00",
+        "created_date": "2025-05-01T07:45:43-04:00",
+        "published_date": "2025-05-01T07:45:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Wildfires",
+            "Fires and Firefighters",
+            "Evacuations and Evacuees"
+        ],
+        "org_facet": [
+            "Palestinian Authority"
+        ],
+        "per_facet": [
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Israel",
+            "West Bank"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/1int-israel-fires-kwjl/1int-israel-fires-kwjl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dropping water to extinguish a wildfire in Latrun, central Israel, on Thursday.",
+                "copyright": "Ronen Zvulun/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/1int-israel-fires-kwjl/1int-israel-fires-kwjl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dropping water to extinguish a wildfire in Latrun, central Israel, on Thursday.",
+                "copyright": "Ronen Zvulun/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/1int-israel-fires-kwjl/1int-israel-fires-kwjl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dropping water to extinguish a wildfire in Latrun, central Israel, on Thursday.",
+                "copyright": "Ronen Zvulun/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "North Korea and Russia Cement Ties With First Road Bridge",
+        "abstract": "The two countries have vowed to expand bilateral relations after North Korea sent troops and weapons in support of Russia’s war against Ukraine.",
+        "url": "https://www.nytimes.com/2025/05/01/world/asia/north-korea-russia-bridge.html",
+        "uri": "nyt://article/9b019ad0-814a-501d-92e5-c28ae6657ce6",
+        "byline": "By Choe Sang-Hun",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T07:31:44-04:00",
+        "created_date": "2025-05-01T07:31:44-04:00",
+        "published_date": "2025-05-01T07:31:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Politics and Government",
+            "Russian Invasion of Ukraine (2022)",
+            "Bridges and Tunnels",
+            "Roads and Traffic",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kim Jong-un",
+            "Putin, Vladimir V",
+            "Mishustin, Mikhail V"
+        ],
+        "geo_facet": [
+            "North Korea",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-nkorea-russia-gjpv/01int-nkorea-russia-gjpv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by North Korean state media on Wednesday showed officials at a groundbreaking ceremony for a bridge spanning the Tumen River and linking North Korea to Russia.",
+                "copyright": "KCNA, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-nkorea-russia-gjpv/01int-nkorea-russia-gjpv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by North Korean state media on Wednesday showed officials at a groundbreaking ceremony for a bridge spanning the Tumen River and linking North Korea to Russia.",
+                "copyright": "KCNA, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-nkorea-russia-gjpv/01int-nkorea-russia-gjpv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by North Korean state media on Wednesday showed officials at a groundbreaking ceremony for a bridge spanning the Tumen River and linking North Korea to Russia.",
+                "copyright": "KCNA, via Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "With Minerals Deal, Trump Ties Himself to Future of Ukraine",
+        "abstract": "The text of the agreement, made public by Ukraine’s government, made no mention of the security guarantees that Kyiv had long sought.",
+        "url": "https://www.nytimes.com/2025/05/01/world/europe/ukraine-trump-minerals-deal.html",
+        "uri": "nyt://article/8cafa7cd-8567-5756-8d35-54cd6482eeaa",
+        "byline": "By Kim Barker",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T07:30:47-04:00",
+        "created_date": "2025-05-01T07:22:36-04:00",
+        "published_date": "2025-05-01T07:22:36-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [
+            "European Union"
+        ],
+        "per_facet": [
+            "Bessent, Scott",
+            "Biden, Joseph R Jr",
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Kyiv (Ukraine)",
+            "Moscow (Russia)",
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-ukraine-minerals-01-tqbh/01int-ukraine-minerals-01-tqbh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An excavator operating in an open-pit titanium mine in the Zhytomyr region, Ukraine in February.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-ukraine-minerals-01-tqbh/01int-ukraine-minerals-01-tqbh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An excavator operating in an open-pit titanium mine in the Zhytomyr region, Ukraine in February.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-ukraine-minerals-01-tqbh/01int-ukraine-minerals-01-tqbh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An excavator operating in an open-pit titanium mine in the Zhytomyr region, Ukraine in February.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
