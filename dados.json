@@ -60252,5 +60252,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trans Women Barred From Competing in Women’s Soccer in England",
+        "abstract": "The Football Association, the national governing body, said it had changed its policy as a result of a ruling last month by the British Supreme Court.",
+        "url": "https://www.nytimes.com/2025/05/01/world/europe/trans-women-soccer-england-ban.html",
+        "uri": "nyt://article/1644daae-c5db-51f6-b985-7d1e4e311c01",
+        "byline": "By Lizzie Dearden",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T08:52:03-04:00",
+        "created_date": "2025-05-01T08:36:34-04:00",
+        "published_date": "2025-05-01T08:36:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Soccer",
+            "Transgender",
+            "Football",
+            "Women and Girls"
+        ],
+        "org_facet": [
+            "English Football Assn",
+            "Supreme Court of the United Kingdom"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "England",
+            "Great Britain",
+            "Scotland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-uk-soccer-zqmb/01int-uk-soccer-zqmb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Women’s Super League match between Arsenal and Leicester City in London last month.",
+                "copyright": "Peter Cziborra/Action Images, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-uk-soccer-zqmb/01int-uk-soccer-zqmb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Women’s Super League match between Arsenal and Leicester City in London last month.",
+                "copyright": "Peter Cziborra/Action Images, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-uk-soccer-zqmb/01int-uk-soccer-zqmb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Women’s Super League match between Arsenal and Leicester City in London last month.",
+                "copyright": "Peter Cziborra/Action Images, via Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
