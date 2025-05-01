@@ -59150,5 +59150,73 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "U.S. Signs Deal With Ukraine on Access to Minerals",
+        "abstract": "The agreement is intended to give the U.S. access to proceeds from Ukraine’s reserves of minerals and to help fund the rebuilding of Ukraine when the fighting stops.",
+        "url": "https://www.nytimes.com/2025/04/30/world/europe/ukraine-minerals-deal-trump.html",
+        "uri": "nyt://article/1d6d4124-bcb2-598d-9450-ae1016908131",
+        "byline": "By Alan Rappeport, Michael Crowley, Andrew E. Kramer and Kim Barker",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T20:51:19-04:00",
+        "created_date": "2025-04-30T18:23:55-04:00",
+        "published_date": "2025-04-30T18:23:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Aid",
+            "Russian Invasion of Ukraine (2022)",
+            "Mines and Mining",
+            "Natural Gas",
+            "International Relations",
+            "Conflict Minerals and Resources"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Vance, J D",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/05/multimedia/00ukraine-minerals-HFO-cgqw/00ukraine-minerals-HFO-cgqw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A uranium mine in Neopalymivka, Ukraine.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/05/multimedia/00ukraine-minerals-HFO-cgqw/00ukraine-minerals-HFO-cgqw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A uranium mine in Neopalymivka, Ukraine.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/05/multimedia/00ukraine-minerals-HFO-cgqw/00ukraine-minerals-HFO-cgqw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A uranium mine in Neopalymivka, Ukraine.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
