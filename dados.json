@@ -60507,5 +60507,196 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "What to Know About Syria’s Minorities and Sectarian Violence",
+        "abstract": "The new government has pledged to unify Syria after overthrowing the Assad dictatorship. One of its biggest challenges is persistent sectarian violence.",
+        "url": "https://www.nytimes.com/2025/05/01/world/middleeast/syria-druse-alawites-kurds.html",
+        "uri": "nyt://article/1629760d-5c76-538a-9266-37fda62facb1",
+        "byline": "By Christina Goldbaum, Ben Hubbard, Raja Abdulrahim and Hwaida Saad",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T15:23:55-04:00",
+        "created_date": "2025-05-01T15:18:17-04:00",
+        "published_date": "2025-05-01T15:18:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Alawite Muslims",
+            "Druse (Sect)",
+            "Kurds",
+            "Politics and Government",
+            "Minorities",
+            "Defense and Military Forces",
+            "International Relations",
+            "Civilian Casualties",
+            "Sunni Muslims"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Assad, Bashar al-"
+        ],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01syria-sects-1-mkgp/01syria-sects-1-mkgp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1463,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A funeral procession of killed Druse fighters after attacks by extremists on neighborhoods around the capital, Damascus, that are home to many Druse.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01syria-sects-1-mkgp/01syria-sects-1-mkgp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A funeral procession of killed Druse fighters after attacks by extremists on neighborhoods around the capital, Damascus, that are home to many Druse.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01syria-sects-1-mkgp/01syria-sects-1-mkgp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A funeral procession of killed Druse fighters after attacks by extremists on neighborhoods around the capital, Damascus, that are home to many Druse.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Lawmaker in Kenya Is Gunned Down by Motorcycle-Riding Assailant",
+        "abstract": "An opposition politician was killed in the heart of Nairobi on Wednesday, according to the police.",
+        "url": "https://www.nytimes.com/2025/05/01/world/africa/kenya-killing-charles-were.html",
+        "uri": "nyt://article/04c24f32-ba6e-5258-b4e8-00bd30e1bb2a",
+        "byline": "By Eve Sampson",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T15:43:21-04:00",
+        "created_date": "2025-05-01T15:29:51-04:00",
+        "published_date": "2025-05-01T15:29:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Murders, Attempted Murders and Homicides",
+            "Politics and Government",
+            "Legislatures and Parliaments"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Charles Were",
+            "Ruto, William",
+            "Odinga, Raila"
+        ],
+        "geo_facet": [
+            "Nairobi (Kenya)",
+            "Kenya"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01kenya-1-tlzq/01kenya-1-tlzq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police officers and hospital staff carrying a coffin with the body of the lawmaker Charles Were at Nairobi Hospital on Wednesday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01kenya-1-tlzq/01kenya-1-tlzq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police officers and hospital staff carrying a coffin with the body of the lawmaker Charles Were at Nairobi Hospital on Wednesday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01kenya-1-tlzq/01kenya-1-tlzq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police officers and hospital staff carrying a coffin with the body of the lawmaker Charles Were at Nairobi Hospital on Wednesday.",
+                "copyright": "Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Death Toll From a Wave of Sectarian Violence in Syria Passes 100",
+        "abstract": "The casualties from clashes this week rose sharply as the tensions moved closer to a major southern region controlled by the country’s Druse minority.",
+        "url": "https://www.nytimes.com/2025/05/01/world/middleeast/syria-sectarian-violence-100-killed.html",
+        "uri": "nyt://article/167a0cef-0636-5be2-b52c-da374d71daf1",
+        "byline": "By Vivian Yee and Hwaida Saad",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T15:54:38-04:00",
+        "created_date": "2025-05-01T15:54:38-04:00",
+        "published_date": "2025-05-01T15:54:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Druse (Sect)",
+            "Minorities"
+        ],
+        "org_facet": [
+            "Hayat Tahrir al-Sham",
+            "Syrian Observatory for Human Rights"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01syria-toll-1/01syria-scene-7-bkgq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1537,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A funeral procession for Druse fighters killed in attacks by extremists on the Druse city of Jaramana, Syria, on Wednesday.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01syria-toll-1/01syria-scene-7-bkgq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A funeral procession for Druse fighters killed in attacks by extremists on the Druse city of Jaramana, Syria, on Wednesday.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01syria-toll-1/01syria-scene-7-bkgq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A funeral procession for Druse fighters killed in attacks by extremists on the Druse city of Jaramana, Syria, on Wednesday.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
