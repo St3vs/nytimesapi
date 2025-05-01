@@ -59286,5 +59286,198 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "50 Years After the U.S. Left Vietnam, Another Retreat Is Shaking Asia",
+        "abstract": "Even among former enemies, the new American withdrawal from aid and democratic ideals is stirring deep feelings and confusion.",
+        "url": "https://www.nytimes.com/2025/05/01/world/asia/vietnam-america-asia-retreat.html",
+        "uri": "nyt://article/4ee3cd09-f18a-5ff3-882f-9f0acb73f763",
+        "byline": "By Hannah Beech",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T00:01:11-04:00",
+        "created_date": "2025-05-01T00:01:11-04:00",
+        "published_date": "2025-05-01T00:01:11-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States International Relations",
+            "Vietnam War",
+            "Democracy (Theory and Philosophy)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Far East, South and Southeast Asia and Pacific Areas",
+            "Cambodia",
+            "Myanmar",
+            "Vietnam"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-vietnam-essay-01-cptm/01int-vietnam-essay-01-cptm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chinese soldiers taking part in a parade in Ho Chi Minh City on Wednesday to mark the 50th anniversary of the fall of Saigon and the end of the Vietnam War.",
+                "copyright": "Linh Pham for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-vietnam-essay-01-cptm/01int-vietnam-essay-01-cptm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chinese soldiers taking part in a parade in Ho Chi Minh City on Wednesday to mark the 50th anniversary of the fall of Saigon and the end of the Vietnam War.",
+                "copyright": "Linh Pham for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-vietnam-essay-01-cptm/01int-vietnam-essay-01-cptm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chinese soldiers taking part in a parade in Ho Chi Minh City on Wednesday to mark the 50th anniversary of the fall of Saigon and the end of the Vietnam War.",
+                "copyright": "Linh Pham for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What to Know About the First U.K. Local Elections Under Starmer",
+        "abstract": "The votes in some parts of England are a test of a changed political climate, in which both main parties look weakened.",
+        "url": "https://www.nytimes.com/2025/05/01/world/europe/england-local-elections-starmer.html",
+        "uri": "nyt://article/d05930af-efa1-5efe-9e4c-dfae14ef4ee1",
+        "byline": "By Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T00:01:05-04:00",
+        "created_date": "2025-05-01T00:01:05-04:00",
+        "published_date": "2025-05-01T00:01:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Polls and Public Opinion",
+            "Politics and Government",
+            "Elections",
+            "Local Government",
+            "Mayors"
+        ],
+        "org_facet": [
+            "Conservative Party (Great Britain)",
+            "Labour Party (Great Britain)",
+            "Liberal Democrats (Great Britain)",
+            "Reform UK (British Political Party)"
+        ],
+        "per_facet": [
+            "Amesbury, Mike (1969- )",
+            "Badenoch, Kemi",
+            "Farage, Nigel (1964- )",
+            "Johnson, Boris",
+            "Starmer, Keir"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "England"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-uk-election-explainer-01-tqvh/01int-uk-election-explainer-01-tqvh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A polling site for local election in London last May. Fewer areas are voting this time, because of a planned reorganization.",
+                "copyright": "Benjamin Cremel/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-uk-election-explainer-01-tqvh/01int-uk-election-explainer-01-tqvh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A polling site for local election in London last May. Fewer areas are voting this time, because of a planned reorganization.",
+                "copyright": "Benjamin Cremel/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-uk-election-explainer-01-tqvh/01int-uk-election-explainer-01-tqvh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A polling site for local election in London last May. Fewer areas are voting this time, because of a planned reorganization.",
+                "copyright": "Benjamin Cremel/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "Most Prosthetics Blend In. Her ‘Fun’ Eyes Stand Out.",
+        "abstract": "There are many ways to lose an eye. Christina Leitzel wants people to know that there are also many ways to gain a new one.",
+        "url": "https://www.nytimes.com/2025/05/01/style/christina-leitzel-fun-prosthetic-eyes.html",
+        "uri": "nyt://article/6093ffe5-9ea5-5700-86bd-dee09c8958c2",
+        "byline": "By Gregory Barber and Sasha Arutyunova",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T00:00:11-04:00",
+        "created_date": "2025-05-01T00:00:11-04:00",
+        "published_date": "2025-05-01T00:00:11-04:00",
+        "material_type_facet": "",
+        "kicker": "art of craft",
+        "des_facet": [
+            "Prostheses",
+            "Eyes and Eyesight",
+            "Medical Devices",
+            "Corneas",
+            "Social Media"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Christina Leitzel"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/03/10/multimedia/00artofcraft-funeyes-06/artofcraft-funeyes-jcft-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1639,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/10/multimedia/00artofcraft-funeyes-06/artofcraft-funeyes-jcft-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/03/10/multimedia/00artofcraft-funeyes-06/00artofcraft-funeyes-06-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
