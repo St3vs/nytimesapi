@@ -59479,5 +59479,64 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Tourist Selfie Video Captures Kashmir Terror Attack",
+        "abstract": "A tourist enjoying a zip line ride in a picturesque valley inadvertently captured chaos in the background as militants opened fire below him.",
+        "url": "https://www.nytimes.com/2025/05/01/world/asia/kashmir-attack-tourist-video.html",
+        "uri": "nyt://article/83fe462d-d6e2-5f22-8349-c340c5db2847",
+        "byline": "By Suhasini Raj, Mujib Mashal and Jiawei Wang",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T00:55:00-04:00",
+        "created_date": "2025-05-01T00:53:15-04:00",
+        "published_date": "2025-05-01T00:53:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Mass Shootings",
+            "Video Recordings, Downloads and Streaming",
+            "Terrorism",
+            "Smartphones"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kashmir"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/30vid-attack-84888-cover/30vid-attack-84888-cover-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1620,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Rishi Bhatt"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/30vid-attack-84888-cover/30vid-attack-84888-cover-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Rishi Bhatt"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/30vid-attack-84888-cover/30vid-attack-84888-cover-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Rishi Bhatt"
+            }
+        ],
+        "short_url": ""
     }
 ]
