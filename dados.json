@@ -59865,5 +59865,134 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The U.S.-Ukraine Mineral Deal: What We Know",
+        "abstract": "The announcement that the deal had been signed came after months of fraught negotiations.",
+        "url": "https://www.nytimes.com/article/ukraine-mineral-deal-us-trump.html",
+        "uri": "nyt://article/fc02e4cb-2f92-5b7e-befc-43a89c998e3a",
+        "byline": "By Andrew E. Kramer, Maria Varenikova, Constant Méheut and Kim Barker",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T06:48:26-04:00",
+        "created_date": "2025-02-25T18:31:56-05:00",
+        "published_date": "2025-02-25T18:31:56-05:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Aid",
+            "Russian Invasion of Ukraine (2022)",
+            "International Relations",
+            "Metals and Minerals",
+            "United States International Relations",
+            "Peace Process"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Ukraine",
+            "United States",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/02/28/multimedia/00ukraine-mineral-wwk-whbf/00ukraine-mineral-wwk-whbf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An open pit titanium mine in Ukraine’s Zhytomyr region.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/28/multimedia/00ukraine-mineral-wwk-whbf/00ukraine-mineral-wwk-whbf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An open pit titanium mine in Ukraine’s Zhytomyr region.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/28/multimedia/00ukraine-mineral-wwk-whbf/00ukraine-mineral-wwk-whbf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An open pit titanium mine in Ukraine’s Zhytomyr region.",
+                "copyright": "Roman Pilipey/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A Contender for the Papacy Known for Promoting Dialogue With Other Faiths",
+        "abstract": "Cardinal Jean-Marc Aveline comes from the diverse port city of Marseille in France.",
+        "url": "https://www.nytimes.com/2025/05/01/world/europe/aveline-pope-conclave-contender.html",
+        "uri": "nyt://article/ba328f25-68b9-5358-ba6d-ad04665fa0b4",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T06:26:33-04:00",
+        "created_date": "2025-05-01T06:26:33-04:00",
+        "published_date": "2025-05-01T06:26:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Clergy",
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)",
+            "Religion and Belief"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Marseille (France)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/00Aveline-zlmb/00Aveline-zlmb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Jean-Marc Aveline attending a Mass at St Peter’s Basilica on Wednesday.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/00Aveline-zlmb/00Aveline-zlmb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Jean-Marc Aveline attending a Mass at St Peter’s Basilica on Wednesday.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/00Aveline-zlmb/00Aveline-zlmb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Jean-Marc Aveline attending a Mass at St Peter’s Basilica on Wednesday.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
