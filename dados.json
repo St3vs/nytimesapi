@@ -59734,5 +59734,136 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Armed Syrians Take Defense of a Besieged Druse City Into Their Own Hands",
+        "abstract": "Amid sectarian clashes that killed seven men in Jaramana, tense residents say the government isn’t doing enough to protect them, and are organizing to guard the city.",
+        "url": "https://www.nytimes.com/2025/05/01/world/middleeast/syria-sectarian-attack-druse.html",
+        "uri": "nyt://article/68a5000c-3371-5fc6-aefe-b157755f75b3",
+        "byline": "By Vivian Yee, Reham Mourshed and Nanna Heitmann",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T06:04:00-04:00",
+        "created_date": "2025-05-01T06:04:00-04:00",
+        "published_date": "2025-05-01T06:04:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Druse (Sect)",
+            "Minorities",
+            "War and Armed Conflicts",
+            "Civilian Casualties",
+            "Alawite Muslims",
+            "Religion-State Relations",
+            "vis-photo"
+        ],
+        "org_facet": [
+            "Hayat Tahrir al-Sham",
+            "Al Qaeda",
+            "Islamic State in Iraq and Syria (ISIS)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Damascus (Syria)",
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01syria-scene-promo/01syria-scene-1-zvhq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1463,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01syria-scene-promo/01syria-scene-1-zvhq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01syria-scene-promo/01syria-scene-promo-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Nanna Heitmann for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "South Korea’s Acting Leader Resigns for Likely Presidential Bid",
+        "abstract": "Prime Minister Han Duck-soo has been mulling whether to run for election, while the main opposition candidate and front-runner suffered a setback in court.",
+        "url": "https://www.nytimes.com/2025/05/01/world/asia/south-korea-president-resigns.html",
+        "uri": "nyt://article/c60ca7c5-a721-57e1-8818-14d507147428",
+        "byline": "By Choe Sang-Hun",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T06:11:39-04:00",
+        "created_date": "2025-05-01T05:19:24-04:00",
+        "published_date": "2025-05-01T05:19:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Decisions and Verdicts",
+            "Elections"
+        ],
+        "org_facet": [
+            "People Power Party"
+        ],
+        "per_facet": [
+            "Han Duck-soo",
+            "Lee Jae-myung",
+            "Yoon Suk-yeol"
+        ],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-skorea-politics-mkwg/01int-skorea-politics-mkwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1550,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "South Korean acting President Han Duck-soo announced his resignation on Thursday.",
+                "copyright": "Hong Hae-In/Yonhap, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-skorea-politics-mkwg/01int-skorea-politics-mkwg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "South Korean acting President Han Duck-soo announced his resignation on Thursday.",
+                "copyright": "Hong Hae-In/Yonhap, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-skorea-politics-mkwg/01int-skorea-politics-mkwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "South Korean acting President Han Duck-soo announced his resignation on Thursday.",
+                "copyright": "Hong Hae-In/Yonhap, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
