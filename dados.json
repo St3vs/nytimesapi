@@ -59218,5 +59218,73 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "U.S. Announces Deal to Share Ukraine’s Mineral Wealth",
+        "abstract": "The Trump administration did not immediately provide details about the agreement, and it was not clear what it meant for the future of U.S. military support for Ukraine.",
+        "url": "https://www.nytimes.com/2025/04/30/world/europe/ukraine-minerals-deal-trump.html",
+        "uri": "nyt://article/1d6d4124-bcb2-598d-9450-ae1016908131",
+        "byline": "By Alan Rappeport, Michael Crowley, Andrew E. Kramer and Kim Barker",
+        "item_type": "Article",
+        "updated_date": "2025-04-30T22:31:15-04:00",
+        "created_date": "2025-04-30T18:23:55-04:00",
+        "published_date": "2025-04-30T18:23:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Aid",
+            "Russian Invasion of Ukraine (2022)",
+            "Mines and Mining",
+            "Natural Gas",
+            "International Relations",
+            "Conflict Minerals and Resources"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Vance, J D",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/obituaries/30ukraine-minerals/30ukraine-minerals-superJumbo-v3.jpg",
+                "format": "Super Jumbo",
+                "height": 863,
+                "width": 1378,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Scott Bessent, the U.S. Treasury secretary, and Yulia Svyrydenko, a Ukraine deputy minister, signing the minerals deal.",
+                "copyright": "U.S. Department of the Treasury"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/obituaries/30ukraine-minerals/30ukraine-minerals-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Scott Bessent, the U.S. Treasury secretary, and Yulia Svyrydenko, a Ukraine deputy minister, signing the minerals deal.",
+                "copyright": "U.S. Department of the Treasury"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/obituaries/30ukraine-minerals/30ukraine-minerals-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Scott Bessent, the U.S. Treasury secretary, and Yulia Svyrydenko, a Ukraine deputy minister, signing the minerals deal.",
+                "copyright": "U.S. Department of the Treasury"
+            }
+        ],
+        "short_url": ""
     }
 ]
