@@ -60316,5 +60316,196 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "U.S. and U.N. Urge De-escalation Between India and Pakistan",
+        "abstract": "Secretary of State Marco Rubio spoke with top officials from both countries in an effort to avoid another conflict over the disputed region of Kashmir.",
+        "url": "https://www.nytimes.com/2025/05/01/world/asia/india-pakistan-kashmir-de-escalation.html",
+        "uri": "nyt://article/0c6e7361-ef5b-51a0-8ff7-eea1ab1ae5ab",
+        "byline": "By Anupreeta Das and Salman Masood",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T14:10:05-04:00",
+        "created_date": "2025-05-01T13:47:21-04:00",
+        "published_date": "2025-05-01T13:47:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra",
+            "Sharif, Shahbaz",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [
+            "India",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-india-kashmir-10-wqmv/01int-india-kashmir-10-wqmv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security forces on Wednesday guard the way to Baisaran Valley in Pahalgam, Kashmir, the site of a recent terror attack.",
+                "copyright": "Atul Loke for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-india-kashmir-10-wqmv/01int-india-kashmir-10-wqmv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security forces on Wednesday guard the way to Baisaran Valley in Pahalgam, Kashmir, the site of a recent terror attack.",
+                "copyright": "Atul Loke for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01int-india-kashmir-10-wqmv/01int-india-kashmir-10-wqmv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security forces on Wednesday guard the way to Baisaran Valley in Pahalgam, Kashmir, the site of a recent terror attack.",
+                "copyright": "Atul Loke for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israeli Firefighters Gain Control Over Blaze Near Jerusalem",
+        "abstract": "Authorities reopened the main highway between Tel Aviv and Jerusalem and allowed evacuees to return to their homes in Israel and the Israeli-occupied West Bank.",
+        "url": "https://www.nytimes.com/2025/05/01/world/middleeast/israel-wildfires-jerusalem.html",
+        "uri": "nyt://article/f547fd67-314a-54b1-9d62-006a523ad359",
+        "byline": "By Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T13:27:44-04:00",
+        "created_date": "2025-05-01T07:45:43-04:00",
+        "published_date": "2025-05-01T07:45:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Wildfires",
+            "Fires and Firefighters",
+            "Evacuations and Evacuees"
+        ],
+        "org_facet": [
+            "Palestinian Authority"
+        ],
+        "per_facet": [
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Israel",
+            "West Bank"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/1int-israel-fires-kwjl/1int-israel-fires-kwjl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dropping water to extinguish a wildfire in Latrun, central Israel, on Thursday.",
+                "copyright": "Ronen Zvulun/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/1int-israel-fires-kwjl/1int-israel-fires-kwjl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dropping water to extinguish a wildfire in Latrun, central Israel, on Thursday.",
+                "copyright": "Ronen Zvulun/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/1int-israel-fires-kwjl/1int-israel-fires-kwjl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Dropping water to extinguish a wildfire in Latrun, central Israel, on Thursday.",
+                "copyright": "Ronen Zvulun/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Odile de Vasselot, Teenage Aristocrat in the French Resistance, Dies at 103",
+        "abstract": "During World War II, she deceived her watchful mother so she could take part in dangerous missions. Later, she founded a girls’ school in Ivory Coast.",
+        "url": "https://www.nytimes.com/2025/05/01/world/europe/odile-de-vasselot-dead.html",
+        "uri": "nyt://article/5b143df5-11eb-553a-b347-37767b34048e",
+        "byline": "By Adam Nossiter",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T13:53:27-04:00",
+        "created_date": "2025-05-01T12:51:47-04:00",
+        "published_date": "2025-05-01T12:51:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "World War II (1939-45)",
+            "Holocaust and the Nazi Era",
+            "Awards, Decorations and Honors",
+            "Education (K-12)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "de Vasselot, Odile (1922-2025)",
+            "de Gaulle, Charles",
+            "Macron, Emmanuel (1977- )"
+        ],
+        "geo_facet": [
+            "France",
+            "Vichy (France)",
+            "Abidjan (Ivory Coast)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30devasselot--01-tgjp/30devasselot--01-tgjp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1367,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Odile de Vasselot in 2021. Her Resistance career resembled that of many others, with one key difference: In a largely working-class movement, she was an aristocrat.",
+                "copyright": "Thomas Samson/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30devasselot--01-tgjp/30devasselot--01-tgjp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Odile de Vasselot in 2021. Her Resistance career resembled that of many others, with one key difference: In a largely working-class movement, she was an aristocrat.",
+                "copyright": "Thomas Samson/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30devasselot--01-tgjp/30devasselot--01-tgjp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Odile de Vasselot in 2021. Her Resistance career resembled that of many others, with one key difference: In a largely working-class movement, she was an aristocrat.",
+                "copyright": "Thomas Samson/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
