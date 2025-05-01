@@ -60698,5 +60698,118 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Friday Briefing: A White House Shake-Up",
+        "abstract": "Plus, the actors up for a Tony Award.",
+        "url": "https://www.nytimes.com/2025/05/01/briefing/trump-waltz-us-ukraine-deal-india-pakistan.html",
+        "uri": "nyt://article/87a776e7-0212-5256-a3a6-0a4b51cf132e",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T17:49:51-04:00",
+        "created_date": "2025-05-01T17:05:22-04:00",
+        "published_date": "2025-05-01T17:05:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/02ambriefing-waltz/02ambriefing-waltz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Michael Waltz boarding Air Force One on Tuesday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/02ambriefing-waltz/02ambriefing-waltz-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Michael Waltz boarding Air Force One on Tuesday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/02ambriefing-waltz/02ambriefing-waltz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Michael Waltz boarding Air Force One on Tuesday.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Death Toll Rises Sharply in a Wave of Sectarian Violence in Syria",
+        "abstract": "With more than 100 people killed this week in a region controlled by the Druse minority, Druse leaders signaled new willingness to join forces with the Sunni Muslim-dominated government.",
+        "url": "https://www.nytimes.com/2025/05/01/world/middleeast/syria-sectarian-violence-100-killed.html",
+        "uri": "nyt://article/167a0cef-0636-5be2-b52c-da374d71daf1",
+        "byline": "By Vivian Yee, Reham Mourshed and Hwaida Saad",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T17:31:17-04:00",
+        "created_date": "2025-05-01T15:54:38-04:00",
+        "published_date": "2025-05-01T15:54:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Druse (Sect)",
+            "Minorities"
+        ],
+        "org_facet": [
+            "Hayat Tahrir al-Sham",
+            "Syrian Observatory for Human Rights"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01syria-toll-1/01syria-scene-7-bkgq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1537,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A funeral procession for Druse fighters killed in attacks by extremists on the Druse city of Jaramana, Syria, on Wednesday.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01syria-toll-1/01syria-scene-7-bkgq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A funeral procession for Druse fighters killed in attacks by extremists on the Druse city of Jaramana, Syria, on Wednesday.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01syria-toll-1/01syria-scene-7-bkgq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A funeral procession for Druse fighters killed in attacks by extremists on the Druse city of Jaramana, Syria, on Wednesday.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
