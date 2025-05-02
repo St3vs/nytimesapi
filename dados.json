@@ -60811,5 +60811,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Marco Rubio, Secretary of Everything",
+        "abstract": "The former senator from Florida is now the head of four government bodies. He has outdone Henry Kissinger and even Xi Jinping, China’s leader, who has only three titles.",
+        "url": "https://www.nytimes.com/2025/05/01/us/politics/marco-rubio-national-security-secretary-state.html",
+        "uri": "nyt://article/fba44f80-4049-545b-b95f-1eb587b1f9fd",
+        "byline": "By Edward Wong",
+        "item_type": "Article",
+        "updated_date": "2025-05-01T20:42:54-04:00",
+        "created_date": "2025-05-01T19:36:51-04:00",
+        "published_date": "2025-05-01T19:36:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Foreign Aid",
+            "United States International Relations",
+            "Archives and Records",
+            "Appointments and Executive Changes"
+        ],
+        "org_facet": [
+            "National Archives and Records Administration",
+            "National Security Council",
+            "State Department"
+        ],
+        "per_facet": [
+            "Rubio, Marco"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01dc-rubio-topart-kvbw/01dc-rubio-topart-kvbw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio during a cabinet meeting at the White House last month. Mr. Rubio is now the head of four government agencies.",
+                "copyright": "Pete Marovich for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01dc-rubio-topart-kvbw/01dc-rubio-topart-kvbw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio during a cabinet meeting at the White House last month. Mr. Rubio is now the head of four government agencies.",
+                "copyright": "Pete Marovich for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01dc-rubio-topart-kvbw/01dc-rubio-topart-kvbw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Secretary of State Marco Rubio during a cabinet meeting at the White House last month. Mr. Rubio is now the head of four government agencies.",
+                "copyright": "Pete Marovich for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
