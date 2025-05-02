@@ -62977,5 +62977,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Prince Harry Says He Would ‘Love Reconciliation’ With Royal Family",
+        "abstract": "In a BBC interview, Harry said he didn’t know how long King Charles, who has cancer, had left to live, and he expressed a desire to make peace with his family.",
+        "url": "https://www.nytimes.com/2025/05/02/world/europe/prince-harry-family-reconciliation-security-battle.html",
+        "uri": "nyt://article/e7d44e97-469f-56fc-a610-59de702ceb6f",
+        "byline": "By Lizzie Dearden and Esther Bintliff",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T13:31:23-04:00",
+        "created_date": "2025-05-02T09:15:17-04:00",
+        "published_date": "2025-05-02T09:15:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Royal Families",
+            "Security and Warning Systems",
+            "Police",
+            "Decisions and Verdicts",
+            "Suits and Litigation (Civil)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Harry, Duke of Sussex"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02INT-UK-HARRY-SECURITY-HFO-ctpv/02INT-UK-HARRY-SECURITY-HFO-ctpv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Harry in London in April. On Friday, he said he wants to reconcile with the royal family. “There’s no point continuing to fight anymore,” he said.",
+                "copyright": "Carl Court/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02INT-UK-HARRY-SECURITY-HFO-ctpv/02INT-UK-HARRY-SECURITY-HFO-ctpv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Harry in London in April. On Friday, he said he wants to reconcile with the royal family. “There’s no point continuing to fight anymore,” he said.",
+                "copyright": "Carl Court/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02INT-UK-HARRY-SECURITY-HFO-ctpv/02INT-UK-HARRY-SECURITY-HFO-ctpv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Harry in London in April. On Friday, he said he wants to reconcile with the royal family. “There’s no point continuing to fight anymore,” he said.",
+                "copyright": "Carl Court/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
