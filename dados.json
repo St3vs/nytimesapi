@@ -62846,5 +62846,136 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Trump Labels Haiti’s Powerful Gangs as Terrorists",
+        "abstract": "The move will enable harsh sanctions on the gangs, which control important sectors of the country’s economy, and anybody that does business with them.",
+        "url": "https://www.nytimes.com/2025/05/02/world/americas/trump-haiti-gangs-terrorists.html",
+        "uri": "nyt://article/07647a36-3561-5b8f-ac3e-b3380b92e336",
+        "byline": "By Emiliano Rodríguez Mega",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T13:01:28-04:00",
+        "created_date": "2025-05-02T13:01:28-04:00",
+        "published_date": "2025-05-02T13:01:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "United States International Relations",
+            "Embargoes and Sanctions",
+            "Gangs"
+        ],
+        "org_facet": [
+            "Center for Economic and Policy Research"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Haiti",
+            "Port-au-Prince (Haiti)",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-haiti-trump-gangs-vblp/02int-haiti-trump-gangs-vblp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1432,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Armed gang members in the capital, Port-au-Prince, last year.",
+                "copyright": "Pedro Valtierra Anza/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-haiti-trump-gangs-vblp/02int-haiti-trump-gangs-vblp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Armed gang members in the capital, Port-au-Prince, last year.",
+                "copyright": "Pedro Valtierra Anza/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-haiti-trump-gangs-vblp/02int-haiti-trump-gangs-vblp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Armed gang members in the capital, Port-au-Prince, last year.",
+                "copyright": "Pedro Valtierra Anza/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Two Scientific Groups Say They’ll Keep Working on U.S. Climate Assessment",
+        "abstract": "The organizations said they planned to publish the assessment even after the Trump administration’s decision to dismiss all authors on the project.",
+        "url": "https://www.nytimes.com/2025/05/02/climate/national-climate-assessment-trump.html",
+        "uri": "nyt://article/44129fdc-151a-541a-bff9-fa6938e50eb4",
+        "byline": "By Rebecca Dzombak",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T13:11:15-04:00",
+        "created_date": "2025-05-02T12:38:19-04:00",
+        "published_date": "2025-05-02T12:38:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "United States Politics and Government",
+            "Research",
+            "Layoffs and Job Reductions",
+            "Science and Technology"
+        ],
+        "org_facet": [
+            "American Geophysical Union",
+            "American Meteorological Society"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02cli-climate-assessment-ptzq/02cli-climate-assessment-ptzq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A National Oceanic and Atmospheric Administration technician collecting air samples on Mauna Kea, Hawaii, in 2023.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02cli-climate-assessment-ptzq/02cli-climate-assessment-ptzq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A National Oceanic and Atmospheric Administration technician collecting air samples on Mauna Kea, Hawaii, in 2023.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02cli-climate-assessment-ptzq/02cli-climate-assessment-ptzq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A National Oceanic and Atmospheric Administration technician collecting air samples on Mauna Kea, Hawaii, in 2023.",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
