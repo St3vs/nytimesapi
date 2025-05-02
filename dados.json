@@ -62595,5 +62595,125 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How Rubio Proved Himself as Trump’s Loyal Foreign Policy Foot Soldier",
+        "abstract": "As Secretary of State, Marco Rubio has been Donald Trump’s reliable echo on issues like Iran, Ukraine and Gaza. But Steve Witkoff, the president’s friend, remains the chief negotiator.",
+        "url": "https://www.nytimes.com/2025/05/02/world/europe/trump-rubio-national-security-adviser.html",
+        "uri": "nyt://article/ee3b0ffe-4733-5fa4-86c8-3554b4bd5f5f",
+        "byline": "By Michael D. Shear",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T10:28:20-04:00",
+        "created_date": "2025-05-02T10:28:20-04:00",
+        "published_date": "2025-05-02T10:28:20-04:00",
+        "material_type_facet": "",
+        "kicker": "news analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Appointments and Executive Changes"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Rubio, Marco",
+            "Trump, Donald J",
+            "Witkoff, Steven"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-rubio-policy-01-wbmv/02int-rubio-policy-01-wbmv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marco Rubio will help run Donald Trump’s foreign policy agenda from inside both the White House and the State Department headquarters.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-rubio-policy-01-wbmv/02int-rubio-policy-01-wbmv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marco Rubio will help run Donald Trump’s foreign policy agenda from inside both the White House and the State Department headquarters.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-rubio-policy-01-wbmv/02int-rubio-policy-01-wbmv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Marco Rubio will help run Donald Trump’s foreign policy agenda from inside both the White House and the State Department headquarters.",
+                "copyright": "Haiyun Jiang for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Maps: 7.4-Magnitude Earthquake Near Chile Prompts Tsunami Alert",
+        "abstract": "View the location of the quake’s epicenter and shake area.",
+        "url": "https://www.nytimes.com/interactive/2025/05/02/world/americas/tsunami-earthquake-chile.html",
+        "uri": "nyt://interactive/4a518d08-8aaf-54c8-b7f0-6801099fb7e2",
+        "byline": "By Elda Cantú, William B. Davis, Madison Dong, Judson Jones, John Keefe, Joey K. Lee and Bea Malsky",
+        "item_type": "Interactive",
+        "updated_date": "2025-05-02T11:08:18-04:00",
+        "created_date": "2025-05-02T10:14:07-04:00",
+        "published_date": "2025-05-02T10:14:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Earthquakes",
+            "Tidal Waves and Tsunamis"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Chile",
+            "Argentina"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/world/02wea-quake-tracker-south-atlantic-ocean-nytb2ueg-index/02wea-quake-tracker-south-atlantic-ocean-nytb2ueg-index-superJumbo-v24.jpg",
+                "format": "Super Jumbo",
+                "height": 1332,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/world/02wea-quake-tracker-south-atlantic-ocean-nytb2ueg-index/02wea-quake-tracker-south-atlantic-ocean-nytb2ueg-index-threeByTwoSmallAt2X-v26.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/world/02wea-quake-tracker-south-atlantic-ocean-nytb2ueg-index/02wea-quake-tracker-south-atlantic-ocean-nytb2ueg-index-thumbLarge-v24.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
