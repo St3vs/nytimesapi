@@ -63232,5 +63232,128 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Canada’s Prime Minister to Visit Trump Amid Trade Battle",
+        "abstract": "Prime Minister Mark Carney, who will make his first visit to Washington since his election, said President Trump’s call to annex Canada as the 51st state would not be on the table.",
+        "url": "https://www.nytimes.com/2025/05/02/world/canada/mark-carney-trump-visit-tariffs.html",
+        "uri": "nyt://article/ad054139-f2bc-5b47-80a0-cb14b76fdd22",
+        "byline": "By Ian Austen",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T15:35:17-04:00",
+        "created_date": "2025-05-02T15:30:34-04:00",
+        "published_date": "2025-05-02T15:30:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "United States International Relations",
+            "Elections"
+        ],
+        "org_facet": [
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Charles III, King of the United Kingdom",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02canada-carney-pcwb/02canada-carney-pcwb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Canadian Prime Minister Mark Carney speaking during a news conference in Ottawa on Friday where he also announced a visit by King Charles.",
+                "copyright": "Adrian Wyld/The Canadian Press, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02canada-carney-pcwb/02canada-carney-pcwb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Canadian Prime Minister Mark Carney speaking during a news conference in Ottawa on Friday where he also announced a visit by King Charles.",
+                "copyright": "Adrian Wyld/The Canadian Press, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02canada-carney-pcwb/02canada-carney-pcwb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Canadian Prime Minister Mark Carney speaking during a news conference in Ottawa on Friday where he also announced a visit by King Charles.",
+                "copyright": "Adrian Wyld/The Canadian Press, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Voting in a Fraught World, Australians Focus on Cost-of-Living Concerns",
+        "abstract": "Voters will decide who can turn Australia around from the throes of inflation and a housing crisis, and navigate relations with a volatile Washington.",
+        "url": "https://www.nytimes.com/2025/05/02/world/asia/australia-prime-minister-election.html",
+        "uri": "nyt://article/98ad0fd8-b376-57e4-bb50-6734055c9a8b",
+        "byline": "By Victoria Kim",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T16:00:05-04:00",
+        "created_date": "2025-05-02T16:00:05-04:00",
+        "published_date": "2025-05-02T16:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Debates (Political)",
+            "Elections"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Albanese, Anthony (1963- )",
+            "Dutton, Peter C"
+        ],
+        "geo_facet": [
+            "Australia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03oz-election-cqzg/03oz-election-cqzg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Electoral placards outside a polling place in the seat of Bennelong, an electoral division of Sydney, Australia, on Friday.",
+                "copyright": "Hollie Adams/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03oz-election-cqzg/03oz-election-cqzg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Electoral placards outside a polling place in the seat of Bennelong, an electoral division of Sydney, Australia, on Friday.",
+                "copyright": "Hollie Adams/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03oz-election-cqzg/03oz-election-cqzg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Electoral placards outside a polling place in the seat of Bennelong, an electoral division of Sydney, Australia, on Friday.",
+                "copyright": "Hollie Adams/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
