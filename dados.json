@@ -61965,5 +61965,78 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "energy-environment",
+        "title": "Exxon and Chevron Report Lower Profits While Girding for Tariffs",
+        "abstract": "President Trump’s trade policies have helped to push down oil prices while raising the costs of materials for oil and gas companies.",
+        "url": "https://www.nytimes.com/2025/05/02/business/energy-environment/exxon-chevron-earnings.html",
+        "uri": "nyt://article/dd91e77e-aa7a-506c-8c67-60592525771f",
+        "byline": "By Rebecca F. Elliott",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T06:59:16-04:00",
+        "created_date": "2025-05-02T06:39:59-04:00",
+        "published_date": "2025-05-02T06:39:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Oil (Petroleum) and Gasoline",
+            "Prices (Fares, Fees and Rates)",
+            "International Trade and World Market",
+            "Company Reports",
+            "Customs (Tariff)",
+            "United States Economy",
+            "Regulation and Deregulation of Industry",
+            "Natural Gas",
+            "Production",
+            "Steel and Iron"
+        ],
+        "org_facet": [
+            "Chevron Corporation",
+            "Exxon Mobil Corp",
+            "Organization of the Petroleum Exporting Countries",
+            "Baker Hughes Inc"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Biden, Joseph R Jr",
+            "Woods, Darren W (1965- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02oil-earnings-gqhm/02oil-earnings-gqhm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Many larger oil and gas companies have said they would stick to their production plans for the year.",
+                "copyright": "Meridith Kohut for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02oil-earnings-gqhm/02oil-earnings-gqhm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Many larger oil and gas companies have said they would stick to their production plans for the year.",
+                "copyright": "Meridith Kohut for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02oil-earnings-gqhm/02oil-earnings-gqhm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Many larger oil and gas companies have said they would stick to their production plans for the year.",
+                "copyright": "Meridith Kohut for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
