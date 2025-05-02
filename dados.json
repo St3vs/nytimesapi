@@ -62038,5 +62038,64 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "",
+        "title": "Russell Brand Is Granted Bail in U.K. Court Hearing on Rape Charges",
+        "abstract": "The comedian, actor and YouTuber appeared before a London courtroom for the first stage of what could be lengthy criminal proceedings.",
+        "url": "https://www.nytimes.com/2025/05/01/arts/russell-brand-uk-court-rape-charges.html",
+        "uri": "nyt://article/12bf85fe-529e-572a-84ca-cb04045b7cd7",
+        "byline": "By Alex Marshall",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T07:17:37-04:00",
+        "created_date": "2025-05-01T22:00:05-04:00",
+        "published_date": "2025-05-01T22:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Sex Crimes",
+            "Celebrities"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Brand, Russell"
+        ],
+        "geo_facet": [
+            "London (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02cul-brand-trial-gpkv/02cul-brand-trial-gpkv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russell Brand arriving at court in London on Friday. He is facing several charges of sexual assault.",
+                "copyright": "Benjamin Cremel/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02cul-brand-trial-gpkv/02cul-brand-trial-gpkv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russell Brand arriving at court in London on Friday. He is facing several charges of sexual assault.",
+                "copyright": "Benjamin Cremel/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02cul-brand-trial-gpkv/02cul-brand-trial-gpkv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russell Brand arriving at court in London on Friday. He is facing several charges of sexual assault.",
+                "copyright": "Benjamin Cremel/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
