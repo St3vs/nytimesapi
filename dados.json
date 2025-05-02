@@ -63039,5 +63039,198 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Paramilitary Fighters Massacre More Than 100 Civilians, Doctors’ Group Says",
+        "abstract": "The Sudan Doctors Network said that the Rapid Support Forces had killed at least  21 children on Thursday, the latest violent spasm in Sudan’s civil war.",
+        "url": "https://www.nytimes.com/2025/05/02/world/africa/sudan-war-atrocity.html",
+        "uri": "nyt://article/b7822fd1-3928-5872-bf37-34fd6b8d21ca",
+        "byline": "By Abdalrahman Altayeb and Alan Yuhas",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T15:07:33-04:00",
+        "created_date": "2025-05-02T15:07:33-04:00",
+        "published_date": "2025-05-02T15:07:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Defense and Military Forces",
+            "Civilian Casualties"
+        ],
+        "org_facet": [
+            "Rapid Support Forces (Sudan)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Sudan",
+            "Darfur (Sudan)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02sudan-1-tfkc/02sudan-1-tfkc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photograph made from video released by the Sudanese paramilitary Rapid Support Forces showing its fighters in the capital, Khartoum, in 2023.",
+                "copyright": "Rapid Support Forces"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02sudan-1-tfkc/02sudan-1-tfkc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photograph made from video released by the Sudanese paramilitary Rapid Support Forces showing its fighters in the capital, Khartoum, in 2023.",
+                "copyright": "Rapid Support Forces"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02sudan-1-tfkc/02sudan-1-tfkc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photograph made from video released by the Sudanese paramilitary Rapid Support Forces showing its fighters in the capital, Khartoum, in 2023.",
+                "copyright": "Rapid Support Forces"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "New ‘Climate Superfund’ Laws Face Widening Legal Challenges",
+        "abstract": "The Trump administration sued to block two state laws designed to force oil companies to pay the costs of climate change. Several other states are joining the fight, too.",
+        "url": "https://www.nytimes.com/2025/05/02/climate/climate-superfund-law-vermont-new-york-lawsuits.html",
+        "uri": "nyt://article/e1daef7a-b3cb-59a0-8c90-6c28d553ae33",
+        "byline": "By Karen Zraick",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T14:54:05-04:00",
+        "created_date": "2025-05-02T14:54:05-04:00",
+        "published_date": "2025-05-02T14:54:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Law and Legislation",
+            "Compensation for Damages (Law)",
+            "Oil (Petroleum) and Gasoline",
+            "Suits and Litigation (Civil)",
+            "Environment",
+            "Federal-State Relations (US)"
+        ],
+        "org_facet": [
+            "Justice Department",
+            "American Petroleum Institute"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "New York State",
+            "Vermont"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2023/07/12/multimedia/02-cli-vt-superfund-suit/12nat-vermont-02-cwjm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flood damage in Barre, Vt., in 2023. Vermont and New York have passed new climate superfund laws.",
+                "copyright": "Hilary Swift for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/07/12/multimedia/02-cli-vt-superfund-suit/12nat-vermont-02-cwjm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flood damage in Barre, Vt., in 2023. Vermont and New York have passed new climate superfund laws.",
+                "copyright": "Hilary Swift for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2023/07/12/multimedia/02-cli-vt-superfund-suit/02-cli-vt-superfund-suit-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flood damage in Barre, Vt., in 2023. Vermont and New York have passed new climate superfund laws.",
+                "copyright": "Hilary Swift for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Universal Antivenom May Grow Out of Man Who Let Snakes Bite Him 200 Times",
+        "abstract": "Scientists identified antibodies that neutralized the poison in whole or in part from the bites of cobras, mambas and other deadly species.",
+        "url": "https://www.nytimes.com/2025/05/02/health/snakes-universal-antivenom-tim-friede.html",
+        "uri": "nyt://article/74b4bb83-037d-5d49-b754-7f8e356beeb8",
+        "byline": "By Apoorva Mandavilli",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T14:42:18-04:00",
+        "created_date": "2025-05-02T11:35:48-04:00",
+        "published_date": "2025-05-02T11:35:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "your-feed-science",
+            "Snakes",
+            "Poisoning and Poisons",
+            "Animal Attacks",
+            "Antibodies",
+            "Vaccination and Immunization",
+            "Research"
+        ],
+        "org_facet": [
+            "Cell (Journal)",
+            "Centivax Inc"
+        ],
+        "per_facet": [
+            "Friede, Tim (1957- )",
+            "Glanville, Jacob (1980- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02hs-snakes-plwt/02hs-snakes-plwt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tim Friede at home in Wisconsin with a black mamba.",
+                "copyright": "Peter Prato"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02hs-snakes-plwt/02hs-snakes-plwt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tim Friede at home in Wisconsin with a black mamba.",
+                "copyright": "Peter Prato"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02hs-snakes-plwt/02hs-snakes-plwt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tim Friede at home in Wisconsin with a black mamba.",
+                "copyright": "Peter Prato"
+            }
+        ],
+        "short_url": ""
     }
 ]
