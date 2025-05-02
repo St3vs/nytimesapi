@@ -61378,5 +61378,331 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Brazilian Nun Who Was World’s Oldest Person Dies at 116",
+        "abstract": "Sister Inah Canabarro Lucas received a blessing from Pope Francis when she turned 110. She would have turned 117 in a few weeks.",
+        "url": "https://www.nytimes.com/2025/05/02/world/americas/inah-canabarro-lucas-oldest-person-dead.html",
+        "uri": "nyt://article/0731e789-4a30-52e4-ac5c-611c1b52d3a6",
+        "byline": "By Neil Vigdor",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T05:03:25-04:00",
+        "created_date": "2025-05-02T05:03:25-04:00",
+        "published_date": "2025-05-02T05:03:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Records and Achievements",
+            "Age, Chronological",
+            "Nuns",
+            "Longevity",
+            "Popes",
+            "Elderly",
+            "Deaths (Obituaries)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Guinness World Records"
+        ],
+        "per_facet": [
+            "Sister Inah Canabarro Lucas"
+        ],
+        "geo_facet": [
+            "Brazil",
+            "Porto Alegre (Brazil)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01xp-oldestperson-vtjq/01xp-oldestperson-vtjq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 913,
+                "width": 1370,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A handout photo showing Sister Inah Canabarro Lucas, at age 116, in Porto Alegre, Brazil. Guinness World Records declared her the world’s oldest person in January.",
+                "copyright": "Carlos Macedo/Longeviquest, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01xp-oldestperson-vtjq/01xp-oldestperson-vtjq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A handout photo showing Sister Inah Canabarro Lucas, at age 116, in Porto Alegre, Brazil. Guinness World Records declared her the world’s oldest person in January.",
+                "copyright": "Carlos Macedo/Longeviquest, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01xp-oldestperson-vtjq/01xp-oldestperson-vtjq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A handout photo showing Sister Inah Canabarro Lucas, at age 116, in Porto Alegre, Brazil. Guinness World Records declared her the world’s oldest person in January.",
+                "copyright": "Carlos Macedo/Longeviquest, via Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Trump Administration Moves to Blacklist a Financial Hub Used by Scammers",
+        "abstract": "The Treasury Department said Huione Group and its affiliates had laundered more than $4 billion.",
+        "url": "https://www.nytimes.com/2025/05/02/world/asia/treasury-huione-scammer-money-laundering-blacklist.html",
+        "uri": "nyt://article/0f549301-caed-5097-b200-0117e30c73c4",
+        "byline": "By Selam Gebrekidan",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T05:02:15-04:00",
+        "created_date": "2025-05-02T05:02:15-04:00",
+        "published_date": "2025-05-02T05:02:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Regulation and Deregulation of Industry",
+            "United States Politics and Government",
+            "Money Laundering",
+            "Frauds and Swindling",
+            "Cyberwarfare and Defense",
+            "Cyberattacks and Hackers",
+            "Virtual Currency",
+            "Banking and Financial Institutions"
+        ],
+        "org_facet": [
+            "Huione Group",
+            "Lazarus Group"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Cambodia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-moneylaundering-huione-jlqp/02int-moneylaundering-huione-jlqp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Huione Pay headquarters in Phnom Penh, Cambodia, in March.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-moneylaundering-huione-jlqp/02int-moneylaundering-huione-jlqp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Huione Pay headquarters in Phnom Penh, Cambodia, in March.",
+                "copyright": "Chang W. Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-moneylaundering-huione-jlqp/02int-moneylaundering-huione-jlqp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Huione Pay headquarters in Phnom Penh, Cambodia, in March.",
+                "copyright": "Chang W. Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "South Korea Lurches From One Political Crisis to Another",
+        "abstract": "In five months, the country has had three acting presidents after the leader who imposed martial law was impeached. And now doubts cloud the coming election.",
+        "url": "https://www.nytimes.com/2025/05/02/world/asia/south-koreas-political-crisis.html",
+        "uri": "nyt://article/3448f4b6-5821-592b-94f9-8fef6feec6c4",
+        "byline": "By Choe Sang-Hun",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T04:49:12-04:00",
+        "created_date": "2025-05-02T04:49:12-04:00",
+        "published_date": "2025-05-02T04:49:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Impeachment",
+            "Elections",
+            "Constitutions",
+            "Martial Law",
+            "Legislatures and Parliaments"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Han Duck-soo",
+            "Lee Jae-myung",
+            "Yoon Suk-yeol",
+            "Choi Sang-mok (1963- )"
+        ],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-skorea-politics-btgz/02int-skorea-politics-btgz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1498,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lee Ju-Ho, South Korea’s education minister and acting president, presiding over the national security council at the government complex in Seoul on Friday.",
+                "copyright": "Yonhap News Agency, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-skorea-politics-btgz/02int-skorea-politics-btgz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lee Ju-Ho, South Korea’s education minister and acting president, presiding over the national security council at the government complex in Seoul on Friday.",
+                "copyright": "Yonhap News Agency, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-skorea-politics-btgz/02int-skorea-politics-btgz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lee Ju-Ho, South Korea’s education minister and acting president, presiding over the national security council at the government complex in Seoul on Friday.",
+                "copyright": "Yonhap News Agency, via Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "australia",
+        "title": "How Housing Became the Third Rail of Australian Politics",
+        "abstract": "Going into a federal election, both major parties are hesitant to tame the sky-high property values that have priced many voters out of the housing market.",
+        "url": "https://www.nytimes.com/2025/05/02/world/australia/australia-election-housing.html",
+        "uri": "nyt://article/bd1a360a-1d4f-5ee8-a9d3-8b57b1f3185d",
+        "byline": "By Yan Zhuang",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T04:31:37-04:00",
+        "created_date": "2025-05-02T04:00:44-04:00",
+        "published_date": "2025-05-02T04:00:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Real Estate and Housing (Residential)",
+            "Affordable Housing",
+            "Politics and Government",
+            "Elections"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Australia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02oz-housing-jkmw/02oz-housing-jkmw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Residential buildings along the harbor in Sydney, Australia. A survey ranked the city as one of the least affordable in the world for housing.",
+                "copyright": "Brendon Thorne/Bloomberg"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02oz-housing-jkmw/02oz-housing-jkmw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Residential buildings along the harbor in Sydney, Australia. A survey ranked the city as one of the least affordable in the world for housing.",
+                "copyright": "Brendon Thorne/Bloomberg"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02oz-housing-jkmw/02oz-housing-jkmw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Residential buildings along the harbor in Sydney, Australia. A survey ranked the city as one of the least affordable in the world for housing.",
+                "copyright": "Brendon Thorne/Bloomberg"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Reform U.K. Wins Special Election by Just 6 Votes, in Blow to Labour",
+        "abstract": "Nigel Farage’s right-wing populist party snatched a critical parliamentary seat from the governing Labour Party.",
+        "url": "https://www.nytimes.com/2025/05/02/world/europe/uk-election-reform-labour-runcorn.html",
+        "uri": "nyt://article/d50dc1c3-ec32-59e7-bdd0-6af583acfae3",
+        "byline": "By Mark Landler and Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T04:35:09-04:00",
+        "created_date": "2025-05-02T01:03:36-04:00",
+        "published_date": "2025-05-02T01:03:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Polls and Public Opinion",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "Reform UK (British Political Party)",
+            "Conservative Party (Great Britain)",
+            "Labour Party (Great Britain)"
+        ],
+        "per_facet": [
+            "Badenoch, Kemi",
+            "Starmer, Keir",
+            "Farage, Nigel (1964- )",
+            "Amesbury, Mike (1969- )"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-uk-elections-farage-hpmt/02int-uk-elections-farage-hpmt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nigel Farage, leader of the Reform U.K. party, center, celebrating in the early hours of Friday. ",
+                "copyright": "Oli Scarff/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-uk-elections-farage-hpmt/02int-uk-elections-farage-hpmt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nigel Farage, leader of the Reform U.K. party, center, celebrating in the early hours of Friday. ",
+                "copyright": "Oli Scarff/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-uk-elections-farage-hpmt/02int-uk-elections-farage-hpmt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nigel Farage, leader of the Reform U.K. party, center, celebrating in the early hours of Friday. ",
+                "copyright": "Oli Scarff/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
