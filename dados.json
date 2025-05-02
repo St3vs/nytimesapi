@@ -62715,5 +62715,136 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "health",
+        "subsection": "",
+        "title": "Universal Antivenom May Grow Out of Man Who Let Snakes Bite Him Hundreds of Times",
+        "abstract": "Scientists identified antibodies that neutralized the poison in whole or in part from the bites of cobras, mambas and other deadly species.",
+        "url": "https://www.nytimes.com/2025/05/02/health/snakes-universal-antivenom-tim-friede.html",
+        "uri": "nyt://article/74b4bb83-037d-5d49-b754-7f8e356beeb8",
+        "byline": "By Apoorva Mandavilli",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T11:35:48-04:00",
+        "created_date": "2025-05-02T11:35:48-04:00",
+        "published_date": "2025-05-02T11:35:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Snakes",
+            "Research",
+            "Antibodies",
+            "Poisoning and Poisons",
+            "your-feed-science"
+        ],
+        "org_facet": [
+            "Cell (Journal)",
+            "Centivax"
+        ],
+        "per_facet": [
+            "Tim Friede",
+            "Jacob Glanville"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02hs-snakes-plwt/02hs-snakes-plwt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tim Friede at home in Wisconsin with a black mamba.",
+                "copyright": "Peter Prato"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02hs-snakes-plwt/02hs-snakes-plwt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tim Friede at home in Wisconsin with a black mamba.",
+                "copyright": "Peter Prato"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02hs-snakes-plwt/02hs-snakes-plwt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tim Friede at home in Wisconsin with a black mamba.",
+                "copyright": "Peter Prato"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "U.S. and China Dig In on Trade War, With No Plans for Formal Talks",
+        "abstract": "The standoff over terms of negotiations, and whether they are happening, signals that a protracted economic fight lies ahead.",
+        "url": "https://www.nytimes.com/2025/05/02/us/politics/us-china-trade-tariffs-talks.html",
+        "uri": "nyt://article/24af4d0c-558d-5090-94b6-efc1987d8259",
+        "byline": "By Alan Rappeport",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T12:02:32-04:00",
+        "created_date": "2025-05-02T10:07:02-04:00",
+        "published_date": "2025-05-02T10:07:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "United States Economy",
+            "Customs (Tariff)",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "Treasury Department",
+            "Commerce Department",
+            "Hometown Food Co"
+        ],
+        "per_facet": [
+            "Xi Jinping",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02dc-uschina-talks-jmfk/02dc-uschina-talks-jmfk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The apparent silence between the United States and China is a serious matter for the global economy.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02dc-uschina-talks-jmfk/02dc-uschina-talks-jmfk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The apparent silence between the United States and China is a serious matter for the global economy.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02dc-uschina-talks-jmfk/02dc-uschina-talks-jmfk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The apparent silence between the United States and China is a serious matter for the global economy.",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
