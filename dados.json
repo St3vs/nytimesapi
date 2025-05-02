@@ -61311,5 +61311,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Reform U.K. Wins Special Election by Six Votes, in Blow to Labour",
+        "abstract": "Nigel Farage’s right-wing populist party snatched a critical parliamentary seat from the governing Labour Party.",
+        "url": "https://www.nytimes.com/2025/05/02/world/europe/uk-election-reform-labour-runcorn.html",
+        "uri": "nyt://article/d50dc1c3-ec32-59e7-bdd0-6af583acfae3",
+        "byline": "By Mark Landler and Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T03:18:54-04:00",
+        "created_date": "2025-05-02T01:03:36-04:00",
+        "published_date": "2025-05-02T01:03:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Polls and Public Opinion",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "Reform UK (British Political Party)",
+            "Conservative Party (Great Britain)",
+            "Labour Party (Great Britain)"
+        ],
+        "per_facet": [
+            "Badenoch, Kemi",
+            "Starmer, Keir",
+            "Farage, Nigel (1964- )",
+            "Amesbury, Mike (1969- )"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-uk-elections-farage-hpmt/02int-uk-elections-farage-hpmt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nigel Farage, leader of the Reform U.K. party, center, celebrating in the early hours of Friday. ",
+                "copyright": "Oli Scarff/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-uk-elections-farage-hpmt/02int-uk-elections-farage-hpmt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nigel Farage, leader of the Reform U.K. party, center, celebrating in the early hours of Friday. ",
+                "copyright": "Oli Scarff/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-uk-elections-farage-hpmt/02int-uk-elections-farage-hpmt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nigel Farage, leader of the Reform U.K. party, center, celebrating in the early hours of Friday. ",
+                "copyright": "Oli Scarff/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
