@@ -60875,5 +60875,191 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Leaders May Talk Tough, but War Is the Last Thing Pakistanis Want",
+        "abstract": "For many across the country, economic struggles, political malaise and the fear of armed conflict with India now feel like parts of the same burden.",
+        "url": "https://www.nytimes.com/2025/05/02/world/asia/pakistan-india-kashmir.html",
+        "uri": "nyt://article/0a157f59-195a-586b-ae4e-7612eb5d6350",
+        "byline": "By Salman Masood",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T00:01:14-04:00",
+        "created_date": "2025-05-02T00:01:14-04:00",
+        "published_date": "2025-05-02T00:01:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "War and Armed Conflicts",
+            "Economic Conditions and Trends",
+            "Defense and Military Forces",
+            "Peace Process"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Khan, Imran"
+        ],
+        "geo_facet": [
+            "Pakistan",
+            "India",
+            "Kashmir",
+            "Baluchistan (Pakistan)",
+            "Kashmir and Jammu (India)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02pakistan-mood-1-fbmc/02pakistan-mood-1-fbmc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Zakir Khan reading a newspaper on Thursday at a stand in Islamabad, the Pakistani capital, owned by Nazaman Abbasi, left. The headline reads: “America comes in full force to reduce tensions between India and Pakistan.”",
+                "copyright": "Saiyna Bashir for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02pakistan-mood-1-fbmc/02pakistan-mood-1-fbmc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Zakir Khan reading a newspaper on Thursday at a stand in Islamabad, the Pakistani capital, owned by Nazaman Abbasi, left. The headline reads: “America comes in full force to reduce tensions between India and Pakistan.”",
+                "copyright": "Saiyna Bashir for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02pakistan-mood-1-fbmc/02pakistan-mood-1-fbmc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Zakir Khan reading a newspaper on Thursday at a stand in Islamabad, the Pakistani capital, owned by Nazaman Abbasi, left. The headline reads: “America comes in full force to reduce tensions between India and Pakistan.”",
+                "copyright": "Saiyna Bashir for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "What Australia’s Vote Means for Climate in a Major Coal Economy",
+        "abstract": "The leading candidates in Saturday’s national election have starkly different policies on energy and global warming.",
+        "url": "https://www.nytimes.com/2025/05/02/climate/what-australias-vote-means-for-climate-in-a-major-coal-economy.html",
+        "uri": "nyt://article/5935cc57-c95a-52ef-a808-2b20b53069b0",
+        "byline": "By Max Bearak",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T00:01:12-04:00",
+        "created_date": "2025-05-02T00:01:12-04:00",
+        "published_date": "2025-05-02T00:01:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/climate/02cli-australia-election/02cli-australia-election-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Mount Owen coal mine in Ravensworth, Australia, in 2022.",
+                "copyright": "Loren Elliott/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/climate/02cli-australia-election/02cli-australia-election-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Mount Owen coal mine in Ravensworth, Australia, in 2022.",
+                "copyright": "Loren Elliott/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/climate/02cli-australia-election/02cli-australia-election-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Mount Owen coal mine in Ravensworth, Australia, in 2022.",
+                "copyright": "Loren Elliott/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "The Trump Factor Looms Over Australia’s Election",
+        "abstract": "The last time Australians went to the polls, China was top of mind. This time, the United States is the dominant foreign factor in an election mostly fought on domestic issues.",
+        "url": "https://www.nytimes.com/2025/05/02/world/asia/australia-election-trump-china.html",
+        "uri": "nyt://article/3642540e-7bca-52db-96cb-7a1ec213862d",
+        "byline": "By Victoria Kim",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T00:01:06-04:00",
+        "created_date": "2025-05-02T00:01:06-04:00",
+        "published_date": "2025-05-02T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "International Trade and World Market",
+            "Elections"
+        ],
+        "org_facet": [
+            "Labor Party (Australia)",
+            "Liberal Party (Australia)"
+        ],
+        "per_facet": [
+            "Albanese, Anthony (1963- )",
+            "Dutton, Peter C",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Australia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01oz-us-china-01-zvqg/01oz-us-china-01-zvqg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "This election has the most fraught geopolitical backdrop in recent memory for Australia. Last week, some voters cast early ballots at a polling station in Sydney.",
+                "copyright": "Hollie Adams/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01oz-us-china-01-zvqg/01oz-us-china-01-zvqg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "This election has the most fraught geopolitical backdrop in recent memory for Australia. Last week, some voters cast early ballots at a polling station in Sydney.",
+                "copyright": "Hollie Adams/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/01oz-us-china-01-zvqg/01oz-us-china-01-zvqg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "This election has the most fraught geopolitical backdrop in recent memory for Australia. Last week, some voters cast early ballots at a polling station in Sydney.",
+                "copyright": "Hollie Adams/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
