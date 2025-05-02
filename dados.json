@@ -61061,5 +61061,255 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Reform U.K. Wins Special Election by Six Votes, in Blow to Starmer",
+        "abstract": "Nigel Farage’s right-wing populist party snatched a battleground parliamentary seat from the governing Labour Party.",
+        "url": "https://www.nytimes.com/2025/05/02/world/europe/uk-election-reform-labour-runcorn.html",
+        "uri": "nyt://article/d50dc1c3-ec32-59e7-bdd0-6af583acfae3",
+        "byline": "By Mark Landler and Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T01:19:38-04:00",
+        "created_date": "2025-05-02T01:03:36-04:00",
+        "published_date": "2025-05-02T01:03:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Polls and Public Opinion",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "Reform UK (British Political Party)",
+            "Conservative Party (Great Britain)",
+            "Labour Party (Great Britain)"
+        ],
+        "per_facet": [
+            "Badenoch, Kemi",
+            "Starmer, Keir",
+            "Farage, Nigel (1964- )",
+            "Amesbury, Mike (1969- )"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-uk-elections-bmzq/02int-uk-elections-bmzq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1341,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A polling station in Runcorn and Helsby, a parliamentary constituency that had long been considered a safe seat for the Labour Party.",
+                "copyright": "Phil Noble/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-uk-elections-bmzq/02int-uk-elections-bmzq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A polling station in Runcorn and Helsby, a parliamentary constituency that had long been considered a safe seat for the Labour Party.",
+                "copyright": "Phil Noble/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-uk-elections-bmzq/02int-uk-elections-bmzq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A polling station in Runcorn and Helsby, a parliamentary constituency that had long been considered a safe seat for the Labour Party.",
+                "copyright": "Phil Noble/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Launches Airstrikes Near Presidential Palace in Damascus",
+        "abstract": "It was the second time in days that Israel had intervened militarily in Syria amid sectarian violence targeting the Druse.",
+        "url": "https://www.nytimes.com/2025/05/02/world/middleeast/israel-syria-druse-strikes.html",
+        "uri": "nyt://article/aa43e491-9a8e-5778-b986-7043162b3587",
+        "byline": "By Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T00:50:28-04:00",
+        "created_date": "2025-05-02T00:50:28-04:00",
+        "published_date": "2025-05-02T00:50:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Druse (Sect)",
+            "War and Armed Conflicts",
+            "Sunni Muslims"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Damascus (Syria)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-israel-syria-qkzv/02int-israel-syria-qkzv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Syrian security forces checking vehicles at the entrance of the Druse town of Sahnaya, Syria, on Thursday.",
+                "copyright": "Yamam Al Shaar/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-israel-syria-qkzv/02int-israel-syria-qkzv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Syrian security forces checking vehicles at the entrance of the Druse town of Sahnaya, Syria, on Thursday.",
+                "copyright": "Yamam Al Shaar/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-israel-syria-qkzv/02int-israel-syria-qkzv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Syrian security forces checking vehicles at the entrance of the Druse town of Sahnaya, Syria, on Thursday.",
+                "copyright": "Yamam Al Shaar/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "China Is Considering Trade Talks With U.S., but It Has Conditions",
+        "abstract": "Despite mounting financial pressure, China says it won’t negotiate until the Trump administration shows “sincerity” by canceling tariffs on its goods.",
+        "url": "https://www.nytimes.com/2025/05/02/world/asia/china-us-tariffs-talks.html",
+        "uri": "nyt://article/4867cea6-ed0d-53ac-b374-205854012220",
+        "byline": "By David Pierson and Joy Dong",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T00:38:03-04:00",
+        "created_date": "2025-05-02T00:38:03-04:00",
+        "published_date": "2025-05-02T00:38:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States Politics and Government",
+            "United States International Relations",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Factories and Manufacturing"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-china-us-hlzw/02int-china-us-hlzw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A worker at a garment factory last month in Guangzhou, the export hub in southern China.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-china-us-hlzw/02int-china-us-hlzw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A worker at a garment factory last month in Guangzhou, the export hub in southern China.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-china-us-hlzw/02int-china-us-hlzw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A worker at a garment factory last month in Guangzhou, the export hub in southern China.",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "What a Disappearing Tariff Loophole Could Mean for Your Next Online Order",
+        "abstract": "An exemption that allowed cheap Chinese goods to enter the United States duty free was eliminated on Friday, which could lead to higher prices and delays on purchases.",
+        "url": "https://www.nytimes.com/interactive/2025/05/02/world/asia/tariffs-orders-packages-china-us.html",
+        "uri": "nyt://interactive/5179e27b-8ef4-5915-a136-ee1b82cfbee6",
+        "byline": "By Agnes Chang and Pablo Robles",
+        "item_type": "Interactive",
+        "updated_date": "2025-05-02T00:30:59-04:00",
+        "created_date": "2025-05-02T00:30:59-04:00",
+        "published_date": "2025-05-02T00:30:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "International Trade and World Market",
+            "E-Commerce"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/2025-04-25-de-minimis-index/2025-04-25-de-minimis-index-superJumbo-v5.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/2025-04-25-de-minimis-index/2025-04-25-de-minimis-index-threeByTwoSmallAt2X-v7.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/2025-04-25-de-minimis-index/2025-04-25-de-minimis-index-thumbLarge-v5.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
