@@ -62097,5 +62097,307 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Six Deadly Minutes: How Israeli Soldiers Killed 15 Rescue Workers in Gaza",
+        "abstract": "Israel’s military said it was reacting to an immediate threat when it killed 15 medics and first responders in Gaza in March. But eyewitness accounts and an analysis of videos, audio and autopsy reports show that multiple soldiers fired over the course of six minutes at unarmed emergency workers who never posed a threat.",
+        "url": "https://www.nytimes.com/video/world/middleeast/100000010140613/israel-gaza-medics-attack-idf.html",
+        "uri": "nyt://video/dc75d651-07eb-5f34-a507-02660e86fff2",
+        "byline": "By The New York Times",
+        "item_type": "Video",
+        "updated_date": "2025-05-02T05:58:08-04:00",
+        "created_date": "2025-05-02T05:00:16-04:00",
+        "published_date": "2025-05-02T05:00:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "your-feed-visual-investigations",
+            "vis-video"
+        ],
+        "org_facet": [
+            "International Federation of Red Cross and Red Crescent Societies"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Rafah (Gaza Strip)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/world/middleeast/050125_VI_PRCS_NR-FINAL-Cover/050125_VI_PRCS_NR-FINAL-Cover-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1920,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "by The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/world/middleeast/050125_VI_PRCS_NR-FINAL-Cover/050125_VI_PRCS_NR-FINAL-Cover-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "by The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/world/middleeast/050125_VI_PRCS_NR-FINAL-Cover/050125_VI_PRCS_NR-FINAL-Cover-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "by The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Germany’s Intelligence Agency Labels Far-Right AfD as Extremist",
+        "abstract": "The designation is certain to inflame debates over whether the party should be banned, though some polls show it to be the most popular in the country.",
+        "url": "https://www.nytimes.com/2025/05/02/world/europe/germany-afd-far-right-extremist.html",
+        "uri": "nyt://article/3278cffc-2d30-5cf2-865e-9c8aa7a623c8",
+        "byline": "By Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T09:21:45-04:00",
+        "created_date": "2025-05-02T08:57:55-04:00",
+        "published_date": "2025-05-02T08:57:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Right-Wing Extremism and Alt-Right",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Alternative for Germany"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02-int-germany-afd-tcwq/02-int-germany-afd-tcwq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alice Weidel, an Alternative for Germany leader, speaking at a party conference in Riesa, Germany, in January.",
+                "copyright": "Sergey Ponomarev for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02-int-germany-afd-tcwq/02-int-germany-afd-tcwq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alice Weidel, an Alternative for Germany leader, speaking at a party conference in Riesa, Germany, in January.",
+                "copyright": "Sergey Ponomarev for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02-int-germany-afd-tcwq/02-int-germany-afd-tcwq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alice Weidel, an Alternative for Germany leader, speaking at a party conference in Riesa, Germany, in January.",
+                "copyright": "Sergey Ponomarev for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Explosions Cripple Ship Carrying Aid to Gaza in the Mediterranean Sea",
+        "abstract": "A human rights group operating the ship blamed a drone attack for the explosions, which caused a fire on the vessel. The crew was safe and remained on board.",
+        "url": "https://www.nytimes.com/2025/05/02/world/europe/freedom-flotilla-ship-aid-gaza-malta-thunberg.html",
+        "uri": "nyt://article/c3018b8b-88b5-5efa-a1e4-c0e6b236e625",
+        "byline": "By John Yoon",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T08:36:37-04:00",
+        "created_date": "2025-05-02T08:31:13-04:00",
+        "published_date": "2025-05-02T08:31:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Fires and Firefighters",
+            "Israel-Gaza War (2023- )",
+            "Humanitarian Aid",
+            "International Relations",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Mediterranean Sea",
+            "Malta",
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02xp-gaza-ship-tvgf/02xp-gaza-ship-tvgf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1200,
+                "width": 1600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A tug vessel putting out a fire on a ship bound for Gaza off the coast of Malta on Friday, in a handout picture provided by the Maltese government. ",
+                "copyright": "Government of Malta, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02xp-gaza-ship-tvgf/02xp-gaza-ship-tvgf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A tug vessel putting out a fire on a ship bound for Gaza off the coast of Malta on Friday, in a handout picture provided by the Maltese government. ",
+                "copyright": "Government of Malta, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02xp-gaza-ship-tvgf/02xp-gaza-ship-tvgf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A tug vessel putting out a fire on a ship bound for Gaza off the coast of Malta on Friday, in a handout picture provided by the Maltese government. ",
+                "copyright": "Government of Malta, via Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Launches Airstrikes Near Syrian Presidential Palace",
+        "abstract": "It was the second time in days that Israel had intervened militarily in Syria amid a wave of sectarian violence there.",
+        "url": "https://www.nytimes.com/2025/05/02/world/middleeast/israel-syria-druse-strikes.html",
+        "uri": "nyt://article/aa43e491-9a8e-5778-b986-7043162b3587",
+        "byline": "By Ephrat Livni and Michael D. Shear",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T09:13:24-04:00",
+        "created_date": "2025-05-02T00:50:28-04:00",
+        "published_date": "2025-05-02T00:50:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Druse (Sect)",
+            "War and Armed Conflicts",
+            "Sunni Muslims"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Assad, Bashar al-"
+        ],
+        "geo_facet": [
+            "Damascus (Syria)",
+            "Syria",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-israel-syria-qkzv/02int-israel-syria-qkzv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Syrian security forces checking vehicles at the entrance of the Druse town of Sahnaya, Syria, on Thursday.",
+                "copyright": "Yamam Al Shaar/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-israel-syria-qkzv/02int-israel-syria-qkzv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Syrian security forces checking vehicles at the entrance of the Druse town of Sahnaya, Syria, on Thursday.",
+                "copyright": "Yamam Al Shaar/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02int-israel-syria-qkzv/02int-israel-syria-qkzv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Syrian security forces checking vehicles at the entrance of the Druse town of Sahnaya, Syria, on Thursday.",
+                "copyright": "Yamam Al Shaar/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Prince Harry Loses Latest Court Battle Over His Security in the U.K.",
+        "abstract": "The decision is the latest stage in his case against the government over his right to automatic police protection in Britain.",
+        "url": "https://www.nytimes.com/2025/05/02/world/europe/prince-harry-security-uk-court.html",
+        "uri": "nyt://article/e7d44e97-469f-56fc-a610-59de702ceb6f",
+        "byline": "By Lizzie Dearden",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T09:17:24-04:00",
+        "created_date": "2025-05-02T09:15:17-04:00",
+        "published_date": "2025-05-02T09:15:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Royal Families"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Harry, Duke of Sussex"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02INT-UK-HARRY-SECURITY-HFO-ctpv/02INT-UK-HARRY-SECURITY-HFO-ctpv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Harry leaves the Royal Courts of Justice in London in April.",
+                "copyright": "Carl Court/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02INT-UK-HARRY-SECURITY-HFO-ctpv/02INT-UK-HARRY-SECURITY-HFO-ctpv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Harry leaves the Royal Courts of Justice in London in April.",
+                "copyright": "Carl Court/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/02INT-UK-HARRY-SECURITY-HFO-ctpv/02INT-UK-HARRY-SECURITY-HFO-ctpv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prince Harry leaves the Royal Courts of Justice in London in April.",
+                "copyright": "Carl Court/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
