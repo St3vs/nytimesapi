@@ -63604,5 +63604,135 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "",
+        "title": "The Frightening Precedents for Trump’s ‘Legal Abyss’",
+        "abstract": "The ‘dual-state theory’ explains how authoritarians bend the law to their will.",
+        "url": "https://www.nytimes.com/2025/05/03/world/trump-dual-state.html",
+        "uri": "nyt://article/e9659d7a-e5cf-56b6-a099-accd1ea407ee",
+        "byline": "By Amanda Taub",
+        "item_type": "Article",
+        "updated_date": "2025-05-03T05:01:04-04:00",
+        "created_date": "2025-05-03T05:01:04-04:00",
+        "published_date": "2025-05-03T05:01:04-04:00",
+        "material_type_facet": "",
+        "kicker": "The Interpreter",
+        "des_facet": [
+            "United States Politics and Government",
+            "Deportation",
+            "Law and Legislation",
+            "Presidential Power (US)",
+            "Politics and Government",
+            "Authoritarianism (Theory and Philosophy)",
+            "Alien Enemies Act (1798)",
+            "Nineteen Hundred Thirties"
+        ],
+        "org_facet": [
+            "Homeland Security Department",
+            "State Department",
+            "Supreme Court (US)"
+        ],
+        "per_facet": [
+            "Bukele, Nayib",
+            "Ozturk, Rumeysa",
+            "Hitler, Adolf",
+            "Bush, George W",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/us/26idea-dual-top/26idea-dual-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo illustration by Ricardo Tomas"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/us/26idea-dual-top/26idea-dual-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo illustration by Ricardo Tomas"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/26/us/26idea-dual-top/26idea-dual-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Photo illustration by Ricardo Tomas"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "The Americans Who Left",
+        "abstract": "Some of the United States’ Vietnam War opponents found refuge in Canada. Fifty years after the end of the war, they’re still worried about the future.",
+        "url": "https://www.nytimes.com/2025/05/03/world/canada/vietnam-war-opponents-canada-america.html",
+        "uri": "nyt://article/7a18ad86-f0a6-5a1b-a457-2cc839668df2",
+        "byline": "By Ruth Fremson",
+        "item_type": "Article",
+        "updated_date": "2025-05-03T05:00:09-04:00",
+        "created_date": "2025-05-03T05:00:09-04:00",
+        "published_date": "2025-05-03T05:00:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-photo",
+            "Vietnam War",
+            "Draft and Recruitment (Military)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Canada",
+            "British Columbia (Canada)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2024/10/02/multimedia/00canada-resisters-promo/00canada-resisters-visual-1-fmgj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John Bergenske, 75, at home in Skookumchuck, British Columbia. Mr. Bergenske flunked his military physical and got conscientious objector status before moving to British Columbia in 1970. For the past five decades, he has been working on environmental issues.",
+                "copyright": "Ruth Fremson/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/10/02/multimedia/00canada-resisters-promo/00canada-resisters-visual-1-fmgj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John Bergenske, 75, at home in Skookumchuck, British Columbia. Mr. Bergenske flunked his military physical and got conscientious objector status before moving to British Columbia in 1970. For the past five decades, he has been working on environmental issues.",
+                "copyright": "Ruth Fremson/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2024/10/02/multimedia/00canada-resisters-promo/00canada-resisters-visual-1-fmgj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John Bergenske, 75, at home in Skookumchuck, British Columbia. Mr. Bergenske flunked his military physical and got conscientious objector status before moving to British Columbia in 1970. For the past five decades, he has been working on environmental issues.",
+                "copyright": "Ruth Fremson/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
