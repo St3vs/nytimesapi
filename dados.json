@@ -64106,5 +64106,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "‘We’re All in One Ship’: Druse in Syrian Town Rocked by Violence Agree to Disarm Militias",
+        "abstract": "After this week’s bloodshed, Druse leaders in Ashrafieh Sahnaya agreed to integrate militia fighters into government forces. But some residents remain wary.",
+        "url": "https://www.nytimes.com/2025/05/03/world/middleeast/syria-druse-sectarian-violence.html",
+        "uri": "nyt://article/fd979ac6-05d5-5cbb-8ef0-1a4c14b4786c",
+        "byline": "By Vivian Yee, Hwaida Saad and Nanna Heitmann",
+        "item_type": "Article",
+        "updated_date": "2025-05-03T06:54:03-04:00",
+        "created_date": "2025-05-03T06:54:03-04:00",
+        "published_date": "2025-05-03T06:54:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Druse (Sect)",
+            "War and Armed Conflicts",
+            "Fringe Groups and Movements",
+            "Deaths (Fatalities)",
+            "Religion-State Relations",
+            "Sunni Muslims",
+            "Peace Process"
+        ],
+        "org_facet": [
+            "Hayat Tahrir al-Sham"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Syria",
+            "Ashrafieh Sahnaya (Syria)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-syria-scene-klhj-copy-PROMO/03int-syria-scene-klhj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security forces escorted a delegation of Druse leaders and government officials through the streets of Ashrafieh Sahnaya, Syria, on Friday after deadly sectarian clashes erupted this week.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-syria-scene-klhj-copy-PROMO/03int-syria-scene-klhj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security forces escorted a delegation of Druse leaders and government officials through the streets of Ashrafieh Sahnaya, Syria, on Friday after deadly sectarian clashes erupted this week.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-syria-scene-klhj-copy-PROMO/03int-syria-scene-klhj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Security forces escorted a delegation of Druse leaders and government officials through the streets of Ashrafieh Sahnaya, Syria, on Friday after deadly sectarian clashes erupted this week.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
