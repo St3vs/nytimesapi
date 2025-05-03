@@ -64293,5 +64293,137 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Ukraine Rejects Russian Call for a Three-Day Cease-Fire",
+        "abstract": "President Volodymyr Zelensky called the proposal a “theatrical show” and said that such a short truce would not bolster negotiations for a lasting peace.",
+        "url": "https://www.nytimes.com/2025/05/03/world/europe/ukraine-russia-ceasefire-talks.html",
+        "uri": "nyt://article/45478d31-aa74-5c12-9bbf-7b88f1c0fd0d",
+        "byline": "By Andrew E. Kramer",
+        "item_type": "Article",
+        "updated_date": "2025-05-03T12:21:16-04:00",
+        "created_date": "2025-05-03T12:21:16-04:00",
+        "published_date": "2025-05-03T12:21:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Peace Process",
+            "Defense and Military Forces",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Trump, Donald J",
+            "Putin, Vladimir V"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Kyiv (Ukraine)",
+            "Moscow (Russia)",
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-ukraine-talks-01-wpkc/03int-ukraine-talks-01-wpkc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky, with diplomats standing behind him, near a residential building destroyed by a missile attack in Kyiv last month.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-ukraine-talks-01-wpkc/03int-ukraine-talks-01-wpkc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky, with diplomats standing behind him, near a residential building destroyed by a missile attack in Kyiv last month.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-ukraine-talks-01-wpkc/03int-ukraine-talks-01-wpkc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Volodymyr Zelensky, with diplomats standing behind him, near a residential building destroyed by a missile attack in Kyiv last month.",
+                "copyright": "Tetiana Dzhafarova/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Hikers Stumble Upon a Pile of Gold Coins, Igniting a Historical Hunt",
+        "abstract": "The discovery of coins and jewelry in the Czech Republic worth up to $680,000 raises a tantalizing mystery for historians and amateur sleuths: Who buried the treasure?",
+        "url": "https://www.nytimes.com/2025/05/03/world/europe/czech-treasure-gold-discovery.html",
+        "uri": "nyt://article/5c5355c3-5602-5f9a-ac16-fd02ab49e35b",
+        "byline": "By Sara Cincurova and Jonathan Wolfe",
+        "item_type": "Article",
+        "updated_date": "2025-05-03T11:25:17-04:00",
+        "created_date": "2025-05-03T11:25:17-04:00",
+        "published_date": "2025-05-03T11:25:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Gold",
+            "Hikes and Hiking",
+            "Coins",
+            "Jewels and Jewelry",
+            "Treasure Troves",
+            "Archaeology and Anthropology",
+            "Holocaust and the Nazi Era",
+            "World War II (1939-45)"
+        ],
+        "org_facet": [
+            "Museum of Eastern Bohemia"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Czech Republic"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/world/03xp-czech-treasure/03xp-czech-treasure-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasure found hidden in the foothills of the Krkonose Mountains in the Czech Republic by two hikers in February.",
+                "copyright": "Museum of Eastern Bohemia"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/world/03xp-czech-treasure/03xp-czech-treasure-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasure found hidden in the foothills of the Krkonose Mountains in the Czech Republic by two hikers in February.",
+                "copyright": "Museum of Eastern Bohemia"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/world/03xp-czech-treasure/03xp-czech-treasure-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Treasure found hidden in the foothills of the Krkonose Mountains in the Czech Republic by two hikers in February.",
+                "copyright": "Museum of Eastern Bohemia"
+            }
+        ],
+        "short_url": ""
     }
 ]
