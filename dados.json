@@ -63734,5 +63734,377 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "These Contentious Issues Could Determine Who Becomes the Next Pope",
+        "abstract": "As cardinals gather to elect Pope Francis’ successor, they are facing debates over whether the church most needs change or constancy.",
+        "url": "https://www.nytimes.com/2025/05/03/world/europe/pope-conclave-contentious-issues.html",
+        "uri": "nyt://article/1ce9015b-8809-5dd5-8e1b-f5db60df87b4",
+        "byline": "By Motoko Rich",
+        "item_type": "Article",
+        "updated_date": "2025-05-03T05:32:09-04:00",
+        "created_date": "2025-05-03T05:32:09-04:00",
+        "published_date": "2025-05-03T05:32:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Clergy",
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)",
+            "Religion and Belief"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03conclave-challenges-explainer-1-qwlg/03conclave-challenges-explainer-1-qwlg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals at Pope Francis’ funeral last weekend.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03conclave-challenges-explainer-1-qwlg/03conclave-challenges-explainer-1-qwlg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals at Pope Francis’ funeral last weekend.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03conclave-challenges-explainer-1-qwlg/03conclave-challenges-explainer-1-qwlg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals at Pope Francis’ funeral last weekend.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "As China Looks for Way Out of U.S. Trade Deadlock, Fentanyl Could Be Key",
+        "abstract": "Chinese officials have long used their willingness to cooperate to stem the flow of fentanyl to the United States as leverage in talks over broader disputes.",
+        "url": "https://www.nytimes.com/2025/05/03/world/asia/us-china-tariffs-fentanyl.html",
+        "uri": "nyt://article/98279d59-4563-55f0-8157-70f13ff241a4",
+        "byline": "By David Pierson and Joy Dong",
+        "item_type": "Article",
+        "updated_date": "2025-05-03T05:26:34-04:00",
+        "created_date": "2025-05-03T05:26:34-04:00",
+        "published_date": "2025-05-03T05:26:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Fentanyl",
+            "Customs (Tariff)",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "Ministry of Commerce (China)"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03china-us-fentanyl-flhz/03china-us-fentanyl-flhz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China is the main source of chemicals used to make fentanyl.",
+                "copyright": "Meridith Kohut for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03china-us-fentanyl-flhz/03china-us-fentanyl-flhz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China is the main source of chemicals used to make fentanyl.",
+                "copyright": "Meridith Kohut for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03china-us-fentanyl-flhz/03china-us-fentanyl-flhz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "China is the main source of chemicals used to make fentanyl.",
+                "copyright": "Meridith Kohut for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Cardinal Parolin, Leader of Papal Conclave, Is Also a Top Candidate",
+        "abstract": "Cardinals have talked about Cardinal Pietro Parolin, the Vatican secretary of state, as someone who could have a steady, bureaucratic hand on the church’s wheel.",
+        "url": "https://www.nytimes.com/2025/05/03/world/europe/pope-conclave-cardinal-pietro-parolin.html",
+        "uri": "nyt://article/388ac36f-9315-55e0-9534-7fedd36f3dec",
+        "byline": "By Jason Horowitz and Patricia Mazzei",
+        "item_type": "Article",
+        "updated_date": "2025-05-03T06:14:30-04:00",
+        "created_date": "2025-05-03T06:14:30-04:00",
+        "published_date": "2025-05-03T06:14:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)",
+            "International Relations"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Parolin, Pietro",
+            "Francis"
+        ],
+        "geo_facet": [
+            "Italy"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-parolin-profile-mcpj/03int-parolin-profile-mcpj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Pietro Parolin, center, on Friday. As the leader of the Vatican machinery for the past decade, he enacted Pope Francis’ vision.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-parolin-profile-mcpj/03int-parolin-profile-mcpj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Pietro Parolin, center, on Friday. As the leader of the Vatican machinery for the past decade, he enacted Pope Francis’ vision.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-parolin-profile-mcpj/03int-parolin-profile-mcpj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Pietro Parolin, center, on Friday. As the leader of the Vatican machinery for the past decade, he enacted Pope Francis’ vision.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How Trump Dismantled His First-Term Policy on Crimea",
+        "abstract": "After more than three years of war, President Trump proposed a peace plan for Russia and Ukraine in late April that would have the United States recognize Moscow’s 2014 takeover of the Crimean peninsula. Michael D. Shear, a former White House correspondent for The New York Times in London, explains how the proposal, which Ukraine has rejected, is a reversal from Mr. Trump’s first term as president.",
+        "url": "https://www.nytimes.com/video/world/europe/100000010127983/trumps-u-turn-crimea.html",
+        "uri": "nyt://video/f242389e-d6fc-554d-985a-c7b2e6752131",
+        "byline": "By Michael D. Shear, Nikolay Nikolov and Laura Salaberry",
+        "item_type": "Video",
+        "updated_date": "2025-05-03T04:00:55-04:00",
+        "created_date": "2025-05-03T00:01:01-04:00",
+        "published_date": "2025-05-03T00:01:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Crimea (Ukraine)",
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/world/europe/shear/shear-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1103,
+                "width": 735,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/world/europe/shear/shear-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/world/europe/shear/shear-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Memory Palace",
+        "abstract": "Memorizing a poem is like taking a work of art that you love and letting it live and bloom inside of you.",
+        "url": "https://www.nytimes.com/2025/05/03/briefing/memory-palace.html",
+        "uri": "nyt://article/cb78b7de-3d4a-54d0-b02d-e5a80e3e7f94",
+        "byline": "By Melissa Kirsch",
+        "item_type": "Article",
+        "updated_date": "2025-05-03T06:09:08-04:00",
+        "created_date": "2025-05-03T06:09:08-04:00",
+        "published_date": "2025-05-03T06:09:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "internal-storyline-no",
+            "Poetry and Poets",
+            "Books and Literature"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Milne, A A"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03themorning-nl/03themorning-nl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "María Jesús Contreras"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03themorning-nl/03themorning-nl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "María Jesús Contreras"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03themorning-nl/03themorning-nl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "María Jesús Contreras"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "After Leading a Liberal Comeback, Carney Hits the Ground Running",
+        "abstract": "The prime minister will begin broad economic and security talks with President Trump next week and has set a timetable for his new government.",
+        "url": "https://www.nytimes.com/2025/05/03/world/canada/carney-new-government.html",
+        "uri": "nyt://article/ed77dd71-17ba-5c0a-8177-138719367bad",
+        "byline": "By Ian Austen",
+        "item_type": "Article",
+        "updated_date": "2025-05-03T06:00:06-04:00",
+        "created_date": "2025-05-03T06:00:06-04:00",
+        "published_date": "2025-05-03T06:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Conservative Party (Canada)",
+            "Liberal Party (Canada)"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Charles III, King of the United Kingdom",
+            "Fanjoy, Bruce",
+            "Poilievre, Pierre",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada",
+            "Alberta (Canada)",
+            "Ottawa (Ontario)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03canadaletter-carney-qbgl/03canadaletter-carney-qbgl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney on election night.",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03canadaletter-carney-qbgl/03canadaletter-carney-qbgl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney on election night.",
+                "copyright": "Cole Burston for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03canadaletter-carney-qbgl/03canadaletter-carney-qbgl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney on election night.",
+                "copyright": "Cole Burston for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
