@@ -64492,5 +64492,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "In Singapore’s Election, a Blow to the Fledgling Opposition",
+        "abstract": "The People’s Action Party continued its six-decade reign, as was widely expected. But many had anticipated it to lose more ground to the opposition.",
+        "url": "https://www.nytimes.com/2025/05/02/world/asia/singapore-election-pap-workers.html",
+        "uri": "nyt://article/83c29cd7-51c2-546c-acd5-4fda53220706",
+        "byline": "By Sui-Lee Wee",
+        "item_type": "Article",
+        "updated_date": "2025-05-03T14:40:03-04:00",
+        "created_date": "2025-05-02T20:00:06-04:00",
+        "published_date": "2025-05-02T20:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Elections"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Singh, Pritam (1976- )",
+            "Wong, Lawrence (1972- )"
+        ],
+        "geo_facet": [
+            "Singapore"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-singapore-election-vftp/03int-singapore-election-vftp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People gathered at Serangoon Stadium waiting for the results of the general election in Singapore on Saturday.",
+                "copyright": "Mohd Rasfan/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-singapore-election-vftp/03int-singapore-election-vftp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People gathered at Serangoon Stadium waiting for the results of the general election in Singapore on Saturday.",
+                "copyright": "Mohd Rasfan/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-singapore-election-vftp/03int-singapore-election-vftp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People gathered at Serangoon Stadium waiting for the results of the general election in Singapore on Saturday.",
+                "copyright": "Mohd Rasfan/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
