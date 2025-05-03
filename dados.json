@@ -64425,5 +64425,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Oil Prices Are Falling. Here’s Where That Could Spell Trouble.",
+        "abstract": "For countries that depend heavily on oil revenue, dropping prices are worrisome.",
+        "url": "https://www.nytimes.com/2025/05/03/world/europe/oil-prices-tariffs.html",
+        "uri": "nyt://article/abbe513d-3440-58c4-baf0-e665aaa83919",
+        "byline": "By Neil MacFarquhar",
+        "item_type": "Article",
+        "updated_date": "2025-05-03T12:59:12-04:00",
+        "created_date": "2025-05-03T12:59:12-04:00",
+        "published_date": "2025-05-03T12:59:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Oil (Petroleum) and Gasoline",
+            "International Relations",
+            "Prices (Fares, Fees and Rates)",
+            "Demonstrations, Protests and Riots",
+            "Russian Invasion of Ukraine (2022)",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "Organization of the Petroleum Exporting Countries"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Iran",
+            "Iraq",
+            "Libya",
+            "Nigeria",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/4int-globaloil-plch/4int-globaloil-plch-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gas flares lit the night sky in Punta de Mata, an oil producing area in Venezuela. ",
+                "copyright": "Adriana Loureiro Fernandez for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/4int-globaloil-plch/4int-globaloil-plch-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gas flares lit the night sky in Punta de Mata, an oil producing area in Venezuela. ",
+                "copyright": "Adriana Loureiro Fernandez for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/4int-globaloil-plch/4int-globaloil-plch-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gas flares lit the night sky in Punta de Mata, an oil producing area in Venezuela. ",
+                "copyright": "Adriana Loureiro Fernandez for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
