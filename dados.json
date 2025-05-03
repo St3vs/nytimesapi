@@ -64552,5 +64552,71 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Poised to Expand Gaza Offensive, Israel Calls Up Thousands of Reserve Soldiers",
+        "abstract": "The mobilization could indicate that the Israeli government is preparing to shift its tactics in its fight against Hamas.",
+        "url": "https://www.nytimes.com/2025/05/03/world/middleeast/israel-mobilizes-reservists-gaza.html",
+        "uri": "nyt://article/2bad7164-22bb-57f5-b18f-fbfffede0452",
+        "byline": "By Aaron Boxerman and Natan Odenheimer",
+        "item_type": "Article",
+        "updated_date": "2025-05-03T16:46:37-04:00",
+        "created_date": "2025-05-03T16:46:37-04:00",
+        "published_date": "2025-05-03T16:46:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "International Relations",
+            "Defense and Military Forces",
+            "Palestinians",
+            "Kidnapping and Hostages",
+            "Peace Process"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-israel-reservists-pzcj/03int-israel-reservists-pzcj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Israeli soldiers in the central Gaza Strip last January, during an escorted media tour by the military.",
+                "copyright": "Avishag Shaar-Yashuv for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-israel-reservists-pzcj/03int-israel-reservists-pzcj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Israeli soldiers in the central Gaza Strip last January, during an escorted media tour by the military.",
+                "copyright": "Avishag Shaar-Yashuv for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-israel-reservists-pzcj/03int-israel-reservists-pzcj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Israeli soldiers in the central Gaza Strip last January, during an escorted media tour by the military.",
+                "copyright": "Avishag Shaar-Yashuv for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
