@@ -63420,5 +63420,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "In Singapore’s Election, All Eyes Are on the Margin of Victory, Not the Winner",
+        "abstract": "The People’s Action Party is widely expected to continue its six-decade reign. But discontent with its policies is fueling a growing opposition.",
+        "url": "https://www.nytimes.com/2025/05/02/world/asia/singapore-election-pap-workers.html",
+        "uri": "nyt://article/83c29cd7-51c2-546c-acd5-4fda53220706",
+        "byline": "By Sui-Lee Wee",
+        "item_type": "Article",
+        "updated_date": "2025-05-02T20:00:06-04:00",
+        "created_date": "2025-05-02T20:00:06-04:00",
+        "published_date": "2025-05-02T20:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Elections"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Singh, Pritam (1976- )",
+            "Wong, Lawrence (1972- )"
+        ],
+        "geo_facet": [
+            "Singapore"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-singapore-election-lcvp/03int-singapore-election-lcvp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Workers’ Party supporters attending a final rally ahead of the general election in Singapore on Thursday.",
+                "copyright": "Edgar Su/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-singapore-election-lcvp/03int-singapore-election-lcvp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Workers’ Party supporters attending a final rally ahead of the general election in Singapore on Thursday.",
+                "copyright": "Edgar Su/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-singapore-election-lcvp/03int-singapore-election-lcvp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Workers’ Party supporters attending a final rally ahead of the general election in Singapore on Thursday.",
+                "copyright": "Edgar Su/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
