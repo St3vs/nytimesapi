@@ -63480,5 +63480,129 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Ghana Wanted a Cathedral. It Got an ‘Expensive Hole’ Instead.",
+        "abstract": "The nation had grand plans for a national cathedral designed by a celebrity architect. The $400 million project became a political battleground.",
+        "url": "https://www.nytimes.com/2025/05/03/world/africa/ghana-cathedral-christian-corruption-hole.html",
+        "uri": "nyt://article/3c4fd71a-1097-5dac-848d-984717a43ff2",
+        "byline": "By Ruth Maclean and Francis Kokoroko",
+        "item_type": "Article",
+        "updated_date": "2025-05-03T00:01:10-04:00",
+        "created_date": "2025-05-03T00:01:10-04:00",
+        "published_date": "2025-05-03T00:01:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Corruption (Institutional)",
+            "Churches (Buildings)",
+            "Christians and Christianity",
+            "Architecture",
+            "Monuments and Memorials (Structures)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Akufo-Addo, Nana"
+        ],
+        "geo_facet": [
+            "Accra (Ghana)",
+            "Ghana",
+            "Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/00ghana-promo/00ghana-2-lfwc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A view of an excavated section of the construction site for Ghana’s halted National Cathedral Project in Accra, Ghana, this month.",
+                "copyright": "Francis Kokoroko for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/00ghana-promo/00ghana-2-lfwc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A view of an excavated section of the construction site for Ghana’s halted National Cathedral Project in Accra, Ghana, this month.",
+                "copyright": "Francis Kokoroko for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/24/multimedia/00ghana-promo/00ghana-2-lfwc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A view of an excavated section of the construction site for Ghana’s halted National Cathedral Project in Accra, Ghana, this month.",
+                "copyright": "Francis Kokoroko for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Message From the Russian Military: ‘We Lost Your Son’",
+        "abstract": "Russia lacks any formal, organized effort to account for legions of missing soldiers. That often leaves relatives in limbo, fending for themselves with scant government information.",
+        "url": "https://www.nytimes.com/2025/05/03/world/europe/russia-missing-soldiers-ukraine-war.html",
+        "uri": "nyt://article/88c6814b-8a9e-52f7-b190-5576200afccc",
+        "byline": "By Neil MacFarquhar and Milana Mazaeva",
+        "item_type": "Article",
+        "updated_date": "2025-05-03T00:01:08-04:00",
+        "created_date": "2025-05-03T00:01:08-04:00",
+        "published_date": "2025-05-03T00:01:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Missing Persons"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V"
+        ],
+        "geo_facet": [
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/00int-russia-missing-01-pwtc/00int-russia-missing-01-pwtc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1380,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russian conscripts departing for their garrisons in Bataysk, Russia, last month.",
+                "copyright": "Sergey Pivovarov/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/00int-russia-missing-01-pwtc/00int-russia-missing-01-pwtc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russian conscripts departing for their garrisons in Bataysk, Russia, last month.",
+                "copyright": "Sergey Pivovarov/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/multimedia/00int-russia-missing-01-pwtc/00int-russia-missing-01-pwtc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russian conscripts departing for their garrisons in Bataysk, Russia, last month.",
+                "copyright": "Sergey Pivovarov/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
