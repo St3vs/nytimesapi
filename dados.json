@@ -64171,5 +64171,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Australia’s Prime Minister Clinches Second Term",
+        "abstract": "Heading to the polls amid global uncertainty arising from the Trump administration, voters opted for the known quantity of the incumbent leader, Anthony Albanese.",
+        "url": "https://www.nytimes.com/2025/05/02/world/asia/australia-prime-minister-election.html",
+        "uri": "nyt://article/98ad0fd8-b376-57e4-bb50-6734055c9a8b",
+        "byline": "By Victoria Kim and Yan Zhuang",
+        "item_type": "Article",
+        "updated_date": "2025-05-03T08:01:32-04:00",
+        "created_date": "2025-05-02T16:00:05-04:00",
+        "published_date": "2025-05-02T16:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Debates (Political)",
+            "Elections"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Albanese, Anthony (1963- )",
+            "Dutton, Peter C"
+        ],
+        "geo_facet": [
+            "Australia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-oz-election-hqvm/03int-oz-election-hqvm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Anthony Albanese of Australia won a second term on Saturday.",
+                "copyright": "Saeed Khan/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-oz-election-hqvm/03int-oz-election-hqvm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Anthony Albanese of Australia won a second term on Saturday.",
+                "copyright": "Saeed Khan/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-oz-election-hqvm/03int-oz-election-hqvm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Anthony Albanese of Australia won a second term on Saturday.",
+                "copyright": "Saeed Khan/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
