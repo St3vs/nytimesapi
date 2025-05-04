@@ -65444,5 +65444,64 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Sudan’s Army Says Paramilitary Forces Struck Civilian Targets",
+        "abstract": "The strikes targeted an airport, a warehouse and several civilian facilities in the eastern city of Port Sudan, the army said.",
+        "url": "https://www.nytimes.com/2025/05/04/world/africa/sudan-war-port-sudan.html",
+        "uri": "nyt://article/d99c6fde-1127-524b-94d6-3018466ab2b1",
+        "byline": "By Abdalrahman Altayeb and Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-05-04T16:15:54-04:00",
+        "created_date": "2025-05-04T16:15:54-04:00",
+        "published_date": "2025-05-04T16:15:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [
+            "Rapid Support Forces (Sudan)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Sudan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-sudan-vzkm/04int-sudan-vzkm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising from the airport of Port Sudan after the reported strikes early on Sunday.",
+                "copyright": "-/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-sudan-vzkm/04int-sudan-vzkm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising from the airport of Port Sudan after the reported strikes early on Sunday.",
+                "copyright": "-/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-sudan-vzkm/04int-sudan-vzkm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising from the airport of Port Sudan after the reported strikes early on Sunday.",
+                "copyright": "-/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
