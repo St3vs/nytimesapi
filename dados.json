@@ -65503,5 +65503,124 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Monday Briefing: Inside Australia’s Election",
+        "abstract": "Plus, analyzing a scene in “Sinners.”",
+        "url": "https://www.nytimes.com/2025/05/04/briefing/australia-election-gaza-siege-ukraine-defense.html",
+        "uri": "nyt://article/407bbc5e-7b49-5302-8e40-6b781e942a3c",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-05-04T17:03:58-04:00",
+        "created_date": "2025-05-04T17:02:57-04:00",
+        "published_date": "2025-05-04T17:02:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/05ambriefing-asia-australia/05ambriefing-asia-australia-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1642,
+                "width": 1643,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mridula Amin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/05ambriefing-asia-australia/05ambriefing-asia-australia-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mridula Amin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/05ambriefing-asia-australia/04oz-assess-01-qtpk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Mridula Amin for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "80 Years After Dachau Concentration Camp Liberation, Witnesses Remember",
+        "abstract": "The anniversary of the end of the Nazi era comes at a pivotal time for Germans. The last of the survivors, liberators and perpetrators are dying, as the far right is becoming more established.",
+        "url": "https://www.nytimes.com/2025/05/04/world/europe/dachau-camp-80-years-liberation.html",
+        "uri": "nyt://article/eaaad27d-4f1a-57a1-87cf-e11315bc6f69",
+        "byline": "By Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-05-04T16:25:17-04:00",
+        "created_date": "2025-05-04T16:25:17-04:00",
+        "published_date": "2025-05-04T16:25:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Holocaust and the Nazi Era",
+            "World War II (1939-45)",
+            "Right-Wing Extremism and Alt-Right",
+            "Concentration Camps",
+            "Funerals and Memorials",
+            "International Relations"
+        ],
+        "org_facet": [
+            "Alternative for Germany"
+        ],
+        "per_facet": [
+            "Hitler, Adolf"
+        ],
+        "geo_facet": [
+            "Dachau (Germany)",
+            "Eastern Europe",
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-germany-dachau-anniversary-zkhf/04int-germany-dachau-anniversary-zkhf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1261,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Survivors, liberators, their families and others commemorated the 80th anniversary of the liberation of the Dachau concentration camp on Sunday.",
+                "copyright": "Angelika Warmuth/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-germany-dachau-anniversary-zkhf/04int-germany-dachau-anniversary-zkhf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Survivors, liberators, their families and others commemorated the 80th anniversary of the liberation of the Dachau concentration camp on Sunday.",
+                "copyright": "Angelika Warmuth/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-germany-dachau-anniversary-zkhf/04int-germany-dachau-anniversary-zkhf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Survivors, liberators, their families and others commemorated the 80th anniversary of the liberation of the Dachau concentration camp on Sunday.",
+                "copyright": "Angelika Warmuth/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
