@@ -65190,5 +65190,129 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "British Police Arrest Iranian Nationals in Counterterrorism Investigations",
+        "abstract": "Seven Iranians were among eight men arrested in two investigations. Some of the detained were accused of preparing a terrorist attack on an unnamed site.",
+        "url": "https://www.nytimes.com/2025/05/04/world/europe/british-police-arrest-iranian-nationals-counterterrorism.html",
+        "uri": "nyt://article/4c34b2aa-3f38-5493-81f1-9162b21ec421",
+        "byline": "By Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-05-04T07:31:20-04:00",
+        "created_date": "2025-05-04T07:24:15-04:00",
+        "published_date": "2025-05-04T07:24:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Terrorism",
+            "Police"
+        ],
+        "org_facet": [
+            "Scotland Yard (Metropolitan Police Service)"
+        ],
+        "per_facet": [
+            "McCallum, Ken"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/world/04int-uk-arrests/04int-uk-arrests-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New Scotland Yard, the headquarters of the Metropolitan Police, in London. One of Britain’s top security officials said last year that Iran was a growing threat.",
+                "copyright": "Dan Kitwood/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/world/04int-uk-arrests/04int-uk-arrests-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New Scotland Yard, the headquarters of the Metropolitan Police, in London. One of Britain’s top security officials said last year that Iran was a growing threat.",
+                "copyright": "Dan Kitwood/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/world/04int-uk-arrests/04int-uk-arrests-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "New Scotland Yard, the headquarters of the Metropolitan Police, in London. One of Britain’s top security officials said last year that Iran was a growing threat.",
+                "copyright": "Dan Kitwood/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "More American Air Defense Is on the Way to Help Ukraine",
+        "abstract": "A Patriot air-defense system is moving from Israel to Ukraine, and Western allies are discussing the logistics of getting Germany or Greece to send another.",
+        "url": "https://www.nytimes.com/2025/05/04/world/europe/ukraine-russia-war-patriot-systems.html",
+        "uri": "nyt://article/4e616363-e082-5681-926b-cd8eec044631",
+        "byline": "By Kim Barker, Helene Cooper, Lara Jakes and Eric Schmitt",
+        "item_type": "Article",
+        "updated_date": "2025-05-04T08:11:13-04:00",
+        "created_date": "2025-05-04T08:11:13-04:00",
+        "published_date": "2025-05-04T08:11:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Missiles and Missile Defense Systems",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/XXint-Ukraine-patriots-bgzk/XXint-Ukraine-patriots-bgzk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "German soldiers unloading the U.S.-made Patriot surface-to-air missile system in Jasionka, Poland, in January.",
+                "copyright": "Omar Marques/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/XXint-Ukraine-patriots-bgzk/XXint-Ukraine-patriots-bgzk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "German soldiers unloading the U.S.-made Patriot surface-to-air missile system in Jasionka, Poland, in January.",
+                "copyright": "Omar Marques/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/XXint-Ukraine-patriots-bgzk/XXint-Ukraine-patriots-bgzk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "German soldiers unloading the U.S.-made Patriot surface-to-air missile system in Jasionka, Poland, in January.",
+                "copyright": "Omar Marques/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
