@@ -64743,5 +64743,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Houthi Missile Hits Near Tel Aviv Airport",
+        "abstract": "At least two people were reported injured, and flights were temporarily suspended.",
+        "url": "https://www.nytimes.com/2025/05/04/world/middleeast/houthi-missile-tel-aviv-israel.html",
+        "uri": "nyt://article/ba4ec32f-cd55-5b7e-8dc3-0d2796f44023",
+        "byline": "By Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-05-04T03:58:31-04:00",
+        "created_date": "2025-05-04T03:38:27-04:00",
+        "published_date": "2025-05-04T03:38:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Missiles and Missile Defense Systems"
+        ],
+        "org_facet": [
+            "Houthis"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Tel Aviv (Israel)",
+            "Yemen"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-israel-missile-qlfk/04int-israel-missile-qlfk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Israeli security forces near Ben-Gurion Airport near Tel Aviv on Sunday after a missile attack.",
+                "copyright": "Ohad Zwigenberg/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-israel-missile-qlfk/04int-israel-missile-qlfk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Israeli security forces near Ben-Gurion Airport near Tel Aviv on Sunday after a missile attack.",
+                "copyright": "Ohad Zwigenberg/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-israel-missile-qlfk/04int-israel-missile-qlfk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Israeli security forces near Ben-Gurion Airport near Tel Aviv on Sunday after a missile attack.",
+                "copyright": "Ohad Zwigenberg/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
