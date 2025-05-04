@@ -65379,5 +65379,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Days Before Conclave, Cardinals in Rome Pitch Messages to the Pews",
+        "abstract": "Some papal contenders offered hints in Sunday Masses at what kind of pope they might want, or want to be.",
+        "url": "https://www.nytimes.com/2025/05/04/world/europe/conclave-pope-cardinals-rome.html",
+        "uri": "nyt://article/1ab3c7bc-d58e-5d3b-a309-35621813b4f6",
+        "byline": "By Patricia Mazzei, Jason Horowitz and Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-05-04T12:52:36-04:00",
+        "created_date": "2025-05-04T12:48:30-04:00",
+        "published_date": "2025-05-04T12:48:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Clergy",
+            "Cardinals (Roman Catholic Prelates)",
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Aveline, Jean-Marc",
+            "Parolin, Pietro",
+            "Erdo, Peter",
+            "Pizzaballa, Pierbattista"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-cardinals-scene-04-kmbh/04int-cardinals-scene-04-kmbh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Jean-Marc Aveline of France greeting the faithful at Santa Maria ai Monti in Rome on Sunday.",
+                "copyright": "Bernat Armangue/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-cardinals-scene-04-kmbh/04int-cardinals-scene-04-kmbh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Jean-Marc Aveline of France greeting the faithful at Santa Maria ai Monti in Rome on Sunday.",
+                "copyright": "Bernat Armangue/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-cardinals-scene-04-kmbh/04int-cardinals-scene-04-kmbh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Jean-Marc Aveline of France greeting the faithful at Santa Maria ai Monti in Rome on Sunday.",
+                "copyright": "Bernat Armangue/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
