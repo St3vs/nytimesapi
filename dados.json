@@ -64618,5 +64618,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "After 100 Years, Britain’s Two-Party Political System May Be Crumbling",
+        "abstract": "Nigel Farage’s right-wing populist party, Reform U.K., is presenting a serious challenge to the governing Labour Party and to the opposition Conservatives.",
+        "url": "https://www.nytimes.com/2025/05/04/world/europe/england-elections-farage-reform.html",
+        "uri": "nyt://article/d627c8ba-ae50-5a03-b089-243f7a54322b",
+        "byline": "By Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-05-04T00:01:06-04:00",
+        "created_date": "2025-05-04T00:01:06-04:00",
+        "published_date": "2025-05-04T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "Politics and Government",
+            "Elections"
+        ],
+        "org_facet": [
+            "Conservative Party (Great Britain)",
+            "Labour Party (Great Britain)",
+            "Liberal Democrats (Great Britain)",
+            "Reform UK (British Political Party)"
+        ],
+        "per_facet": [
+            "Farage, Nigel (1964- )",
+            "Starmer, Keir"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-uk-election-assess-fpzg/03int-uk-election-assess-fpzg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nigel Farage, the leader of the insurgent anti-immigration Reform U.K. party, on Friday. His party made big gains in England’s local elections.",
+                "copyright": "Peter Byrne/Press Association, via The Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-uk-election-assess-fpzg/03int-uk-election-assess-fpzg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nigel Farage, the leader of the insurgent anti-immigration Reform U.K. party, on Friday. His party made big gains in England’s local elections.",
+                "copyright": "Peter Byrne/Press Association, via The Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/03int-uk-election-assess-fpzg/03int-uk-election-assess-fpzg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Nigel Farage, the leader of the insurgent anti-immigration Reform U.K. party, on Friday. His party made big gains in England’s local elections.",
+                "copyright": "Peter Byrne/Press Association, via The Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
