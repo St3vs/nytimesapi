@@ -64988,5 +64988,207 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "australia",
+        "title": "Australia’s Election Wasn’t About Trump. An Anti-Trump Wave Swept It Anyway.",
+        "abstract": "The global turmoil wreaked by President Trump’s policies made him a factor in the election, bolstering the re-election of Prime Minister Anthony Albanese.",
+        "url": "https://www.nytimes.com/2025/05/04/world/australia/albanese-labor-election-trump.html",
+        "uri": "nyt://article/4b104087-aa28-5682-968c-fb549d31fff1",
+        "byline": "By Victoria Kim and Yan Zhuang",
+        "item_type": "Article",
+        "updated_date": "2025-05-04T05:51:04-04:00",
+        "created_date": "2025-05-04T05:51:04-04:00",
+        "published_date": "2025-05-04T05:51:04-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "Politics and Government",
+            "Elections",
+            "Customs (Tariff)",
+            "Polls and Public Opinion"
+        ],
+        "org_facet": [
+            "Labor Party (Australia)",
+            "Liberal Party (Australia)"
+        ],
+        "per_facet": [
+            "Albanese, Anthony (1963- )",
+            "Dutton, Peter C"
+        ],
+        "geo_facet": [
+            "Australia",
+            "Queensland (Australia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-oz-assess-01-qtpk/04oz-assess-01-qtpk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Anthony Albanese of Australia and his party were re-elected in a landslide. ",
+                "copyright": "Mridula Amin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-oz-assess-01-qtpk/04oz-assess-01-qtpk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Anthony Albanese of Australia and his party were re-elected in a landslide. ",
+                "copyright": "Mridula Amin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-oz-assess-01-qtpk/04oz-assess-01-qtpk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Anthony Albanese of Australia and his party were re-elected in a landslide. ",
+                "copyright": "Mridula Amin for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "As Gaza Siege Grinds On, Gazan Children Go Hungry and Patients Die",
+        "abstract": "The effect of Israel’s total siege has become “catastrophic,” doctors say. Food, water and medicine shortages are prompting a surge of preventable illnesses, and deaths.",
+        "url": "https://www.nytimes.com/2025/05/04/world/europe/israel-gaza-blockade-humanitarian-crisis.html",
+        "uri": "nyt://article/5c6ccab6-e3f3-57e1-ba4c-23ce98cab49c",
+        "byline": "By Erika Solomon, Rawan Sheikh Ahmad and Saher Alghorra",
+        "item_type": "Article",
+        "updated_date": "2025-05-04T05:44:43-04:00",
+        "created_date": "2025-05-04T05:44:43-04:00",
+        "published_date": "2025-05-04T05:44:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Humanitarian Aid",
+            "Israel-Gaza War (2023- )",
+            "Food",
+            "Deaths (Fatalities)",
+            "Food Insecurity",
+            "Doctors",
+            "Shortages",
+            "Medicine and Health",
+            "Malnutrition"
+        ],
+        "org_facet": [
+            "United Nations"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-gaza-humanitarian-ktwg-promo/30int-gaza-humanitarian-ktwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-gaza-humanitarian-ktwg-promo/30int-gaza-humanitarian-ktwg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/30int-gaza-humanitarian-ktwg-promo/30int-gaza-humanitarian-ktwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A Conclave Like No Other",
+        "abstract": "More cardinals from more countries than ever will gather in the Sistine Chapel starting Wednesday to choose a new pope at a precarious time for the church.",
+        "url": "https://www.nytimes.com/2025/05/04/world/europe/papal-conclave-politics.html",
+        "uri": "nyt://article/48b72eb0-bc46-5290-93d7-f4c19c3ca644",
+        "byline": "By Jason Horowitz and Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-05-04T05:39:50-04:00",
+        "created_date": "2025-05-04T05:39:50-04:00",
+        "published_date": "2025-05-04T05:39:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Clergy",
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)",
+            "Religion and Belief"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Ambongo Besungu, Fridolin",
+            "Arborelius, Anders",
+            "Francis",
+            "Muller, Gerhard Ludwig",
+            "Parolin, Pietro",
+            "Pizzaballa, Pierbattista"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-conclave-politics-qptg/04int-conclave-politics-qptg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Firefighters installed the chimney that is used to communicate the choosing of a new pope on Friday on the roof of the Sistine Chapel in Vatican City.",
+                "copyright": "Antonio Masiello/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-conclave-politics-qptg/04int-conclave-politics-qptg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Firefighters installed the chimney that is used to communicate the choosing of a new pope on Friday on the roof of the Sistine Chapel in Vatican City.",
+                "copyright": "Antonio Masiello/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-conclave-politics-qptg/04int-conclave-politics-qptg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Firefighters installed the chimney that is used to communicate the choosing of a new pope on Friday on the roof of the Sistine Chapel in Vatican City.",
+                "copyright": "Antonio Masiello/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
