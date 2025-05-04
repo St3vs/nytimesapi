@@ -65314,5 +65314,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Designers Do a Double Take at the Lettering on Pope Francis’ Tombstone",
+        "abstract": "Irregularly spaced letters spelling “F R A NCISC VS” have caused a stir among typography nerds who specialize in spacing and fonts. One called them “an abomination unto design.”",
+        "url": "https://www.nytimes.com/2025/05/04/world/europe/pope-francis-tomb-lettering.html",
+        "uri": "nyt://article/b527dd11-c768-56dd-afe2-d4076ebe9f3f",
+        "byline": "By Adeel Hassan",
+        "item_type": "Article",
+        "updated_date": "2025-05-04T09:45:45-04:00",
+        "created_date": "2025-05-04T09:13:37-04:00",
+        "published_date": "2025-05-04T09:13:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Tombs and Tombstones",
+            "Design",
+            "Calligraphy",
+            "Typography",
+            "Popes",
+            "Funerals and Memorials"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/00xp-tomb-jpcv/00xp-tomb-jpcv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis’ tomb is inscribed with the name “Franciscus,” in irregularly spaced lettering.",
+                "copyright": "Bernat Armangue/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/00xp-tomb-jpcv/00xp-tomb-jpcv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis’ tomb is inscribed with the name “Franciscus,” in irregularly spaced lettering.",
+                "copyright": "Bernat Armangue/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/00xp-tomb-jpcv/00xp-tomb-jpcv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis’ tomb is inscribed with the name “Franciscus,” in irregularly spaced lettering.",
+                "copyright": "Bernat Armangue/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
