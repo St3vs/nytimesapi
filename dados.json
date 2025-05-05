@@ -67065,5 +67065,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Netanyahu Warns of ‘Intensive’ Escalation in Gaza Campaign",
+        "abstract": "Prime Minister Benjamin Netanyahu said that a new plan calls for a “forceful entry” into the territory and would involve Palestinians relocating to the south.",
+        "url": "https://www.nytimes.com/2025/05/05/world/europe/israel-buildup-soldiers-hamas-gaza.html",
+        "uri": "nyt://article/44c866ad-a207-5cde-bb2f-0be21961d604",
+        "byline": "By Michael D. Shear, Aaron Boxerman and Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T12:48:34-04:00",
+        "created_date": "2025-05-05T06:11:26-04:00",
+        "published_date": "2025-05-05T06:11:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Palestinians"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-israel-assess-01-chmk/05int-israel-assess-01-chmk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Destruction in Jabaliya, Gaza, last month. During the war, Israeli forces have pummeled Hamas fighters, with residents in Gaza caught in the middle.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-israel-assess-01-chmk/05int-israel-assess-01-chmk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Destruction in Jabaliya, Gaza, last month. During the war, Israeli forces have pummeled Hamas fighters, with residents in Gaza caught in the middle.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-israel-assess-01-chmk/05int-israel-assess-01-chmk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Destruction in Jabaliya, Gaza, last month. During the war, Israeli forces have pummeled Hamas fighters, with residents in Gaza caught in the middle.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
