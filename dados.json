@@ -65812,5 +65812,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Pakistan’s Most Powerful Man Steps Out of the Shadows to Confront India",
+        "abstract": "The army chief, Gen. Syed Asim Munir, who usually works behind the scenes, has been shaping Pakistan’s tone in the crisis over Kashmir with his own tough talk.",
+        "url": "https://www.nytimes.com/2025/05/05/world/asia/pakistan-india-asim-munir.html",
+        "uri": "nyt://article/0ffea065-59d0-5d14-8d12-980fe49293c1",
+        "byline": "By Salman Masood",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T00:58:09-04:00",
+        "created_date": "2025-05-05T00:32:47-04:00",
+        "published_date": "2025-05-05T00:32:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Nationalism (Theory and Philosophy)",
+            "Muslims and Islam",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [
+            "Inter-Services Intelligence"
+        ],
+        "per_facet": [
+            "Modi, Narendra",
+            "Munir, Asim"
+        ],
+        "geo_facet": [
+            "India",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-pakistan-general-01-qjph/05int-pakistan-general-01-qjph-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gen. Syed Asim Munir, Pakistan’s army chief, at a ceremony in Islamabad, the capital, in 2022.",
+                "copyright": "W.K. Yousufzai/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-pakistan-general-01-qjph/05int-pakistan-general-01-qjph-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gen. Syed Asim Munir, Pakistan’s army chief, at a ceremony in Islamabad, the capital, in 2022.",
+                "copyright": "W.K. Yousufzai/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-pakistan-general-01-qjph/05int-pakistan-general-01-qjph-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gen. Syed Asim Munir, Pakistan’s army chief, at a ceremony in Islamabad, the capital, in 2022.",
+                "copyright": "W.K. Yousufzai/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
