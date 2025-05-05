@@ -65877,5 +65877,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "A Timeline of Tensions Between India and Pakistan Over Kashmir",
+        "abstract": "The April 22 terrorist attack in Kashmir inflamed a long-simmering conflict that could boil over into military confrontation.",
+        "url": "https://www.nytimes.com/2025/05/05/world/asia/india-pakistan-kashmir-history.html",
+        "uri": "nyt://article/35701ca5-ba04-54b1-bcf1-7a1d11ca92ee",
+        "byline": "By Lars Dolder",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T04:04:06-04:00",
+        "created_date": "2025-05-05T04:04:06-04:00",
+        "published_date": "2025-05-05T04:04:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Terrorism"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "Kashmir",
+            "Pakistan",
+            "India"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-india-pakistan-timeline-jwhm/05int-india-pakistan-timeline-jwhm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1708,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A shikara, or water taxi, on Dal Lake in Kashmir in 1950. India and Pakistan have vied for control of the scenic Himalayan valley for decades.",
+                "copyright": "Keystone/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-india-pakistan-timeline-jwhm/05int-india-pakistan-timeline-jwhm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A shikara, or water taxi, on Dal Lake in Kashmir in 1950. India and Pakistan have vied for control of the scenic Himalayan valley for decades.",
+                "copyright": "Keystone/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-india-pakistan-timeline-jwhm/05int-india-pakistan-timeline-jwhm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A shikara, or water taxi, on Dal Lake in Kashmir in 1950. India and Pakistan have vied for control of the scenic Himalayan valley for decades.",
+                "copyright": "Keystone/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
