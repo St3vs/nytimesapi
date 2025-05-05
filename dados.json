@@ -67127,5 +67127,82 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Bombs Yemen After Houthi Missile Struck Near Tel Aviv Airport",
+        "abstract": "On Sunday, a Houthi ballistic missile evaded Israel’s multilayered aerial defenses and landed near Ben-Gurion International Airport.",
+        "url": "https://www.nytimes.com/2025/05/05/world/middleeast/israel-yemen-houthis-tel-aviv.html",
+        "uri": "nyt://article/fbbb5deb-c06d-5b70-86d7-6cc8d6edda04",
+        "byline": "By Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T14:52:37-04:00",
+        "created_date": "2025-05-05T14:50:56-04:00",
+        "published_date": "2025-05-05T14:50:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Missiles and Missile Defense Systems",
+            "War and Armed Conflicts",
+            "International Relations",
+            "Iran-Israel Proxy Conflict",
+            "Ports",
+            "Defense and Military Forces",
+            "Embargoes and Sanctions"
+        ],
+        "org_facet": [
+            "Ben-Gurion International Airport",
+            "Houthis",
+            "Hamas"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Biden, Joseph R Jr"
+        ],
+        "geo_facet": [
+            "Al Hudaydah (Yemen)",
+            "Gaza Strip",
+            "Great Britain",
+            "Iran",
+            "Israel",
+            "Red Sea",
+            "Yemen",
+            "United States",
+            "Tel Aviv (Israel)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-yemen-photo-vqpg/05int-yemen-photo-vqpg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police officers in Tel Aviv on Sunday where a ballistic missile fired by Houthi militants landed.",
+                "copyright": "Amir Levy/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-yemen-photo-vqpg/05int-yemen-photo-vqpg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police officers in Tel Aviv on Sunday where a ballistic missile fired by Houthi militants landed.",
+                "copyright": "Amir Levy/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-yemen-photo-vqpg/05int-yemen-photo-vqpg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police officers in Tel Aviv on Sunday where a ballistic missile fired by Houthi militants landed.",
+                "copyright": "Amir Levy/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
