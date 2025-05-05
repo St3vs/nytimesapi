@@ -65938,5 +65938,530 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Cardinal Erdo of Hungary Is a Favorite of Conservatives to Become Pope",
+        "abstract": "The archbishop is a standard-bearer for those in the church who favor a return to traditional rules and doctrine after Pope Francis.",
+        "url": "https://www.nytimes.com/2025/05/05/world/europe/cardinal-erdo-of-hungary-is-a-favorite-of-conservatives-to-become-pope.html",
+        "uri": "nyt://article/6bf2f1d2-e19d-5dc5-a4cb-db341d869bae",
+        "byline": "By Andrew Higgins",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T05:09:37-04:00",
+        "created_date": "2025-05-05T05:09:37-04:00",
+        "published_date": "2025-05-05T05:09:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Clergy",
+            "Popes",
+            "Priests",
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Fidesz Party"
+        ],
+        "per_facet": [
+            "Erdo, Peter",
+            "Francis"
+        ],
+        "geo_facet": [
+            "Hungary"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/00int-pope-profile-erdo-zwgl/00int-pope-profile-erdo-zwgl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Peter Erdo in Budapest in August. He is an authority on canon law and has built ties with church leaders in Europe, Africa and Latin America.",
+                "copyright": "Zoltan Mathe/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/00int-pope-profile-erdo-zwgl/00int-pope-profile-erdo-zwgl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Peter Erdo in Budapest in August. He is an authority on canon law and has built ties with church leaders in Europe, Africa and Latin America.",
+                "copyright": "Zoltan Mathe/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/00int-pope-profile-erdo-zwgl/00int-pope-profile-erdo-zwgl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Peter Erdo in Budapest in August. He is an authority on canon law and has built ties with church leaders in Europe, Africa and Latin America.",
+                "copyright": "Zoltan Mathe/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "A Trump Family Push for Profit on Three Continents Breaks Historical Norms",
+        "abstract": "The president’s older sons, Donald Trump Jr. and Eric Trump, spent the past two weeks traveling the world and announcing deals, many of which will financially benefit their father.",
+        "url": "https://www.nytimes.com/2025/05/05/us/politics/eric-donald-jr-trump-family-deals.html",
+        "uri": "nyt://article/8e266daf-1686-5cbf-945b-591a9f5a9b1e",
+        "byline": "By Eric Lipton and David Yaffe-Bellany",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T05:02:26-04:00",
+        "created_date": "2025-05-05T05:02:26-04:00",
+        "published_date": "2025-05-05T05:02:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Virtual Currency",
+            "Nepotism",
+            "Conflicts of Interest"
+        ],
+        "org_facet": [
+            "Consumer Financial Protection Bureau",
+            "Securities and Exchange Commission",
+            "1789 Capital",
+            "Trump Organization"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Trump, Eric F (1984- )",
+            "Trump, Donald J Jr"
+        ],
+        "geo_facet": [
+            "Abu Dhabi (United Arab Emirates)",
+            "Bulgaria",
+            "Doha (Qatar)",
+            "Dubai (United Arab Emirates)",
+            "Georgetown (Washington, DC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/04dc-TrumpMoney/30int-trump-gulf1-zvbk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Trump in Doha, the Qatari capital, on Wednesday, looking over a model of a development the Trump Organization plans to build there.",
+                "copyright": "Karim Jaafar/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/04dc-TrumpMoney/30int-trump-gulf1-zvbk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Trump in Doha, the Qatari capital, on Wednesday, looking over a model of a development the Trump Organization plans to build there.",
+                "copyright": "Karim Jaafar/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/04dc-TrumpMoney/30int-trump-gulf1-zvbk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Trump in Doha, the Qatari capital, on Wednesday, looking over a model of a development the Trump Organization plans to build there.",
+                "copyright": "Karim Jaafar/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "How Trump’s Ending of U.S.A.I.D. Threatens a Nation’s Fragile Peace",
+        "abstract": "The Trump administration cut off aid to Colombia that has been vital to keeping the promises of a peace deal with a major rebel group, as violence worsens in many corners of the country.",
+        "url": "https://www.nytimes.com/2025/05/05/world/americas/colombia-usaid-peace.html",
+        "uri": "nyt://article/82bcbf14-10fc-5ebb-87a7-259f25c0628b",
+        "byline": "By Jorge Valencia",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T05:01:59-04:00",
+        "created_date": "2025-05-05T05:01:59-04:00",
+        "published_date": "2025-05-05T05:01:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Aid",
+            "United States International Relations",
+            "Peace Process"
+        ],
+        "org_facet": [
+            "International Crisis Group",
+            "Revolutionary Armed Forces of Colombia",
+            "United States Agency for International Development"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Colombia",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-colombia-usaid-mjpw/05int-colombia-usaid-mjpw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police patrolling next to clotheslines in Tibu, a small Colombian town on the Venezuelan border. People displaced by violence in the region had taken shelter in the town.",
+                "copyright": "Federico Rios for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-colombia-usaid-mjpw/05int-colombia-usaid-mjpw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police patrolling next to clotheslines in Tibu, a small Colombian town on the Venezuelan border. People displaced by violence in the region had taken shelter in the town.",
+                "copyright": "Federico Rios for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-colombia-usaid-mjpw/05int-colombia-usaid-mjpw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police patrolling next to clotheslines in Tibu, a small Colombian town on the Venezuelan border. People displaced by violence in the region had taken shelter in the town.",
+                "copyright": "Federico Rios for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Survivors Urge Cardinals to Discuss Sex Abuse Crisis in Choosing Next Pope",
+        "abstract": "Pope Francis is credited with addressing the issue more strongly than his predecessors did, but clerical abuse remains a ruinous issue for the Roman Catholic Church.",
+        "url": "https://www.nytimes.com/2025/05/05/world/europe/pope-cardinals-sex-abuse.html",
+        "uri": "nyt://article/54d71c9c-5f6d-54b1-82bf-19fed1058de6",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T05:01:45-04:00",
+        "created_date": "2025-05-05T05:01:45-04:00",
+        "published_date": "2025-05-05T05:01:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Child Abuse and Neglect",
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)",
+            "Priests"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Survivors Network of Those Abused by Priests"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-pope-sexabuse-fwtk/05int-pope-sexabuse-fwtk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The convening cardinals have discussed sexual abuse in the church, the Vatican spokesman said last week.",
+                "copyright": "Tomas Munita for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-pope-sexabuse-fwtk/05int-pope-sexabuse-fwtk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The convening cardinals have discussed sexual abuse in the church, the Vatican spokesman said last week.",
+                "copyright": "Tomas Munita for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-pope-sexabuse-fwtk/05int-pope-sexabuse-fwtk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The convening cardinals have discussed sexual abuse in the church, the Vatican spokesman said last week.",
+                "copyright": "Tomas Munita for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Why the Italian Who Leads the Church in Jerusalem Is a Contender to Be Pope",
+        "abstract": "Cardinal Pierbattista Pizzaballa is a Vatican outsider, but his experience in a region sacred to three major religions may give him an edge.",
+        "url": "https://www.nytimes.com/2025/05/05/world/europe/italian-cardinal-in-jerusalem-new-pope.html",
+        "uri": "nyt://article/1bb64d12-63f9-5f3a-b811-821b4461d960",
+        "byline": "By Matthew Mpoke Bigg and Isabel Kershner",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T05:01:33-04:00",
+        "created_date": "2025-05-05T05:01:33-04:00",
+        "published_date": "2025-05-05T05:01:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Cardinals (Roman Catholic Prelates)",
+            "Clergy",
+            "Religion and Belief"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Francis",
+            "Pizzaballa, Pierbattista"
+        ],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/28/multimedia/28int-conclave-pizzaballa-fcqh/28int-conclave-pizzaballa-fcqh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Pierbattista Pizzaballa, the Latin patriarch of Jerusalem, at the Church of the Holy Sepulcher last month. The Italian has been based in the region for decades and built strong relationships with other religious leaders.",
+                "copyright": "Ohad Zwigenberg/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/28/multimedia/28int-conclave-pizzaballa-fcqh/28int-conclave-pizzaballa-fcqh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Pierbattista Pizzaballa, the Latin patriarch of Jerusalem, at the Church of the Holy Sepulcher last month. The Italian has been based in the region for decades and built strong relationships with other religious leaders.",
+                "copyright": "Ohad Zwigenberg/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/28/multimedia/28int-conclave-pizzaballa-fcqh/28int-conclave-pizzaballa-fcqh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Pierbattista Pizzaballa, the Latin patriarch of Jerusalem, at the Church of the Holy Sepulcher last month. The Italian has been based in the region for decades and built strong relationships with other religious leaders.",
+                "copyright": "Ohad Zwigenberg/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "design",
+        "title": "The Last Surrealist",
+        "abstract": "Jean-Claude Silbermann joined André Breton’s acolytes at 18. Now 90, he’s showing paintings at the Independent Art Fair and says Surrealism is “an attitude toward the world.”",
+        "url": "https://www.nytimes.com/2025/05/05/arts/design/the-last-surrealist.html",
+        "uri": "nyt://article/48779326-463b-59bf-a9ca-bb9d8b2dba75",
+        "byline": "By Emily LaBarge",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T05:01:26-04:00",
+        "created_date": "2025-05-05T05:01:26-04:00",
+        "published_date": "2025-05-05T05:01:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Art"
+        ],
+        "org_facet": [
+            "Independent Art Fair"
+        ],
+        "per_facet": [
+            "Breton, Andre",
+            "Jean-Calude Silbermann"
+        ],
+        "geo_facet": [
+            "France",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/04cul-last-surrealist-93163-cover/04cul-last-surrealist-93163-cover-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/04cul-last-surrealist-93163-cover/04cul-last-surrealist-93163-cover-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/01/04cul-last-surrealist-93163-cover/04cul-last-surrealist-93163-cover-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Bombed by Russia, Odesa Now Wages a Cultural Battle",
+        "abstract": "A push to rename streets and remove statues associated with imperial Russia is dividing Odesa, whose identity is tied up in its history.",
+        "url": "https://www.nytimes.com/2025/05/05/world/europe/odesa-ukraine-russia-culture.html",
+        "uri": "nyt://article/5a49b46f-2239-5835-b37b-eae98facbb16",
+        "byline": "By Constant Méheut and Daria Mitiuk",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T05:00:30-04:00",
+        "created_date": "2025-05-05T05:00:30-04:00",
+        "published_date": "2025-05-05T05:00:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Monuments and Memorials (Structures)",
+            "Politics and Government",
+            "Writing and Writers",
+            "Books and Literature",
+            "Russian Language",
+            "Language and Languages"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Babel, Isaac",
+            "Catherine II, Empress of Russia",
+            "Pushkin, Aleksandr"
+        ],
+        "geo_facet": [
+            "Black Sea",
+            "Odessa (Ukraine)",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-ukraine-culture-war-05-bmcj/20int-ukraine-culture-war-05-bmcj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Odesa’s main statue of Alexander Pushkin, outside the City Council building. ",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-ukraine-culture-war-05-bmcj/20int-ukraine-culture-war-05-bmcj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Odesa’s main statue of Alexander Pushkin, outside the City Council building. ",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/20/multimedia/20int-ukraine-culture-war-05-bmcj/20int-ukraine-culture-war-05-bmcj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Odesa’s main statue of Alexander Pushkin, outside the City Council building. ",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "India Sees a Future Making Solar Panels for Itself, and Maybe the World",
+        "abstract": "Global wariness of Chinese solar and EV domination offers India an opening. The government is spending money to try to catch up, but it has a long way to go.",
+        "url": "https://www.nytimes.com/2025/05/05/climate/india-china-solar-manufacturing.html",
+        "uri": "nyt://article/50079f76-6577-567d-81be-5d27f424e0e6",
+        "byline": "By Somini Sengupta and Saumya Khandelwal",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T05:00:28-04:00",
+        "created_date": "2025-05-05T05:00:28-04:00",
+        "published_date": "2025-05-05T05:00:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Solar Energy",
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Alternative and Renewable Energy",
+            "International Trade and World Market",
+            "Factories and Manufacturing",
+            "Energy and Power",
+            "Batteries",
+            "Labor and Jobs"
+        ],
+        "org_facet": [
+            "Tata Power Co"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Tamil Nadu (India)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/00CLI-INDIA-SOLAR-promo-kbfj/00CLI-INDIA-SOLAR-promo-kbfj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Saumya Khandelwal for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/00CLI-INDIA-SOLAR-promo-kbfj/00CLI-INDIA-SOLAR-promo-kbfj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Saumya Khandelwal for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/00CLI-INDIA-SOLAR-promo-kbfj/00CLI-INDIA-SOLAR-promo-kbfj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Saumya Khandelwal for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
