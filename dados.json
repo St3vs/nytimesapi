@@ -66525,5 +66525,161 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "China’s Garment Factories Face a Tipping Point After New Tariffs",
+        "abstract": "As a U.S. tax loophole ends, the apparel makers that sell to America are forced to consider alternative markets or cheaper locations in and outside China.",
+        "url": "https://www.nytimes.com/2025/05/05/business/china-tariffs-de-minimis-guangzhou.html",
+        "uri": "nyt://article/dd9db961-b724-57ee-bb0b-c701c600d1d4",
+        "byline": "By Meaghan Tobin",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T00:01:07-04:00",
+        "created_date": "2025-05-05T00:01:07-04:00",
+        "published_date": "2025-05-05T00:01:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Customs (Tariff)",
+            "Factories and Manufacturing",
+            "E-Commerce",
+            "Computers and the Internet",
+            "International Trade and World Market",
+            "Social Media",
+            "Fashion and Apparel"
+        ],
+        "org_facet": [
+            "Temu (Website)",
+            "Shein (Fashion Label)",
+            "Amazon.com Inc"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Guangzhou (China)",
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05Biz-China-Guangzhou-01-zhcm/05Biz-China-Guangzhou-01-zhcm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The night shift in the garment district in Guangzhou, China.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05Biz-China-Guangzhou-01-zhcm/05Biz-China-Guangzhou-01-zhcm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The night shift in the garment district in Guangzhou, China.",
+                "copyright": "Qilai Shen for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05Biz-China-Guangzhou-01-zhcm/05Biz-China-Guangzhou-01-zhcm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The night shift in the garment district in Guangzhou, China.",
+                "copyright": "Qilai Shen for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Cable Theft in Spain Disrupts Train Travel for Thousands, Officials Say",
+        "abstract": "Oscar Puente, the transport minister, said “a serious act of sabotage” had brought some service to a halt, delaying service into Monday.",
+        "url": "https://www.nytimes.com/2025/05/05/world/europe/spain-sabotage-train-disruption.html",
+        "uri": "nyt://article/5a2b5439-fad7-5bab-bdd7-89d94a528616",
+        "byline": "By Amelia Nierenberg",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T07:07:27-04:00",
+        "created_date": "2025-05-05T07:07:27-04:00",
+        "published_date": "2025-05-05T07:07:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "High-Speed Rail Projects",
+            "Robberies and Thefts"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Spain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-spain-train2-ljvt/05int-spain-train2-ljvt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Passengers at a train station in Madrid on Monday.",
+                "copyright": "Susana Vera/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-spain-train2-ljvt/05int-spain-train2-ljvt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Passengers at a train station in Madrid on Monday.",
+                "copyright": "Susana Vera/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-spain-train2-ljvt/05int-spain-train2-ljvt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Passengers at a train station in Madrid on Monday.",
+                "copyright": "Susana Vera/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "French Police Rescue Kidnapped Father of Crypto Entrepreneur",
+        "abstract": "The Paris prosecutor’s office said seven people had been arrested in connection with the abduction last week. It did not name the freed captive or his son.",
+        "url": "https://www.nytimes.com/2025/05/05/world/europe/france-crypto-kidnap-father-rescue.html",
+        "uri": "nyt://article/bdc9edae-b29d-55ac-ad10-2da6155165ea",
+        "byline": "By Amelia Nierenberg",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T06:43:21-04:00",
+        "created_date": "2025-05-05T06:43:21-04:00",
+        "published_date": "2025-05-05T06:43:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Virtual Currency",
+            "Kidnapping and Hostages",
+            "Entrepreneurship"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Balland, David"
+        ],
+        "geo_facet": [
+            "France",
+            "Paris (France)"
+        ],
+        "multimedia": null,
+        "short_url": ""
     }
 ]
