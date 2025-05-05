@@ -65749,5 +65749,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Planned Attack on Lady Gaga Concert in Brazil Is Foiled, Police Say",
+        "abstract": "Her free concert on Rio de Janeiro’s Copacabana Beach was not disrupted. The police said a group had planned to attack it with improvised explosives.",
+        "url": "https://www.nytimes.com/2025/05/05/world/americas/lady-gaga-brazil-attack-threat.html",
+        "uri": "nyt://article/bf3a14c2-7eab-5b4a-b76c-81822dfa246f",
+        "byline": "By Mike Ives",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T00:23:08-04:00",
+        "created_date": "2025-05-05T00:23:08-04:00",
+        "published_date": "2025-05-05T00:23:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Pop and Rock Music",
+            "Bombs and Explosives"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Lady Gaga",
+            "Madonna"
+        ],
+        "geo_facet": [
+            "Brazil",
+            "Copacabana (Rio de Janeiro, Brazil)",
+            "Rio de Janeiro (Brazil)",
+            "Rio Grande do Sul (Brazil)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04xp-gaga-hmlk/04xp-gaga-hmlk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Crowds at a Lady Gaga concert on Copacabana beach in Rio de Janeiro on Saturday.",
+                "copyright": "Daniel Ramalho/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04xp-gaga-hmlk/04xp-gaga-hmlk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Crowds at a Lady Gaga concert on Copacabana beach in Rio de Janeiro on Saturday.",
+                "copyright": "Daniel Ramalho/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04xp-gaga-hmlk/04xp-gaga-hmlk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Crowds at a Lady Gaga concert on Copacabana beach in Rio de Janeiro on Saturday.",
+                "copyright": "Daniel Ramalho/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
