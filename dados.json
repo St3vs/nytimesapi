@@ -67204,5 +67204,125 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "18 States Sue Over Trump’s Halting of Wind Power Projects",
+        "abstract": "The halt threatens jobs and holds back energy production at a time the president has claimed an “energy emergency,” state attorneys general said.",
+        "url": "https://www.nytimes.com/2025/05/05/climate/lawsuit-wind-power-halt-trump-energy-emergency.html",
+        "uri": "nyt://article/756f27a9-8044-5935-b137-fc9b580ec1bb",
+        "byline": "By Karen Zraick",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T18:09:13-04:00",
+        "created_date": "2025-05-05T18:05:32-04:00",
+        "published_date": "2025-05-05T18:05:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Wind Power",
+            "Alternative and Renewable Energy",
+            "Suits and Litigation (Civil)",
+            "Attorneys General",
+            "Executive Orders and Memorandums",
+            "Environment",
+            "Electric Light and Power"
+        ],
+        "org_facet": [
+            "Environmental Protection Agency",
+            "Interior Department"
+        ],
+        "per_facet": [
+            "Bonta, Rob (1972- )",
+            "James, Letitia"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05cli-wind-lawsuit-fjqc/05cli-wind-lawsuit-fjqc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The wind industry provides about 10 percent of U.S. electricity. The pause threatens to delay projects nationwide.",
+                "copyright": "David Robert Elliott for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05cli-wind-lawsuit-fjqc/05cli-wind-lawsuit-fjqc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The wind industry provides about 10 percent of U.S. electricity. The pause threatens to delay projects nationwide.",
+                "copyright": "David Robert Elliott for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05cli-wind-lawsuit-fjqc/05cli-wind-lawsuit-fjqc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The wind industry provides about 10 percent of U.S. electricity. The pause threatens to delay projects nationwide.",
+                "copyright": "David Robert Elliott for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Tuesday Briefing: Israel’s Plan for Gaza",
+        "abstract": "Plus, a politically charged Met Gala.",
+        "url": "https://www.nytimes.com/2025/05/05/briefing/israel-gaza-siege-trump-migrants-cash-pope-vatica-abuse.html",
+        "uri": "nyt://article/6b8d4e16-db6b-5b22-b0f2-1967a45cede7",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T17:29:09-04:00",
+        "created_date": "2025-05-05T17:20:05-04:00",
+        "published_date": "2025-05-05T17:20:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/06ambriefing-asia-israel/06ambriefing-asia-israel-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Destruction in Jabaliya, Gaza, last month.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/06ambriefing-asia-israel/06ambriefing-asia-israel-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Destruction in Jabaliya, Gaza, last month.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/06ambriefing-asia-israel/06ambriefing-asia-israel-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Destruction in Jabaliya, Gaza, last month.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
