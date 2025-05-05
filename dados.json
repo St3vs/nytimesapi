@@ -66681,5 +66681,141 @@
         ],
         "multimedia": null,
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Europe Makes a Pitch to Attract Scientists Shunned by the U.S.",
+        "abstract": "The continent’s leaders are hoping to benefit as the Trump administration cuts support for research and threatens universities such as Harvard and Columbia with the freezing of federal funds.",
+        "url": "https://www.nytimes.com/2025/05/05/world/europe/eu-us-scientists-trump.html",
+        "uri": "nyt://article/50b01f8e-4904-508b-b1ed-b224008b2e22",
+        "byline": "By Catherine Porter and Roger Cohen",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T07:28:24-04:00",
+        "created_date": "2025-05-05T07:28:24-04:00",
+        "published_date": "2025-05-05T07:28:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Colleges and Universities",
+            "United States Politics and Government",
+            "Federal Aid (US)",
+            "United States International Relations",
+            "Science and Technology"
+        ],
+        "org_facet": [
+            "European Union"
+        ],
+        "per_facet": [
+            "Macron, Emmanuel (1977- )",
+            "von der Leyen, Ursula"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-eu-france-incentives-zwcp/05int-eu-france-incentives-zwcp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Emmanuel Macron of France speaking at the Sorbonne University in Paris on Monday.",
+                "copyright": "Gonzalo Fuentes/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-eu-france-incentives-zwcp/05int-eu-france-incentives-zwcp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Emmanuel Macron of France speaking at the Sorbonne University in Paris on Monday.",
+                "copyright": "Gonzalo Fuentes/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-eu-france-incentives-zwcp/05int-eu-france-incentives-zwcp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Emmanuel Macron of France speaking at the Sorbonne University in Paris on Monday.",
+                "copyright": "Gonzalo Fuentes/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Sons’ Deals on Three Continents Directly Benefit the President",
+        "abstract": "Donald Trump Jr. and Eric Trump spent the past two weeks traveling the world and announcing new ventures involving billions of dollars.",
+        "url": "https://www.nytimes.com/2025/05/05/us/politics/eric-donald-jr-trump-family-deals.html",
+        "uri": "nyt://article/8e266daf-1686-5cbf-945b-591a9f5a9b1e",
+        "byline": "By Eric Lipton and David Yaffe-Bellany",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T08:26:11-04:00",
+        "created_date": "2025-05-05T05:02:26-04:00",
+        "published_date": "2025-05-05T05:02:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Virtual Currency",
+            "Nepotism",
+            "Conflicts of Interest"
+        ],
+        "org_facet": [
+            "Consumer Financial Protection Bureau",
+            "Securities and Exchange Commission",
+            "1789 Capital",
+            "Trump Organization"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Trump, Eric F (1984- )",
+            "Trump, Donald J Jr"
+        ],
+        "geo_facet": [
+            "Abu Dhabi (United Arab Emirates)",
+            "Bulgaria",
+            "Doha (Qatar)",
+            "Dubai (United Arab Emirates)",
+            "Georgetown (Washington, DC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/04dc-TrumpMoney/30int-trump-gulf1-zvbk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Trump in Doha, the Qatari capital, on Wednesday, looking over a model of a development the Trump Organization plans to build there.",
+                "copyright": "Karim Jaafar/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/04dc-TrumpMoney/30int-trump-gulf1-zvbk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Trump in Doha, the Qatari capital, on Wednesday, looking over a model of a development the Trump Organization plans to build there.",
+                "copyright": "Karim Jaafar/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/30/multimedia/04dc-TrumpMoney/30int-trump-gulf1-zvbk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Eric Trump in Doha, the Qatari capital, on Wednesday, looking over a model of a development the Trump Organization plans to build there.",
+                "copyright": "Karim Jaafar/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
