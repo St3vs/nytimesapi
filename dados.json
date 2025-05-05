@@ -67000,5 +67000,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "U.N. Court Drops Sudan’s Genocide Case Against U.A.E.",
+        "abstract": "The International Court of Justice said it lacked jurisdiction after Sudan accused the United Arab Emirates of fueling genocide in the African country’s civil war.",
+        "url": "https://www.nytimes.com/2025/05/05/world/middleeast/un-court-sudan-genocide-uae.html",
+        "uri": "nyt://article/fa12c9d6-f025-587b-9ed9-c9a303b85c9a",
+        "byline": "By Ismaeel Naar and Abdi Latif Dahir",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T12:18:27-04:00",
+        "created_date": "2025-05-05T12:18:27-04:00",
+        "published_date": "2025-05-05T12:18:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "War Crimes, Genocide and Crimes Against Humanity"
+        ],
+        "org_facet": [
+            "International Court of Justice (UN)",
+            "Rapid Support Forces (Sudan)",
+            "Sudanese Armed Forces"
+        ],
+        "per_facet": [
+            "Hamdan, Mohamed (Hemeti)",
+            "al-Burhan, Abdel Fattah"
+        ],
+        "geo_facet": [
+            "Sudan",
+            "United Arab Emirates"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-icj-sudan-uae02-photo-hwjc/05int-icj-sudan-uae02-photo-hwjc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1537,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sudanese soldiers in areas captured from Rapid Support Forces, in Khartoum in March.",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-icj-sudan-uae02-photo-hwjc/05int-icj-sudan-uae02-photo-hwjc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sudanese soldiers in areas captured from Rapid Support Forces, in Khartoum in March.",
+                "copyright": "Ivor Prickett for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-icj-sudan-uae02-photo-hwjc/05int-icj-sudan-uae02-photo-hwjc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Sudanese soldiers in areas captured from Rapid Support Forces, in Khartoum in March.",
+                "copyright": "Ivor Prickett for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
