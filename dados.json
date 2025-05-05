@@ -65622,5 +65622,132 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Romanian Nationalist Wins First Round of Presidential Voting",
+        "abstract": "George Simion bucked a recent trend of voters around the world punishing candidates seen as friendly to President Trump.",
+        "url": "https://www.nytimes.com/2025/05/04/world/europe/romania-election-george-simion.html",
+        "uri": "nyt://article/db950653-97d0-5a94-852c-2fd7d4329c6a",
+        "byline": "By Andrew Higgins",
+        "item_type": "Article",
+        "updated_date": "2025-05-04T19:56:25-04:00",
+        "created_date": "2025-05-04T19:56:25-04:00",
+        "published_date": "2025-05-04T19:56:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "Right-Wing Extremism and Alt-Right",
+            "Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Simion, George"
+        ],
+        "geo_facet": [
+            "Romania"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-romania-election--bmhk/04int-romania-election--bmhk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "George Simion, a Romanian presidential candidate, holding a picture of a holy icon outside a polling station on Sunday.",
+                "copyright": "Louisa Gouliamaki/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-romania-election--bmhk/04int-romania-election--bmhk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "George Simion, a Romanian presidential candidate, holding a picture of a holy icon outside a polling station on Sunday.",
+                "copyright": "Louisa Gouliamaki/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-romania-election--bmhk/04int-romania-election--bmhk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "George Simion, a Romanian presidential candidate, holding a picture of a holy icon outside a polling station on Sunday.",
+                "copyright": "Louisa Gouliamaki/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "A New Trend in Global Elections: The Anti-Trump Bump",
+        "abstract": "In voting in Canada and Australia, right-wing parties that borrowed from the MAGA playbook were punished. Elsewhere, President Trump is having a more complex impact.",
+        "url": "https://www.nytimes.com/2025/05/04/world/canada/global-elections-trump.html",
+        "uri": "nyt://article/c846b9bc-d9a4-5aa8-b5a6-26b2c787dc56",
+        "byline": "By Matina Stevis-Gridneff",
+        "item_type": "Article",
+        "updated_date": "2025-05-04T20:15:54-04:00",
+        "created_date": "2025-05-04T19:34:52-04:00",
+        "published_date": "2025-05-04T19:34:52-04:00",
+        "material_type_facet": "",
+        "kicker": "News analysis",
+        "des_facet": [
+            "United States International Relations",
+            "Politics and Government",
+            "Right-Wing Extremism and Alt-Right",
+            "Elections"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Carney, Mark J",
+            "Albanese, Anthony (1963- )"
+        ],
+        "geo_facet": [
+            "Canada",
+            "Australia",
+            "England",
+            "Germany",
+            "Singapore",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-elections-trump-jpgv/05int-elections-trump-jpgv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Heading to the polls amid global uncertainty arising from the Trump administration, voters in Australia opted for the known quantity of the incumbent leader, Prime Minister Anthony Albanese.",
+                "copyright": "Mridula Amin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-elections-trump-jpgv/05int-elections-trump-jpgv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Heading to the polls amid global uncertainty arising from the Trump administration, voters in Australia opted for the known quantity of the incumbent leader, Prime Minister Anthony Albanese.",
+                "copyright": "Mridula Amin for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-elections-trump-jpgv/05int-elections-trump-jpgv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Heading to the polls amid global uncertainty arising from the Trump administration, voters in Australia opted for the known quantity of the incumbent leader, Prime Minister Anthony Albanese.",
+                "copyright": "Mridula Amin for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
