@@ -66939,5 +66939,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Her Final Wish: A Home for the Son She Never Got to Hold",
+        "abstract": "Chrissie Tully gave birth to a son 76 years ago in an Irish home for single mothers, shrouded in secrecy and shame. She’s still waiting for him.",
+        "url": "https://www.nytimes.com/2025/05/05/world/europe/ireland-mother-baby-home-tuam-galway.html",
+        "uri": "nyt://article/53718abe-7605-580a-aa4b-f0ab0bc6b558",
+        "byline": "By Ali Watkins",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T11:00:12-04:00",
+        "created_date": "2025-05-05T11:00:12-04:00",
+        "published_date": "2025-05-05T11:00:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Pregnancy and Childbirth",
+            "Women and Girls",
+            "Adoptions",
+            "Missing Persons"
+        ],
+        "org_facet": [
+            "Bon Secours Mother and Baby Home (Tuam, Ireland)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Galway (Ireland)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00xp-Galway-07/00xp-Galway-07-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chrissie Tully in the living room of her council home in Loughrea, County Galway. She hopes to buy the house to keep it in her name, in case her lost son returns.",
+                "copyright": "Ali Watkins/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00xp-Galway-07/00xp-Galway-07-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chrissie Tully in the living room of her council home in Loughrea, County Galway. She hopes to buy the house to keep it in her name, in case her lost son returns.",
+                "copyright": "Ali Watkins/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/15/multimedia/00xp-Galway-07/00xp-Galway-07-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chrissie Tully in the living room of her council home in Loughrea, County Galway. She hopes to buy the house to keep it in her name, in case her lost son returns.",
+                "copyright": "Ali Watkins/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
