@@ -69957,5 +69957,184 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Carney Tells Trump Canada ‘Is Not for Sale’ During White House Visit",
+        "abstract": "The Canadian prime minister is meeting with President Trump, days after being elected on an anti-Trump platform as relations between the two allies are at a historic nadir.",
+        "url": "https://www.nytimes.com/2025/05/06/world/canada/trump-carney-white-house-meeting-us-canada.html",
+        "uri": "nyt://article/251c1c80-c05d-5b6a-9a26-fc1269de126c",
+        "byline": "By Matina Stevis-Gridneff and Tyler Pager",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T16:57:43-04:00",
+        "created_date": "2025-05-06T05:03:27-04:00",
+        "published_date": "2025-05-06T05:03:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "International Trade and World Market",
+            "United States-Mexico-Canada Agreement",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Trump, Donald J",
+            "Trudeau, Justin"
+        ],
+        "geo_facet": [
+            "Canada",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06vid-trump-carney-pkg-cov-hqtk/06vid-trump-carney-pkg-cov-hqtk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06vid-trump-carney-pkg-cov-hqtk/06vid-trump-carney-pkg-cov-hqtk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06vid-trump-carney-pkg-cov-hqtk/06vid-trump-carney-pkg-cov-hqtk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Wednesday Briefing: The Conclave Begins",
+        "abstract": "Plus, the world’s must-see gardens.",
+        "url": "https://www.nytimes.com/2025/05/06/briefing/pope-conclave-india-pakistan-strikes-carney-trump.html",
+        "uri": "nyt://article/6e860fbf-6c55-5ccf-8838-0813c8379e10",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T17:14:12-04:00",
+        "created_date": "2025-05-06T17:14:12-04:00",
+        "published_date": "2025-05-06T17:14:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07ambriefing-asia-pope-lqpg/07ambriefing-asia-pope-lqpg-superJumbo-v3.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The balcony of St. Peter’s Basilica, from which the new pope will be announced.",
+                "copyright": "Dimitar Dilkoff/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07ambriefing-asia-pope-lqpg/07ambriefing-asia-pope-lqpg-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The balcony of St. Peter’s Basilica, from which the new pope will be announced.",
+                "copyright": "Dimitar Dilkoff/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07ambriefing-asia-pope-lqpg/07ambriefing-asia-pope-lqpg-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The balcony of St. Peter’s Basilica, from which the new pope will be announced.",
+                "copyright": "Dimitar Dilkoff/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India Says It Struck Pakistan Two Weeks After Terrorist Attack",
+        "abstract": "The strikes came after an attack by militants killed more than two dozen civilians in Indian-administered Kashmir and are an intensification of a conflict between two nuclear powers.",
+        "url": "https://www.nytimes.com/2025/05/06/world/asia/india-pakistan-attacks.html",
+        "uri": "nyt://article/423db03c-02de-51b8-883a-70dfc6f78460",
+        "byline": "By Salman Masood and Mujib Mashal",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T17:13:47-04:00",
+        "created_date": "2025-05-06T16:17:36-04:00",
+        "published_date": "2025-05-06T16:17:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Mass Shootings"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "India",
+            "Pakistan",
+            "Kashmir"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06pakistan-1-jblh/06pakistan-1-jblh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Muzaffarabad in Pakistan-administrated Kashmir, on Wednesday.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06pakistan-1-jblh/06pakistan-1-jblh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Muzaffarabad in Pakistan-administrated Kashmir, on Wednesday.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06pakistan-1-jblh/06pakistan-1-jblh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Muzaffarabad in Pakistan-administrated Kashmir, on Wednesday.",
+                "copyright": "Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
