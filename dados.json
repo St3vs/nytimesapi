@@ -69569,5 +69569,191 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Friedrich Merz Becomes Germany’s Leader After Unexpected Day of Drama",
+        "abstract": "Mr. Merz needed two rounds of voting to become chancellor after a surprising defeat in Parliament hours earlier that threatened to hobble his new government.",
+        "url": "https://www.nytimes.com/live/2025/05/06/world/merz-germany-chancellor-parliament",
+        "uri": "nyt://promo/1c431d81-8da8-5e31-a145-88ab189a1d6e",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-06T13:22:38-04:00",
+        "created_date": "2025-05-06T09:15:38-04:00",
+        "published_date": "2025-05-06T09:15:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-120-khjq/06germany-120-khjq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1473,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Odd Andersen/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-120-khjq/06germany-120-khjq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Odd Andersen/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-120-khjq/06germany-120-khjq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Odd Andersen/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Carney Tells Trump That Canada ‘Is Not for Sale’ During Visit to the White House",
+        "abstract": "The Canadian prime minister is meeting with President Trump, days after being elected on an anti-Trump platform as relations between the two allies are at a historic nadir.",
+        "url": "https://www.nytimes.com/2025/05/06/world/canada/trump-carney-white-house-meeting-us-canada.html",
+        "uri": "nyt://article/251c1c80-c05d-5b6a-9a26-fc1269de126c",
+        "byline": "By Matina Stevis-Gridneff and Tyler Pager",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T13:49:45-04:00",
+        "created_date": "2025-05-06T05:03:27-04:00",
+        "published_date": "2025-05-06T05:03:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "International Trade and World Market",
+            "United States-Mexico-Canada Agreement",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Trump, Donald J",
+            "Trudeau, Justin"
+        ],
+        "geo_facet": [
+            "Canada",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06dc-prexy-topart-sub-qwth/06dc-prexy-topart-sub-qwth-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney of Canada told President Trump on Tuesday that Canada would not become the 51st American state.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06dc-prexy-topart-sub-qwth/06dc-prexy-topart-sub-qwth-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney of Canada told President Trump on Tuesday that Canada would not become the 51st American state.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06dc-prexy-topart-sub-qwth/06dc-prexy-topart-sub-qwth-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney of Canada told President Trump on Tuesday that Canada would not become the 51st American state.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "17 States Sue Over Trump’s Halting of Wind Power Projects",
+        "abstract": "The halt threatens jobs and holds back energy production at a time the president has claimed an “energy emergency,” state attorneys general said.",
+        "url": "https://www.nytimes.com/2025/05/05/climate/lawsuit-wind-power-halt-trump-energy-emergency.html",
+        "uri": "nyt://article/756f27a9-8044-5935-b137-fc9b580ec1bb",
+        "byline": "By Karen Zraick",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T13:37:18-04:00",
+        "created_date": "2025-05-05T18:05:32-04:00",
+        "published_date": "2025-05-05T18:05:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Wind Power",
+            "Alternative and Renewable Energy",
+            "Suits and Litigation (Civil)",
+            "Attorneys General",
+            "Executive Orders and Memorandums",
+            "Environment",
+            "Electric Light and Power"
+        ],
+        "org_facet": [
+            "Environmental Protection Agency",
+            "Interior Department"
+        ],
+        "per_facet": [
+            "Bonta, Rob (1972- )",
+            "James, Letitia"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05cli-wind-lawsuit-fjqc/05cli-wind-lawsuit-fjqc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The wind industry provides about 10 percent of U.S. electricity. The pause threatens to delay projects nationwide.",
+                "copyright": "David Robert Elliott for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05cli-wind-lawsuit-fjqc/05cli-wind-lawsuit-fjqc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The wind industry provides about 10 percent of U.S. electricity. The pause threatens to delay projects nationwide.",
+                "copyright": "David Robert Elliott for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05cli-wind-lawsuit-fjqc/05cli-wind-lawsuit-fjqc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The wind industry provides about 10 percent of U.S. electricity. The pause threatens to delay projects nationwide.",
+                "copyright": "David Robert Elliott for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
