@@ -69212,5 +69212,184 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Friedrich Merz Sworn In as Germany’s Leader",
+        "abstract": "Mr. Merz needed two rounds of voting to become chancellor after a surprising defeat in Parliament hours earlier threatened to hobble his new government.",
+        "url": "https://www.nytimes.com/live/2025/05/06/world/merz-germany-chancellor-parliament",
+        "uri": "nyt://promo/1c431d81-8da8-5e31-a145-88ab189a1d6e",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-06T12:22:12-04:00",
+        "created_date": "2025-05-06T09:15:38-04:00",
+        "published_date": "2025-05-06T09:15:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-update-2-zblt/06germany-update-2-zblt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1349,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Pool photo by Bernd Von Jutrczenka"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-update-2-zblt/06germany-update-2-zblt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Pool photo by Bernd Von Jutrczenka"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-update-2-zblt/06germany-update-2-zblt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Pool photo by Bernd Von Jutrczenka"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Bombs Yemen’s Main Airport in Retaliation for Houthi Strike",
+        "abstract": "The airstrikes on the capital, Sana, came days after the Iran-backed Houthi militia in Yemen fired a ballistic missile that struck near Israel’s main airport.",
+        "url": "https://www.nytimes.com/2025/05/06/world/middleeast/israel-yemen-attack-sana-airport.html",
+        "uri": "nyt://article/d0a366ed-2d79-5414-86bf-3f8bb12cd341",
+        "byline": "By Aaron Boxerman and Vivian Nereim",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T11:35:25-04:00",
+        "created_date": "2025-05-06T09:23:57-04:00",
+        "published_date": "2025-05-06T09:23:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "International Relations",
+            "Israel-Gaza War (2023- )",
+            "Strikes",
+            "Airports"
+        ],
+        "org_facet": [
+            "Houthis"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Sana (Yemen)",
+            "Israel",
+            "Yemen"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-Israel-Yemen-ztqh/06int-Israel-Yemen-ztqh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising above Sana, Yemen, on Tuesday.",
+                "copyright": "Khaled Abdullah/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-Israel-Yemen-ztqh/06int-Israel-Yemen-ztqh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising above Sana, Yemen, on Tuesday.",
+                "copyright": "Khaled Abdullah/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-Israel-Yemen-ztqh/06int-Israel-Yemen-ztqh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising above Sana, Yemen, on Tuesday.",
+                "copyright": "Khaled Abdullah/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Europeans Shun Tesla, Even as Electric Vehicle Sales Rise",
+        "abstract": "Demand for the U.S. auto maker’s vehicles slid amid stronger competition from Europe and China and rising anger at Elon Musk’s political forays.",
+        "url": "https://www.nytimes.com/2025/05/06/world/europe/europe-tesla-sales-germany-britain.html",
+        "uri": "nyt://article/2d5aa0b6-dce9-5b94-94f7-c2f74c5d93b3",
+        "byline": "By Melissa Eddy",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T12:19:54-04:00",
+        "created_date": "2025-05-06T12:19:54-04:00",
+        "published_date": "2025-05-06T12:19:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Electric and Hybrid Vehicles"
+        ],
+        "org_facet": [
+            "Tesla Motors Inc"
+        ],
+        "per_facet": [
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Germany",
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06biz-Europe-tesla-gjlc/06biz-Europe-tesla-gjlc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Tesla dealership in Norway. Registrations of new Tesla vehicles dropped across Europe last month compared with a year earlier.",
+                "copyright": "David B. Torch for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06biz-Europe-tesla-gjlc/06biz-Europe-tesla-gjlc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Tesla dealership in Norway. Registrations of new Tesla vehicles dropped across Europe last month compared with a year earlier.",
+                "copyright": "David B. Torch for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06biz-Europe-tesla-gjlc/06biz-Europe-tesla-gjlc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Tesla dealership in Norway. Registrations of new Tesla vehicles dropped across Europe last month compared with a year earlier.",
+                "copyright": "David B. Torch for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
