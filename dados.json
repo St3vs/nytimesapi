@@ -67450,5 +67450,131 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What to Know About Germany’s New Government",
+        "abstract": "The choice of ministers points to a tolerance for political risk, but it also assembles a team of loyalists around the new chancellor and vice chancellor.",
+        "url": "https://www.nytimes.com/2025/05/06/world/europe/germany-new-government.html",
+        "uri": "nyt://article/90f6d483-5bf7-5492-88ca-447bdb42f320",
+        "byline": "By Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T00:01:13-04:00",
+        "created_date": "2025-05-06T00:01:13-04:00",
+        "published_date": "2025-05-06T00:01:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Appointments and Executive Changes",
+            "Legislatures and Parliaments"
+        ],
+        "org_facet": [
+            "Christian Democratic Union (Germany)",
+            "Social Democratic Party (Germany)"
+        ],
+        "per_facet": [
+            "Merz, Friedrich"
+        ],
+        "geo_facet": [
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-germany-what-to-know01-photo-cjwt/06int-germany-what-to-know01-photo-cjwt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz, the leader of Germany’s conservative Christian Democratic Union, in Berlin on Monday.",
+                "copyright": "Tobias Schwarz/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-germany-what-to-know01-photo-cjwt/06int-germany-what-to-know01-photo-cjwt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz, the leader of Germany’s conservative Christian Democratic Union, in Berlin on Monday.",
+                "copyright": "Tobias Schwarz/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-germany-what-to-know01-photo-cjwt/06int-germany-what-to-know01-photo-cjwt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz, the leader of Germany’s conservative Christian Democratic Union, in Berlin on Monday.",
+                "copyright": "Tobias Schwarz/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Germany’s New Leader Leaps Into a World of Crises",
+        "abstract": "Friedrich Merz is becoming chancellor at the most challenging time for Germany since reunification 35 years ago.",
+        "url": "https://www.nytimes.com/2025/05/06/world/europe/friedrich-merz-germany.html",
+        "uri": "nyt://article/6b669865-10e7-5f4c-8607-8f6b72501d86",
+        "byline": "By Christopher F. Schuetze and Jim Tankersley",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T00:01:06-04:00",
+        "created_date": "2025-05-06T00:01:06-04:00",
+        "published_date": "2025-05-06T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "Alternative for Germany",
+            "Christian Democratic Union (Germany)"
+        ],
+        "per_facet": [
+            "Merz, Friedrich",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-germany-merz-01-wtvp/06int-germany-merz-01-wtvp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz, center, will take office at the most challenging time for Germany since its reunification 35 years ago.",
+                "copyright": "Maja Hitij/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-germany-merz-01-wtvp/06int-germany-merz-01-wtvp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz, center, will take office at the most challenging time for Germany since its reunification 35 years ago.",
+                "copyright": "Maja Hitij/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-germany-merz-01-wtvp/06int-germany-merz-01-wtvp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz, center, will take office at the most challenging time for Germany since its reunification 35 years ago.",
+                "copyright": "Maja Hitij/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
