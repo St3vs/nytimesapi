@@ -69036,5 +69036,181 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Friedrich Merz Wins Second Vote to Become Germany’s Leader",
+        "abstract": "The conservative leader rebounded from a surprising defeat in Parliament hours earlier that had threatened to hobble the new government before it was sworn into office.",
+        "url": "https://www.nytimes.com/live/2025/05/06/world/merz-germany-chancellor-parliament",
+        "uri": "nyt://promo/1c431d81-8da8-5e31-a145-88ab189a1d6e",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-06T11:17:28-04:00",
+        "created_date": "2025-05-06T09:15:38-04:00",
+        "published_date": "2025-05-06T09:15:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-update-2-zblt/06germany-update-2-zblt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1349,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Pool photo by Bernd Von Jutrczenka"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-update-2-zblt/06germany-update-2-zblt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Pool photo by Bernd Von Jutrczenka"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-update-2-zblt/06germany-update-2-zblt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Pool photo by Bernd Von Jutrczenka"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "arts",
+        "subsection": "design",
+        "title": "King Charles III and Queen Camilla Unveil Their Coronation Portraits",
+        "abstract": "A painting of the monarch in the regalia of the crowning ceremony is a royal tradition.",
+        "url": "https://www.nytimes.com/2025/05/06/arts/design/king-charles-iii-coronation-portrait-queen-camilla.html",
+        "uri": "nyt://article/46f42270-e0fe-5919-a789-7840d8c7cb10",
+        "byline": "By Alex Marshall",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T09:22:30-04:00",
+        "created_date": "2025-05-06T06:44:58-04:00",
+        "published_date": "2025-05-06T06:44:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Royal Families",
+            "Art"
+        ],
+        "org_facet": [
+            "National Gallery (London)"
+        ],
+        "per_facet": [
+            "Camilla, Queen Consort of the United Kingdom",
+            "Charles III, King of the United Kingdom"
+        ],
+        "geo_facet": [
+            "London (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-uk-king-portrait-wjtl/06int-uk-king-portrait-wjtl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1538,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "King Charles and Queen Camilla at the National Gallery in London on Tuesday.",
+                "copyright": "Chris Jackson/Chris Jackson Collection, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-uk-king-portrait-wjtl/06int-uk-king-portrait-wjtl-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "King Charles and Queen Camilla at the National Gallery in London on Tuesday.",
+                "copyright": "Chris Jackson/Chris Jackson Collection, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-uk-king-portrait-wjtl/06int-uk-king-portrait-wjtl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "King Charles and Queen Camilla at the National Gallery in London on Tuesday.",
+                "copyright": "Chris Jackson/Chris Jackson Collection, via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Who Is Friedrich Merz, Who Needed Two Votes to Become Germany’s Chancellor?",
+        "abstract": "Supporters of Mr. Merz, a former corporate lawyer, say he is well-prepared and thoughtful, but critics accuse him of failing to think more than one step ahead and breaking promises.",
+        "url": "https://www.nytimes.com/2025/05/06/world/europe/friedrich-merz-chanellor-who-is.html",
+        "uri": "nyt://article/9ff6ddca-08c0-5241-960f-2bd012a38e08",
+        "byline": "By Jim Tankersley and Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T11:16:41-04:00",
+        "created_date": "2025-05-06T06:46:29-04:00",
+        "published_date": "2025-05-06T06:46:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Christian Democratic Union (Germany)",
+            "Social Democratic Party (Germany)",
+            "Alternative for Germany"
+        ],
+        "per_facet": [
+            "Merz, Friedrich"
+        ],
+        "geo_facet": [
+            "Germany",
+            "Berlin (Germany)",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-bio-kvml/06germany-blog-bio-kvml-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An election campaign poster for Friedrich Merz in western Germany this year. ",
+                "copyright": "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-bio-kvml/06germany-blog-bio-kvml-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An election campaign poster for Friedrich Merz in western Germany this year. ",
+                "copyright": "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-bio-kvml/06germany-blog-bio-kvml-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An election campaign poster for Friedrich Merz in western Germany this year. ",
+                "copyright": "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
