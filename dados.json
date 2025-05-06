@@ -67324,5 +67324,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "13 Workers Found Killed at Gold Mine in Peru",
+        "abstract": "The men were killed in a region that has seen growing conflict over access to ore in recent years. The mine has also been a hotbed of illegal gold mining.",
+        "url": "https://www.nytimes.com/2025/05/05/world/americas/peru-gold-miners-killed-boluarte.html",
+        "uri": "nyt://article/8b980bca-2c7e-5f10-9ce0-14c4e36d4851",
+        "byline": "By Mitra Taj",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T20:51:16-04:00",
+        "created_date": "2025-05-05T20:42:00-04:00",
+        "published_date": "2025-05-05T20:42:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Mines and Mining",
+            "Gold",
+            "Murders, Attempted Murders and Homicides",
+            "Kidnapping and Hostages"
+        ],
+        "org_facet": [
+            "La Poderosa (Barcelona, Spain)",
+            "Segundo Nicolas Cueva Rojas"
+        ],
+        "per_facet": [
+            "Boluarte, Dina"
+        ],
+        "geo_facet": [
+            "Peru"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-peru-miners-zhtg/05int-peru-miners-zhtg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Relatives of the slain gold miners outside the morgue in Trujillo, Peru, on Monday.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-peru-miners-zhtg/05int-peru-miners-zhtg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Relatives of the slain gold miners outside the morgue in Trujillo, Peru, on Monday.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-peru-miners-zhtg/05int-peru-miners-zhtg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Relatives of the slain gold miners outside the morgue in Trujillo, Peru, on Monday.",
+                "copyright": "Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
