@@ -69755,5 +69755,74 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "U.S. to Downgrade Palestinian Affairs Office in Jerusalem, Officials Say",
+        "abstract": "The U.S. ambassador to Israel, Mike Huckabee, plans to shut down a direct communications channel between U.S. diplomats in Jerusalem working on Palestinian issues and agencies in Washington.",
+        "url": "https://www.nytimes.com/2025/05/06/world/middleeast/trump-palestinian-affairs-jerusalem.html",
+        "uri": "nyt://article/768a309b-b981-5bc6-b09d-1e2712d6d695",
+        "byline": "By Adam Rasgon, Natan Odenheimer and Edward Wong",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T14:42:21-04:00",
+        "created_date": "2025-05-06T14:40:49-04:00",
+        "published_date": "2025-05-06T14:40:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Palestinians",
+            "United States International Relations",
+            "Diplomatic Service, Embassies and Consulates"
+        ],
+        "org_facet": [
+            "Palestinian Authority",
+            "State Department"
+        ],
+        "per_facet": [
+            "Huckabee, Mike",
+            "Trump, Donald J",
+            "Rubio, Marco",
+            "Abbas, Mahmoud",
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Jerusalem (Israel)",
+            "Israel",
+            "West Bank"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06us-palestinians-1-qght/06us-palestinians-1-qght-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "US ambassador to Israel Mike Huckabee, center, visits the Western Wall, in the Old City of Jerusalem, last month.",
+                "copyright": "Leo Correa/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06us-palestinians-1-qght/06us-palestinians-1-qght-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "US ambassador to Israel Mike Huckabee, center, visits the Western Wall, in the Old City of Jerusalem, last month.",
+                "copyright": "Leo Correa/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06us-palestinians-1-qght/06us-palestinians-1-qght-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "US ambassador to Israel Mike Huckabee, center, visits the Western Wall, in the Old City of Jerusalem, last month.",
+                "copyright": "Leo Correa/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
