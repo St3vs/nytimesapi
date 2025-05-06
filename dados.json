@@ -67576,5 +67576,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India Orders Civil Defense Drills as Potential Clash With Pakistan Looms",
+        "abstract": "The home ministry ordered officials to test air raid sirens and teach civilians to navigate blackouts and carry out evacuations.",
+        "url": "https://www.nytimes.com/2025/05/06/world/asia/india-pakistan-kashmir-drills.html",
+        "uri": "nyt://article/78e8b3b7-4664-5892-abc8-4c8ad96a7bb2",
+        "byline": "By Mujib Mashal and Hari Kumar",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T02:04:46-04:00",
+        "created_date": "2025-05-06T01:19:44-04:00",
+        "published_date": "2025-05-06T01:19:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Defense and Military Forces",
+            "Terrorism"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "India",
+            "Pakistan",
+            "Kashmir"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-india-pakistan-gzkc/06int-india-pakistan-gzkc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A bunker in Tilawari, a village in Indian-controlled Kashmir. ",
+                "copyright": "Sajjad Hussain/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-india-pakistan-gzkc/06int-india-pakistan-gzkc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A bunker in Tilawari, a village in Indian-controlled Kashmir. ",
+                "copyright": "Sajjad Hussain/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-india-pakistan-gzkc/06int-india-pakistan-gzkc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A bunker in Tilawari, a village in Indian-controlled Kashmir. ",
+                "copyright": "Sajjad Hussain/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
