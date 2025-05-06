@@ -69824,5 +69824,138 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Germany Gets a New Chancellor, in Unexpectedly Dramatic Fashion",
+        "abstract": "Friedrich Merz secured the top job but only after losing on his first attempt, a surprise that potentially weakens his government at a fraught time for Germany and Europe",
+        "url": "https://www.nytimes.com/2025/05/06/world/europe/germany-merz-chancellor.html",
+        "uri": "nyt://article/4792328f-b8de-58fe-ae86-cce9f8e7ebf2",
+        "byline": "By Jim Tankersley and Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T16:01:54-04:00",
+        "created_date": "2025-05-06T16:01:54-04:00",
+        "published_date": "2025-05-06T16:01:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "United States International Relations",
+            "International Relations",
+            "Legislatures and Parliaments"
+        ],
+        "org_facet": [
+            "Christian Democratic Union (Germany)",
+            "Christian Social Union (Germany)",
+            "Alternative for Germany",
+            "Social Democratic Party (Germany)"
+        ],
+        "per_facet": [
+            "Merz, Friedrich",
+            "Scholz, Olaf (1958- )",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Berlin (Germany)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/06int-Germany-ledeall/07int-Germany-ledeall-PRINT-hglw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Newly-elected German Chancellor Friedrich Merz and former Chancellor Olaf Scholz, right, during a handover ceremony at the chancellery in Berlin on Tuesday.",
+                "copyright": "Ebrahim Noroozi/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/06int-Germany-ledeall/07int-Germany-ledeall-PRINT-hglw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Newly-elected German Chancellor Friedrich Merz and former Chancellor Olaf Scholz, right, during a handover ceremony at the chancellery in Berlin on Tuesday.",
+                "copyright": "Ebrahim Noroozi/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/06int-Germany-ledeall/06int-Germany-ledeall-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Newly-elected German Chancellor Friedrich Merz and former Chancellor Olaf Scholz, right, during a handover ceremony at the chancellery in Berlin on Tuesday.",
+                "copyright": "Ebrahim Noroozi/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Says the U.S. Will Stop Bombing Houthi Militants",
+        "abstract": "It was unclear whether the Houthis were going to stop impeding international shipping, which was the objective of the American bombing campaign.",
+        "url": "https://www.nytimes.com/2025/05/06/us/politics/trump-houthis-bombing.html",
+        "uri": "nyt://article/b13dc1b3-965f-5be2-8c52-d00a537e8bd1",
+        "byline": "By Zolan Kanno-Youngs and Vivian Nereim",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T15:21:35-04:00",
+        "created_date": "2025-05-06T15:21:35-04:00",
+        "published_date": "2025-05-06T15:21:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States Defense and Military Forces"
+        ],
+        "org_facet": [
+            "Hamas",
+            "Houthis",
+            "Defense Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Hegseth, Pete"
+        ],
+        "geo_facet": [
+            "Yemen",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06dc-us-houthis-pftv/06dc-us-houthis-pftv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising from a U.S. airstrike in Sana, Yemen, last month.",
+                "copyright": "Khaled Abdullah/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06dc-us-houthis-pftv/06dc-us-houthis-pftv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising from a U.S. airstrike in Sana, Yemen, last month.",
+                "copyright": "Khaled Abdullah/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06dc-us-houthis-pftv/06dc-us-houthis-pftv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising from a U.S. airstrike in Sana, Yemen, last month.",
+                "copyright": "Khaled Abdullah/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
