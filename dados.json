@@ -68921,5 +68921,120 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Parliament Votes Again After Friedrich Merz Stumbles in Bid to Become Germany’s Next Leader",
+        "abstract": "The conservative leader, who won national elections in February, failed to secure the parliamentary votes needed to become chancellor. A second vote was taking place on Tuesday afternoon.",
+        "url": "https://www.nytimes.com/live/2025/05/06/world/merz-germany-chancellor-parliament",
+        "uri": "nyt://promo/1c431d81-8da8-5e31-a145-88ab189a1d6e",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-06T10:04:40-04:00",
+        "created_date": "2025-05-06T09:15:38-04:00",
+        "published_date": "2025-05-06T09:15:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-1000-klhz/06germany-1000-klhz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Fabrizio Bensch/., via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-1000-klhz/06germany-1000-klhz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Fabrizio Bensch/., via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-1000-klhz/06germany-1000-klhz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Fabrizio Bensch/., via Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "A Haven for Civilians in Sudan Is Attacked for a Third Day",
+        "abstract": "Drone strikes have hit a fuel depot and a hotel in Port Sudan, bringing the violence to a city that had so far been spared in the civil war.",
+        "url": "https://www.nytimes.com/2025/05/06/world/africa/port-sudan-attacks.html",
+        "uri": "nyt://article/76b5bc19-06c6-52e3-a749-ad80a5aadacd",
+        "byline": "By Abdalrahman Altayeb and Lynsey Chutel",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T10:06:06-04:00",
+        "created_date": "2025-05-06T09:48:52-04:00",
+        "published_date": "2025-05-06T09:48:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Defense and Military Forces",
+            "Infrastructure (Public Works)"
+        ],
+        "org_facet": [
+            "Rapid Support Forces (Sudan)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Khartoum (Sudan)",
+            "Port Sudan (Sudan)",
+            "Sudan",
+            "Red Sea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06sudan-qpvm/06sudan-qpvm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On Tuesday, drones hit a fuel depot near the port and the airport of Port Sudan, Sudan’s de facto wartime capital.",
+                "copyright": "Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06sudan-qpvm/06sudan-qpvm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On Tuesday, drones hit a fuel depot near the port and the airport of Port Sudan, Sudan’s de facto wartime capital.",
+                "copyright": "Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06sudan-qpvm/06sudan-qpvm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On Tuesday, drones hit a fuel depot near the port and the airport of Port Sudan, Sudan’s de facto wartime capital.",
+                "copyright": "Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
