@@ -70258,5 +70258,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Surprises Canada With a New Message: We Love You",
+        "abstract": "President Trump played nice when he came face-to-face with the new prime minister of Canada, the country he has spent months belittling.",
+        "url": "https://www.nytimes.com/2025/05/06/us/politics/trump-canada-love.html",
+        "uri": "nyt://article/628b4833-9d88-53ff-aea2-b5a3b4b0ecc9",
+        "byline": "By Shawn McCreesh",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T18:29:10-04:00",
+        "created_date": "2025-05-06T18:23:24-04:00",
+        "published_date": "2025-05-06T18:23:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Carney, Mark J"
+        ],
+        "geo_facet": [
+            "Canada"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06dc-scene1-vpft/06dc-scene1-vpft-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Donald J. Trump and Prime Minister Mark Carney of Canada in the Oval Office on Tuesday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06dc-scene1-vpft/06dc-scene1-vpft-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Donald J. Trump and Prime Minister Mark Carney of Canada in the Oval Office on Tuesday.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06dc-scene1-vpft/06dc-scene1-vpft-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Donald J. Trump and Prime Minister Mark Carney of Canada in the Oval Office on Tuesday.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
