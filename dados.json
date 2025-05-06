@@ -70136,5 +70136,127 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Unique Offer on Remote Scottish Island Draws ‘Dreamers and Schemers’",
+        "abstract": "A “serial business creator” and owner of a fish smokery on Colonsay, population 125, says he’s willing to give away his business, free.",
+        "url": "https://www.nytimes.com/2025/05/06/world/europe/scotland-island-colonsay-job-offer.html",
+        "uri": "nyt://article/12978b6b-1119-5542-8573-a22f3ba7835f",
+        "byline": "By Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T18:10:38-04:00",
+        "created_date": "2025-05-06T18:10:38-04:00",
+        "published_date": "2025-05-06T18:10:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Islands",
+            "Fish Farming",
+            "Labor and Jobs"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Richard Irvine"
+        ],
+        "geo_facet": [
+            "Scotland",
+            "Colonsay (Scotland)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06scotland-giveaway-1-jmlq/06scotland-giveaway-1-jmlq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Colonsay, an island in Scotland, has a population of 125, but opportunity awaits anyone longing to own a business.",
+                "copyright": "Colin McPherson/Corbis, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06scotland-giveaway-1-jmlq/06scotland-giveaway-1-jmlq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Colonsay, an island in Scotland, has a population of 125, but opportunity awaits anyone longing to own a business.",
+                "copyright": "Colin McPherson/Corbis, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06scotland-giveaway-1-jmlq/06scotland-giveaway-1-jmlq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Colonsay, an island in Scotland, has a population of 125, but opportunity awaits anyone longing to own a business.",
+                "copyright": "Colin McPherson/Corbis, via Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India Strikes Pakistan Two Weeks After Terrorist Attack",
+        "abstract": "India said it had struck nine sites in Pakistan and Pakistan-controlled Kashmir but had targeted no military sites. The strikes came after over two dozen civilians were killed in a terrorist attack in Indian Kashmir.",
+        "url": "https://www.nytimes.com/2025/05/06/world/asia/india-pakistan-attacks.html",
+        "uri": "nyt://article/423db03c-02de-51b8-883a-70dfc6f78460",
+        "byline": "By Salman Masood and Mujib Mashal",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T18:12:05-04:00",
+        "created_date": "2025-05-06T16:17:36-04:00",
+        "published_date": "2025-05-06T16:17:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Mass Shootings"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "India",
+            "Pakistan",
+            "Kashmir"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06pakistan-1-jblh/06pakistan-1-jblh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Muzaffarabad in Pakistan-administrated Kashmir early Wednesday. Residents there reported hearing jets flying above. ",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06pakistan-1-jblh/06pakistan-1-jblh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Muzaffarabad in Pakistan-administrated Kashmir early Wednesday. Residents there reported hearing jets flying above. ",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06pakistan-1-jblh/06pakistan-1-jblh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Muzaffarabad in Pakistan-administrated Kashmir early Wednesday. Residents there reported hearing jets flying above. ",
+                "copyright": "Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
