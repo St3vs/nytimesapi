@@ -67388,5 +67388,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "CarFrancis Opened Discussions to Those Outside the Church Hierarchy. This Cardinal Would, Too",
+        "abstract": "Cardinal Mario Grech comes from Malta, but is known to cardinals around the world for his role as the secretary general of an advisory body of bishops.",
+        "url": "https://www.nytimes.com/2025/05/04/world/europe/pope-candidate-cardinal-grech.html",
+        "uri": "nyt://article/95326b50-2a53-5c88-92e7-877e4096d991",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-05-05T22:23:19-04:00",
+        "created_date": "2025-05-04T05:01:46-04:00",
+        "published_date": "2025-05-04T05:01:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Clergy",
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Malta"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-pope-profile-grech-hltz/04int-pope-profile-grech-hltz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Mario Grech attending Mass at St. Peter’s basilica in Vatican City on Wednesday.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-pope-profile-grech-hltz/04int-pope-profile-grech-hltz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Mario Grech attending Mass at St. Peter’s basilica in Vatican City on Wednesday.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/04int-pope-profile-grech-hltz/04int-pope-profile-grech-hltz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Mario Grech attending Mass at St. Peter’s basilica in Vatican City on Wednesday.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
