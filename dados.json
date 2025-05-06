@@ -68453,5 +68453,473 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Friedrich Merz Stumbles in Bid to Become Germany’s Next Leader",
+        "abstract": "The conservative leader, who won national elections in February, failed to secure the parliamentary votes needed to become chancellor. A second vote was scheduled for Tuesday afternoon.",
+        "url": "https://www.nytimes.com/live/2025/05/06/world/merz-germany-chancellor-parliament",
+        "uri": "nyt://promo/1c431d81-8da8-5e31-a145-88ab189a1d6e",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-06T09:23:07-04:00",
+        "created_date": "2025-05-06T09:15:38-04:00",
+        "published_date": "2025-05-06T09:15:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-header3-hwqj/06germany-blog-header3-hwqj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tobias Schwarz/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-header3-hwqj/06germany-blog-header3-hwqj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tobias Schwarz/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-header3-hwqj/06germany-blog-header3-hwqj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Tobias Schwarz/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israeli Jets Bombard Airport in Yemen’s Capital",
+        "abstract": "The strike came days after the Iran-backed Houthi militia in Yemen fired a ballistic missile that struck near Israel’s main airport, wounding at least six people.",
+        "url": "https://www.nytimes.com/2025/05/06/world/middleeast/israel-yemen-attack-sana-airport.html",
+        "uri": "nyt://article/d0a366ed-2d79-5414-86bf-3f8bb12cd341",
+        "byline": "By Aaron Boxerman and Vivian Nereim",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T09:23:57-04:00",
+        "created_date": "2025-05-06T09:23:57-04:00",
+        "published_date": "2025-05-06T09:23:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "International Relations",
+            "Israel-Gaza War (2023- )",
+            "Strikes",
+            "Airports"
+        ],
+        "org_facet": [
+            "Houthis"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Sana (Yemen)",
+            "Israel",
+            "Yemen"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-Israel-Yemen-ztqh/06int-Israel-Yemen-ztqh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising above Sana, Yemen, on Tuesday.",
+                "copyright": "Khaled Abdullah/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-Israel-Yemen-ztqh/06int-Israel-Yemen-ztqh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising above Sana, Yemen, on Tuesday.",
+                "copyright": "Khaled Abdullah/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-Israel-Yemen-ztqh/06int-Israel-Yemen-ztqh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising above Sana, Yemen, on Tuesday.",
+                "copyright": "Khaled Abdullah/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Merz’s stumble could offer the far-right AfD party an opportunity.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/06/world/merz-germany-chancellor-parliament/merzs-stumble-could-offer-the-far-right-afd-party-an-opportunity",
+        "uri": "nyt://article/e0ce16e8-5289-5894-ad16-22b3a13dae59",
+        "byline": "By Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T09:23:05-04:00",
+        "created_date": "2025-05-06T09:23:05-04:00",
+        "published_date": "2025-05-06T09:23:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-afd-whzj/06germany-blog-afd-whzj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alice Weidel and Tino Chrupalla, the joint leaders of the far-right Alternative for Germany party, demanded that Friedrich Merz resign minutes after he failed a parliamentary vote.",
+                "copyright": "Ralf Hirschberger/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-afd-whzj/06germany-blog-afd-whzj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alice Weidel and Tino Chrupalla, the joint leaders of the far-right Alternative for Germany party, demanded that Friedrich Merz resign minutes after he failed a parliamentary vote.",
+                "copyright": "Ralf Hirschberger/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-afd-whzj/06germany-blog-afd-whzj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alice Weidel and Tino Chrupalla, the joint leaders of the far-right Alternative for Germany party, demanded that Friedrich Merz resign minutes after he failed a parliamentary vote.",
+                "copyright": "Ralf Hirschberger/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Plans to Seize Control of Gaza’s Aid. Here’s How That Could Look.",
+        "abstract": "The United Nations and its partners have condemned the proposals by Israel, which has been barring deliveries of food and medicine for months.",
+        "url": "https://www.nytimes.com/2025/05/06/world/middleeast/israel-gaza-aid.html",
+        "uri": "nyt://article/09e42b71-fac0-51e4-b85c-d7218482c95b",
+        "byline": "By Aaron Boxerman and Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T09:20:22-04:00",
+        "created_date": "2025-05-06T09:20:22-04:00",
+        "published_date": "2025-05-06T09:20:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "International Relations",
+            "Defense and Military Forces",
+            "Humanitarian Aid",
+            "Refugees and Displaced Persons",
+            "Palestinians",
+            "Embargoes and Sanctions",
+            "Peace Process"
+        ],
+        "org_facet": [
+            "Hamas",
+            "United Nations"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-gaza-aid-wwk-01-pkwh/06int-gaza-aid-wwk-01-pkwh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A charity kitchen in Jabaliya in northern Gaza last month. Israel began blocking the arrival of new supplies in the enclave early in March.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-gaza-aid-wwk-01-pkwh/06int-gaza-aid-wwk-01-pkwh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A charity kitchen in Jabaliya in northern Gaza last month. Israel began blocking the arrival of new supplies in the enclave early in March.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-gaza-aid-wwk-01-pkwh/06int-gaza-aid-wwk-01-pkwh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A charity kitchen in Jabaliya in northern Gaza last month. Israel began blocking the arrival of new supplies in the enclave early in March.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What Happened When Trump Altered the Deal With Law Firms and Universities",
+        "abstract": "Does the prisoner’s dilemma still apply when the rules break down?",
+        "url": "https://www.nytimes.com/2025/05/06/world/europe/what-happened-when-trump-altered-the-deal-with-law-firms-and-universities.html",
+        "uri": "nyt://article/0a4497ac-6977-5024-a086-80992b70628c",
+        "byline": "By Amanda Taub",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T09:11:15-04:00",
+        "created_date": "2025-05-06T09:11:15-04:00",
+        "published_date": "2025-05-06T09:11:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Legal Profession",
+            "Colleges and Universities",
+            "Executive Orders and Memorandums",
+            "Democracy (Theory and Philosophy)",
+            "Freedom of Speech and Expression"
+        ],
+        "org_facet": [
+            "Harvard University"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05interpreter-1-hcqp/05interpreter-1-hcqp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Legal professionals gathered to protest the Trump administration during a rally in New York last week.",
+                "copyright": "Victor J. Blue for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05interpreter-1-hcqp/05interpreter-1-hcqp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Legal professionals gathered to protest the Trump administration during a rally in New York last week.",
+                "copyright": "Victor J. Blue for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05interpreter-1-hcqp/05interpreter-1-hcqp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Legal professionals gathered to protest the Trump administration during a rally in New York last week.",
+                "copyright": "Victor J. Blue for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What the setback for Merz means for the German economy.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/06/world/merz-germany-chancellor-parliament/what-the-setback-for-merz-means-for-the-german-economy",
+        "uri": "nyt://article/52950166-82bb-5274-a1d5-a7a53954d4f6",
+        "byline": "By Melissa Eddy",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T08:55:44-04:00",
+        "created_date": "2025-05-06T08:55:44-04:00",
+        "published_date": "2025-05-06T08:55:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Stocks and Bonds",
+            "Economic Conditions and Trends"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Merz, Friedrich"
+        ],
+        "geo_facet": [
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-economic-challenges-pthg/06germany-blog-economic-challenges-pthg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A shopping center in Berlin last month. Companies were looking for a new government to revive growth in Europe’s biggest economy.",
+                "copyright": "Patrick Junker for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-economic-challenges-pthg/06germany-blog-economic-challenges-pthg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A shopping center in Berlin last month. Companies were looking for a new government to revive growth in Europe’s biggest economy.",
+                "copyright": "Patrick Junker for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-economic-challenges-pthg/06germany-blog-economic-challenges-pthg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A shopping center in Berlin last month. Companies were looking for a new government to revive growth in Europe’s biggest economy.",
+                "copyright": "Patrick Junker for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Merz’s stumble complicates Germany’s attempt to lead in Europe.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/06/world/merz-germany-chancellor-parliament/merzs-setback-complicates-germanys-attempt-to-lead-in-europe",
+        "uri": "nyt://article/712bd7e3-8412-5a96-938e-1472712c8cd0",
+        "byline": "By Jim Tankersley",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T09:11:52-04:00",
+        "created_date": "2025-05-06T08:41:36-04:00",
+        "published_date": "2025-05-06T08:41:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-europe-jbzc/06germany-blog-europe-jbzc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The failure of Friedrich Merz, center, to secure the chancellorship on the first round could affect his authority in Europe at a time when there is a leadership vacuum in France and Germany.",
+                "copyright": "Maja Hitij/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-europe-jbzc/06germany-blog-europe-jbzc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The failure of Friedrich Merz, center, to secure the chancellorship on the first round could affect his authority in Europe at a time when there is a leadership vacuum in France and Germany.",
+                "copyright": "Maja Hitij/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-europe-jbzc/06germany-blog-europe-jbzc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The failure of Friedrich Merz, center, to secure the chancellorship on the first round could affect his authority in Europe at a time when there is a leadership vacuum in France and Germany.",
+                "copyright": "Maja Hitij/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Merz Stumbled in Bid to Become Germany’s Chancellor. What Happens Now?",
+        "abstract": "Friedrich Merz was poised to be sworn in as chancellor but did not win enough votes in parliament. A second vote was scheduled for Tuesday afternoon.",
+        "url": "https://www.nytimes.com/2025/05/06/world/europe/merz-germany-chancellor-vote-what-next.html",
+        "uri": "nyt://article/e308f9dd-a043-536c-8e21-0d29437324ef",
+        "byline": "By Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T09:12:23-04:00",
+        "created_date": "2025-05-06T07:03:22-04:00",
+        "published_date": "2025-05-06T07:03:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Alternative for Germany",
+            "Christian Democratic Union (Germany)"
+        ],
+        "per_facet": [
+            "Merz, Friedrich"
+        ],
+        "geo_facet": [
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-what-now-vhql/06germany-blog-what-now-vhql-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The empty government bench after Friedrich Merz failed to be elected chancellor, at the parliament Bundestag in Berlin, on Tuesday.",
+                "copyright": "Fabrizio Bensch/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-what-now-vhql/06germany-blog-what-now-vhql-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The empty government bench after Friedrich Merz failed to be elected chancellor, at the parliament Bundestag in Berlin, on Tuesday.",
+                "copyright": "Fabrizio Bensch/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-what-now-vhql/06germany-blog-what-now-vhql-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The empty government bench after Friedrich Merz failed to be elected chancellor, at the parliament Bundestag in Berlin, on Tuesday.",
+                "copyright": "Fabrizio Bensch/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
