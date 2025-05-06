@@ -67637,5 +67637,411 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Ukrainian Drone Attack Forces Restriction of Flights Near Moscow, Russia Says",
+        "abstract": "The volley comes just days before a planned parade in the capital to mark the 80th anniversary of the end of World War II in Europe.",
+        "url": "https://www.nytimes.com/2025/05/06/world/europe/ukraine-drones-moscow-airport.html",
+        "uri": "nyt://article/409a1150-2de0-5c0f-a448-c8b50d8cc094",
+        "byline": "By Andrew E. Kramer",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T05:09:57-04:00",
+        "created_date": "2025-05-06T05:09:57-04:00",
+        "published_date": "2025-05-06T05:09:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Drones (Pilotless Planes)",
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Moscow (Russia)",
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": null,
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Friedrich Merz Fails in First Round of Voting to Become Germany’s Next Leader",
+        "abstract": "The setback was likely temporary, but it was historic. No modern German chancellor has ever failed to secure the job on a first ballot in Parliament.",
+        "url": "https://www.nytimes.com/2025/05/06/world/europe/merz-germany-chancellor-parliament-vote.html",
+        "uri": "nyt://article/4d28e207-052f-518a-8fab-fa39f2bfe444",
+        "byline": "By Jim Tankersley and Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T05:19:37-04:00",
+        "created_date": "2025-05-06T05:04:27-04:00",
+        "published_date": "2025-05-06T05:04:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "Politics and Government",
+            "Legislatures and Parliaments"
+        ],
+        "org_facet": [
+            "Christian Democratic Union (Germany)"
+        ],
+        "per_facet": [
+            "Merz, Friedrich"
+        ],
+        "geo_facet": [
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-Germany-chancellor-pwgc/06int-Germany-chancellor-pwgc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz in the German Parliament on Tuesday after failing to get enough votes to be named chancellor.",
+                "copyright": "Markus Schreiber/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-Germany-chancellor-pwgc/06int-Germany-chancellor-pwgc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz in the German Parliament on Tuesday after failing to get enough votes to be named chancellor.",
+                "copyright": "Markus Schreiber/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-Germany-chancellor-pwgc/06int-Germany-chancellor-pwgc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz in the German Parliament on Tuesday after failing to get enough votes to be named chancellor.",
+                "copyright": "Markus Schreiber/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Canada’s Carney Is on a High-Stakes Visit to the White House",
+        "abstract": "The Canadian prime minister will meet with President Trump, days after being elected on an anti-Trump platform as relations between the two allies are at a historic nadir.",
+        "url": "https://www.nytimes.com/2025/05/06/world/canada/trump-carney-white-house-meeting-us-canada.html",
+        "uri": "nyt://article/251c1c80-c05d-5b6a-9a26-fc1269de126c",
+        "byline": "By Matina Stevis-Gridneff",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T05:03:27-04:00",
+        "created_date": "2025-05-06T05:03:27-04:00",
+        "published_date": "2025-05-06T05:03:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "International Trade and World Market",
+            "United States-Mexico-Canada Agreement",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Trump, Donald J",
+            "Trudeau, Justin"
+        ],
+        "geo_facet": [
+            "Canada",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-canada-trump01-photo-cwvz/06int-canada-trump01-photo-cwvz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney, in Ottawa last week, is a sometimes stiff former banker, known to not suffer fools.",
+                "copyright": "Patrick Doyle/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-canada-trump01-photo-cwvz/06int-canada-trump01-photo-cwvz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney, in Ottawa last week, is a sometimes stiff former banker, known to not suffer fools.",
+                "copyright": "Patrick Doyle/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-canada-trump01-photo-cwvz/06int-canada-trump01-photo-cwvz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Mark Carney, in Ottawa last week, is a sometimes stiff former banker, known to not suffer fools.",
+                "copyright": "Patrick Doyle/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The Church Is More Global Than Ever. What Does That Mean for the Next Pope?",
+        "abstract": "Francis appointed most of the cardinals. But they may not choose another pope like him.",
+        "url": "https://www.nytimes.com/interactive/2025/05/06/world/europe/cardinals-conclave-2025.html",
+        "uri": "nyt://interactive/a97452d9-cc58-52a1-bded-db9a2a876eeb",
+        "byline": "By Samuel Granados, Jason Horowitz and Josh Holder",
+        "item_type": "Interactive",
+        "updated_date": "2025-05-06T05:01:00-04:00",
+        "created_date": "2025-05-06T05:01:00-04:00",
+        "published_date": "2025-05-06T05:01:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Clergy",
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/2025-02-26-cardinals-index/2025-02-26-cardinals-index-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/2025-02-26-cardinals-index/2025-02-26-cardinals-index-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/02/multimedia/2025-02-26-cardinals-index/2025-02-26-cardinals-index-thumbLarge-v2.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "On Pakistan’s Side of Kashmir, Locals Fear They’ll Be the First to Face India’s Ire",
+        "abstract": "Many in the region are preparing for a possible military confrontation between India and Pakistan because of a terrorist attack two weeks ago.",
+        "url": "https://www.nytimes.com/2025/05/06/world/asia/pakistan-kashmir-india-tension.html",
+        "uri": "nyt://article/9c8c24a9-d8e0-551a-8453-bd84065d63cb",
+        "byline": "By Zia ur-Rehman and Jalaluddin Mughal",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T04:51:57-04:00",
+        "created_date": "2025-05-06T04:51:57-04:00",
+        "published_date": "2025-05-06T04:51:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Demonstrations, Protests and Riots"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "Kashmir",
+            "Pakistan",
+            "India"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/00int-pakistan-kashmir-01-fwhv/00int-pakistan-kashmir-01-fwhv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A giant sign extolling love for Kashmir in Muzaffarabad, the capital of the Pakistani-administered side of the disputed region, belies the tension reignited after a deadly attack on the Indian side of Kashmir.",
+                "copyright": "Saiyna Bashir for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/00int-pakistan-kashmir-01-fwhv/00int-pakistan-kashmir-01-fwhv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A giant sign extolling love for Kashmir in Muzaffarabad, the capital of the Pakistani-administered side of the disputed region, belies the tension reignited after a deadly attack on the Indian side of Kashmir.",
+                "copyright": "Saiyna Bashir for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/00int-pakistan-kashmir-01-fwhv/00int-pakistan-kashmir-01-fwhv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A giant sign extolling love for Kashmir in Muzaffarabad, the capital of the Pakistani-administered side of the disputed region, belies the tension reignited after a deadly attack on the Indian side of Kashmir.",
+                "copyright": "Saiyna Bashir for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What to Know About the Formation of Germany’s New Government",
+        "abstract": "Friedrich Merz, a conservative Christian Democrat, is expected to become Germany’s next chancellor. But on Tuesday, he failed to win enough support from legislators in the first round of voting in parliament.",
+        "url": "https://www.nytimes.com/2025/05/06/world/europe/germany-new-government.html",
+        "uri": "nyt://article/90f6d483-5bf7-5492-88ca-447bdb42f320",
+        "byline": "By Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T04:51:36-04:00",
+        "created_date": "2025-05-06T00:01:13-04:00",
+        "published_date": "2025-05-06T00:01:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Appointments and Executive Changes",
+            "Legislatures and Parliaments"
+        ],
+        "org_facet": [
+            "Christian Democratic Union (Germany)",
+            "Social Democratic Party (Germany)"
+        ],
+        "per_facet": [
+            "Merz, Friedrich"
+        ],
+        "geo_facet": [
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-germany-what-to-know01-photo-cjwt/06int-germany-what-to-know01-photo-cjwt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz, the leader of Germany’s conservative Christian Democratic Union, in Berlin on Monday.",
+                "copyright": "Tobias Schwarz/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-germany-what-to-know01-photo-cjwt/06int-germany-what-to-know01-photo-cjwt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz, the leader of Germany’s conservative Christian Democratic Union, in Berlin on Monday.",
+                "copyright": "Tobias Schwarz/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-germany-what-to-know01-photo-cjwt/06int-germany-what-to-know01-photo-cjwt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz, the leader of Germany’s conservative Christian Democratic Union, in Berlin on Monday.",
+                "copyright": "Tobias Schwarz/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Germany’s Expected New Leader Leaps Into a World of Crises",
+        "abstract": "Friedrich Merz is poised to become chancellor at a challenging time for Germany. But in a first round of voting in Parliament, he fell short Tuesday of getting enough votes to be named leader.",
+        "url": "https://www.nytimes.com/2025/05/06/world/europe/friedrich-merz-germany.html",
+        "uri": "nyt://article/6b669865-10e7-5f4c-8607-8f6b72501d86",
+        "byline": "By Christopher F. Schuetze and Jim Tankersley",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T04:42:17-04:00",
+        "created_date": "2025-05-06T00:01:06-04:00",
+        "published_date": "2025-05-06T00:01:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "Alternative for Germany",
+            "Christian Democratic Union (Germany)"
+        ],
+        "per_facet": [
+            "Merz, Friedrich",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-germany-merz-01-wtvp/06int-germany-merz-01-wtvp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz, center, will take office at the most challenging time for Germany since its reunification 35 years ago.",
+                "copyright": "Maja Hitij/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-germany-merz-01-wtvp/06int-germany-merz-01-wtvp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz, center, will take office at the most challenging time for Germany since its reunification 35 years ago.",
+                "copyright": "Maja Hitij/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-germany-merz-01-wtvp/06int-germany-merz-01-wtvp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz, center, will take office at the most challenging time for Germany since its reunification 35 years ago.",
+                "copyright": "Maja Hitij/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
