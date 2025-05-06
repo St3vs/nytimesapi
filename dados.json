@@ -69391,5 +69391,183 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Friedrich Merz Becomes Germany’s Leader After Unexpected Day of Drama",
+        "abstract": "Mr. Merz needed two rounds of voting to become chancellor after a surprising defeat in Parliament hours earlier that threatened to hobble his new government.",
+        "url": "https://www.nytimes.com/live/2025/05/06/world/merz-germany-chancellor-parliament",
+        "uri": "nyt://promo/1c431d81-8da8-5e31-a145-88ab189a1d6e",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-06T13:08:00-04:00",
+        "created_date": "2025-05-06T09:15:38-04:00",
+        "published_date": "2025-05-06T09:15:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-update-2-zblt/06germany-update-2-zblt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1349,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Pool photo by Bernd Von Jutrczenka"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-update-2-zblt/06germany-update-2-zblt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Pool photo by Bernd Von Jutrczenka"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-update-2-zblt/06germany-update-2-zblt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Pool photo by Bernd Von Jutrczenka"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India Seeks to Block Auction of Buddhist Religious Relics",
+        "abstract": "A collection of jewels and holy relics is set to be auctioned by the family of a colonial-era English explorer. Now, the Indian government says it’s not theirs to sell.",
+        "url": "https://www.nytimes.com/2025/05/06/world/asia/buddha-jewels-auction-india-sothebys.html",
+        "uri": "nyt://article/5528ed78-2383-56c3-9d2d-860dfdb200cd",
+        "byline": "By Ali Watkins",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T12:55:31-04:00",
+        "created_date": "2025-05-06T12:55:31-04:00",
+        "published_date": "2025-05-06T12:55:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Auctions",
+            "Buddhism",
+            "Arts and Antiquities Looting",
+            "Museums",
+            "Colonization",
+            "Jewels and Jewelry"
+        ],
+        "org_facet": [
+            "Sotheby's"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "India"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/6xp-buddha-jvkh/6xp-buddha-jvkh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1670,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Relics from the collection of jewels said to have been buried with Buddha at an exhibition at the Metropolitan Museum of Art in New York City in 2023.",
+                "copyright": "Elizabeth Bick for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/6xp-buddha-jvkh/6xp-buddha-jvkh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Relics from the collection of jewels said to have been buried with Buddha at an exhibition at the Metropolitan Museum of Art in New York City in 2023.",
+                "copyright": "Elizabeth Bick for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/6xp-buddha-jvkh/6xp-buddha-jvkh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Relics from the collection of jewels said to have been buried with Buddha at an exhibition at the Metropolitan Museum of Art in New York City in 2023.",
+                "copyright": "Elizabeth Bick for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Tesla Sales Fall in Germany and U.K. to Lowest Point in 2 Years",
+        "abstract": "Demand for the U.S. auto maker’s vehicles slid amid stronger competition from Europe and China and rising anger at Elon Musk’s political forays.",
+        "url": "https://www.nytimes.com/2025/05/06/world/europe/tesla-sales-germany-uk.html",
+        "uri": "nyt://article/2d5aa0b6-dce9-5b94-94f7-c2f74c5d93b3",
+        "byline": "By Melissa Eddy",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T12:48:53-04:00",
+        "created_date": "2025-05-06T12:19:55-04:00",
+        "published_date": "2025-05-06T12:19:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Electric and Hybrid Vehicles"
+        ],
+        "org_facet": [
+            "Tesla Motors Inc"
+        ],
+        "per_facet": [
+            "Musk, Elon",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Germany",
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06biz-Europe-tesla-gjlc/06biz-Europe-tesla-gjlc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Tesla dealership in Norway. Registrations of new Tesla vehicles dropped across Europe last month compared with a year earlier.",
+                "copyright": "David B. Torch for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06biz-Europe-tesla-gjlc/06biz-Europe-tesla-gjlc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Tesla dealership in Norway. Registrations of new Tesla vehicles dropped across Europe last month compared with a year earlier.",
+                "copyright": "David B. Torch for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06biz-Europe-tesla-gjlc/06biz-Europe-tesla-gjlc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Tesla dealership in Norway. Registrations of new Tesla vehicles dropped across Europe last month compared with a year earlier.",
+                "copyright": "David B. Torch for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
