@@ -68043,5 +68043,138 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "With Acts of Subversion, Some Russians Fight Propaganda in Schools",
+        "abstract": "Three years into Russia’s invasion of Ukraine, antiwar parents and some teachers say they are going to great lengths to shield children from state-mandated patriotic education classes.",
+        "url": "https://www.nytimes.com/2025/05/06/world/europe/russia-putin-schools-patriotic-education.html",
+        "uri": "nyt://article/bc3e0421-9f0b-5a77-b13d-24167b883eee",
+        "byline": "By Nataliya Vasilyeva",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T05:59:31-04:00",
+        "created_date": "2025-05-06T05:59:31-04:00",
+        "published_date": "2025-05-06T05:59:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Education (K-12)",
+            "Propaganda",
+            "Parenting"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/xxint-russia-schools-vjmp/xxint-russia-schools-vjmp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1463,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students in 2023 visited a museum in Moscow dedicated to World War II. President Vladimir V. Putin of Russia introduced “patriotic education” in schools in early 2022.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/xxint-russia-schools-vjmp/xxint-russia-schools-vjmp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students in 2023 visited a museum in Moscow dedicated to World War II. President Vladimir V. Putin of Russia introduced “patriotic education” in schools in early 2022.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/xxint-russia-schools-vjmp/xxint-russia-schools-vjmp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Students in 2023 visited a museum in Moscow dedicated to World War II. President Vladimir V. Putin of Russia introduced “patriotic education” in schools in early 2022.",
+                "copyright": "Nanna Heitmann for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "The Only Female Minister in Syria’s New Government Wants to ‘Get Things Done’",
+        "abstract": "Hind Kabawat hopes her long experience as a conflict mediator can help Syria’s next generation. The challenges are immense.",
+        "url": "https://www.nytimes.com/2025/05/06/world/middleeast/syria-female-minister-government.html",
+        "uri": "nyt://article/255afd5e-56a9-5189-b70e-60f1b32fbd1b",
+        "byline": "By Carlotta Gall and Kiana Hayeri",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T05:56:51-04:00",
+        "created_date": "2025-05-06T05:56:51-04:00",
+        "published_date": "2025-05-06T05:56:51-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Women and Girls",
+            "Politics and Government",
+            "War and Armed Conflicts",
+            "Minorities",
+            "International Relations",
+            "Embargoes and Sanctions",
+            "Appointments and Executive Changes",
+            "Constitutions",
+            "United States International Relations",
+            "Refugees and Displaced Persons",
+            "Race and Ethnicity",
+            "Peace Process",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kabawat, Hind",
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+            "Assad, Bashar al-"
+        ],
+        "geo_facet": [
+            "Syria"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-syria-profile-01-mkqz/05int-syria-profile-01-mkqz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Hind Kabawat, the only female minister in Syria’s new government, in her house, in Bab Touma, a majority Christian neighborhood of Damascus.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-syria-profile-01-mkqz/05int-syria-profile-01-mkqz-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Hind Kabawat, the only female minister in Syria’s new government, in her house, in Bab Touma, a majority Christian neighborhood of Damascus.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05int-syria-profile-01-mkqz/05int-syria-profile-01-mkqz-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Hind Kabawat, the only female minister in Syria’s new government, in her house, in Bab Touma, a majority Christian neighborhood of Damascus.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
