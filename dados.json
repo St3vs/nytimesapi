@@ -68176,5 +68176,119 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Merz failed to win a majority in parliament. What happens now?",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/06/world/merz-germany-chancellor-parliament/merz-failed-to-win-a-majority-in-parliament-what-happens-now",
+        "uri": "nyt://article/e308f9dd-a043-536c-8e21-0d29437324ef",
+        "byline": "By Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T07:03:21-04:00",
+        "created_date": "2025-05-06T07:03:21-04:00",
+        "published_date": "2025-05-06T07:03:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-what-now-vhql/06germany-blog-what-now-vhql-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The empty government bench after Friedrich Merz failed to be elected chancellor, at the parliament Bundestag in Berlin, on Tuesday.",
+                "copyright": "Fabrizio Bensch/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-what-now-vhql/06germany-blog-what-now-vhql-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The empty government bench after Friedrich Merz failed to be elected chancellor, at the parliament Bundestag in Berlin, on Tuesday.",
+                "copyright": "Fabrizio Bensch/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-what-now-vhql/06germany-blog-what-now-vhql-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The empty government bench after Friedrich Merz failed to be elected chancellor, at the parliament Bundestag in Berlin, on Tuesday.",
+                "copyright": "Fabrizio Bensch/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Who Is Friedrich Merz, Who Just Stumbled in His Bid to Become Germany’s Chancellor?",
+        "abstract": "Supporters of the former corporate lawyer say he is well-prepared and thoughtful, but critics accuse him of failing to think more than one step ahead and breaking promises.",
+        "url": "https://www.nytimes.com/2025/05/06/world/europe/friedrich-merz-chanellor-who-is.html",
+        "uri": "nyt://article/9ff6ddca-08c0-5241-960f-2bd012a38e08",
+        "byline": "By Jim Tankersley and Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T06:46:28-04:00",
+        "created_date": "2025-05-06T06:46:28-04:00",
+        "published_date": "2025-05-06T06:46:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Christian Democratic Union (Germany)",
+            "Social Democratic Party (Germany)",
+            "Alternative for Germany"
+        ],
+        "per_facet": [
+            "Merz, Friedrich"
+        ],
+        "geo_facet": [
+            "Germany",
+            "Berlin (Germany)",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-bio-kvml/06germany-blog-bio-kvml-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An election campaign poster for Friedrich Merz in western Germany this year. ",
+                "copyright": "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-bio-kvml/06germany-blog-bio-kvml-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An election campaign poster for Friedrich Merz in western Germany this year. ",
+                "copyright": "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06germany-blog-bio-kvml/06germany-blog-bio-kvml-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An election campaign poster for Friedrich Merz in western Germany this year. ",
+                "copyright": "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
