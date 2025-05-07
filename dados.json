@@ -71069,5 +71069,138 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Xi’s Visit to Russia Complicates China’s Courtship of Europe",
+        "abstract": "Xi Jinping, China’s leader, is reinforcing his bond with President Vladimir V. Putin of Russia. But that could hurt Beijing’s efforts to repair ties with Europe.",
+        "url": "https://www.nytimes.com/2025/05/07/world/asia/xi-china-russia-trade.html",
+        "uri": "nyt://article/7d99b15f-4386-518a-be99-5e38c8dd8d04",
+        "byline": "By David Pierson and Paul Sonne",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T03:59:42-04:00",
+        "created_date": "2025-05-07T03:59:42-04:00",
+        "published_date": "2025-05-07T03:59:42-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "International Relations",
+            "United States International Relations",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "European Union",
+            "European Council",
+            "European Parliament"
+        ],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "China",
+            "Moscow (Russia)",
+            "Red Square (Moscow)",
+            "Europe",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-china-russia-01-hmfc/07int-china-russia-01-hmfc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chinese People’s Liberation Army soldiers marching during a parade rehearsal in Moscow on Saturday. China's leader, Xi Jinping, will be Russia’s main guest at Friday’s Victory Day parade. ",
+                "copyright": "Alexander Zemlianichenko/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-china-russia-01-hmfc/07int-china-russia-01-hmfc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chinese People’s Liberation Army soldiers marching during a parade rehearsal in Moscow on Saturday. China's leader, Xi Jinping, will be Russia’s main guest at Friday’s Victory Day parade. ",
+                "copyright": "Alexander Zemlianichenko/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-china-russia-01-hmfc/07int-china-russia-01-hmfc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chinese People’s Liberation Army soldiers marching during a parade rehearsal in Moscow on Saturday. China's leader, Xi Jinping, will be Russia’s main guest at Friday’s Victory Day parade. ",
+                "copyright": "Alexander Zemlianichenko/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia and Ukraine Trade Strikes Before Moscow’s Victory Day Parade",
+        "abstract": "The attacks came a day before a Russian-proposed cease-fire was to take effect and as Moscow prepared to welcome foreign dignitaries for a parade.",
+        "url": "https://www.nytimes.com/2025/05/07/world/europe/ukraine-russia-strikes-victory-day.html",
+        "uri": "nyt://article/b5542818-26b7-53d5-829b-ba799955afe7",
+        "byline": "By Andrew E. Kramer",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T03:55:15-04:00",
+        "created_date": "2025-05-07T03:36:08-04:00",
+        "published_date": "2025-05-07T03:36:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Drones (Pilotless Planes)",
+            "Russian Invasion of Ukraine (2022)",
+            "Missiles and Missile Defense Systems",
+            "Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Moscow (Russia)",
+            "Russia",
+            "Zaporizhzhia (Ukraine)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-ukraine-strikes-ktvj/07int-ukraine-strikes-ktvj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1156,
+                "width": 1766,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A drone explosion during a Russian strike in Kyiv, Ukraine, on Wednesday.",
+                "copyright": "Gleb Garanich/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-ukraine-strikes-ktvj/07int-ukraine-strikes-ktvj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A drone explosion during a Russian strike in Kyiv, Ukraine, on Wednesday.",
+                "copyright": "Gleb Garanich/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-ukraine-strikes-ktvj/07int-ukraine-strikes-ktvj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A drone explosion during a Russian strike in Kyiv, Ukraine, on Wednesday.",
+                "copyright": "Gleb Garanich/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
