@@ -71510,5 +71510,292 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Conclave to Elect New Pope Is Set to Begin",
+        "abstract": "The most voting cardinals ever will gather in the Sistine Chapel to select the next leader of 1.4 billion Roman Catholics, at an uncertain moment for the church.",
+        "url": "https://www.nytimes.com/live/2025/05/07/world/pope-conclave-updates",
+        "uri": "nyt://promo/03d8fe2e-1f0a-54b5-887a-55a7ada6dfe9",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-07T08:37:54-04:00",
+        "created_date": "2025-05-07T08:34:57-04:00",
+        "published_date": "2025-05-07T08:34:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-promo-8am-jbgt/07pope-conclave-promo-8am-jbgt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dimitar Dilkoff/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-promo-8am-jbgt/07pope-conclave-promo-8am-jbgt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dimitar Dilkoff/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-promo-8am-jbgt/07pope-conclave-promo-8am-jbgt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dimitar Dilkoff/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Gazans Despair After Israel Announces More Displacement",
+        "abstract": "Israel’s plan to capture more land in Gaza and relocate thousands of civilians has heightened a sense of hopelessness among Palestinians.",
+        "url": "https://www.nytimes.com/2025/05/07/world/middleeast/israel-gaza-displacement-plan-reaction.html",
+        "uri": "nyt://article/e110daa9-5128-55e8-b2f1-8133baed28c2",
+        "byline": "By Rawan Sheikh Ahmad",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T07:17:42-04:00",
+        "created_date": "2025-05-07T07:17:42-04:00",
+        "published_date": "2025-05-07T07:17:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Refugees and Displaced Persons",
+            "Palestinians",
+            "Defense and Military Forces",
+            "Evacuations and Evacuees"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-gaza-displacement-01-bkcf/07int-gaza-displacement-01-bkcf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1396,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians displaced by the Israeli military offensive sheltering in Gaza City on Wednesday. Many have been displaced multiple times during the war.",
+                "copyright": "Dawoud Abu Alkas/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-gaza-displacement-01-bkcf/07int-gaza-displacement-01-bkcf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians displaced by the Israeli military offensive sheltering in Gaza City on Wednesday. Many have been displaced multiple times during the war.",
+                "copyright": "Dawoud Abu Alkas/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-gaza-displacement-01-bkcf/07int-gaza-displacement-01-bkcf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians displaced by the Israeli military offensive sheltering in Gaza City on Wednesday. Many have been displaced multiple times during the war.",
+                "copyright": "Dawoud Abu Alkas/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Downs Drone as Houthis Vow to Continue Tit-for-Tat Strikes",
+        "abstract": "The Israeli military said it had intercepted an unmanned vehicle a day after President Trump said the U.S. would step back from conflict with the Iran-backed group.",
+        "url": "https://www.nytimes.com/2025/05/07/world/middleeast/israel-houthis.html",
+        "uri": "nyt://article/120451fa-9dfb-5226-a28a-e6588c6e3bff",
+        "byline": "By Lara Jakes",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T07:10:05-04:00",
+        "created_date": "2025-05-07T07:10:05-04:00",
+        "published_date": "2025-05-07T07:10:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Houthis"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "Middle East",
+            "Yemen"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-israel-houthi-fqhm/07int-israel-houthi-fqhm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police officers inspecting the site of a Houthi missile attack near Ben Gurion Airport outside Tel Aviv on Sunday. The strike prompted a series of tit-for-tat military responses between Israel and the group based in Yemen.",
+                "copyright": "Amir Levy/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-israel-houthi-fqhm/07int-israel-houthi-fqhm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police officers inspecting the site of a Houthi missile attack near Ben Gurion Airport outside Tel Aviv on Sunday. The strike prompted a series of tit-for-tat military responses between Israel and the group based in Yemen.",
+                "copyright": "Amir Levy/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-israel-houthi-fqhm/07int-israel-houthi-fqhm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police officers inspecting the site of a Houthi missile attack near Ben Gurion Airport outside Tel Aviv on Sunday. The strike prompted a series of tit-for-tat military responses between Israel and the group based in Yemen.",
+                "copyright": "Amir Levy/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A Cardinal Shares His Conclave Advice: ‘Bring a Book’",
+        "abstract": "Cardinal Timothy M. Dolan of New York has some tips for first-timers taking part in the sometimes lengthy process of choosing the next pope.",
+        "url": "https://www.nytimes.com/2025/05/07/world/europe/us-cardinal-dolan-conclave-pope.html",
+        "uri": "nyt://article/8849050c-8b07-5e3e-9acb-3b3ce3d7adf8",
+        "byline": "By Elizabeth Dias",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T08:37:29-04:00",
+        "created_date": "2025-05-07T08:37:29-04:00",
+        "published_date": "2025-05-07T08:37:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Francis",
+            "Dolan, Timothy M"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-dolan-cqbl/07pope-conclave-dolan-cqbl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Timothy M. Dolan of New York is bringing a biography of Michelangelo and packets of peanut butter to the conclave.",
+                "copyright": "Victor J. Blue for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-dolan-cqbl/07pope-conclave-dolan-cqbl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Timothy M. Dolan of New York is bringing a biography of Michelangelo and packets of peanut butter to the conclave.",
+                "copyright": "Victor J. Blue for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-dolan-cqbl/07pope-conclave-dolan-cqbl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Timothy M. Dolan of New York is bringing a biography of Michelangelo and packets of peanut butter to the conclave.",
+                "copyright": "Victor J. Blue for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A top cardinal asks for divine guidance at a ‘difficult’ moment in history.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/07/world/pope-conclave-updates/a-top-cardinal-asks-for-divine-guidance-at-a-difficult-moment-in-history",
+        "uri": "nyt://article/c8e27e95-3223-54ae-a061-e43d6440ca13",
+        "byline": "By Emma Bubola and Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T08:28:34-04:00",
+        "created_date": "2025-05-07T08:13:02-04:00",
+        "published_date": "2025-05-07T08:13:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-homily-pbfc/07pope-conclave-homily-pbfc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Giovanni Battista Re, dean of the College of Cardinals, invoked the Holy Spirit to guide the electors during Mass on Wednesday.",
+                "copyright": "Murad Sezer/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-homily-pbfc/07pope-conclave-homily-pbfc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Giovanni Battista Re, dean of the College of Cardinals, invoked the Holy Spirit to guide the electors during Mass on Wednesday.",
+                "copyright": "Murad Sezer/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-homily-pbfc/07pope-conclave-homily-pbfc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Giovanni Battista Re, dean of the College of Cardinals, invoked the Holy Spirit to guide the electors during Mass on Wednesday.",
+                "copyright": "Murad Sezer/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
