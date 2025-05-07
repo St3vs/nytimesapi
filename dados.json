@@ -72734,5 +72734,118 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Black Smoke, White Smoke: How the Vatican Tells the World There’s a New Pope",
+        "abstract": "In a tradition that scholars date to the 19th century, smoke released from a chimney will be colored white if the cardinals have made a decision, or black if they remain deadlocked.",
+        "url": "https://www.nytimes.com/2025/05/07/world/europe/black-smoke-white-smoke-vatican-pope-vote-conclave.html",
+        "uri": "nyt://article/fda63b76-d9c6-5172-aafc-0bd8c17cc3d3",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T13:10:36-04:00",
+        "created_date": "2025-05-07T13:10:36-04:00",
+        "published_date": "2025-05-07T13:10:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)",
+            "Ovens and Stoves"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-smoke-pjlt/07pope-conclave-smoke-pjlt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Firefighters installing the chimney on the roof of the Sistine Chapel at the Vatican last week.",
+                "copyright": "Antonio Masiello/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-smoke-pjlt/07pope-conclave-smoke-pjlt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Firefighters installing the chimney on the roof of the Sistine Chapel at the Vatican last week.",
+                "copyright": "Antonio Masiello/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-smoke-pjlt/07pope-conclave-smoke-pjlt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Firefighters installing the chimney on the roof of the Sistine Chapel at the Vatican last week.",
+                "copyright": "Antonio Masiello/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A sea gull took center stage at the last conclave.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/07/world/pope-conclave-updates/a-sea-gull-took-center-stage-at-the-last-conclave",
+        "uri": "nyt://article/43304909-daad-5ab6-96e0-b9563233399e",
+        "byline": "By Talya Minsberg",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T12:57:06-04:00",
+        "created_date": "2025-05-07T12:44:45-04:00",
+        "published_date": "2025-05-07T12:44:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-seagulls-pmhg/07pope-conclave-seagulls-pmhg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A sea gull on the chimney atop the Sistine Chapel.",
+                "copyright": "Christopher Furlong/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-seagulls-pmhg/07pope-conclave-seagulls-pmhg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A sea gull on the chimney atop the Sistine Chapel.",
+                "copyright": "Christopher Furlong/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-seagulls-pmhg/07pope-conclave-seagulls-pmhg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A sea gull on the chimney atop the Sistine Chapel.",
+                "copyright": "Christopher Furlong/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
