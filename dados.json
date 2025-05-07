@@ -73027,5 +73027,118 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India and Pakistan May Have an Offramp After Their Clash. Will They Take It?",
+        "abstract": "The question now, analysts say, is whether the two sides will claim victory as Pakistan asserts that it downed Indian jets and gauges the toll of India’s strikes.",
+        "url": "https://www.nytimes.com/2025/05/07/world/asia/india-pakistan-conflict.html",
+        "uri": "nyt://article/0382859a-57fe-5ba6-8e4b-b7ed054aad47",
+        "byline": "By Mujib Mashal and Salman Masood",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T14:53:10-04:00",
+        "created_date": "2025-05-07T14:45:29-04:00",
+        "published_date": "2025-05-07T14:45:29-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "International Relations",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra",
+            "Sharif, Shahbaz"
+        ],
+        "geo_facet": [
+            "India",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07india-pakistan-1-cgbh/07india-pakistan-1-cgbh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A building after it was hit by an Indian strike in Bahawalpur, Pakistan, on Wednesday.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07india-pakistan-1-cgbh/07india-pakistan-1-cgbh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A building after it was hit by an Indian strike in Bahawalpur, Pakistan, on Wednesday.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07india-pakistan-1-cgbh/07india-pakistan-1-cgbh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A building after it was hit by an Indian strike in Bahawalpur, Pakistan, on Wednesday.",
+                "copyright": "Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: No Pope Elected on Cardinals’ First Vote",
+        "abstract": "The Vatican conclave will continue on Thursday with more voting. A two-thirds majority of the 133 cardinals is required to select a new leader for the world’s 1.4 billion Roman Catholics.",
+        "url": "https://www.nytimes.com/live/2025/05/07/world/pope-conclave-updates",
+        "uri": "nyt://promo/03d8fe2e-1f0a-54b5-887a-55a7ada6dfe9",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-07T15:18:15-04:00",
+        "created_date": "2025-05-07T08:34:57-04:00",
+        "published_date": "2025-05-07T08:34:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-blacksmoke-bjvq/07pope-conclave-blacksmoke-bjvq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Hannah Mckay/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-blacksmoke-bjvq/07pope-conclave-blacksmoke-bjvq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Hannah Mckay/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-blacksmoke-bjvq/07pope-conclave-blacksmoke-bjvq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Hannah Mckay/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
