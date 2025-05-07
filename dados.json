@@ -73686,5 +73686,197 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India and Pakistan May Have an Off-Ramp After Their Clash. Will They Take It?",
+        "abstract": "The question now, analysts say, is whether the two sides will claim victory as Pakistan asserts that it downed Indian jets and gauges the toll of India’s strikes.",
+        "url": "https://www.nytimes.com/2025/05/07/world/asia/india-pakistan-conflict.html",
+        "uri": "nyt://article/0382859a-57fe-5ba6-8e4b-b7ed054aad47",
+        "byline": "By Mujib Mashal and Salman Masood",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T18:30:11-04:00",
+        "created_date": "2025-05-07T14:45:29-04:00",
+        "published_date": "2025-05-07T14:45:29-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "International Relations",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra",
+            "Sharif, Shahbaz"
+        ],
+        "geo_facet": [
+            "India",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07india-pakistan-1-cgbh/07india-pakistan-1-cgbh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A building after it was hit by an Indian strike in Bahawalpur, Pakistan, on Wednesday.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07india-pakistan-1-cgbh/07india-pakistan-1-cgbh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A building after it was hit by an Indian strike in Bahawalpur, Pakistan, on Wednesday.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07india-pakistan-1-cgbh/07india-pakistan-1-cgbh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A building after it was hit by an Indian strike in Bahawalpur, Pakistan, on Wednesday.",
+                "copyright": "Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Judge Says Trump Plan to Send Migrants to Libya Would Violate Court Order",
+        "abstract": "The administration is facing pushback against its plan to begin deporting immigrants to the North African nation, whose rival governments said they have not agreed to accept them.",
+        "url": "https://www.nytimes.com/2025/05/07/world/middleeast/libya-us-migrants-deal.html",
+        "uri": "nyt://article/8440e1a2-2ae6-5f14-8b48-dc41068b450b",
+        "byline": "By Zolan Kanno-Youngs",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T19:13:05-04:00",
+        "created_date": "2025-05-07T11:21:49-04:00",
+        "published_date": "2025-05-07T11:21:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Illegal Immigration",
+            "United States Politics and Government",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Libya",
+            "Tripoli (Libya)",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-libya-migrants-02-fwkg/07int-libya-migrants-02-fwkg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The internationally recognized government in Tripoli, Libya’s capital, has control over the country’s west.",
+                "copyright": "Mahmud Turkia/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-libya-migrants-02-fwkg/07int-libya-migrants-02-fwkg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The internationally recognized government in Tripoli, Libya’s capital, has control over the country’s west.",
+                "copyright": "Mahmud Turkia/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-libya-migrants-02-fwkg/07int-libya-migrants-02-fwkg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The internationally recognized government in Tripoli, Libya’s capital, has control over the country’s west.",
+                "copyright": "Mahmud Turkia/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "States Sue Over Freeze on Funding for Electric-Vehicle Charging",
+        "abstract": "A lawsuit led by Washington, Colorado and California accuses the Trump administration of unlawfully withholding funds for new charging stations.",
+        "url": "https://www.nytimes.com/2025/05/07/climate/electric-vehicle-charging-funding-states-lawsuit.html",
+        "uri": "nyt://article/efcced56-d321-5673-9923-923f2a13e394",
+        "byline": "By Karen Zraick and Shawn Hubler",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T18:41:35-04:00",
+        "created_date": "2025-05-07T18:29:52-04:00",
+        "published_date": "2025-05-07T18:29:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Federal-State Relations (US)",
+            "Electric and Hybrid Vehicles",
+            "Suits and Litigation (Civil)",
+            "Automobile Service and Charging Stations",
+            "Executive Orders and Memorandums",
+            "Attorneys General"
+        ],
+        "org_facet": [
+            "Transportation Department (US)"
+        ],
+        "per_facet": [
+            "Bonta, Rob (1972- )",
+            "Trump, Donald J",
+            "Newsom, Gavin"
+        ],
+        "geo_facet": [
+            "California",
+            "Colorado"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07cli-ev-chargers-wzkc/07cli-ev-chargers-wzkc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Officials in California said they had been relying on federal funding to expand electric-vehicle charging stations.",
+                "copyright": "Cayce Clifford for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07cli-ev-chargers-wzkc/07cli-ev-chargers-wzkc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Officials in California said they had been relying on federal funding to expand electric-vehicle charging stations.",
+                "copyright": "Cayce Clifford for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07cli-ev-chargers-wzkc/07cli-ev-chargers-wzkc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Officials in California said they had been relying on federal funding to expand electric-vehicle charging stations.",
+                "copyright": "Cayce Clifford for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
