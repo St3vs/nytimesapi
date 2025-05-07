@@ -70874,5 +70874,200 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Scenes From India’s Strikes in Kashmir and Pakistan",
+        "abstract": "After weeks of tensions from a terrorist attack in Kashmir, India conducted strikes against Pakistan. Anger on both sides has the world bracing for an escalation.",
+        "url": "https://www.nytimes.com/2025/05/07/world/asia/india-pakistan-kashmir-photos.html",
+        "uri": "nyt://article/d9ff2a12-ca72-57d0-8925-a3cf1ad50df4",
+        "byline": "By The New York Times",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T03:20:01-04:00",
+        "created_date": "2025-05-07T03:10:22-04:00",
+        "published_date": "2025-05-07T03:10:22-04:00",
+        "material_type_facet": "",
+        "kicker": "IN PHOTOS",
+        "des_facet": [
+            "vis-photo",
+            "Defense and Military Forces",
+            "Territorial Disputes"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Pakistan",
+            "Kashmir",
+            "Kashmir and Jammu (India)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-india-pakistan-photos-01-kwtj/07int-india-pakistan-photos-01-kwtj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Metal debris in Wuyan, on the Indian-controlled side of Kashmir, on Wednesday.",
+                "copyright": "Sharafat Ali/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-india-pakistan-photos-01-kwtj/07int-india-pakistan-photos-01-kwtj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Metal debris in Wuyan, on the Indian-controlled side of Kashmir, on Wednesday.",
+                "copyright": "Sharafat Ali/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-india-pakistan-photos-01-kwtj/07int-india-pakistan-photos-01-kwtj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Metal debris in Wuyan, on the Indian-controlled side of Kashmir, on Wednesday.",
+                "copyright": "Sharafat Ali/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "insider",
+        "subsection": "",
+        "title": "The Drama and Politics Behind Picking a Pope",
+        "abstract": "There are, technically, 133 papal contenders but no official candidates. Here’s how a New York Times team determines the front-runners.",
+        "url": "https://www.nytimes.com/2025/05/07/insider/pope-conclave-process.html",
+        "uri": "nyt://article/79fa31f7-33c0-54e6-a717-4dc564b61f0e",
+        "byline": "By Sarah Bahr",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T03:00:05-04:00",
+        "created_date": "2025-05-07T03:00:05-04:00",
+        "published_date": "2025-05-07T03:00:05-04:00",
+        "material_type_facet": "",
+        "kicker": "Times Insider",
+        "des_facet": [
+            "Popes",
+            "Clergy",
+            "Cardinals (Roman Catholic Prelates)",
+            "Conclave (Movie)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "New York Times",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Francis",
+            "Povoledo, Elisabetta",
+            "Rich, Motoko",
+            "Horowitz, Jason"
+        ],
+        "geo_facet": [
+            "Rome (Italy)",
+            "Europe",
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07a2_insider-conclave-gqpf/07a2_insider-conclave-gqpf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On Wednesday, the conclave begins, the process of picking a pope.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07a2_insider-conclave-gqpf/07a2_insider-conclave-gqpf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On Wednesday, the conclave begins, the process of picking a pope.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07a2_insider-conclave-gqpf/07a2_insider-conclave-gqpf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On Wednesday, the conclave begins, the process of picking a pope.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Sotheby’s Postpones Auction of Buddhist Relics That India Tried to Block",
+        "abstract": "Jewels and holy relics were set to be auctioned by the family of a colonial-era English explorer. The Indian government said the collection wasn’t theirs to sell.",
+        "url": "https://www.nytimes.com/2025/05/06/world/asia/buddha-jewels-auction-india-sothebys.html",
+        "uri": "nyt://article/5528ed78-2383-56c3-9d2d-860dfdb200cd",
+        "byline": "By Ali Watkins",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T02:55:02-04:00",
+        "created_date": "2025-05-06T12:55:31-04:00",
+        "published_date": "2025-05-06T12:55:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Auctions",
+            "Buddhism",
+            "Arts and Antiquities Looting",
+            "Museums",
+            "Colonization",
+            "Jewels and Jewelry"
+        ],
+        "org_facet": [
+            "Sotheby's"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/6xp-buddha-jvkh/6xp-buddha-jvkh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1670,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Relics from the collection of jewels said to have been buried with Buddha at an exhibition at the Metropolitan Museum of Art in New York City in 2023.",
+                "copyright": "Elizabeth Bick for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/6xp-buddha-jvkh/6xp-buddha-jvkh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Relics from the collection of jewels said to have been buried with Buddha at an exhibition at the Metropolitan Museum of Art in New York City in 2023.",
+                "copyright": "Elizabeth Bick for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/6xp-buddha-jvkh/6xp-buddha-jvkh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Relics from the collection of jewels said to have been buried with Buddha at an exhibition at the Metropolitan Museum of Art in New York City in 2023.",
+                "copyright": "Elizabeth Bick for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
