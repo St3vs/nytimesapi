@@ -72847,5 +72847,185 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Cardinals Vote in Conclave to Elect Pope",
+        "abstract": "The gathering to select the next leader of 1.4 billion Roman Catholics, a secretive vote wreathed in history and ritual, comes at an uncertain moment for the church.",
+        "url": "https://www.nytimes.com/live/2025/05/07/world/pope-conclave-updates",
+        "uri": "nyt://promo/03d8fe2e-1f0a-54b5-887a-55a7ada6dfe9",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-07T14:24:20-04:00",
+        "created_date": "2025-05-07T08:34:57-04:00",
+        "published_date": "2025-05-07T08:34:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-200-mtvk/07pope-200-mtvk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Alkis Konstantinidis/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-200-mtvk/07pope-200-mtvk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Alkis Konstantinidis/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-200-mtvk/07pope-200-mtvk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Alkis Konstantinidis/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Airstrikes Pound Gaza as Israel Announces Plans to Displace More Residents",
+        "abstract": "Israel’s plan to capture more land in Gaza and relocate thousands of civilians has heightened a sense of hopelessness among Palestinians.",
+        "url": "https://www.nytimes.com/2025/05/07/world/middleeast/israel-gaza-displacement-plan-reaction.html",
+        "uri": "nyt://article/e110daa9-5128-55e8-b2f1-8133baed28c2",
+        "byline": "By Rawan Sheikh Ahmad, Lara Jakes and Saher Alghorra",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T13:55:04-04:00",
+        "created_date": "2025-05-07T07:17:42-04:00",
+        "published_date": "2025-05-07T07:17:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Refugees and Displaced Persons",
+            "Palestinians",
+            "Defense and Military Forces",
+            "Evacuations and Evacuees"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [
+            "Netanyahu, Benjamin"
+        ],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-gaza-displacement-01-vjzm-promo/07int-gaza-displacement-01-vjzm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People rescue the wounded moments after a strike on a restaurant in Gaza City, today.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-gaza-displacement-01-vjzm-promo/07int-gaza-displacement-01-vjzm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People rescue the wounded moments after a strike on a restaurant in Gaza City, today.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-gaza-displacement-01-vjzm-promo/07int-gaza-displacement-01-vjzm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People rescue the wounded moments after a strike on a restaurant in Gaza City, today.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Want to Be a Deep Sea Explorer? Don’t Worry, There’s Lots Left.",
+        "abstract": "Researchers collected more than 43,000 records of dives and assessed the photos and videos to determine how much of the bottom has been seen by humans.",
+        "url": "https://www.nytimes.com/2025/05/07/climate/deep-sea-exploration.html",
+        "uri": "nyt://article/ad2a54c2-920e-536f-af20-b3b9d7854438",
+        "byline": "By Rebecca Dzombak",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T14:16:31-04:00",
+        "created_date": "2025-05-07T14:00:16-04:00",
+        "published_date": "2025-05-07T14:00:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Research",
+            "Oceans and Seas",
+            "Exploration and Explorers",
+            "Fish and Other Marine Life",
+            "Marine Biology",
+            "Submarines and Submersibles"
+        ],
+        "org_facet": [
+            "Science Advances (Journal)"
+        ],
+        "per_facet": [
+            "Croff Bell, Katy"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07cli-seafloor-hpqw/07cli-seafloor-hpqw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The new study’s documentation begins with images made in the 1950s by the U.S. Navy submersible Trieste.",
+                "copyright": "U.S. Naval History and Heritage Command"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07cli-seafloor-hpqw/07cli-seafloor-hpqw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The new study’s documentation begins with images made in the 1950s by the U.S. Navy submersible Trieste.",
+                "copyright": "U.S. Naval History and Heritage Command"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07cli-seafloor-hpqw/07cli-seafloor-hpqw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The new study’s documentation begins with images made in the 1950s by the U.S. Navy submersible Trieste.",
+                "copyright": "U.S. Naval History and Heritage Command"
+            }
+        ],
+        "short_url": ""
     }
 ]
