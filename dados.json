@@ -71797,5 +71797,255 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How the Divide Over Francis’ Legacy Is Shaping the Contest for Pope",
+        "abstract": "As cardinals begin a conclave to choose Pope Francis’ successor, they must decide whether to find a pope who follows his path or forges a new one.",
+        "url": "https://www.nytimes.com/2025/05/07/world/europe/pope-francis-referendum.html",
+        "uri": "nyt://article/ca9ccfb6-ed27-5224-9f7c-d0933b2b6252",
+        "byline": "By Jason Horowitz and Motoko Rich",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T09:18:52-04:00",
+        "created_date": "2025-05-07T00:00:17-04:00",
+        "published_date": "2025-05-07T00:00:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Clergy",
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/world/07int-francis-referendum/07int-francis-referendum-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in 2022. During his 12-year pontificate, he made global headlines for landmark declarations that encouraged liberals, whether Catholic or secular.",
+                "copyright": "Alberto Pizzoli/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/world/07int-francis-referendum/07int-francis-referendum-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in 2022. During his 12-year pontificate, he made global headlines for landmark declarations that encouraged liberals, whether Catholic or secular.",
+                "copyright": "Alberto Pizzoli/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/world/07int-francis-referendum/07int-francis-referendum-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in 2022. During his 12-year pontificate, he made global headlines for landmark declarations that encouraged liberals, whether Catholic or secular.",
+                "copyright": "Alberto Pizzoli/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Betting Sites Place Odds on the Conclave, ‘the Hardest Vote on the Planet to Forecast",
+        "abstract": "Online oddsmakers correctly predicted President Trump’s election victory last year. They face a far tougher task in forecasting the next pope.",
+        "url": "https://www.nytimes.com/2025/05/07/world/europe/betting-sites-next-pope-predictions-conclave.html",
+        "uri": "nyt://article/3f044276-9233-5179-924d-d6c726d5fcd4",
+        "byline": "By Bernhard Warner and Michael J. de la Merced",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T09:24:38-04:00",
+        "created_date": "2025-05-07T09:16:40-04:00",
+        "published_date": "2025-05-07T09:16:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Parolin, Pietro",
+            "Tagle, Luis Antonio G"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-oddsmakers-version-kcpb/07pope-conclave-oddsmakers-version-kcpb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1300,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Pietro Parolin of Italy has emerged as the odds-on favorite to succeed Pope Francis.",
+                "copyright": "Alessandra Tarantino/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-oddsmakers-version-kcpb/07pope-conclave-oddsmakers-version-kcpb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Pietro Parolin of Italy has emerged as the odds-on favorite to succeed Pope Francis.",
+                "copyright": "Alessandra Tarantino/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-oddsmakers-version-kcpb/07pope-conclave-oddsmakers-version-kcpb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Pietro Parolin of Italy has emerged as the odds-on favorite to succeed Pope Francis.",
+                "copyright": "Alessandra Tarantino/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "4 Lessons for Trump From Britain’s Failed Rwanda Deportation Deal",
+        "abstract": "The United States is said to be in talks with the African country about taking in expelled migrants. There may be lessons in London’s experience.",
+        "url": "https://www.nytimes.com/2025/05/07/world/europe/trump-migrants-rwanda-us-uk.html",
+        "uri": "nyt://article/404ef02a-16e1-53fc-b4a7-365c84bd4e8a",
+        "byline": "By Lizzie Dearden",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T08:58:52-04:00",
+        "created_date": "2025-05-07T08:58:52-04:00",
+        "published_date": "2025-05-07T08:58:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Asylum, Right of",
+            "Deportation",
+            "Illegal Immigration",
+            "United States Politics and Government",
+            "International Relations",
+            "Politics and Government",
+            "Refugees and Displaced Persons",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "Conservative Party (Great Britain)"
+        ],
+        "per_facet": [
+            "Johnson, Boris"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "Kigali (Rwanda)",
+            "Rwanda",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-uk-rwanda-lessons-bfhj/07int-uk-rwanda-lessons-bfhj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "James Cleverly, then the British home secretary, and Vincent Biruta, then the Rwandan foreign minister, after signing a migration deal in Kigali, the African country’s capital, in December 2023.",
+                "copyright": "Pool photo by Ben Birchall"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-uk-rwanda-lessons-bfhj/07int-uk-rwanda-lessons-bfhj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "James Cleverly, then the British home secretary, and Vincent Biruta, then the Rwandan foreign minister, after signing a migration deal in Kigali, the African country’s capital, in December 2023.",
+                "copyright": "Pool photo by Ben Birchall"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-uk-rwanda-lessons-bfhj/07int-uk-rwanda-lessons-bfhj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "James Cleverly, then the British home secretary, and Vincent Biruta, then the Rwandan foreign minister, after signing a migration deal in Kigali, the African country’s capital, in December 2023.",
+                "copyright": "Pool photo by Ben Birchall"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Second U.S. Navy Jet in 2 Weeks Is Lost Off the U.S.S. Truman",
+        "abstract": "The aircraft went overboard on Tuesday as it tried to land on the aircraft carrier stationed in the Red Sea. Two pilots suffered minor injuries.",
+        "url": "https://www.nytimes.com/2025/05/07/world/middleeast/us-navy-fighter-jet-truman-carrier-red-sea.html",
+        "uri": "nyt://article/22065ae7-93f3-5ec6-9038-b314a474164f",
+        "byline": "By Claire Moses",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T09:15:18-04:00",
+        "created_date": "2025-05-07T08:53:32-04:00",
+        "published_date": "2025-05-07T08:53:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Defense and Military Forces",
+            "Aviation Accidents, Safety and Disasters",
+            "Aircraft Carriers",
+            "Military Aircraft"
+        ],
+        "org_facet": [
+            "United States Navy"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Red Sea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07xp-usnavy-03/07xp-usnavy-03-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An F/A-18 Hornet fighter jet landing on the deck of the aircraft carrier USS Harry S. Truman in 2022.",
+                "copyright": "Andreas Solaro/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07xp-usnavy-03/07xp-usnavy-03-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An F/A-18 Hornet fighter jet landing on the deck of the aircraft carrier USS Harry S. Truman in 2022.",
+                "copyright": "Andreas Solaro/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07xp-usnavy-03/07xp-usnavy-03-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An F/A-18 Hornet fighter jet landing on the deck of the aircraft carrier USS Harry S. Truman in 2022.",
+                "copyright": "Andreas Solaro/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
