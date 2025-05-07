@@ -72047,5 +72047,178 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Conclave to Elect New Pope Is Set to Begin at Vatican",
+        "abstract": "Cardinals are gathering in the Sistine Chapel to begin voting for the next leader of 1.4 billion Roman Catholics, at an uncertain moment for the church.",
+        "url": "https://www.nytimes.com/live/2025/05/07/world/pope-conclave-updates",
+        "uri": "nyt://promo/03d8fe2e-1f0a-54b5-887a-55a7ada6dfe9",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-07T10:22:12-04:00",
+        "created_date": "2025-05-07T08:34:57-04:00",
+        "published_date": "2025-05-07T08:34:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-promo-10am-ltqg/07pope-conclave-promo-10am-ltqg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Christopher Furlong/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-promo-10am-ltqg/07pope-conclave-promo-10am-ltqg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Christopher Furlong/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-promo-10am-ltqg/07pope-conclave-promo-10am-ltqg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Christopher Furlong/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "These 10 U.S. Cardinals Have a Vote in Selecting the Next Pope",
+        "abstract": "Six are joining in their first papal conclave, and four others participated in the 2013 conclave that elected Pope Francis.",
+        "url": "https://www.nytimes.com/2025/05/07/world/europe/us-cardinals-pope-vote-conclave.html",
+        "uri": "nyt://article/a95ab12a-69d9-5047-9f55-3622c71f5d93",
+        "byline": "By Elizabeth Dias",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T10:00:55-04:00",
+        "created_date": "2025-05-07T10:00:47-04:00",
+        "published_date": "2025-05-07T10:00:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Dolan, Timothy M",
+            "Prevost, Robert Francis (1955- )"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/00pope-francis-US-electors-vbkm/00pope-francis-US-electors-vbkm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Blase J. Cupich of Chicago.",
+                "copyright": "Jamie Kelter Davis for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/00pope-francis-US-electors-vbkm/00pope-francis-US-electors-vbkm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Blase J. Cupich of Chicago.",
+                "copyright": "Jamie Kelter Davis for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/02/19/multimedia/00pope-francis-US-electors-vbkm/00pope-francis-US-electors-vbkm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Blase J. Cupich of Chicago.",
+                "copyright": "Jamie Kelter Davis for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Betting Sites Place Odds on the Conclave, ‘the Hardest Vote on the Planet to Forecast’",
+        "abstract": "Online oddsmakers correctly predicted President Trump’s election victory last year. They face a far tougher task in forecasting the next pope.",
+        "url": "https://www.nytimes.com/2025/05/07/world/europe/betting-sites-next-pope-predictions-conclave.html",
+        "uri": "nyt://article/3f044276-9233-5179-924d-d6c726d5fcd4",
+        "byline": "By Bernhard Warner and Michael J. de la Merced",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T09:47:44-04:00",
+        "created_date": "2025-05-07T09:16:40-04:00",
+        "published_date": "2025-05-07T09:16:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Parolin, Pietro",
+            "Tagle, Luis Antonio G"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-oddsmakers-version-kcpb/07pope-conclave-oddsmakers-version-kcpb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1300,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Pietro Parolin of Italy has emerged as the odds-on favorite to succeed Pope Francis.",
+                "copyright": "Alessandra Tarantino/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-oddsmakers-version-kcpb/07pope-conclave-oddsmakers-version-kcpb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Pietro Parolin of Italy has emerged as the odds-on favorite to succeed Pope Francis.",
+                "copyright": "Alessandra Tarantino/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-oddsmakers-version-kcpb/07pope-conclave-oddsmakers-version-kcpb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Pietro Parolin of Italy has emerged as the odds-on favorite to succeed Pope Francis.",
+                "copyright": "Alessandra Tarantino/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
