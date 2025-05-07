@@ -71385,5 +71385,130 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The Secret Process of Electing a New Pope",
+        "abstract": "Once the conclave begins, cardinals are not allowed to leave, other than for meals and to sleep at night, until a successor is named.",
+        "url": "https://www.nytimes.com/2025/05/07/world/europe/pope-conclave-vote-process-what-time.html",
+        "uri": "nyt://article/0a0af7c9-19c6-57af-b8d3-a3748b7fbc92",
+        "byline": "By Emma Bubola and Patricia Mazzei",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T06:59:41-04:00",
+        "created_date": "2025-05-07T06:59:41-04:00",
+        "published_date": "2025-05-07T06:59:41-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-process-hqpk/07pope-conclave-process-hqpk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1363,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "White smoke rising from the chimney on the roof of the Sistine Chapel in the Vatican in 2013, signaling that cardinals had elected a new pope.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-process-hqpk/07pope-conclave-process-hqpk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "White smoke rising from the chimney on the roof of the Sistine Chapel in the Vatican in 2013, signaling that cardinals had elected a new pope.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-process-hqpk/07pope-conclave-process-hqpk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "White smoke rising from the chimney on the roof of the Sistine Chapel in the Vatican in 2013, signaling that cardinals had elected a new pope.",
+                "copyright": "Tiziana Fabi/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "China Agreed to U.S. Tariff Talks but Is Likely to Play Hardball",
+        "abstract": "Beijing says it will meet with American officials to discuss trade, but warned Washington against using the engagement to ratchet up pressure on China.",
+        "url": "https://www.nytimes.com/2025/05/07/world/asia/china-us-tariff-talks.html",
+        "uri": "nyt://article/be473979-ba7f-57ed-8d41-7d4ef9975c39",
+        "byline": "By Alexandra Stevenson",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T06:56:12-04:00",
+        "created_date": "2025-05-07T06:54:04-04:00",
+        "published_date": "2025-05-07T06:54:04-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "International Trade and World Market",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Greer, Jamieson L",
+            "He Lifeng (1955- )"
+        ],
+        "geo_facet": [
+            "China",
+            "Geneva (Switzerland)",
+            "Switzerland",
+            "United States",
+            "Washington (DC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/world/07int-china-us/07int-china-us-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1290,
+                "width": 1744,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times; Florence Lo/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/world/07int-china-us/07int-china-us-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times; Florence Lo/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/world/07int-china-us/07int-china-us-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Eric Lee/The New York Times; Florence Lo/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
