@@ -73140,5 +73140,268 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Syrian Leader Says Country Has Held Indirect Talks With Israel",
+        "abstract": "President Ahmed al-Shara, speaking during his first visit to Europe, said the talks were aimed at de-escalating tensions amid continued Israeli attacks inside Syria.",
+        "url": "https://www.nytimes.com/2025/05/07/world/europe/syria-france-al-shara-macron.html",
+        "uri": "nyt://article/066dcd69-eacb-5271-aa38-dc31a4979237",
+        "byline": "By Aurelien Breeden and Euan Ward",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T16:05:51-04:00",
+        "created_date": "2025-05-07T11:57:24-04:00",
+        "published_date": "2025-05-07T11:57:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Minorities",
+            "International Relations"
+        ],
+        "org_facet": [
+            "Elysee Palace (Paris, France)"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+            "Macron, Emmanuel (1977- )"
+        ],
+        "geo_facet": [
+            "France",
+            "Syria",
+            "Paris (France)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-france-syria-hbwg/07int-france-syria-hbwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ahmed al-Shara, Syria’s president, left, with President Emmanuel Macron of France at the Élysée Palace in Paris on Wednesday.",
+                "copyright": "Ludovic Marin/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-france-syria-hbwg/07int-france-syria-hbwg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ahmed al-Shara, Syria’s president, left, with President Emmanuel Macron of France at the Élysée Palace in Paris on Wednesday.",
+                "copyright": "Ludovic Marin/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-france-syria-hbwg/07int-france-syria-hbwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ahmed al-Shara, Syria’s president, left, with President Emmanuel Macron of France at the Élysée Palace in Paris on Wednesday.",
+                "copyright": "Ludovic Marin/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Waiting for the Smoke That Heralds a New Pope",
+        "abstract": "As 133 cardinals were sequestered in the Sistine Chapel where they would vote for a new leader of the Catholic Church, the faithful and the curious gathered in St. Peter’s Square.",
+        "url": "https://www.nytimes.com/2025/05/07/world/europe/papal-conclave-st-peters-square-smoke.html",
+        "uri": "nyt://article/c0ceab2c-5c23-5b55-aa0f-5ba84d386c6e",
+        "byline": "By Motoko Rich and Patricia Mazzei",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T16:07:27-04:00",
+        "created_date": "2025-05-07T16:01:05-04:00",
+        "published_date": "2025-05-07T16:01:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)",
+            "Appointments and Executive Changes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Francis",
+            "Dolan, Timothy M",
+            "Re, Giovanni Battista"
+        ],
+        "geo_facet": [
+            "Vatican City",
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-scene-new2-qtjf/07pope-scene-new2-qtjf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The crowd in St. Peter’s Square reacts to the black smoke emanating from a Vatican chimney, indicating no decision has been made on a new pope. ",
+                "copyright": "Eloisa Lopez/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-scene-new2-qtjf/07pope-scene-new2-qtjf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The crowd in St. Peter’s Square reacts to the black smoke emanating from a Vatican chimney, indicating no decision has been made on a new pope. ",
+                "copyright": "Eloisa Lopez/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-scene-new2-qtjf/07pope-scene-new2-qtjf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The crowd in St. Peter’s Square reacts to the black smoke emanating from a Vatican chimney, indicating no decision has been made on a new pope. ",
+                "copyright": "Eloisa Lopez/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Survivors call on the next pope to end sexual abuse by clergy.",
+        "abstract": "Groups representing survivors made last-minute appeals for the next pontiff to definitively resolve the crisis, which has swirled around the Roman Catholic Church for decades.",
+        "url": "https://www.nytimes.com/2025/05/07/world/europe/sexual-abuse-survivors-pope.html",
+        "uri": "nyt://article/449d153c-e6c3-580e-ab55-c82a8ee8a5f8",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T15:56:50-04:00",
+        "created_date": "2025-05-07T15:56:50-04:00",
+        "published_date": "2025-05-07T15:56:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Priests",
+            "Popes",
+            "Clergy",
+            "Sex Crimes",
+            "Child Abuse and Neglect",
+            "Cardinals (Roman Catholic Prelates)",
+            "Religion-State Relations"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Survivors Network of Those Abused by Priests"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Italy",
+            "Rome (Italy)",
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-abuse-zkjq/07pope-conclave-abuse-zkjq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Survivors Network of those Abused by Priests is one of several survivors groups to have arrived in Rome since Pope Francis died.",
+                "copyright": "Andrew Medichini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-abuse-zkjq/07pope-conclave-abuse-zkjq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Survivors Network of those Abused by Priests is one of several survivors groups to have arrived in Rome since Pope Francis died.",
+                "copyright": "Andrew Medichini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-abuse-zkjq/07pope-conclave-abuse-zkjq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Survivors Network of those Abused by Priests is one of several survivors groups to have arrived in Rome since Pope Francis died.",
+                "copyright": "Andrew Medichini/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Come for the Conclave. Don’t Stay for the Food.",
+        "abstract": "The cardinals selecting the next pope will take their meals at a Vatican guesthouse. One conclave veteran said the fare was “food you could eat at a train station.”",
+        "url": "https://www.nytimes.com/2025/05/07/world/europe/papal-conclave-food-cardinals.html",
+        "uri": "nyt://article/64679e42-34eb-5ad0-86b6-02c3ce7cac9b",
+        "byline": "By Jason Horowitz and Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T15:33:54-04:00",
+        "created_date": "2025-05-07T15:33:54-04:00",
+        "published_date": "2025-05-07T15:33:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Food",
+            "Clergy",
+            "Cafeterias",
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)",
+            "Cooking and Cookbooks"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-food-tckf/07pope-conclave-food-tckf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis having lunch at the Vatican in 2018. His emphasis on simple living and humility extended to the food he ate.",
+                "copyright": "Vincenzo Pinto/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-food-tckf/07pope-conclave-food-tckf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis having lunch at the Vatican in 2018. His emphasis on simple living and humility extended to the food he ate.",
+                "copyright": "Vincenzo Pinto/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-food-tckf/07pope-conclave-food-tckf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis having lunch at the Vatican in 2018. His emphasis on simple living and humility extended to the food he ate.",
+                "copyright": "Vincenzo Pinto/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
