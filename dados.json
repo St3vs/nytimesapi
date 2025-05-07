@@ -70383,5 +70383,74 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Administration Plans to Send Migrants to Libya on a Military Flight",
+        "abstract": "Human rights groups have called conditions in the country’s network of migrant detention centers “horrific” and “deplorable.”",
+        "url": "https://www.nytimes.com/2025/05/06/us/politics/trump-libya-migrants.html",
+        "uri": "nyt://article/c4862da9-c71b-59b0-8943-ae9e31d4f2f8",
+        "byline": "By Eric Schmitt, Hamed Aleaziz, Maggie Haberman and Michael Crowley",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T22:03:24-04:00",
+        "created_date": "2025-05-06T21:56:43-04:00",
+        "published_date": "2025-05-06T21:56:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Illegal Immigration",
+            "United States International Relations",
+            "Immigration Detention",
+            "United States Politics and Government",
+            "Courts and the Judiciary"
+        ],
+        "org_facet": [
+            "Defense Department",
+            "Immigration and Customs Enforcement (US)",
+            "Homeland Security Department"
+        ],
+        "per_facet": [
+            "Hifter, Khalifa",
+            "Trump, Donald J",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [
+            "Libya"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00dc-immig-libya-jphg/00dc-immig-libya-jphg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Martyr’s Square in the Libyan capital, Tripoli, last month. The country remains divided after years of civil war following the 2011 overthrow of its longtime dictator, Muammar Gaddafi.",
+                "copyright": "Mahmud Turkia/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00dc-immig-libya-jphg/00dc-immig-libya-jphg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Martyr’s Square in the Libyan capital, Tripoli, last month. The country remains divided after years of civil war following the 2011 overthrow of its longtime dictator, Muammar Gaddafi.",
+                "copyright": "Mahmud Turkia/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00dc-immig-libya-jphg/00dc-immig-libya-jphg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Martyr’s Square in the Libyan capital, Tripoli, last month. The country remains divided after years of civil war following the 2011 overthrow of its longtime dictator, Muammar Gaddafi.",
+                "copyright": "Mahmud Turkia/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
