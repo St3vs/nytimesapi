@@ -72513,5 +72513,226 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Cardinals Begin Conclave to Elect Pope",
+        "abstract": "The gathering to select the next leader of 1.4 billion Roman Catholics, a secretive vote wreathed in history and ritual, comes at an uncertain moment for the church.",
+        "url": "https://www.nytimes.com/live/2025/05/07/world/pope-conclave-updates",
+        "uri": "nyt://promo/03d8fe2e-1f0a-54b5-887a-55a7ada6dfe9",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-07T12:21:22-04:00",
+        "created_date": "2025-05-07T08:34:57-04:00",
+        "published_date": "2025-05-07T08:34:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-promo-12pm-qglt/07pope-conclave-promo-12pm-qglt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Amanda Perobelli/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-promo-12pm-qglt/07pope-conclave-promo-12pm-qglt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Amanda Perobelli/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-promo-12pm-qglt/07pope-conclave-promo-12pm-qglt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Amanda Perobelli/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Syrian President Makes First Visit to Europe Since Assad’s Fall",
+        "abstract": "The visit is a boost to Ahmed al-Shara’s attempts to bring Syria back into the international fold but comes amid continuing turmoil there.",
+        "url": "https://www.nytimes.com/2025/05/07/world/europe/syria-france-al-shara-macron.html",
+        "uri": "nyt://article/066dcd69-eacb-5271-aa38-dc31a4979237",
+        "byline": "By Aurelien Breeden and Euan Ward",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T11:57:24-04:00",
+        "created_date": "2025-05-07T11:57:24-04:00",
+        "published_date": "2025-05-07T11:57:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Minorities",
+            "International Relations"
+        ],
+        "org_facet": [
+            "Elysee Palace (Paris, France)"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+            "Macron, Emmanuel (1977- )"
+        ],
+        "geo_facet": [
+            "France",
+            "Syria",
+            "Paris (France)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-france-syria-hbwg/07int-france-syria-hbwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ahmed al-Shara, Syria’s president, left, with President Emmanuel Macron of France at the Élysée Palace in Paris on Wednesday.",
+                "copyright": "Ludovic Marin/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-france-syria-hbwg/07int-france-syria-hbwg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ahmed al-Shara, Syria’s president, left, with President Emmanuel Macron of France at the Élysée Palace in Paris on Wednesday.",
+                "copyright": "Ludovic Marin/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-france-syria-hbwg/07int-france-syria-hbwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ahmed al-Shara, Syria’s president, left, with President Emmanuel Macron of France at the Élysée Palace in Paris on Wednesday.",
+                "copyright": "Ludovic Marin/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The Sistine Chapel becomes the world’s most beautiful polling place.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/07/world/pope-conclave-updates/the-sistine-chapel-becomes-the-worlds-most-beautiful-polling-place",
+        "uri": "nyt://article/f8832145-cd6c-5bd0-a05e-c6579400ca9a",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T12:18:40-04:00",
+        "created_date": "2025-05-07T12:18:40-04:00",
+        "published_date": "2025-05-07T12:18:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope=Sistine-chapel-01-fbwq/07pope=Sistine-chapel-01-fbwq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inside the Sistine Chapel.",
+                "copyright": "Andreas Solaro/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope=Sistine-chapel-01-fbwq/07pope=Sistine-chapel-01-fbwq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inside the Sistine Chapel.",
+                "copyright": "Andreas Solaro/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope=Sistine-chapel-01-fbwq/07pope=Sistine-chapel-01-fbwq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Inside the Sistine Chapel.",
+                "copyright": "Andreas Solaro/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How does the voting work?",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/07/world/pope-conclave-updates/how-does-the-voting-work",
+        "uri": "nyt://article/f14bba86-6f4f-5da4-bf3c-898c5477d833",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T11:56:38-04:00",
+        "created_date": "2025-05-07T11:56:38-04:00",
+        "published_date": "2025-05-07T11:56:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-vote-how-fgwm/07pope-conclave-vote-how-fgwm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1295,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals gathered for a Mass before the start of the conclave on Wednesday.",
+                "copyright": "Dimitar Dilkoff/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-vote-how-fgwm/07pope-conclave-vote-how-fgwm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals gathered for a Mass before the start of the conclave on Wednesday.",
+                "copyright": "Dimitar Dilkoff/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-vote-how-fgwm/07pope-conclave-vote-how-fgwm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals gathered for a Mass before the start of the conclave on Wednesday.",
+                "copyright": "Dimitar Dilkoff/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
