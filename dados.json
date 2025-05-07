@@ -70708,5 +70708,93 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Test Your Knowledge of the Papal Conclave",
+        "abstract": "Are you ready for the conclave that will select the next pope? Take our quiz to see how you stack up with other Times readers.",
+        "url": "https://www.nytimes.com/interactive/2025/05/07/world/europe/pope-conclave-quiz.html",
+        "uri": "nyt://interactive/a42d94b7-8089-5c09-927c-39bbfbc15814",
+        "byline": "Compiled by Matthew Mpoke Bigg",
+        "item_type": "Interactive",
+        "updated_date": "2025-05-07T01:00:19-04:00",
+        "created_date": "2025-05-07T00:37:52-04:00",
+        "published_date": "2025-05-07T00:37:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Content Type: Quiz"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India Strikes Pakistan, Which Vows to Respond",
+        "abstract": "The strikes on Wednesday, two weeks after a terrorist attack in Kashmir, escalated the conflict between the nuclear powers. Two aircraft were reported to have crashed.",
+        "url": "https://www.nytimes.com/2025/05/06/world/asia/india-pakistan-attacks.html",
+        "uri": "nyt://article/423db03c-02de-51b8-883a-70dfc6f78460",
+        "byline": "By Salman Masood, Mujib Mashal and Hari Kumar",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T00:58:38-04:00",
+        "created_date": "2025-05-06T16:17:36-04:00",
+        "published_date": "2025-05-06T16:17:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Mass Shootings"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "India",
+            "Pakistan",
+            "Kashmir"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06india-pakistan-vidpkg-cov2-qbpj/06india-pakistan-vidpkg-cov2-qbpj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "M.D. Mughal/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06india-pakistan-vidpkg-cov2-qbpj/06india-pakistan-vidpkg-cov2-qbpj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "M.D. Mughal/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06india-pakistan-vidpkg-cov2-qbpj/06india-pakistan-vidpkg-cov2-qbpj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "M.D. Mughal/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
