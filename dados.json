@@ -70796,5 +70796,83 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India vs. Pakistan Is Also U.S. vs. China When It Comes to Arms Sales",
+        "abstract": "Increasing Western military support to India, and China’s to Pakistan, signals a shift in global alignments — and another potential flashpoint for international tensions.",
+        "url": "https://www.nytimes.com/2025/05/07/world/asia/india-pakistan-weapons.html",
+        "uri": "nyt://article/fc423cf7-f895-5acd-85ad-6fa6a655c342",
+        "byline": "By Mujib Mashal",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T02:13:43-04:00",
+        "created_date": "2025-05-07T02:05:44-04:00",
+        "published_date": "2025-05-07T02:05:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Foreign Aid",
+            "War and Armed Conflicts",
+            "United States International Relations",
+            "Terrorism",
+            "Territorial Disputes",
+            "Defense and Military Forces",
+            "Military Aircraft",
+            "Cold War Era",
+            "Nuclear Weapons",
+            "Nuclear Tests",
+            "September 11 (2001)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra",
+            "Putin, Vladimir V",
+            "Biden, Joseph R Jr",
+            "Vance, J D"
+        ],
+        "geo_facet": [
+            "India",
+            "Pakistan",
+            "Afghanistan",
+            "China",
+            "Russia",
+            "Kashmir",
+            "Kashmir and Jammu (India)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-india-pakistan-weapons-qlzp/07int-india-pakistan-weapons-qlzp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security forces in Wuyan, on the Indian-controlled side of Kashmir, on Wednesday. India has sharply reduced purchases of low-cost arms from Russia, its Cold War-era ally",
+                "copyright": "Tauseef Mustafa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-india-pakistan-weapons-qlzp/07int-india-pakistan-weapons-qlzp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security forces in Wuyan, on the Indian-controlled side of Kashmir, on Wednesday. India has sharply reduced purchases of low-cost arms from Russia, its Cold War-era ally",
+                "copyright": "Tauseef Mustafa/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-india-pakistan-weapons-qlzp/07int-india-pakistan-weapons-qlzp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian security forces in Wuyan, on the Indian-controlled side of Kashmir, on Wednesday. India has sharply reduced purchases of low-cost arms from Russia, its Cold War-era ally",
+                "copyright": "Tauseef Mustafa/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
