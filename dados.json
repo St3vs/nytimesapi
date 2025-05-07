@@ -71262,5 +71262,128 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Germany’s New Leader Has a Tough Job. It Just Got Tougher.",
+        "abstract": "Friedrich Merz’s halting path to the chancellor’s office inflamed his challenges at home and abroad, including a threat from the far right.",
+        "url": "https://www.nytimes.com/2025/05/07/world/europe/germany-merz-vote-chancellor.html",
+        "uri": "nyt://article/e214c9f4-ad6b-5e1a-8c95-0878b10d978c",
+        "byline": "By Jim Tankersley",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T06:18:24-04:00",
+        "created_date": "2025-05-07T06:08:01-04:00",
+        "published_date": "2025-05-07T06:08:01-04:00",
+        "material_type_facet": "",
+        "kicker": "News analysis",
+        "des_facet": [
+            "Politics and Government",
+            "Law and Legislation",
+            "Elections"
+        ],
+        "org_facet": [
+            "Christian Democratic Union (Germany)"
+        ],
+        "per_facet": [
+            "Merz, Friedrich"
+        ],
+        "geo_facet": [
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-Germany-assess-01-lktf/07int-Germany-assess-01-lktf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz, the newly elected German chancellor, at a ceremony in Berlin on Tuesday. Watching him is his predecessor, Olaf Scholz.",
+                "copyright": "Ebrahim Noroozi/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-Germany-assess-01-lktf/07int-Germany-assess-01-lktf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz, the newly elected German chancellor, at a ceremony in Berlin on Tuesday. Watching him is his predecessor, Olaf Scholz.",
+                "copyright": "Ebrahim Noroozi/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07int-Germany-assess-01-lktf/07int-Germany-assess-01-lktf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Friedrich Merz, the newly elected German chancellor, at a ceremony in Berlin on Tuesday. Watching him is his predecessor, Olaf Scholz.",
+                "copyright": "Ebrahim Noroozi/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India Strikes Pakistan but Is Said to Have Lost Jets",
+        "abstract": "Officials and witnesses said that at least two Indian aircraft had crashed after India struck Pakistani targets, escalating the conflict between the nuclear powers.",
+        "url": "https://www.nytimes.com/2025/05/06/world/asia/india-pakistan-attacks.html",
+        "uri": "nyt://article/423db03c-02de-51b8-883a-70dfc6f78460",
+        "byline": "By Mujib Mashal, Hari Kumar and Salman Masood",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T06:04:02-04:00",
+        "created_date": "2025-05-06T16:17:36-04:00",
+        "published_date": "2025-05-06T16:17:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Mass Shootings"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "India",
+            "Pakistan",
+            "Kashmir"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06india-pakistan-vidpkg-cov2-qbpj/06india-pakistan-vidpkg-cov2-qbpj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "M.D. Mughal/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06india-pakistan-vidpkg-cov2-qbpj/06india-pakistan-vidpkg-cov2-qbpj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "M.D. Mughal/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06india-pakistan-vidpkg-cov2-qbpj/06india-pakistan-vidpkg-cov2-qbpj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "M.D. Mughal/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
