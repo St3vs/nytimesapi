@@ -70318,5 +70318,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump Says the U.S. Will Cease Strikes on Houthi Militants",
+        "abstract": "It was unclear whether the Houthis were going to stop impeding international shipping, which was the objective of the American bombing campaign.",
+        "url": "https://www.nytimes.com/2025/05/06/us/politics/trump-houthis-bombing.html",
+        "uri": "nyt://article/b13dc1b3-965f-5be2-8c52-d00a537e8bd1",
+        "byline": "By Zolan Kanno-Youngs and Vivian Nereim",
+        "item_type": "Article",
+        "updated_date": "2025-05-06T20:51:23-04:00",
+        "created_date": "2025-05-06T15:21:36-04:00",
+        "published_date": "2025-05-06T15:21:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States Defense and Military Forces"
+        ],
+        "org_facet": [
+            "Hamas",
+            "Houthis",
+            "Defense Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Hegseth, Pete"
+        ],
+        "geo_facet": [
+            "Yemen",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06dc-us-houthis-pftv/06dc-us-houthis-pftv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising from a U.S. airstrike in Sana, Yemen, last month.",
+                "copyright": "Khaled Abdullah/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06dc-us-houthis-pftv/06dc-us-houthis-pftv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising from a U.S. airstrike in Sana, Yemen, last month.",
+                "copyright": "Khaled Abdullah/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06dc-us-houthis-pftv/06dc-us-houthis-pftv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Smoke rising from a U.S. airstrike in Sana, Yemen, last month.",
+                "copyright": "Khaled Abdullah/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
