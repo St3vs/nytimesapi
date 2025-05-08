@@ -75426,5 +75426,173 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Expectant Crowd Waits as Cardinals Deliberate Over Next Pope",
+        "abstract": "Black smoke above the Sistine Chapel signaled that balloting in the morning was inconclusive. The conclave is expected to resume voting on Thursday afternoon.",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news",
+        "uri": "nyt://promo/bb7603d2-28a5-555b-8b70-3d1835177989",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-08T10:16:47-04:00",
+        "created_date": "2025-05-08T08:53:47-04:00",
+        "published_date": "2025-05-08T08:53:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-promo3-mvkw/08pope-conclave-promo3-mvkw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Emilio Morenatti/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-promo3-mvkw/08pope-conclave-promo3-mvkw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Emilio Morenatti/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-promo3-mvkw/08pope-conclave-promo3-mvkw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Emilio Morenatti/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Denmark Threatens U.S. After Report of Increased Spying in Greenland",
+        "abstract": "Officials summoned the American ambassador and pushed to shut a consulate on the Arctic island after the Trump Administration was said be ratcheting up surveillance.",
+        "url": "https://www.nytimes.com/2025/05/08/world/asia/denmark-greenland-us-consulate-spying.html",
+        "uri": "nyt://article/c193b1d3-ba0b-5739-be73-0304bc0de45d",
+        "byline": "By Jeffrey Gettleman and Maya Tekeli",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T10:17:13-04:00",
+        "created_date": "2025-05-08T10:17:13-04:00",
+        "published_date": "2025-05-08T10:17:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Diplomatic Service, Embassies and Consulates",
+            "United States International Relations",
+            "Espionage and Intelligence Services"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Rasmussen, Lars Lokke"
+        ],
+        "geo_facet": [
+            "Greenland",
+            "Denmark",
+            "United States",
+            "Nuuk (Greenland)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-denmark-greenland-us-ctvm/08int-denmark-greenland-us-ctvm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lars Lokke Rasmussen, Denmark’s foreign minister, who summoned the U.S. ambassador to express his anger over reports of spying. ",
+                "copyright": "EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-denmark-greenland-us-ctvm/08int-denmark-greenland-us-ctvm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lars Lokke Rasmussen, Denmark’s foreign minister, who summoned the U.S. ambassador to express his anger over reports of spying. ",
+                "copyright": "EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-denmark-greenland-us-ctvm/08int-denmark-greenland-us-ctvm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lars Lokke Rasmussen, Denmark’s foreign minister, who summoned the U.S. ambassador to express his anger over reports of spying. ",
+                "copyright": "EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Age could be key to deciding the next pope.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/next-pope-age-papal-conclave",
+        "uri": "nyt://article/e16d8246-6b96-50f6-bc62-532f00305379",
+        "byline": "By Jason Horowitz and Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T10:02:21-04:00",
+        "created_date": "2025-05-08T10:02:21-04:00",
+        "published_date": "2025-05-08T10:02:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-age-mvzb/07pope-conclave-age-mvzb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals at the funeral for Pope Francis last month.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-age-mvzb/07pope-conclave-age-mvzb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals at the funeral for Pope Francis last month.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-age-mvzb/07pope-conclave-age-mvzb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals at the funeral for Pope Francis last month.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
