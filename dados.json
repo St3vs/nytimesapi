@@ -76751,5 +76751,131 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Who Is Pope Leo XIV?",
+        "abstract": "Here’s what to know about Pope Francis’ successor, Robert Francis Prevost, who was chosen on Thursday. He is the first American pope and will be known as Leo XIV.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/who-is-robert-francis-prevost-pope-leo-xiv.html",
+        "uri": "nyt://article/56f17fa2-9b8e-5d8a-acb2-c3a773be6fb3",
+        "byline": "By Elisabetta Povoledo, Jason Horowitz, Emma Bubola, Motoko Rich and Elizabeth Dias",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T15:01:52-04:00",
+        "created_date": "2025-05-08T14:07:36-04:00",
+        "published_date": "2025-05-08T14:07:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)",
+            "Clergy",
+            "Appointments and Executive Changes",
+            "Priests",
+            "Content Type: Personal Profile"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV",
+            "Francis"
+        ],
+        "geo_facet": [
+            "Rome (Italy)",
+            "United States",
+            "Chicago (Ill)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-new-pope-explainer-tpbk/08int-new-pope-explainer-tpbk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Robert Francis Prevost appeared on the balcony of St. Peter’s Basilica on Thursday, after he was selected as pope. He took the name Leo XIV.",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-new-pope-explainer-tpbk/08int-new-pope-explainer-tpbk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Robert Francis Prevost appeared on the balcony of St. Peter’s Basilica on Thursday, after he was selected as pope. He took the name Leo XIV.",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-new-pope-explainer-tpbk/08int-new-pope-explainer-tpbk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Robert Francis Prevost appeared on the balcony of St. Peter’s Basilica on Thursday, after he was selected as pope. He took the name Leo XIV.",
+                "copyright": "Yara Nardi/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Pope Leo XIV, the First American Pontiff, Took a Global Route to the Top Post",
+        "abstract": "Robert Francis Prevost, who led the Vatican office that selects and manages bishops globally, has spent much of his life outside the United States.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/pope-leo-xiv-robert-francis-prevost.html",
+        "uri": "nyt://article/e22667a9-fe40-5610-bd63-494d80bbbfe5",
+        "byline": "By Motoko Rich, Elizabeth Dias and Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T15:17:05-04:00",
+        "created_date": "2025-05-08T13:20:37-04:00",
+        "published_date": "2025-05-08T13:20:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-pope-hfo-prevost-cpbt/08int-pope-hfo-prevost-cpbt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV has the potential to shake up the global Catholic power structure.",
+                "copyright": "Stoyan Nenov/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-pope-hfo-prevost-cpbt/08int-pope-hfo-prevost-cpbt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV has the potential to shake up the global Catholic power structure.",
+                "copyright": "Stoyan Nenov/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-pope-hfo-prevost-cpbt/08int-pope-hfo-prevost-cpbt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV has the potential to shake up the global Catholic power structure.",
+                "copyright": "Stoyan Nenov/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
