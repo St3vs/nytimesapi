@@ -77568,5 +77568,122 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "American church leaders signal support for Leo XIV and for continuation of Francis’ priorities.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/american-church-leaders-signal-support-for-leo-xiv-and-for-continuation-of-francis-priorities",
+        "uri": "nyt://article/52a766cc-5bc2-5c2c-a209-6596a2d514be",
+        "byline": "By Elizabeth Dias",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T18:33:55-04:00",
+        "created_date": "2025-05-08T18:33:55-04:00",
+        "published_date": "2025-05-08T18:33:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-american-church-leaders1-bgqc/08pope-conclave-american-church-leaders1-bgqc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Seán P. O’Malley, right, with Cardinal Celestino Aós Braco in St Peter’s Square in Vatican City on Thursday after a new pope had been chosen.",
+                "copyright": "Luca Bruno/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-american-church-leaders1-bgqc/08pope-conclave-american-church-leaders1-bgqc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Seán P. O’Malley, right, with Cardinal Celestino Aós Braco in St Peter’s Square in Vatican City on Thursday after a new pope had been chosen.",
+                "copyright": "Luca Bruno/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-american-church-leaders1-bgqc/08pope-conclave-american-church-leaders1-bgqc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Seán P. O’Malley, right, with Cardinal Celestino Aós Braco in St Peter’s Square in Vatican City on Thursday after a new pope had been chosen.",
+                "copyright": "Luca Bruno/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The Pope Is a Graduate of Villanova, Where the Church Bells Won’t Stop Ringing",
+        "abstract": "The private Catholic university in the suburbs of Philadelphia has a new most famous alumnus.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/villanova-pope-leo-xiv.html",
+        "uri": "nyt://article/c1befa58-ad2c-5f0e-b902-7c7878c22acf",
+        "byline": "By Sarah Mervosh",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T18:33:52-04:00",
+        "created_date": "2025-05-08T18:33:52-04:00",
+        "published_date": "2025-05-08T18:33:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)",
+            "Villanova University"
+        ],
+        "per_facet": [
+            "Augustine of Hippo (354-430)",
+            "Leo XIV"
+        ],
+        "geo_facet": [
+            "Chicago (Ill)",
+            "Philadelphia (Pa)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08nat-pope-villanova-tgpj/08nat-pope-villanova-tgpj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "St. Thomas of Villanova Church at Villanova University in Pennsylvania on Thursday.",
+                "copyright": "Rachel Wisniewski for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08nat-pope-villanova-tgpj/08nat-pope-villanova-tgpj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "St. Thomas of Villanova Church at Villanova University in Pennsylvania on Thursday.",
+                "copyright": "Rachel Wisniewski for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08nat-pope-villanova-tgpj/08nat-pope-villanova-tgpj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "St. Thomas of Villanova Church at Villanova University in Pennsylvania on Thursday.",
+                "copyright": "Rachel Wisniewski for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
