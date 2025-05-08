@@ -74242,5 +74242,121 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "For Embattled Starmer, U.S.-U.K. Trade Deal Will Count as a Win",
+        "abstract": "Prime Minister Keir Starmer has spent months nurturing his relationship with President Trump. Is that about to pay off?",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/starmer-us-uk-trade-deal.html",
+        "uri": "nyt://article/72026168-749c-5c04-bc62-16bef5df5618",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T04:25:51-04:00",
+        "created_date": "2025-05-08T04:23:48-04:00",
+        "published_date": "2025-05-08T04:23:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "Labour Party (Great Britain)"
+        ],
+        "per_facet": [
+            "Starmer, Keir",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "Europe",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-uk-starmer-trade-lqzc/08int-uk-starmer-trade-lqzc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain has tried to act as a bridge between Europe and the United States.",
+                "copyright": "Kirsty Wigglesworth/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-uk-starmer-trade-lqzc/08int-uk-starmer-trade-lqzc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain has tried to act as a bridge between Europe and the United States.",
+                "copyright": "Kirsty Wigglesworth/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-uk-starmer-trade-lqzc/08int-uk-starmer-trade-lqzc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain has tried to act as a bridge between Europe and the United States.",
+                "copyright": "Kirsty Wigglesworth/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Crowds begin to gather in St. Peter’s Square.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/crowds-begin-to-gather-in-st-peters-square",
+        "uri": "nyt://article/696393c4-43a9-5817-b58d-d0bfbf30dbfa",
+        "byline": "By Matthew Mpoke Bigg",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T04:21:47-04:00",
+        "created_date": "2025-05-08T04:21:47-04:00",
+        "published_date": "2025-05-08T04:21:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-morning-scene-hjck/08pope-conclave-morning-scene-hjck-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gathering in St. Peter’s Square on Thursday.",
+                "copyright": "Gregorio Borgia/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-morning-scene-hjck/08pope-conclave-morning-scene-hjck-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gathering in St. Peter’s Square on Thursday.",
+                "copyright": "Gregorio Borgia/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-morning-scene-hjck/08pope-conclave-morning-scene-hjck-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Gathering in St. Peter’s Square on Thursday.",
+                "copyright": "Gregorio Borgia/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
