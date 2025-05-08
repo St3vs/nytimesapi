@@ -77386,5 +77386,187 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "‘He Checked All the Boxes.’ Pope Leo XIV Overcame a Liability — Being American.",
+        "abstract": "Before he was chosen, Robert Francis Prevost had the papal seal of approval from his predecessor, Francis, who put him in one of the top jobs in the Roman Catholic Church.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/pope-leo-cardinal-prevost-obstacles.html",
+        "uri": "nyt://article/22e0dfba-7881-5f10-8411-451f9d7652e1",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T18:17:55-04:00",
+        "created_date": "2025-05-08T18:14:30-04:00",
+        "published_date": "2025-05-08T18:14:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Clergy",
+            "Missionaries"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Leo XIV",
+            "Francis"
+        ],
+        "geo_facet": [
+            "Rome (Italy)",
+            "United States",
+            "Latin America"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-leo-candidate-zmhg/08pope-leo-candidate-zmhg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV on the central balcony of St. Peter’s Basilica, greeting the crowd in St. Peter’s Square in Vatican City on Thursday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-leo-candidate-zmhg/08pope-leo-candidate-zmhg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV on the central balcony of St. Peter’s Basilica, greeting the crowd in St. Peter’s Square in Vatican City on Thursday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-leo-candidate-zmhg/08pope-leo-candidate-zmhg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV on the central balcony of St. Peter’s Basilica, greeting the crowd in St. Peter’s Square in Vatican City on Thursday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Joseph Nye, Political Scientist Who Extolled ‘Soft Power,’ Dies at 88",
+        "abstract": "He coined the term, arguing that a country’s global influence can’t be built on military might alone. Diplomats around the world paid heed.",
+        "url": "https://www.nytimes.com/2025/05/08/us/politics/joseph-nye-dead.html",
+        "uri": "nyt://article/941c1169-c5bb-58ac-8bfe-274dc61f412f",
+        "byline": "By Trip Gabriel",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T17:51:46-04:00",
+        "created_date": "2025-05-08T17:51:46-04:00",
+        "published_date": "2025-05-08T17:51:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Relations",
+            "Foreign Aid",
+            "Deaths (Obituaries)"
+        ],
+        "org_facet": [
+            "Kennedy, John F, School of Government",
+            "State Department",
+            "Voice of America"
+        ],
+        "per_facet": [
+            "Nye, Joseph S Jr",
+            "Sullivan, Jacob J (1976- )"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08Nye--01-gfmk/08Nye--01-gfmk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Joseph S. Nye Jr. in 2017 in his home in Lexington, Mass. “His ideas shaped the worldviews of multiple generations of policymakers,” said Jake Sullivan, the national security adviser in the Biden administration. ",
+                "copyright": "Stephanie Mitchell/Harvard University"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08Nye--01-gfmk/08Nye--01-gfmk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Joseph S. Nye Jr. in 2017 in his home in Lexington, Mass. “His ideas shaped the worldviews of multiple generations of policymakers,” said Jake Sullivan, the national security adviser in the Biden administration. ",
+                "copyright": "Stephanie Mitchell/Harvard University"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08Nye--01-gfmk/08Nye--01-gfmk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Joseph S. Nye Jr. in 2017 in his home in Lexington, Mass. “His ideas shaped the worldviews of multiple generations of policymakers,” said Jake Sullivan, the national security adviser in the Biden administration. ",
+                "copyright": "Stephanie Mitchell/Harvard University"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "World leaders offer Pope Leo XIV wishes for peace and unity.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/world-leaders-offer-pope-leo-xiv-wishes-for-peace-and-unity",
+        "uri": "nyt://article/07a14ac6-6f8c-5c25-8d1d-65ac977c761e",
+        "byline": "By Talya Minsberg",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T17:36:29-04:00",
+        "created_date": "2025-05-08T17:36:29-04:00",
+        "published_date": "2025-05-08T17:36:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-reactions-topart-mzgp/08pope-conclave-reactions-topart-mzgp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV made his first appearance on the balcony at St. Peter’s Basilica.",
+                "copyright": "Murad Sezer/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-reactions-topart-mzgp/08pope-conclave-reactions-topart-mzgp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV made his first appearance on the balcony at St. Peter’s Basilica.",
+                "copyright": "Murad Sezer/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-reactions-topart-mzgp/08pope-conclave-reactions-topart-mzgp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV made his first appearance on the balcony at St. Peter’s Basilica.",
+                "copyright": "Murad Sezer/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
