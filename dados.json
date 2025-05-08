@@ -75824,5 +75824,465 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: White Smoke Signals That a Pope Is Chosen",
+        "abstract": "The identity of the new pontiff was to be announced shortly. Cardinals sequestered in the Sistine Chapel reached a decision on the second day of their conclave.",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news",
+        "uri": "nyt://promo/bb7603d2-28a5-555b-8b70-3d1835177989",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-08T12:19:12-04:00",
+        "created_date": "2025-05-08T08:53:47-04:00",
+        "published_date": "2025-05-08T08:53:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-smoke-white-jqcf/08pope-smoke-white-jqcf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-smoke-white-jqcf/08pope-smoke-white-jqcf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-smoke-white-jqcf/08pope-smoke-white-jqcf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Yara Nardi/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "For Embattled Starmer, a U.S.-U.K. Trade Agreement Will Count as a Win",
+        "abstract": "Prime Minister Keir Starmer has spent months nurturing his relationship with President Trump. That may have just paid off.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/starmer-us-uk-trade-deal.html",
+        "uri": "nyt://article/72026168-749c-5c04-bc62-16bef5df5618",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T12:16:15-04:00",
+        "created_date": "2025-05-08T04:23:48-04:00",
+        "published_date": "2025-05-08T04:23:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "Labour Party (Great Britain)"
+        ],
+        "per_facet": [
+            "Starmer, Keir",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "Europe",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-uk-starmer-trade-lqzc/08int-uk-starmer-trade-lqzc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain has tried to act as a bridge between Europe and the United States.",
+                "copyright": "Kirsty Wigglesworth/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-uk-starmer-trade-lqzc/08int-uk-starmer-trade-lqzc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain has tried to act as a bridge between Europe and the United States.",
+                "copyright": "Kirsty Wigglesworth/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-uk-starmer-trade-lqzc/08int-uk-starmer-trade-lqzc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain has tried to act as a bridge between Europe and the United States.",
+                "copyright": "Kirsty Wigglesworth/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "White Smoke Signals a Pope Has Been Chosen. What Happens Next?",
+        "abstract": "A successor to Pope Francis had been elected. But there will be a short wait before his identity becomes clear.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/white-smoke-new-pope-what-next.html",
+        "uri": "nyt://article/b0e4deb4-bbad-5356-89f9-3333c15e20d4",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T12:17:57-04:00",
+        "created_date": "2025-05-08T12:17:57-04:00",
+        "published_date": "2025-05-08T12:17:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Italy",
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-after-white-smoke-bcfk/08pope-conclave-after-white-smoke-bcfk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Papal garments in three sizes are prepared for the conclave because no one knows who — or how big — the new pope will be. ",
+                "copyright": "The Vatican"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-after-white-smoke-bcfk/08pope-conclave-after-white-smoke-bcfk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Papal garments in three sizes are prepared for the conclave because no one knows who — or how big — the new pope will be. ",
+                "copyright": "The Vatican"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-after-white-smoke-bcfk/08pope-conclave-after-white-smoke-bcfk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Papal garments in three sizes are prepared for the conclave because no one knows who — or how big — the new pope will be. ",
+                "copyright": "The Vatican"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Older cardinals can’t vote in the conclave, but they have thoughts on the proceedings.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/older-cardinals-cant-vote-in-the-conclave-but-they-have-thoughts-on-the-proceedings.html",
+        "uri": "nyt://article/ba2f24e0-6e7a-52ad-ad4a-fa889450a9f6",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T12:15:27-04:00",
+        "created_date": "2025-05-08T12:15:05-04:00",
+        "published_date": "2025-05-08T12:15:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-older-cardinals-whkj/08pope-conclave-older-cardinals-whkj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1398,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Domenico Calcagno is over the age of 80 and not allowed to vote.",
+                "copyright": "Murad Sezer/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-older-cardinals-whkj/08pope-conclave-older-cardinals-whkj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Domenico Calcagno is over the age of 80 and not allowed to vote.",
+                "copyright": "Murad Sezer/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-older-cardinals-whkj/08pope-conclave-older-cardinals-whkj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Domenico Calcagno is over the age of 80 and not allowed to vote.",
+                "copyright": "Murad Sezer/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Sewage Sludge Fertilizer From Maryland? Virginians Say No Thanks.",
+        "abstract": "Maryland has restricted use of the toxic fertilizer. A plan to send more to Virginia has sparked fears of contaminated farms and fisheries.",
+        "url": "https://www.nytimes.com/2025/05/08/climate/sewage-sludge-fertilizer-virginia-maryland-pfas-forever-chemicals.html",
+        "uri": "nyt://article/e8520b2c-41f5-5ebe-9f26-4739fd25a976",
+        "byline": "By Hiroko Tabuchi and Caroline Gutman",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T12:07:22-04:00",
+        "created_date": "2025-05-08T12:01:10-04:00",
+        "published_date": "2025-05-08T12:01:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/00CLI-VIRGINIA-SLUDGE-01-pztw-copy/00CLI-VIRGINIA-SLUDGE-01-pztw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Caroline Gutman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/00CLI-VIRGINIA-SLUDGE-01-pztw-copy/00CLI-VIRGINIA-SLUDGE-01-pztw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Caroline Gutman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/29/multimedia/00CLI-VIRGINIA-SLUDGE-01-pztw-copy/00CLI-VIRGINIA-SLUDGE-01-pztw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Caroline Gutman for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Intelligence Agencies Increase Focus on Greenland, U.S. Officials Say",
+        "abstract": "A growing number of reports about the island have been included in information circulated in the executive branch and Congress, officials said.",
+        "url": "https://www.nytimes.com/2025/05/08/us/politics/trump-greenland-intelligence.html",
+        "uri": "nyt://article/89af64c8-18d0-57a6-9c20-47eeb464547b",
+        "byline": "By Julian E. Barnes and Maggie Haberman",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T11:42:48-04:00",
+        "created_date": "2025-05-08T11:42:48-04:00",
+        "published_date": "2025-05-08T11:42:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "United States Politics and Government",
+            "Espionage and Intelligence Services",
+            "Classified Information and State Secrets"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Greenland",
+            "Denmark"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08dc-greenland-kczb/08dc-greenland-kczb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A radar antenna array in Nuuk, Greenland, this year. President Trump has repeatedly expressed his desire to acquire the island.",
+                "copyright": "Leon Neal/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08dc-greenland-kczb/08dc-greenland-kczb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A radar antenna array in Nuuk, Greenland, this year. President Trump has repeatedly expressed his desire to acquire the island.",
+                "copyright": "Leon Neal/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08dc-greenland-kczb/08dc-greenland-kczb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A radar antenna array in Nuuk, Greenland, this year. President Trump has repeatedly expressed his desire to acquire the island.",
+                "copyright": "Leon Neal/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "If you want to be pope, it helps not to act like it.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/if-you-want-to-be-pope-it-helps-not-to-act-like-it",
+        "uri": "nyt://article/818a8b54-b7e6-5895-ab82-d5d417531b86",
+        "byline": "By Jason Horowitz and Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T11:30:04-04:00",
+        "created_date": "2025-05-08T11:30:04-04:00",
+        "published_date": "2025-05-08T11:30:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/07pope-conclave-campaigning-VERSION/28int-conclave-meetings01-photo-plqm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals taking communion during the funeral for Pope Francis in April.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/07pope-conclave-campaigning-VERSION/28int-conclave-meetings01-photo-plqm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals taking communion during the funeral for Pope Francis in April.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/28/multimedia/07pope-conclave-campaigning-VERSION/28int-conclave-meetings01-photo-plqm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals taking communion during the funeral for Pope Francis in April.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Trump Officials Ask Court to End Protections for a Strutting, Showy Bird",
+        "abstract": "The lesser prairie chicken, known for the males’ quirky courtship dance, inhabits grasslands sought-after by farming and energy developers.",
+        "url": "https://www.nytimes.com/2025/05/08/climate/trump-prairie-chicken-endangered-species-list.html",
+        "uri": "nyt://article/f28b78eb-13d6-5f56-9894-f2405ea14876",
+        "byline": "By Catrin Einhorn",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T11:26:48-04:00",
+        "created_date": "2025-05-08T11:26:48-04:00",
+        "published_date": "2025-05-08T11:26:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Endangered and Extinct Species",
+            "United States Politics and Government",
+            "Grouse (Bird)",
+            "Agriculture and Farming",
+            "Biodiversity",
+            "Birds",
+            "Environment",
+            "Law and Legislation"
+        ],
+        "org_facet": [
+            "Fish and Wildlife Service"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/climate/08cli-prairie-chicken-01/08cli-prairie-chicken-01-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Researchers estimate that lesser prairie chickens have declined from hundreds of thousands or even millions to about 30,000 today. Habitat loss is the main culprit.",
+                "copyright": "Gabbro/Alamy"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/climate/08cli-prairie-chicken-01/08cli-prairie-chicken-01-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Researchers estimate that lesser prairie chickens have declined from hundreds of thousands or even millions to about 30,000 today. Habitat loss is the main culprit.",
+                "copyright": "Gabbro/Alamy"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/climate/08cli-prairie-chicken-01/08cli-prairie-chicken-01-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Researchers estimate that lesser prairie chickens have declined from hundreds of thousands or even millions to about 30,000 today. Habitat loss is the main culprit.",
+                "copyright": "Gabbro/Alamy"
+            }
+        ],
+        "short_url": ""
     }
 ]
