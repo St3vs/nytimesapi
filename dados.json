@@ -76284,5 +76284,161 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Robert Francis Prevost Is 1st American Pope",
+        "abstract": "Cardinal Prevost was elected pontiff on the second day of the conclave, becoming leader of 1.4 billion Roman Catholics. He took the papal name Leo XIV.",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news",
+        "uri": "nyt://promo/bb7603d2-28a5-555b-8b70-3d1835177989",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-08T13:16:37-04:00",
+        "created_date": "2025-05-08T08:53:47-04:00",
+        "published_date": "2025-05-08T08:53:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-smoke-white-jqcf/08pope-smoke-white-jqcf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-smoke-white-jqcf/08pope-smoke-white-jqcf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Yara Nardi/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-smoke-white-jqcf/08pope-smoke-white-jqcf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Yara Nardi/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What’s in a (pope’s) name?",
+        "abstract": "When selecting a name, popes often look to history and make a choice imbued with personal meaning. The decision can also signal the direction a pontificate might take.",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/new-pope-name",
+        "uri": "nyt://article/ee08da6d-4fc9-50f1-959b-2718043f04d7",
+        "byline": "By Patricia Mazzei",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T12:47:15-04:00",
+        "created_date": "2025-05-08T12:47:15-04:00",
+        "published_date": "2025-05-08T12:47:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-papal-name-klqc/07pope-conclave-papal-name-klqc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cardinal making his way to the Vatican the day before the funeral of Pope Francis.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-papal-name-klqc/07pope-conclave-papal-name-klqc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cardinal making his way to the Vatican the day before the funeral of Pope Francis.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-papal-name-klqc/07pope-conclave-papal-name-klqc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A cardinal making his way to the Vatican the day before the funeral of Pope Francis.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The pope’s first words from the balcony will set expectations for his papacy.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/the-popes-first-words-from-the-balcony-will-set-expectations-for-his-papacy",
+        "uri": "nyt://article/cdfd22f0-5b83-553e-bb66-900b9ee02e91",
+        "byline": "By Patricia Mazzei",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T13:12:30-04:00",
+        "created_date": "2025-05-08T12:36:18-04:00",
+        "published_date": "2025-05-08T12:36:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-first-words-phqw/07pope-conclave-first-words-phqw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1243,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Jorge Mario Bergoglio, who took the name Pope Francis, spoke to an audience after being selected to lead the Catholic Church.",
+                "copyright": "Gregorio Borgia/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-first-words-phqw/07pope-conclave-first-words-phqw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Jorge Mario Bergoglio, who took the name Pope Francis, spoke to an audience after being selected to lead the Catholic Church.",
+                "copyright": "Gregorio Borgia/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-first-words-phqw/07pope-conclave-first-words-phqw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Jorge Mario Bergoglio, who took the name Pope Francis, spoke to an audience after being selected to lead the Catholic Church.",
+                "copyright": "Gregorio Borgia/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
