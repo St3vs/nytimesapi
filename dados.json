@@ -74910,5 +74910,292 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Interest in the ‘Conclave’ movie has soared. How accurate is it?",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/conclave-movie-new-pope-vote",
+        "uri": "nyt://article/a53476ae-d2b7-52c5-8293-734ae0caab73",
+        "byline": "By Talya Minsberg",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T08:22:07-04:00",
+        "created_date": "2025-05-08T08:22:07-04:00",
+        "published_date": "2025-05-08T08:22:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-movie-mvpg/07pope-conclave-movie-mvpg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1068,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A scene from “Conclave,” a fictionalized account of the selection of a new pope.",
+                "copyright": "Focus Features, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-movie-mvpg/07pope-conclave-movie-mvpg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A scene from “Conclave,” a fictionalized account of the selection of a new pope.",
+                "copyright": "Focus Features, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-movie-mvpg/07pope-conclave-movie-mvpg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A scene from “Conclave,” a fictionalized account of the selection of a new pope.",
+                "copyright": "Focus Features, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "E.U. Unveils a Plan to Hit Back at the U.S. if Negotiations Fail",
+        "abstract": "European officials are working on lists of retaliatory tariffs and planning a World Trade Organization case to put pressure on America to do a trade deal.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/eu-retaliatory-tariffs-trump-us.html",
+        "uri": "nyt://article/c30e2939-8d07-53bd-bbbe-e6f7d1d24fb7",
+        "byline": "By Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T08:16:24-04:00",
+        "created_date": "2025-05-08T08:13:38-04:00",
+        "published_date": "2025-05-08T08:13:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Protectionism (Trade)",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "European Union",
+            "World Trade Organization"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "von der Leyen, Ursula"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/EU-tariffs-fpmc/EU-tariffs-fpmc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A beef production plant in Veurne, Belgium. The list of products that the European Union could hit with retaliatory tariffs includes agricultural products like meat and soybeans.",
+                "copyright": "Jim Huylebroek for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/EU-tariffs-fpmc/EU-tariffs-fpmc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A beef production plant in Veurne, Belgium. The list of products that the European Union could hit with retaliatory tariffs includes agricultural products like meat and soybeans.",
+                "copyright": "Jim Huylebroek for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/EU-tariffs-fpmc/EU-tariffs-fpmc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A beef production plant in Veurne, Belgium. The list of products that the European Union could hit with retaliatory tariffs includes agricultural products like meat and soybeans.",
+                "copyright": "Jim Huylebroek for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Mississippi Man Is Charged With Stalking Jennifer Aniston",
+        "abstract": "Prosecutors said that Jimmy Wayne Carwyle, 48, drove through the front gate of Ms. Aniston’s home on Monday after stalking her for nearly two years.",
+        "url": "https://www.nytimes.com/2025/05/08/us/jennifer-aniston-stalker-charged-bel-air-house.html",
+        "uri": "nyt://article/7958a6bf-dfb0-57b9-a1ba-06c88f646c7a",
+        "byline": "By Claire Moses",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T08:07:21-04:00",
+        "created_date": "2025-05-08T08:07:21-04:00",
+        "published_date": "2025-05-08T08:07:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Stalking (Crime)",
+            "Vandalism",
+            "Traffic Accidents and Safety",
+            "Threats and Threatening Messages",
+            "Actors and Actresses"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Aniston, Jennifer",
+            "Hochman, Nathan (1963- )"
+        ],
+        "geo_facet": [
+            "Los Angeles (Calif)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08xp-aniston-vlqz/08xp-aniston-vlqz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Aniston at the Emmy Awards in Los Angeles last year.",
+                "copyright": "Jae C. Hong/Invision, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08xp-aniston-vlqz/08xp-aniston-vlqz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Aniston at the Emmy Awards in Los Angeles last year.",
+                "copyright": "Jae C. Hong/Invision, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08xp-aniston-vlqz/08xp-aniston-vlqz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Jennifer Aniston at the Emmy Awards in Los Angeles last year.",
+                "copyright": "Jae C. Hong/Invision, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "After black smoke at noon, the crowd in St. Peter’s hopes for white smoke at night.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/after-black-smoke-at-noon-the-crowd-in-st-peters-hopes-for-white-smoke-at-night",
+        "uri": "nyt://article/1a3163cd-2beb-5a38-860a-0b7e8a2338ab",
+        "byline": "By Patricia Mazzei and Motoko Rich",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T07:41:24-04:00",
+        "created_date": "2025-05-08T07:41:24-04:00",
+        "published_date": "2025-05-08T07:41:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes"
+        ],
+        "org_facet": [
+            "Sistine Chapel (Vatican City)",
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-scene-noon-vkjb/08pope-conclave-scene-noon-vkjb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Reacting as black smoke rises from the Sistine Chapel chimney on Thursday morning.",
+                "copyright": "Amanda Perobelli/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-scene-noon-vkjb/08pope-conclave-scene-noon-vkjb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Reacting as black smoke rises from the Sistine Chapel chimney on Thursday morning.",
+                "copyright": "Amanda Perobelli/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-scene-noon-vkjb/08pope-conclave-scene-noon-vkjb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Reacting as black smoke rises from the Sistine Chapel chimney on Thursday morning.",
+                "copyright": "Amanda Perobelli/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A call for ‘unity’ in the conclave sounds divisive to some.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/a-call-for-unity-in-the-conclave-sounds-divisive-to-some",
+        "uri": "nyt://article/bf57f970-d937-5ee1-b79f-e3a04ed3e4c7",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T07:29:09-04:00",
+        "created_date": "2025-05-08T07:29:09-04:00",
+        "published_date": "2025-05-08T07:29:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/07pope-conclave-unity-VERSION/27int-conclave-unity01-photo-zkml-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals returned to St. Peter’s Basilica after Pope Francis’ funeral in April.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/07pope-conclave-unity-VERSION/27int-conclave-unity01-photo-zkml-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals returned to St. Peter’s Basilica after Pope Francis’ funeral in April.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/04/27/multimedia/07pope-conclave-unity-VERSION/27int-conclave-unity01-photo-zkml-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals returned to St. Peter’s Basilica after Pope Francis’ funeral in April.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
