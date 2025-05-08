@@ -74667,5 +74667,248 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Trump Administration to Announce Trade Deal With Britain",
+        "abstract": "A deal would be a positive sign for both governments, which have eyed an agreement since President Trump’s first term.",
+        "url": "https://www.nytimes.com/2025/05/07/business/economy/trump-trade-britain.html",
+        "uri": "nyt://article/ee938d32-8075-53c2-8809-2764982b2d7a",
+        "byline": "By Ana Swanson, Maggie Haberman and Tyler Pager",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T06:48:51-04:00",
+        "created_date": "2025-05-07T21:51:02-04:00",
+        "published_date": "2025-05-07T21:51:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "International Trade and World Market",
+            "Customs (Tariff)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/00dc-trump-ukdeal-hqvf/00dc-trump-ukdeal-hqvf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s interest in striking a trade deal with Britain dates back to his first term, when his advisers negotiated with the country but didn’t finalize an agreement.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/00dc-trump-ukdeal-hqvf/00dc-trump-ukdeal-hqvf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s interest in striking a trade deal with Britain dates back to his first term, when his advisers negotiated with the country but didn’t finalize an agreement.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/00dc-trump-ukdeal-hqvf/00dc-trump-ukdeal-hqvf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump’s interest in striking a trade deal with Britain dates back to his first term, when his advisers negotiated with the country but didn’t finalize an agreement.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Overnight Clashes Strain a Diplomatic Push Between India and Pakistan",
+        "abstract": "The United States and other regional players converged to try to head off war between the neighboring nuclear powers. But more clashes seemed to keep hostilities roiling.",
+        "url": "https://www.nytimes.com/2025/05/08/world/asia/india-pakistan-diplomacy-kashmir.html",
+        "uri": "nyt://article/e5de6bca-36fc-5d1f-a823-6acb2eff2444",
+        "byline": "By Mujib Mashal and Salman Masood",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T07:05:32-04:00",
+        "created_date": "2025-05-08T06:33:34-04:00",
+        "published_date": "2025-05-08T06:33:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Kashmir",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-india-pakistan-zcmg/08int-india-pakistan-zcmg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A house damaged by artillery shelling in Poonch, in the Indian-controlled part of Kashmir on Thursday.",
+                "copyright": "Channi Anand/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-india-pakistan-zcmg/08int-india-pakistan-zcmg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A house damaged by artillery shelling in Poonch, in the Indian-controlled part of Kashmir on Thursday.",
+                "copyright": "Channi Anand/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-india-pakistan-zcmg/08int-india-pakistan-zcmg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A house damaged by artillery shelling in Poonch, in the Indian-controlled part of Kashmir on Thursday.",
+                "copyright": "Channi Anand/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "economy",
+        "title": "How India Is Trying to Squeeze Pakistan Far From the Battlefield",
+        "abstract": "The nuclear-armed rivals are also wrangling over Pakistan’s access to desperately needed foreign aid, as India explores ways to use its soft power and relationships to bedevil its old enemy.",
+        "url": "https://www.nytimes.com/2025/05/08/business/economy/india-pakistan-soft-power-kashmir.html",
+        "uri": "nyt://article/92de91ae-b51e-56a6-aa30-24cce0f5b7c7",
+        "byline": "By Alex Travelli",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T03:43:16-04:00",
+        "created_date": "2025-05-08T03:43:16-04:00",
+        "published_date": "2025-05-08T03:43:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Aid",
+            "Territorial Disputes",
+            "International Relations",
+            "Politics and Government",
+            "Credit and Debt"
+        ],
+        "org_facet": [
+            "Asian Development Bank"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Pakistan",
+            "Kashmir"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08india-pakistan-softpower-kfvh/08india-pakistan-softpower-kfvh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1355,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A view of the Uri-II hydroelectric project dam on the Jhelum River in the Indian portion Kashmir, which flows into the Pakistani part of Kashmir. In April, India pulled out of a river-sharing treaty that has safeguarded Pakistan’s vulnerable water supply since 1960. Pakistan called it an act of war.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08india-pakistan-softpower-kfvh/08india-pakistan-softpower-kfvh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A view of the Uri-II hydroelectric project dam on the Jhelum River in the Indian portion Kashmir, which flows into the Pakistani part of Kashmir. In April, India pulled out of a river-sharing treaty that has safeguarded Pakistan’s vulnerable water supply since 1960. Pakistan called it an act of war.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08india-pakistan-softpower-kfvh/08india-pakistan-softpower-kfvh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A view of the Uri-II hydroelectric project dam on the Jhelum River in the Indian portion Kashmir, which flows into the Pakistani part of Kashmir. In April, India pulled out of a river-sharing treaty that has safeguarded Pakistan’s vulnerable water supply since 1960. Pakistan called it an act of war.",
+                "copyright": "Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "New Film Names Soldier in Palestinian American Journalist’s Shooting",
+        "abstract": "After Shireen Abu Akleh was killed in the West Bank in 2022, the Israeli military never revealed the identity of the soldier who fired at her. A documentary said it had confirmed his name.",
+        "url": "https://www.nytimes.com/2025/05/08/world/middleeast/israel-soldier-shireen-abu-akleh-palestinian-american-journalist-shooting.html",
+        "uri": "nyt://article/f61bcc2d-7cfd-5fd2-a380-d84a74d93a4f",
+        "byline": "By Patrick Kingsley",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T06:59:53-04:00",
+        "created_date": "2025-05-08T06:59:53-04:00",
+        "published_date": "2025-05-08T06:59:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Defense and Military Forces",
+            "News and News Media",
+            "Palestinian-Americans"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Abu Akleh, Shireen"
+        ],
+        "geo_facet": [
+            "Jenin (West Bank)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-palestinian-journalist-01-pmbc/08int-palestinian-journalist-01-pmbc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The site of Shireen Abu Akleh’s fatal shooting in Jenin, the West Bank, in 2022. The killing of the U.S. citizen prompted the Biden administration to push Israel to more rigorously investigate her death. ",
+                "copyright": "Samar Hazboun for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-palestinian-journalist-01-pmbc/08int-palestinian-journalist-01-pmbc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The site of Shireen Abu Akleh’s fatal shooting in Jenin, the West Bank, in 2022. The killing of the U.S. citizen prompted the Biden administration to push Israel to more rigorously investigate her death. ",
+                "copyright": "Samar Hazboun for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-palestinian-journalist-01-pmbc/08int-palestinian-journalist-01-pmbc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The site of Shireen Abu Akleh’s fatal shooting in Jenin, the West Bank, in 2022. The killing of the U.S. citizen prompted the Biden administration to push Israel to more rigorously investigate her death. ",
+                "copyright": "Samar Hazboun for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
