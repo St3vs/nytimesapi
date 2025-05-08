@@ -75197,5 +75197,234 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Black Smoke Signals That Cardinals Still Haven’t Chosen a Pope",
+        "abstract": "Voting in the morning was inconclusive. The conclave will reconvene in the afternoon, with two more votes expected on Thursday, unless a pontiff is chosen in the first round after lunch.",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news",
+        "uri": "nyt://promo/bb7603d2-28a5-555b-8b70-3d1835177989",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-08T09:29:03-04:00",
+        "created_date": "2025-05-08T08:53:47-04:00",
+        "published_date": "2025-05-08T08:53:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-promo3-mvkw/08pope-conclave-promo3-mvkw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Emilio Morenatti/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-promo3-mvkw/08pope-conclave-promo3-mvkw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Emilio Morenatti/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-promo3-mvkw/08pope-conclave-promo3-mvkw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Emilio Morenatti/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "E.U. Unveils a Plan to Hit Back at the U.S. if Trade Negotiations Fail",
+        "abstract": "Boeing and big American food producers could end up in the cross-hairs if the bloc follows through on its threat to impose new tariffs on more American goods.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/eu-retaliatory-tariffs-trump-us.html",
+        "uri": "nyt://article/c30e2939-8d07-53bd-bbbe-e6f7d1d24fb7",
+        "byline": "By Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T09:26:52-04:00",
+        "created_date": "2025-05-08T08:13:38-04:00",
+        "published_date": "2025-05-08T08:13:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Protectionism (Trade)",
+            "International Trade and World Market"
+        ],
+        "org_facet": [
+            "European Union",
+            "World Trade Organization"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "von der Leyen, Ursula"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-EU-tariffs-gpwj/08int-EU-tariffs-gpwj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The E.U. has threatened to impose new tariffs on a range of American exports, including meat. ",
+                "copyright": "Lanna Apisukh for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-EU-tariffs-gpwj/08int-EU-tariffs-gpwj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The E.U. has threatened to impose new tariffs on a range of American exports, including meat. ",
+                "copyright": "Lanna Apisukh for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-EU-tariffs-gpwj/08int-EU-tariffs-gpwj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The E.U. has threatened to impose new tariffs on a range of American exports, including meat. ",
+                "copyright": "Lanna Apisukh for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "In Israel’s Demolition Path, West Bank Residents Pack Up Their Lives",
+        "abstract": "A monthslong Israeli military operation in the northern West Bank has displaced tens of thousands of people. Some are now learning they may not return.",
+        "url": "https://www.nytimes.com/2025/05/08/world/middleeast/israel-demolition-west-bank.html",
+        "uri": "nyt://article/d50301d1-273a-5ef0-840b-dd725c689076",
+        "byline": "By Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T09:23:43-04:00",
+        "created_date": "2025-05-08T09:23:43-04:00",
+        "published_date": "2025-05-08T09:23:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-photo",
+            "Demolition",
+            "Defense and Military Forces",
+            "Refugees and Displaced Persons",
+            "Palestinians"
+        ],
+        "org_facet": [
+            "Palestinian Authority"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Israel",
+            "Tulkarm (West Bank)",
+            "West Bank"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-westbank-Tulkarm-01-jvlz/06int-westbank-Tulkarm-01-jvlz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Nasser Nasser/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-westbank-Tulkarm-01-jvlz/06int-westbank-Tulkarm-01-jvlz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Nasser Nasser/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/06int-westbank-Tulkarm-01-jvlz/06int-westbank-Tulkarm-01-jvlz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Nasser Nasser/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Here are 7 key issues dividing the Roman Catholic Church.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/here-are-7-key-issues-dividing-the-roman-catholic-church",
+        "uri": "nyt://article/ff2fa780-0bb2-56a0-ad84-a8bcb1b18e72",
+        "byline": "By Motoko Rich",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T09:18:08-04:00",
+        "created_date": "2025-05-08T09:18:08-04:00",
+        "published_date": "2025-05-08T09:18:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/07pope-conclave-challenges-version/03conclave-challenges-explainer-1-qwlg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals in Vatican City after the death of Pope Francis. A conclave to choose his successor is to start on Wednesday.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/07pope-conclave-challenges-version/03conclave-challenges-explainer-1-qwlg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals in Vatican City after the death of Pope Francis. A conclave to choose his successor is to start on Wednesday.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/03/multimedia/07pope-conclave-challenges-version/03conclave-challenges-explainer-1-qwlg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinals in Vatican City after the death of Pope Francis. A conclave to choose his successor is to start on Wednesday.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
