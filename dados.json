@@ -73878,5 +73878,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "The Indian Aircraft Pakistan Says It Shot Down",
+        "abstract": "Tensions between India and Pakistan have risen sharply in the weeks since a terrorist attack in Kashmir. On Wednesday, India hit Pakistan and appears to have lost at least a few planes in the strike.",
+        "url": "https://www.nytimes.com/2025/05/07/world/asia/india-pakistan-downed-aircraft.html",
+        "uri": "nyt://article/095426b9-8ebf-5f33-a028-2eb2f5059459",
+        "byline": "By Eve Sampson",
+        "item_type": "Article",
+        "updated_date": "2025-05-07T21:28:31-04:00",
+        "created_date": "2025-05-07T19:39:22-04:00",
+        "published_date": "2025-05-07T19:39:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Airlines and Airplanes",
+            "Drones (Pilotless Planes)",
+            "Military Aircraft",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07india-aircraft-1-bgcf/07india-aircraft-1-bgcf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Debris of an aircraft sitting in the Pulwama district of Indian-controlled Kashmir, on Wednesday.",
+                "copyright": "Dar Yasin/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07india-aircraft-1-bgcf/07india-aircraft-1-bgcf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Debris of an aircraft sitting in the Pulwama district of Indian-controlled Kashmir, on Wednesday.",
+                "copyright": "Dar Yasin/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07india-aircraft-1-bgcf/07india-aircraft-1-bgcf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Debris of an aircraft sitting in the Pulwama district of Indian-controlled Kashmir, on Wednesday.",
+                "copyright": "Dar Yasin/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
