@@ -75594,5 +75594,235 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Expectant Crowd Grows as Cardinals Deliberate Over Next Pope",
+        "abstract": "Black smoke above the Sistine Chapel signaled that balloting in the morning was inconclusive. The conclave is expected to resume voting on Thursday afternoon.",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news",
+        "uri": "nyt://promo/bb7603d2-28a5-555b-8b70-3d1835177989",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-08T11:19:13-04:00",
+        "created_date": "2025-05-08T08:53:47-04:00",
+        "published_date": "2025-05-08T08:53:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-1100-cptv/08pope-1100-cptv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Franco Origlia/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-1100-cptv/08pope-1100-cptv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Franco Origlia/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-1100-cptv/08pope-1100-cptv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Franco Origlia/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Putin and Xi Rebuke U.S. and Vow to Strengthen Ties",
+        "abstract": "The two leaders, meeting in Moscow, rejected what they described as Washington’s attempt to contain them. They also hailed their friendship.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/putin-xi-meeting-trump.html",
+        "uri": "nyt://article/152d2a59-99b3-5d3a-86ff-5524eb05be0a",
+        "byline": "By Paul Sonne and David Pierson",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T10:32:53-04:00",
+        "created_date": "2025-05-08T06:19:48-04:00",
+        "published_date": "2025-05-08T06:19:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "International Relations",
+            "World War II (1939-45)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-russia-china-zpvt/08int-russia-china-zpvt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Vladimir V. Putin of Russia, right, and Xi Jinping, China’s leader, at the Kremlin on Thursday.",
+                "copyright": "Pool photo by Yuri Kochetkov"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-russia-china-zpvt/08int-russia-china-zpvt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Vladimir V. Putin of Russia, right, and Xi Jinping, China’s leader, at the Kremlin on Thursday.",
+                "copyright": "Pool photo by Yuri Kochetkov"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-russia-china-zpvt/08int-russia-china-zpvt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Vladimir V. Putin of Russia, right, and Xi Jinping, China’s leader, at the Kremlin on Thursday.",
+                "copyright": "Pool photo by Yuri Kochetkov"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The Sistine Chapel hasn’t always been home to the conclave.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/the-sistine-chapel-hasnt-always-been-home-to-the-conclave",
+        "uri": "nyt://article/4ebc16f1-f5eb-5a6e-ba3c-b29dd5401ca5",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T10:50:29-04:00",
+        "created_date": "2025-05-08T10:50:29-04:00",
+        "published_date": "2025-05-08T10:50:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-sistine-history1/08pope-conclave-sistine-history1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1413,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Sistine Chapel in 1939, when it was set up for the conclave that elected Pope Pius XII.",
+                "copyright": "Luigi Felici/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-sistine-history1/08pope-conclave-sistine-history1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Sistine Chapel in 1939, when it was set up for the conclave that elected Pope Pius XII.",
+                "copyright": "Luigi Felici/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-sistine-history1/08pope-conclave-sistine-history1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Sistine Chapel in 1939, when it was set up for the conclave that elected Pope Pius XII.",
+                "copyright": "Luigi Felici/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Denmark Outraged by Report of Increased Spying in Greenland",
+        "abstract": "Officials summoned the American ambassador to express its displeasure after the Trump Administration was said be ratcheting up surveillance.",
+        "url": "https://www.nytimes.com/2025/05/08/world/asia/denmark-greenland-us-consulate-spying.html",
+        "uri": "nyt://article/c193b1d3-ba0b-5739-be73-0304bc0de45d",
+        "byline": "By Jeffrey Gettleman and Maya Tekeli",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T10:24:18-04:00",
+        "created_date": "2025-05-08T10:17:13-04:00",
+        "published_date": "2025-05-08T10:17:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Diplomatic Service, Embassies and Consulates",
+            "United States International Relations",
+            "Espionage and Intelligence Services"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Rasmussen, Lars Lokke"
+        ],
+        "geo_facet": [
+            "Greenland",
+            "Denmark",
+            "United States",
+            "Nuuk (Greenland)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-denmark-greenland-us-ctvm/08int-denmark-greenland-us-ctvm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lars Lokke Rasmussen, Denmark’s foreign minister, who summoned the U.S. ambassador to express his anger over reports of spying. ",
+                "copyright": "EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-denmark-greenland-us-ctvm/08int-denmark-greenland-us-ctvm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lars Lokke Rasmussen, Denmark’s foreign minister, who summoned the U.S. ambassador to express his anger over reports of spying. ",
+                "copyright": "EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-denmark-greenland-us-ctvm/08int-denmark-greenland-us-ctvm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lars Lokke Rasmussen, Denmark’s foreign minister, who summoned the U.S. ambassador to express his anger over reports of spying. ",
+                "copyright": "EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
     }
 ]
