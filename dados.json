@@ -74425,5 +74425,247 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Putin and Xi Present a United Front as They Face an Unpredictable Trump",
+        "abstract": "The two leaders, meeting in Moscow, hailed their alliance a day ahead of commemorative events to mark the end of World War II.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/putin-and-xi-present-a-united-front-as-they-face-an-unpredictable-trump.html",
+        "uri": "nyt://article/152d2a59-99b3-5d3a-86ff-5524eb05be0a",
+        "byline": "By Paul Sonne and David Pierson",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T06:19:48-04:00",
+        "created_date": "2025-05-08T06:19:48-04:00",
+        "published_date": "2025-05-08T06:19:48-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "International Relations",
+            "World War II (1939-45)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-russia-china-zpvt/08int-russia-china-zpvt-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Vladimir V. Putin of Russia and Xi Jinping, China’s leader, at the Kremlin on Thursday.",
+                "copyright": "Pool photo by Yuri Kochetkov"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-russia-china-zpvt/08int-russia-china-zpvt-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Vladimir V. Putin of Russia and Xi Jinping, China’s leader, at the Kremlin on Thursday.",
+                "copyright": "Pool photo by Yuri Kochetkov"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-russia-china-zpvt/08int-russia-china-zpvt-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Vladimir V. Putin of Russia and Xi Jinping, China’s leader, at the Kremlin on Thursday.",
+                "copyright": "Pool photo by Yuri Kochetkov"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Victory Day in Russian-Occupied Ukraine: A Muted Celebration",
+        "abstract": "Events to mark the holiday in the occupied territories seem to be an effort to show Russian control of land it has captured.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/russia-ukraine-victory-day-ww2.html",
+        "uri": "nyt://article/2b4e8ea5-7655-5eb3-8606-aa9af87bb64d",
+        "byline": "By Kim Barker",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T05:54:40-04:00",
+        "created_date": "2025-05-08T05:54:40-04:00",
+        "published_date": "2025-05-08T05:54:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "World War II (1939-45)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V"
+        ],
+        "geo_facet": [
+            "Bakhmut (Ukraine)",
+            "Donetsk (Ukraine)",
+            "Melitopol (Ukraine)",
+            "Moscow (Russia)",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-ukraine-occupied-victory-zmfl/08int-ukraine-occupied-victory-zmfl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A World War II veteran at a parade on Wednesday in Pelahiivka, a village in the Russian-occupied Donetsk region of Ukraine, celebrating the 80th anniversary of the victory over Nazi Germany.",
+                "copyright": "Alexander Ermochenko/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-ukraine-occupied-victory-zmfl/08int-ukraine-occupied-victory-zmfl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A World War II veteran at a parade on Wednesday in Pelahiivka, a village in the Russian-occupied Donetsk region of Ukraine, celebrating the 80th anniversary of the victory over Nazi Germany.",
+                "copyright": "Alexander Ermochenko/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-ukraine-occupied-victory-zmfl/08int-ukraine-occupied-victory-zmfl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A World War II veteran at a parade on Wednesday in Pelahiivka, a village in the Russian-occupied Donetsk region of Ukraine, celebrating the 80th anniversary of the victory over Nazi Germany.",
+                "copyright": "Alexander Ermochenko/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A convent asks people to spiritually adopt a voting cardinal.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/a-convent-asks-people-to-spiritually-adopt-a-voting-cardinal",
+        "uri": "nyt://article/b3393467-887a-5074-98a5-233e169101e2",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T05:45:17-04:00",
+        "created_date": "2025-05-08T05:45:17-04:00",
+        "published_date": "2025-05-08T05:45:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-nuns-gtwp/08pope-nuns-gtwp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On a convent’s website, people can pick a cardinal to support with prayer in the election of the pope.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-nuns-gtwp/08pope-nuns-gtwp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On a convent’s website, people can pick a cardinal to support with prayer in the election of the pope.",
+                "copyright": "James Hill for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-nuns-gtwp/08pope-nuns-gtwp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "On a convent’s website, people can pick a cardinal to support with prayer in the election of the pope.",
+                "copyright": "James Hill for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A Tricky Challenge for Germany’s New Government: a Far-Right Opposition",
+        "abstract": "Chancellor Friedrich Merz’s coalition is weighing how to confront the Alternative for Germany party, which has been rising in the polls.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/a-tricky-challenge-for-germanys-new-government-a-far-right-opposition.html",
+        "uri": "nyt://article/44d0e978-02fa-5e54-ac4b-9385636d2d0e",
+        "byline": "By Clay Risen",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T05:41:22-04:00",
+        "created_date": "2025-05-08T05:41:22-04:00",
+        "published_date": "2025-05-08T05:41:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Right-Wing Extremism and Alt-Right",
+            "Politics and Government",
+            "Legislatures and Parliaments"
+        ],
+        "org_facet": [
+            "Alternative for Germany",
+            "Christian Democratic Union (Germany)",
+            "Social Democratic Party (Germany)"
+        ],
+        "per_facet": [
+            "Merz, Friedrich"
+        ],
+        "geo_facet": [
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/00int-germany-afd-01-zlcg/00int-germany-afd-01-zlcg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The German Parliament on Tuesday after Friedrich Merz was sworn in as chancellor.",
+                "copyright": "Tobias Schwarz/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/00int-germany-afd-01-zlcg/00int-germany-afd-01-zlcg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The German Parliament on Tuesday after Friedrich Merz was sworn in as chancellor.",
+                "copyright": "Tobias Schwarz/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/00int-germany-afd-01-zlcg/00int-germany-afd-01-zlcg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The German Parliament on Tuesday after Friedrich Merz was sworn in as chancellor.",
+                "copyright": "Tobias Schwarz/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
