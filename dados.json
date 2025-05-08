@@ -74133,5 +74133,114 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "No phones, no internet: The cardinals vote in extreme secrecy.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/pope-vote-secret-technology-banned-security",
+        "uri": "nyt://article/6648c396-64b0-5fde-b55e-f449673e3864",
+        "byline": "By Bernhard Warner",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T01:29:02-04:00",
+        "created_date": "2025-05-08T01:29:02-04:00",
+        "published_date": "2025-05-08T01:29:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-vote-security-pjzm/07pope-conclave-vote-security-pjzm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The process of selecting a new pope, which takes place in the Sistine Chapel, is intended to be leakproof.",
+                "copyright": "Dimitar Dilkoff/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-vote-security-pjzm/07pope-conclave-vote-security-pjzm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The process of selecting a new pope, which takes place in the Sistine Chapel, is intended to be leakproof.",
+                "copyright": "Dimitar Dilkoff/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-vote-security-pjzm/07pope-conclave-vote-security-pjzm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The process of selecting a new pope, which takes place in the Sistine Chapel, is intended to be leakproof.",
+                "copyright": "Dimitar Dilkoff/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How Long Will the Conclave Take?",
+        "abstract": "There is no formal time limit for cardinals to elect a pope. Past papal selections have lasted from a few hours to three years.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/pope-conclave-how-long.html",
+        "uri": "nyt://article/4225ea27-7d80-5e9b-8225-200b0ff2e641",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T01:49:42-04:00",
+        "created_date": "2025-05-08T01:29:01-04:00",
+        "published_date": "2025-05-08T01:29:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Clergy"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/world/conclave-length-promo/conclave-length-promo-superJumbo.png",
+                "format": "Super Jumbo",
+                "height": 804,
+                "width": 1205,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Josh Holder"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/world/conclave-length-promo/conclave-length-promo-threeByTwoSmallAt2X.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 401,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Josh Holder"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/world/conclave-length-promo/conclave-length-promo-thumbLarge.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Josh Holder"
+            }
+        ],
+        "short_url": ""
     }
 ]
