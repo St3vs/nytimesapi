@@ -76877,5 +76877,410 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Robert Francis Prevost, Now Leo XIV, Is First American Pope",
+        "abstract": "Cardinal Prevost was elected pontiff on the second day of the conclave, becoming the leader of 1.4 billion Roman Catholics. He greeted his new followers by saying, “Peace be with you.”",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news",
+        "uri": "nyt://promo/bb7603d2-28a5-555b-8b70-3d1835177989",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-08T16:20:11-04:00",
+        "created_date": "2025-05-08T08:53:47-04:00",
+        "published_date": "2025-05-08T08:53:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-400-mqzh/08pope-400-mqzh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-400-mqzh/08pope-400-mqzh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-400-mqzh/08pope-400-mqzh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Chelsea F.C. Ends Inquiry Into Bullying Allegations Without Sharing Findings",
+        "abstract": "The Premier League soccer team had committed to overhauling its culture, but employees are still looking for an acknowledgment of remorse.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/chelsea-premier-league-bullying-investigation.html",
+        "uri": "nyt://article/d1a0095b-3e2a-5452-bdb7-a4e92585f6a6",
+        "byline": "By Tariq Panja",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T15:28:26-04:00",
+        "created_date": "2025-05-08T15:28:26-04:00",
+        "published_date": "2025-05-08T15:28:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Soccer",
+            "Workplace Hazards and Violations",
+            "Workplace Environment"
+        ],
+        "org_facet": [
+            "Chelsea (Soccer Team)",
+            "English Premier League"
+        ],
+        "per_facet": [
+            "Bignell, Richard"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-chelsea-review-qcgl/08int-chelsea-review-qcgl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Stamford Bridge, Chelsea’s stadium, in London. Accounts of workplace bullying in the team’s marketing department were revealed in The New York Times in 2022.",
+                "copyright": "Henry Nicholls/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-chelsea-review-qcgl/08int-chelsea-review-qcgl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Stamford Bridge, Chelsea’s stadium, in London. Accounts of workplace bullying in the team’s marketing department were revealed in The New York Times in 2022.",
+                "copyright": "Henry Nicholls/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-chelsea-review-qcgl/08int-chelsea-review-qcgl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Stamford Bridge, Chelsea’s stadium, in London. Accounts of workplace bullying in the team’s marketing department were revealed in The New York Times in 2022.",
+                "copyright": "Henry Nicholls/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "",
+        "title": "A Path to Papacy: Leo XIV Over the Years",
+        "abstract": "Cardinal Robert Francis Prevost was born in Chicago and gradually rose through the ranks of the Roman Catholic Church.",
+        "url": "https://www.nytimes.com/2025/05/08/world/pope-leo-xiv-timeline.html",
+        "uri": "nyt://article/291fa5d0-a71b-5f9e-98f1-fbe8fbc32617",
+        "byline": "By Eve Sampson",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T16:18:19-04:00",
+        "created_date": "2025-05-08T16:18:19-04:00",
+        "published_date": "2025-05-08T16:18:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/08int-pope-timeline/04POPE-PREVOST-PRINT-hbjm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Robert Francis Prevost at the Vatican in March.",
+                "copyright": "Christopher Furlong/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/08int-pope-timeline/04POPE-PREVOST-PRINT-hbjm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Robert Francis Prevost at the Vatican in March.",
+                "copyright": "Christopher Furlong/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/04/multimedia/08int-pope-timeline/08int-pope-timeline-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Robert Francis Prevost at the Vatican in March.",
+                "copyright": "Christopher Furlong/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "‘JD Vance Is Wrong’: The Pope Appears Uneasy With Trump Immigration Policies",
+        "abstract": "Before Cardinal Robert Francis Prevost became pope, a social media account under his name shared criticisms of the Trump administration’s positions on immigration.",
+        "url": "https://www.nytimes.com/2025/05/08/us/politics/jd-vance-pope-leo-xiv.html",
+        "uri": "nyt://article/781c3b1b-454b-5259-a17c-ecde44d12912",
+        "byline": "By Lisa Lerer",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T16:06:11-04:00",
+        "created_date": "2025-05-08T16:01:04-04:00",
+        "published_date": "2025-05-08T16:01:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Popes",
+            "Deportation"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Vance, J D",
+            "Leo XIV"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-vance-top-qbtj/08pope-conclave-vance-top-qbtj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vice President JD Vance in Rome to meet with Pope Francis last month.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-vance-top-qbtj/08pope-conclave-vance-top-qbtj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vice President JD Vance in Rome to meet with Pope Francis last month.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-vance-top-qbtj/08pope-conclave-vance-top-qbtj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vice President JD Vance in Rome to meet with Pope Francis last month.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "Americans Burst With Pride, and Surprise, at the First Pope From the U.S.",
+        "abstract": "Across the country, Catholics and non-Catholics alike greeted Chicago-born Pope Leo XIV with reverence and satisfaction.",
+        "url": "https://www.nytimes.com/2025/05/08/us/pope-leo-xiv-american-catholics-chicago.html",
+        "uri": "nyt://article/0b3d1294-f766-5e48-bbd6-6559acb1ce27",
+        "byline": "By Jack Healy, Julie Bosman and Kate Selig",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T16:19:43-04:00",
+        "created_date": "2025-05-08T15:48:25-04:00",
+        "published_date": "2025-05-08T15:48:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08nat-pope-usreax-tpqb/08nat-pope-usreax-tpqb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A television at a restaurant in Cincinnati showed the announcement of the new pope.",
+                "copyright": "Carolyn Kaster/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08nat-pope-usreax-tpqb/08nat-pope-usreax-tpqb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A television at a restaurant in Cincinnati showed the announcement of the new pope.",
+                "copyright": "Carolyn Kaster/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08nat-pope-usreax-tpqb/08nat-pope-usreax-tpqb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A television at a restaurant in Cincinnati showed the announcement of the new pope.",
+                "copyright": "Carolyn Kaster/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "",
+        "title": "For the faithful in St. Peter’s Square, confusion and shock gave way to relief.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/for-the-faithful-in-st-peters-square-confusion-and-shock-gave-way-to-relief",
+        "uri": "nyt://article/28300b4f-d9e4-5157-a9a9-110b04dd59db",
+        "byline": "By Patricia Mazzei",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T15:43:53-04:00",
+        "created_date": "2025-05-08T15:43:53-04:00",
+        "published_date": "2025-05-08T15:43:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-scene-square1-ltbh/08pope-conclave-scene-square1-ltbh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People in St. Peter’s Square watching a screen as Pope Leo XIV appeared on the balcony of St. Peter’s Basilica on Thursday.",
+                "copyright": "Alkis Konstantinidis/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-scene-square1-ltbh/08pope-conclave-scene-square1-ltbh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People in St. Peter’s Square watching a screen as Pope Leo XIV appeared on the balcony of St. Peter’s Basilica on Thursday.",
+                "copyright": "Alkis Konstantinidis/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-scene-square1-ltbh/08pope-conclave-scene-square1-ltbh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People in St. Peter’s Square watching a screen as Pope Leo XIV appeared on the balcony of St. Peter’s Basilica on Thursday.",
+                "copyright": "Alkis Konstantinidis/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Read the Full Transcript of Pope Leo XIV’s First Speech",
+        "abstract": "The remarks, delivered in Italian and Spanish, were made from the balcony of St. Peter’s Basilica.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/pope-leo-xiv-speech-transcript.html",
+        "uri": "nyt://article/4dc073cf-6ec5-5afa-b544-027eaa41a7f4",
+        "byline": "",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T16:20:10-04:00",
+        "created_date": "2025-05-08T15:25:39-04:00",
+        "published_date": "2025-05-08T15:25:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Speeches and Statements"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV"
+        ],
+        "geo_facet": [
+            "Rome (Italy)",
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-speech-text-kfmv/08pope-conclave-speech-text-kfmv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV speaking for the first time on Thursday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-speech-text-kfmv/08pope-conclave-speech-text-kfmv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV speaking for the first time on Thursday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-speech-text-kfmv/08pope-conclave-speech-text-kfmv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV speaking for the first time on Thursday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
