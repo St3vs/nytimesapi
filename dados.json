@@ -74358,5 +74358,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Russia’s Military Show of Strength Masks Economic and Diplomatic Cracks",
+        "abstract": "The annual Moscow parade marking victory over Nazi Germany is expected to be the largest in years, with world leaders in attendance, as the Kremlin tries to link that triumph to the war in Ukraine.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/russia-military-parade.html",
+        "uri": "nyt://article/432cbca3-5fee-5732-a1bc-9e5ed96e1485",
+        "byline": "By Anatoly Kurmanaev",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T05:03:36-04:00",
+        "created_date": "2025-05-08T05:03:36-04:00",
+        "published_date": "2025-05-08T05:03:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Embargoes and Sanctions",
+            "Defense and Military Forces",
+            "World War II (1939-45)",
+            "International Trade and World Market",
+            "Oil (Petroleum) and Gasoline"
+        ],
+        "org_facet": [
+            "North Atlantic Treaty Organization"
+        ],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08russia-putin-01-mvwh/08russia-putin-01-mvwh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1416,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Under a billboard saying “We remember,” spectators watched military vehicles practice for the Victory Day parade in Moscow on Wednesday.",
+                "copyright": "Anton Vaganov/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08russia-putin-01-mvwh/08russia-putin-01-mvwh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Under a billboard saying “We remember,” spectators watched military vehicles practice for the Victory Day parade in Moscow on Wednesday.",
+                "copyright": "Anton Vaganov/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08russia-putin-01-mvwh/08russia-putin-01-mvwh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Under a billboard saying “We remember,” spectators watched military vehicles practice for the Victory Day parade in Moscow on Wednesday.",
+                "copyright": "Anton Vaganov/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
