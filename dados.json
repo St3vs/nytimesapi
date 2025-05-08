@@ -77282,5 +77282,109 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Friday Briefing: The First American Pope",
+        "abstract": "Plus, Tate Modern turns 25.",
+        "url": "https://www.nytimes.com/2025/05/08/briefing/american-pope-prevost-us-uk-trade-india-pakistan-conflict.html",
+        "uri": "nyt://article/c30b0598-c05b-50df-91f6-4939744d7133",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T17:01:11-04:00",
+        "created_date": "2025-05-08T17:01:11-04:00",
+        "published_date": "2025-05-08T17:01:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09ambriefing-asia-pope-pcbz/09ambriefing-asia-pope-pcbz-superJumbo-v3.jpg",
+                "format": "Super Jumbo",
+                "height": 2047,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV appeared on the balcony of St. Peter’s Basilica, yesterday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09ambriefing-asia-pope-pcbz/09ambriefing-asia-pope-pcbz-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV appeared on the balcony of St. Peter’s Basilica, yesterday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09ambriefing-asia-pope-pcbz/09ambriefing-asia-pope-pcbz-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV appeared on the balcony of St. Peter’s Basilica, yesterday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A fact sheet on the first American pope, Leo XIV.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/a-fact-sheet-on-the-first-american-pope-leo-xiv",
+        "uri": "nyt://article/ad702034-4731-5b94-904a-79fe3ee7595e",
+        "byline": "By Tim Balk",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T16:38:32-04:00",
+        "created_date": "2025-05-08T16:38:32-04:00",
+        "published_date": "2025-05-08T16:38:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-prevost-wtk-lhgb/08pope-conclave-prevost-wtk-lhgb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV is the first American pope.",
+                "copyright": "Guglielmo Mangiapane/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-prevost-wtk-lhgb/08pope-conclave-prevost-wtk-lhgb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV is the first American pope.",
+                "copyright": "Guglielmo Mangiapane/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-prevost-wtk-lhgb/08pope-conclave-prevost-wtk-lhgb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV is the first American pope.",
+                "copyright": "Guglielmo Mangiapane/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
