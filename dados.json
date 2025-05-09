@@ -78517,5 +78517,57 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Pope Leo XIV overcame an old taboo: Being American.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/09/world/pope-leo-xiv-news/pope-leo-xiv-overcame-an-old-taboo-being-american",
+        "uri": "nyt://article/cf386b74-2a17-5c6d-ad52-73909a0c5f86",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T04:00:04-04:00",
+        "created_date": "2025-05-09T04:00:04-04:00",
+        "published_date": "2025-05-09T04:00:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-candidate-version-cghm/09pope-blog-candidate-version-cghm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Robert Francis Prevost, now Pope Leo XIV, accepting his election as 267th head of Roman Catholic Church, appearing on the central balcony of St Peter’s Basilica, on Thursday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-candidate-version-cghm/09pope-blog-candidate-version-cghm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Robert Francis Prevost, now Pope Leo XIV, accepting his election as 267th head of Roman Catholic Church, appearing on the central balcony of St Peter’s Basilica, on Thursday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-candidate-version-cghm/09pope-blog-candidate-version-cghm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Robert Francis Prevost, now Pope Leo XIV, accepting his election as 267th head of Roman Catholic Church, appearing on the central balcony of St Peter’s Basilica, on Thursday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
