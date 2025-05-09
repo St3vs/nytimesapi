@@ -78045,5 +78045,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "‘I Was Stunned’: Watching From Illinois, Pope’s Brother Reflects on History",
+        "abstract": "From his home in suburban Chicago, one of the pope’s brothers described Leo as “middle of the road” but not afraid to speak his mind.",
+        "url": "https://www.nytimes.com/2025/05/08/world/europe/pope-leo-xiv-brother-john-prevost.html",
+        "uri": "nyt://article/5670e219-b52e-5173-8883-b476c71adb8a",
+        "byline": "By Robert Chiarito and Mitch Smith",
+        "item_type": "Article",
+        "updated_date": "2025-05-08T22:49:26-04:00",
+        "created_date": "2025-05-08T22:11:49-04:00",
+        "published_date": "2025-05-08T22:11:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Roman Catholic Church",
+            "United States Conference of Catholic Bishops",
+            "Chicago White Sox"
+        ],
+        "per_facet": [
+            "Leo XIV"
+        ],
+        "geo_facet": [
+            "Chicago (Ill)",
+            "Peru",
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-john-prevost-top-mfhc/08pope-conclave-john-prevost-top-mfhc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John Prevost, a brother of Pope Leo XIV, holding a portrait of him and his two brothers from 1958 outside his home in New Lenox, Ill., on Thursday.",
+                "copyright": "John J. Kim/Chicago Tribune, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-john-prevost-top-mfhc/08pope-conclave-john-prevost-top-mfhc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John Prevost, a brother of Pope Leo XIV, holding a portrait of him and his two brothers from 1958 outside his home in New Lenox, Ill., on Thursday.",
+                "copyright": "John J. Kim/Chicago Tribune, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-john-prevost-top-mfhc/08pope-conclave-john-prevost-top-mfhc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "John Prevost, a brother of Pope Leo XIV, holding a portrait of him and his two brothers from 1958 outside his home in New Lenox, Ill., on Thursday.",
+                "copyright": "John J. Kim/Chicago Tribune, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
