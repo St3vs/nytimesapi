@@ -78963,5 +78963,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Trump Threatens More Sanctions on Russia if It Does Not Agree to an Extended Truce",
+        "abstract": "President Trump made his threat in a post on Truth Social that came after a phone call with President Volodymyr Zelensky of Ukraine.",
+        "url": "https://www.nytimes.com/2025/05/09/world/europe/ukraine-russia-zelensky-trump-peace-talks.html",
+        "uri": "nyt://article/5af2e399-413b-522b-8e56-79efe6d95e4b",
+        "byline": "By Andrew E. Kramer",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T06:54:34-04:00",
+        "created_date": "2025-05-09T06:28:36-04:00",
+        "published_date": "2025-05-09T06:28:36-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-ukraine-talks-qmtj/09int-ukraine-talks-qmtj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene where a two-story apartment building was destroyed by a Russian ballistic missile, in April.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-ukraine-talks-qmtj/09int-ukraine-talks-qmtj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene where a two-story apartment building was destroyed by a Russian ballistic missile, in April.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-ukraine-talks-qmtj/09int-ukraine-talks-qmtj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The scene where a two-story apartment building was destroyed by a Russian ballistic missile, in April.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
