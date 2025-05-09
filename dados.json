@@ -80820,5 +80820,114 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "India-Pakistan Enter Third Night of Conflict Amid Efforts at Peace",
+        "abstract": "Both countries accused each other of aiming attacks at territories well beyond their disputed Kashmir border. As night fell late Friday, India reported heavy drone incursions in the country’s north.",
+        "url": "https://www.nytimes.com/live/2025/05/09/world/india-pakistan-kashmir",
+        "uri": "nyt://promo/e6f32c70-ee28-53c1-ac75-90e9e8a3de15",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-09T16:16:40-04:00",
+        "created_date": "2025-05-09T08:31:14-04:00",
+        "published_date": "2025-05-09T08:31:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-200-bchg/09india-200-bchg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Shakil Adil/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-200-bchg/09india-200-bchg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Shakil Adil/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-200-bchg/09india-200-bchg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Shakil Adil/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Leo XIV’s first words set a pastoral tone, acknowledging tradition.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/09/world/pope-leo-xiv-news/leo-xivs-first-words-set-a-pastoral-tone-acknowledging-tradition",
+        "uri": "nyt://article/26ae0204-a37a-5b6f-9933-61e095c66ac5",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T15:50:14-04:00",
+        "created_date": "2025-05-09T15:29:52-04:00",
+        "published_date": "2025-05-09T15:29:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV",
+            "John XXIII"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-first-address-01-gtpb/09pope-blog-first-address-01-gtpb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV spoke from the balcony of St. Peter’s Basilica for the first time on Thursday. ",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-first-address-01-gtpb/09pope-blog-first-address-01-gtpb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV spoke from the balcony of St. Peter’s Basilica for the first time on Thursday. ",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-first-address-01-gtpb/09pope-blog-first-address-01-gtpb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV spoke from the balcony of St. Peter’s Basilica for the first time on Thursday. ",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
