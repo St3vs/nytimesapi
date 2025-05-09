@@ -78569,5 +78569,192 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "After the Blast",
+        "abstract": "Exploring a photograph of the aftermath of a deadly airstrike at a Gaza City restaurant.",
+        "url": "https://www.nytimes.com/2025/05/09/world/middleeast/after-the-blast.html",
+        "uri": "nyt://article/974af630-63e7-5e6d-ae30-e547cd469999",
+        "byline": "By Saher Alghorra",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T05:02:09-04:00",
+        "created_date": "2025-05-09T05:02:09-04:00",
+        "published_date": "2025-05-09T05:02:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "vis-photo",
+            "Israel-Gaza War (2023- )",
+            "Civilian Casualties",
+            "Deaths (Fatalities)",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/world/09gaza-oneimage-promo/09gaza-oneimage-promo-superJumbo-v2.png",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1620,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/world/09gaza-oneimage-promo/09gaza-oneimage-promo-threeByTwoSmallAt2X-v2.png",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/world/09gaza-oneimage-promo/09gaza-oneimage-promo-thumbLarge-v2.png",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Britain’s Roller-Coaster Ride to a Trade Deal With Trump",
+        "abstract": "At times during weeks of thorny negotiations, the efforts of Prime Minister Keir Starmer’s government seemed destined to fail.",
+        "url": "https://www.nytimes.com/2025/05/09/world/europe/uk-trade-deal-tariffs-trump-starmer.html",
+        "uri": "nyt://article/bf2ec53a-3a85-5170-b244-dd644147e378",
+        "byline": "By Mark Landler",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T05:14:30-04:00",
+        "created_date": "2025-05-09T05:01:38-04:00",
+        "published_date": "2025-05-09T05:01:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Starmer, Keir",
+            "Trump, Donald J",
+            "Darroch, Kim (1954- )",
+            "Charles III, King of the United Kingdom"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-uk-trade-fbwz/09int-uk-trade-fbwz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain, center, discussed over the phone a trade deal with President Donald J. Trump, at a car factory in the West Midlands, England on Thursday.",
+                "copyright": "Pool photo by Alberto Pezzali"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-uk-trade-fbwz/09int-uk-trade-fbwz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain, center, discussed over the phone a trade deal with President Donald J. Trump, at a car factory in the West Midlands, England on Thursday.",
+                "copyright": "Pool photo by Alberto Pezzali"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-uk-trade-fbwz/09int-uk-trade-fbwz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain, center, discussed over the phone a trade deal with President Donald J. Trump, at a car factory in the West Midlands, England on Thursday.",
+                "copyright": "Pool photo by Alberto Pezzali"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Amid Blockade, Trump and Israel Mull Divisive Aid Plan For Gaza",
+        "abstract": "Two months after Israel blocked all aid to Gaza, U.S. and Israeli officials are considering a new food distribution plan. The U.N. says it is unworkable.",
+        "url": "https://www.nytimes.com/2025/05/09/world/middleeast/gaza-aid-us-israel.html",
+        "uri": "nyt://article/4ba3bebd-3d7b-5ce0-a329-dc3ae2601312",
+        "byline": "By Patrick Kingsley, Ronen Bergman, Natan Odenheimer, Aaron Boxerman, Maggie Haberman and Saher Alghorra",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T04:44:56-04:00",
+        "created_date": "2025-05-09T04:44:56-04:00",
+        "published_date": "2025-05-09T04:44:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Humanitarian Aid",
+            "Israel-Gaza War (2023- )",
+            "Palestinians",
+            "United States International Relations",
+            "Food Insecurity"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08gaza-aid-1-jcvf/08gaza-aid-1-jcvf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Food distribution in Jabaliya, in the northern Gaza Strip, last month.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08gaza-aid-1-jcvf/08gaza-aid-1-jcvf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Food distribution in Jabaliya, in the northern Gaza Strip, last month.",
+                "copyright": ""
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08gaza-aid-1-jcvf/08gaza-aid-1-jcvf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Food distribution in Jabaliya, in the northern Gaza Strip, last month.",
+                "copyright": ""
+            }
+        ],
+        "short_url": ""
     }
 ]
