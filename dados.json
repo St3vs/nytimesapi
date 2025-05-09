@@ -80170,5 +80170,125 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "El Salvador Put Trump Deportees Behind Bars. Now Their Families are Suing.",
+        "abstract": "A lawsuit filed with the Inter-American Commission of Human Rights seeks the release of Venezuelan migrants deported from the United States and jailed in a notorious Salvadoran prison.",
+        "url": "https://www.nytimes.com/2025/05/09/world/americas/el-salvador-trump-deportees-lawsuit.html",
+        "uri": "nyt://article/feaed6ae-4432-560b-9a59-f671c5a8568b",
+        "byline": "By Emiliano Rodríguez Mega",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T12:35:58-04:00",
+        "created_date": "2025-05-09T12:32:46-04:00",
+        "published_date": "2025-05-09T12:32:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Illegal Immigration",
+            "Suits and Litigation (Civil)",
+            "United States International Relations",
+            "Prisons and Prisoners",
+            "Human Rights and Human Rights Violations"
+        ],
+        "org_facet": [
+            "Tren de Aragua (Gang)"
+        ],
+        "per_facet": [
+            "Bukele, Nayib",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-elsalvador-lawsuit-khfl/09int-elsalvador-lawsuit-khfl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People hold a poster that reads, “Freedom to the Venezuelan migrants kidnapped in El Salvador,” during a protest, in San Salvador, El Salvador in March.",
+                "copyright": "Jose Cabezas/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-elsalvador-lawsuit-khfl/09int-elsalvador-lawsuit-khfl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People hold a poster that reads, “Freedom to the Venezuelan migrants kidnapped in El Salvador,” during a protest, in San Salvador, El Salvador in March.",
+                "copyright": "Jose Cabezas/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-elsalvador-lawsuit-khfl/09int-elsalvador-lawsuit-khfl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People hold a poster that reads, “Freedom to the Venezuelan migrants kidnapped in El Salvador,” during a protest, in San Salvador, El Salvador in March.",
+                "copyright": "Jose Cabezas/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The church might resist a rush to make Pope Francis a saint.",
+        "abstract": "St. John Paul II cut the waiting period to five years, but his own canonization nine years after his death has become a cautionary tale.",
+        "url": "https://www.nytimes.com/live/2025/05/09/world/pope-leo-xiv-news/the-church-might-resist-a-rush-to-make-pope-francis-a-saint",
+        "uri": "nyt://article/54f05d5b-17c9-535d-b0f4-03711d070e06",
+        "byline": "By Joe Drape",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T12:52:16-04:00",
+        "created_date": "2025-05-09T12:44:56-04:00",
+        "published_date": "2025-05-09T12:44:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [
+            "Leo XIV"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-sainthood-qkjf/08pope-conclave-sainthood-qkjf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope John Paul II cut the waiting period for sainthood to five years, but his canonization has become a cautionary tale.",
+                "copyright": "Vincenzo Pinto/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-sainthood-qkjf/08pope-conclave-sainthood-qkjf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope John Paul II cut the waiting period for sainthood to five years, but his canonization has become a cautionary tale.",
+                "copyright": "Vincenzo Pinto/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-sainthood-qkjf/08pope-conclave-sainthood-qkjf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope John Paul II cut the waiting period for sainthood to five years, but his canonization has become a cautionary tale.",
+                "copyright": "Vincenzo Pinto/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
