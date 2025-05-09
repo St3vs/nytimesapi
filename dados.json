@@ -78107,5 +78107,248 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Robert Francis Prevost, Now Leo XIV, Is First American Pope",
+        "abstract": "Cardinal Prevost was elected pontiff on the second day of the conclave, becoming the leader of 1.4 billion Roman Catholics. He greeted his new followers by saying, “Peace be with you.”",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news",
+        "uri": "nyt://promo/bb7603d2-28a5-555b-8b70-3d1835177989",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-08T23:55:08-04:00",
+        "created_date": "2025-05-08T08:53:47-04:00",
+        "published_date": "2025-05-08T08:53:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/06/08/multimedia/08pope-conclave-promo-1130p-mpbg/08pope-conclave-promo-1130p-mpbg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/06/08/multimedia/08pope-conclave-promo-1130p-mpbg/08pope-conclave-promo-1130p-mpbg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/06/08/multimedia/08pope-conclave-promo-1130p-mpbg/08pope-conclave-promo-1130p-mpbg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A Divisive Show of Military Might in Moscow: What to Know",
+        "abstract": "A huge parade in the Russian capital to celebrate the Soviet victory over Nazi Germany in World War II, attended by leaders of more than 20 countries, comes amid faltering attempts to end the war in Ukraine.",
+        "url": "https://www.nytimes.com/2025/05/09/world/europe/russia-victory-day-parade-moscow.html",
+        "uri": "nyt://article/ab80e87e-961a-586f-aa3b-f40d186fc6df",
+        "byline": "By Ivan Nechepurenko",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T00:01:19-04:00",
+        "created_date": "2025-05-09T00:01:19-04:00",
+        "published_date": "2025-05-09T00:01:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Parades",
+            "World War II (1939-45)",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-moscow-parade-01-kzlc/09int-moscow-parade-01-kzlc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1317,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Spectators watch a passing column of Russian armored vehicles in Moscow on Wednesday, a rehearsal day before the big Victory Day military parade there on Friday.",
+                "copyright": "Anton Vaganov/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-moscow-parade-01-kzlc/09int-moscow-parade-01-kzlc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Spectators watch a passing column of Russian armored vehicles in Moscow on Wednesday, a rehearsal day before the big Victory Day military parade there on Friday.",
+                "copyright": "Anton Vaganov/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-moscow-parade-01-kzlc/09int-moscow-parade-01-kzlc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Spectators watch a passing column of Russian armored vehicles in Moscow on Wednesday, a rehearsal day before the big Victory Day military parade there on Friday.",
+                "copyright": "Anton Vaganov/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "‘Enough is Enough’: Report of a Child’s Rape Enrages South Africans",
+        "abstract": "A mother’s call for justice has challenged a culture of shame and inspired a nationwide movement to tackle the crisis of sexual violence.",
+        "url": "https://www.nytimes.com/2025/05/09/world/africa/south-africa-rape-sexual-violence-cwecwe.html",
+        "uri": "nyt://article/cecd127c-cf7b-5851-8183-5c0a7dde6a91",
+        "byline": "By Zimasa Matiwane and John Eligon",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T00:01:08-04:00",
+        "created_date": "2025-05-09T00:01:08-04:00",
+        "published_date": "2025-05-09T00:01:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Domestic Violence",
+            "Sex Crimes",
+            "Demonstrations, Protests and Riots",
+            "Police",
+            "Gender",
+            "Women and Girls",
+            "Women's Rights"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Ramaphosa, Cyril"
+        ],
+        "geo_facet": [
+            "South Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/00int-safrica-rape01-photo-bkmg/00int-safrica-rape01-photo-bkmg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters in Matatiele, South Africa, calling for justice for a 7-year-old girl known as Cwecwe who said she was raped.",
+                "copyright": "Joao Silva/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/00int-safrica-rape01-photo-bkmg/00int-safrica-rape01-photo-bkmg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters in Matatiele, South Africa, calling for justice for a 7-year-old girl known as Cwecwe who said she was raped.",
+                "copyright": "Joao Silva/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/05/multimedia/00int-safrica-rape01-photo-bkmg/00int-safrica-rape01-photo-bkmg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Protesters in Matatiele, South Africa, calling for justice for a 7-year-old girl known as Cwecwe who said she was raped.",
+                "copyright": "Joao Silva/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Trump Officials Seek to Bring First White Afrikaner Refugees to U.S. Next Week",
+        "abstract": "The rapid relocation of the Afrikaners, who President Trump says have been racially persecuted in South Africa, stands in stark contrast to the virtual shutdown of all other refugee admissions.",
+        "url": "https://www.nytimes.com/2025/05/09/world/africa/trump-afrikaner-refugees.html",
+        "uri": "nyt://article/7a9e6b61-e333-583c-97d9-ecf07e43f7df",
+        "byline": "By Zolan Kanno-Youngs, Hamed Aleaziz and John Eligon",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T00:00:54-04:00",
+        "created_date": "2025-05-09T00:00:54-04:00",
+        "published_date": "2025-05-09T00:00:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Refugees and Displaced Persons",
+            "United States International Relations",
+            "Race and Ethnicity",
+            "Whites",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "Health and Human Services Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "South Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-safrica-afrikaners-vwgj/08int-safrica-afrikaners-vwgj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A group of white South Africans rallying outside the U.S. Embassy in Pretoria, South Africa, earlier this year.",
+                "copyright": "Joao Silva/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-safrica-afrikaners-vwgj/08int-safrica-afrikaners-vwgj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A group of white South Africans rallying outside the U.S. Embassy in Pretoria, South Africa, earlier this year.",
+                "copyright": "Joao Silva/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-safrica-afrikaners-vwgj/08int-safrica-afrikaners-vwgj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A group of white South Africans rallying outside the U.S. Embassy in Pretoria, South Africa, earlier this year.",
+                "copyright": "Joao Silva/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
