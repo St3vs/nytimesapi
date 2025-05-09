@@ -79537,5 +79537,57 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "In his first homily, the pope emphasizes ‘desperately needed’ missionary work.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/09/world/pope-leo-xiv-news/in-his-first-homily-the-pope-emphasizes-desperately-needed-missionary-work",
+        "uri": "nyt://article/1c58d769-ff49-5b39-80f1-7d05960bb7bb",
+        "byline": "By Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T09:13:38-04:00",
+        "created_date": "2025-05-09T09:00:11-04:00",
+        "published_date": "2025-05-09T09:00:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-carousel2/09pope-blog-header-bghz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Newly elected Pope Leo XIV celebrating Mass at the Vatican on Friday.",
+                "copyright": "The Vatican, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-carousel2/09pope-blog-header-bghz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Newly elected Pope Leo XIV celebrating Mass at the Vatican on Friday.",
+                "copyright": "The Vatican, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-carousel2/09pope-blog-header-bghz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Newly elected Pope Leo XIV celebrating Mass at the Vatican on Friday.",
+                "copyright": "The Vatican, via Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
