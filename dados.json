@@ -79754,5 +79754,421 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Leo XIV’s Service to Poor Propelled Him to Papacy, Cardinals Say",
+        "abstract": "Prelates who voted in the conclave played down the new pope’s American roots. In his first Mass as pontiff, Leo pledged to lift up “ordinary people.”",
+        "url": "https://www.nytimes.com/live/2025/05/09/world/pope-leo-xiv-news",
+        "uri": "nyt://promo/3d53dc4f-1042-59b2-8bc8-0814f6975711",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-09T12:23:19-04:00",
+        "created_date": "2025-05-09T08:37:15-04:00",
+        "published_date": "2025-05-09T08:37:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-pinned-item-fvpc/09pope-blog-pinned-item-fvpc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dan Kitwood/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-pinned-item-fvpc/09pope-blog-pinned-item-fvpc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dan Kitwood/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-pinned-item-fvpc/09pope-blog-pinned-item-fvpc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dan Kitwood/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How the Strange Case of the Sycamore Gap Tree Was Solved",
+        "abstract": "Two men were found guilty Friday of felling the famous tree in northern England, bringing some closure to a baffling crime that had saddened and mystified the nation.",
+        "url": "https://www.nytimes.com/2025/05/09/world/europe/sycamore-gap-tree-verdict.html",
+        "uri": "nyt://article/62dbbdf6-06e9-5a59-bdd6-a46fd893e2e8",
+        "byline": "By Lizzie Dearden",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T12:11:20-04:00",
+        "created_date": "2025-05-09T05:47:03-04:00",
+        "published_date": "2025-05-09T05:47:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Decisions and Verdicts",
+            "Trees and Shrubs",
+            "Vandalism",
+            "Crime and Criminals"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Great Britain",
+            "Newcastle-on-Tyne (England)",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-uk-sycamore-verdict-02-wczq/09int-uk-sycamore-verdict-02-wczq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Sycamore Gap tree after it was cut down along Hadrian’s Wall, in Northumberland, England, in September 2023.",
+                "copyright": "Jeff J Mitchell/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-uk-sycamore-verdict-02-wczq/09int-uk-sycamore-verdict-02-wczq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Sycamore Gap tree after it was cut down along Hadrian’s Wall, in Northumberland, England, in September 2023.",
+                "copyright": "Jeff J Mitchell/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-uk-sycamore-verdict-02-wczq/09int-uk-sycamore-verdict-02-wczq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Sycamore Gap tree after it was cut down along Hadrian’s Wall, in Northumberland, England, in September 2023.",
+                "copyright": "Jeff J Mitchell/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Gulf States Step In as India-Pakistan Conflict Escalates",
+        "abstract": "With the United States on the sidelines, Saudi Arabia and the United Arab Emirates are trying to play a role as mediators.",
+        "url": "https://www.nytimes.com/2025/05/09/world/asia/india-pakistan-gulf-states.html",
+        "uri": "nyt://article/139deccd-6fe3-51de-8cd7-456dc203d40e",
+        "byline": "By Ismaeel Naar",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T12:22:10-04:00",
+        "created_date": "2025-05-09T12:22:10-04:00",
+        "published_date": "2025-05-09T12:22:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Territorial Disputes"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra"
+        ],
+        "geo_facet": [
+            "Delhi (India)",
+            "Kashmir",
+            "United Arab Emirates",
+            "Saudi Arabia",
+            "Kuwait",
+            "Iran"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-pakistan-gulf-diplo-kjwl/09india-pakistan-gulf-diplo-kjwl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Crown Prince Mohammed bin Salman of Saudi Arabia with Prime Minister Narendra Modi of India and President Droupadi Murmu of India in New Delhi in 2023. The Gulf states, particularly Saudi Arabia, have a track record of mediating the conflict between India and Pakistan.",
+                "copyright": "Money Sharma/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-pakistan-gulf-diplo-kjwl/09india-pakistan-gulf-diplo-kjwl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Crown Prince Mohammed bin Salman of Saudi Arabia with Prime Minister Narendra Modi of India and President Droupadi Murmu of India in New Delhi in 2023. The Gulf states, particularly Saudi Arabia, have a track record of mediating the conflict between India and Pakistan.",
+                "copyright": "Money Sharma/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-pakistan-gulf-diplo-kjwl/09india-pakistan-gulf-diplo-kjwl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Crown Prince Mohammed bin Salman of Saudi Arabia with Prime Minister Narendra Modi of India and President Droupadi Murmu of India in New Delhi in 2023. The Gulf states, particularly Saudi Arabia, have a track record of mediating the conflict between India and Pakistan.",
+                "copyright": "Money Sharma/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Pope Leo is a friar in the Order of St. Augustine. Why does that matter?",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/09/world/pope-leo-xiv-news/pope-leo-is-a-friar-in-the-order-of-st-augustine-why-does-that-matter",
+        "uri": "nyt://article/5a242b62-fe08-578f-b524-3e051bcd8708",
+        "byline": "By Matthew Mpoke Bigg",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T12:22:52-04:00",
+        "created_date": "2025-05-09T11:48:30-04:00",
+        "published_date": "2025-05-09T11:48:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-augustinian-mkpv/09pope-blog-augustinian-mkpv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV speaking for the first time on Thursday.",
+                "copyright": "Andrej Isakovic/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-augustinian-mkpv/09pope-blog-augustinian-mkpv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV speaking for the first time on Thursday.",
+                "copyright": "Andrej Isakovic/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-augustinian-mkpv/09pope-blog-augustinian-mkpv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV speaking for the first time on Thursday.",
+                "copyright": "Andrej Isakovic/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "In Chiclayo, Peru, Locals Cheer the ‘Peruvian Pope’",
+        "abstract": "From delivering help to flood-ravaged regions to singing Christmas songs to blessing babies, Pope Leo XIV tried to be a cleric of the people in Peru.",
+        "url": "https://www.nytimes.com/2025/05/09/world/europe/pope-peru-reaction.html",
+        "uri": "nyt://article/1307b003-062b-58b1-80f1-b1bc5e3539c0",
+        "byline": "By Mitra Taj, Julie Turkewitz and Genevieve Glatsky",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T11:40:16-04:00",
+        "created_date": "2025-05-09T11:40:16-04:00",
+        "published_date": "2025-05-09T11:40:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV",
+            "Francis"
+        ],
+        "geo_facet": [
+            "Peru",
+            "Chicago (Ill)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-pope-peru-03-zjkh/09int-pope-peru-03-zjkh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV served as a bishop in Chiclayo, Peru.",
+                "copyright": "Marco Garro for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-pope-peru-03-zjkh/09int-pope-peru-03-zjkh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV served as a bishop in Chiclayo, Peru.",
+                "copyright": "Marco Garro for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-pope-peru-03-zjkh/09int-pope-peru-03-zjkh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV served as a bishop in Chiclayo, Peru.",
+                "copyright": "Marco Garro for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Ordinary Indians Are Feeling Jittery About the Escalating Conflict",
+        "abstract": "No one has a clear idea about how far the new fight with Pakistan might lead — into their country, or even into their own homes.",
+        "url": "https://www.nytimes.com/2025/05/09/world/asia/india-pakistan-fear.html",
+        "uri": "nyt://article/e6773dce-99d5-5c87-bee5-8d9d1c99d848",
+        "byline": "By Alex Travelli, Hari Kumar and Suhasini Raj",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T12:25:08-04:00",
+        "created_date": "2025-05-09T07:44:26-04:00",
+        "published_date": "2025-05-09T07:44:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Drones (Pilotless Planes)",
+            "Territorial Disputes",
+            "Terrorism",
+            "Missiles and Missile Defense Systems"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kashmir and Jammu (India)",
+            "India",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-pakistan-mood-zjmh/09india-pakistan-mood-zjmh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The wife of a man killed in Pakistani shelling during his cremation in Poonch, in the India-controlled part of Kashmir, on Thursday.",
+                "copyright": "Channi Anand/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-pakistan-mood-zjmh/09india-pakistan-mood-zjmh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The wife of a man killed in Pakistani shelling during his cremation in Poonch, in the India-controlled part of Kashmir, on Thursday.",
+                "copyright": "Channi Anand/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-pakistan-mood-zjmh/09india-pakistan-mood-zjmh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The wife of a man killed in Pakistani shelling during his cremation in Poonch, in the India-controlled part of Kashmir, on Thursday.",
+                "copyright": "Channi Anand/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "Trump Officials Seek to Bring First White Afrikaners to U.S. as Refugees Next Week",
+        "abstract": "The rapid relocation of the Afrikaners, who President Trump says have been racially persecuted in South Africa, stands in stark contrast to the virtual shutdown of all other refugee admissions.",
+        "url": "https://www.nytimes.com/2025/05/09/world/africa/trump-afrikaner-refugees.html",
+        "uri": "nyt://article/7a9e6b61-e333-583c-97d9-ecf07e43f7df",
+        "byline": "By Zolan Kanno-Youngs, Hamed Aleaziz, John Eligon and Zimasa Matiwane",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T12:06:54-04:00",
+        "created_date": "2025-05-09T00:00:55-04:00",
+        "published_date": "2025-05-09T00:00:55-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "Refugees and Displaced Persons",
+            "United States International Relations",
+            "Race and Ethnicity",
+            "Whites",
+            "Immigration and Emigration"
+        ],
+        "org_facet": [
+            "Health and Human Services Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "South Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-safrica-afrikaners-vwgj/08int-safrica-afrikaners-vwgj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A group of white South Africans rallying outside the U.S. Embassy in Pretoria this year. The South African government has vigorously disputed the claim by the United States that Afrikaners qualify for refugee status.",
+                "copyright": "Joao Silva/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-safrica-afrikaners-vwgj/08int-safrica-afrikaners-vwgj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A group of white South Africans rallying outside the U.S. Embassy in Pretoria this year. The South African government has vigorously disputed the claim by the United States that Afrikaners qualify for refugee status.",
+                "copyright": "Joao Silva/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08int-safrica-afrikaners-vwgj/08int-safrica-afrikaners-vwgj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A group of white South Africans rallying outside the U.S. Embassy in Pretoria this year. The South African government has vigorously disputed the claim by the United States that Afrikaners qualify for refugee status.",
+                "copyright": "Joao Silva/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
