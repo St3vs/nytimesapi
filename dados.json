@@ -81177,5 +81177,317 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Leo XIV Pledges to Lift Up ‘Ordinary People’",
+        "abstract": "American cardinals who voted in the conclave played down the significance of the new pope’s roots in the United States, saying his service to the poor and the church had propelled him to the papacy.",
+        "url": "https://www.nytimes.com/live/2025/05/09/world/pope-leo-xiv-news",
+        "uri": "nyt://promo/3d53dc4f-1042-59b2-8bc8-0814f6975711",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-09T18:16:14-04:00",
+        "created_date": "2025-05-09T08:37:15-04:00",
+        "published_date": "2025-05-09T08:37:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-live-promo3p-ktmj/09pope-live-promo3p-ktmj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-live-promo3p-ktmj/09pope-live-promo3p-ktmj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-live-promo3p-ktmj/09pope-live-promo3p-ktmj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Pope Leo’s Creole Roots Evoke Sense of Connection From Some Catholics of Color",
+        "abstract": "That the new pontiff’s ancestry can be partially traced to a historic enclave of Afro-Caribbean culture in New Orleans has brought joy to some Catholics.",
+        "url": "https://www.nytimes.com/2025/05/09/world/europe/pope-leo-xiv-creole-ancestry.html",
+        "uri": "nyt://article/02504916-6e6e-5385-ad15-5a216f308852",
+        "byline": "By John Eligon",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T18:16:12-04:00",
+        "created_date": "2025-05-09T18:10:53-04:00",
+        "published_date": "2025-05-09T18:10:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Minorities",
+            "Black People",
+            "Clergy"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV"
+        ],
+        "geo_facet": [
+            "Africa",
+            "Brazil",
+            "Caribbean Area",
+            "New Orleans (La)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-race-reax-top-qpfm/09pope-blog-race-reax-top-qpfm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1365,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Leo XIV, the first American-born pope, on the balcony of St. Peter’s Basilica on Thursday.",
+                "copyright": "Gregorio Borgia/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-race-reax-top-qpfm/09pope-blog-race-reax-top-qpfm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Leo XIV, the first American-born pope, on the balcony of St. Peter’s Basilica on Thursday.",
+                "copyright": "Gregorio Borgia/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-race-reax-top-qpfm/09pope-blog-race-reax-top-qpfm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Leo XIV, the first American-born pope, on the balcony of St. Peter’s Basilica on Thursday.",
+                "copyright": "Gregorio Borgia/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "There Is No ‘Energy Emergency,’ a New Lawsuit Claims",
+        "abstract": "In the suit, 15 Democratic states called Trump’s declaration illegal and said federal agencies were rushing permits for fossil fuel projects under false pretenses.",
+        "url": "https://www.nytimes.com/2025/05/09/climate/energy-emergency-lawsuit.html",
+        "uri": "nyt://article/31392891-b45d-5535-bd3b-f42f2a1b6184",
+        "byline": "By Karen Zraick",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T17:45:56-04:00",
+        "created_date": "2025-05-09T17:45:56-04:00",
+        "published_date": "2025-05-09T17:45:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Federal-State Relations (US)",
+            "United States Politics and Government",
+            "Suits and Litigation (Civil)",
+            "Executive Orders and Memorandums",
+            "Environment",
+            "Regulation and Deregulation of Industry",
+            "War and Emergency Powers (US)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09cli-emergency-lawsuit-ltjp/09cli-emergency-lawsuit-ltjp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Drilling gear being stored in Texas in 2021. Energy production in the United States is at a record high.",
+                "copyright": "Tamir Kalifa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09cli-emergency-lawsuit-ltjp/09cli-emergency-lawsuit-ltjp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Drilling gear being stored in Texas in 2021. Energy production in the United States is at a record high.",
+                "copyright": "Tamir Kalifa for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09cli-emergency-lawsuit-ltjp/09cli-emergency-lawsuit-ltjp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Drilling gear being stored in Texas in 2021. Energy production in the United States is at a record high.",
+                "copyright": "Tamir Kalifa for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "First Joint Visit of Four European Leaders to Ukraine",
+        "abstract": "On Saturday, the leaders of four major European powers — France, Germany, Britain and Poland — will travel to Kyiv in a display of European unity.",
+        "url": "https://www.nytimes.com/2025/05/09/world/europe/four-european-countries-visit-ukraine.html",
+        "uri": "nyt://article/219d4bb4-92e7-5c00-ab2b-5e4709702fbd",
+        "byline": "By Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T17:30:04-04:00",
+        "created_date": "2025-05-09T17:30:04-04:00",
+        "published_date": "2025-05-09T17:30:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Russian Invasion of Ukraine (2022)",
+            "Peace Process",
+            "United States International Relations",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Macron, Emmanuel (1977- )",
+            "Putin, Vladimir V",
+            "Merz, Friedrich",
+            "Starmer, Keir",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Kyiv (Ukraine)",
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-ukraine-leaders-1-qzwj/09int-ukraine-leaders-1-qzwj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chancellor Friedrich Merz of Germany and President Emmanuel Macron of France, in Paris on Wednesday.",
+                "copyright": "Pool photo by Ludovic Marin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-ukraine-leaders-1-qzwj/09int-ukraine-leaders-1-qzwj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chancellor Friedrich Merz of Germany and President Emmanuel Macron of France, in Paris on Wednesday.",
+                "copyright": "Pool photo by Ludovic Marin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-ukraine-leaders-1-qzwj/09int-ukraine-leaders-1-qzwj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Chancellor Friedrich Merz of Germany and President Emmanuel Macron of France, in Paris on Wednesday.",
+                "copyright": "Pool photo by Ludovic Marin"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "On the Role of Women in Church Leadership, Leo Has Followed Francis’ Lead",
+        "abstract": "The new pope opposed letting women serve as deacons but endorsed some of his predecessor’s moves to expand their involvement.",
+        "url": "https://www.nytimes.com/2025/05/09/world/europe/pope-leo-women-catholic-church.html",
+        "uri": "nyt://article/0484fda1-8ac4-52e7-8a65-8962bc23e637",
+        "byline": "By Patricia Mazzei",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T17:30:03-04:00",
+        "created_date": "2025-05-09T17:30:03-04:00",
+        "published_date": "2025-05-09T17:30:03-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Clergy",
+            "Popes",
+            "Women and Girls",
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV",
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-leo-women1-ljgk/09pope-blog-leo-women1-ljgk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bishop Robert Prevost offered Mass in Motupe, Peru, in 2018.",
+                "copyright": "Julio Reano/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-leo-women1-ljgk/09pope-blog-leo-women1-ljgk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bishop Robert Prevost offered Mass in Motupe, Peru, in 2018.",
+                "copyright": "Julio Reano/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-leo-women1-ljgk/09pope-blog-leo-women1-ljgk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bishop Robert Prevost offered Mass in Motupe, Peru, in 2018.",
+                "copyright": "Julio Reano/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
