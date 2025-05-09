@@ -79693,5 +79693,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Pope Leo’s work with migrants is another link to Francis.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/09/world/pope-leo-xiv-news/pope-leos-work-with-migrants-is-another-link-to-francis",
+        "uri": "nyt://article/6ea11a83-2e9c-528e-aef9-ce22046850f6",
+        "byline": "By Patricia Mazzei",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T11:10:33-04:00",
+        "created_date": "2025-05-09T11:10:33-04:00",
+        "published_date": "2025-05-09T11:10:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Refugees and Displaced Persons"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV"
+        ],
+        "geo_facet": [
+            "Peru"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/us/politics/09pope-blog-migrants/09pope-blog-migrants-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1394,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Venezuelan migrants in Tumbes, Peru, in 2019. Pope Leo XIV helped migrants in northern Peru when he was a bishop there.",
+                "copyright": "Martin Mejia/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/us/politics/09pope-blog-migrants/09pope-blog-migrants-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Venezuelan migrants in Tumbes, Peru, in 2019. Pope Leo XIV helped migrants in northern Peru when he was a bishop there.",
+                "copyright": "Martin Mejia/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/us/politics/09pope-blog-migrants/09pope-blog-migrants-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Venezuelan migrants in Tumbes, Peru, in 2019. Pope Leo XIV helped migrants in northern Peru when he was a bishop there.",
+                "copyright": "Martin Mejia/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
