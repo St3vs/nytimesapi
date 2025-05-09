@@ -78456,5 +78456,66 @@
         "geo_facet": [],
         "multimedia": null,
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Putin Aims to Project Power at Military Parade Marking Victory Over Nazi Germany",
+        "abstract": "The Russian president is seeking to use the event to depict himself as a global leader despite Western efforts to isolate him and a failure to win the war in Ukraine.",
+        "url": "https://www.nytimes.com/2025/05/09/world/europe/russia-putin-victory-day-parade.html",
+        "uri": "nyt://article/07ff71a3-d45b-5944-82e4-15e79a9a4786",
+        "byline": "By Ivan Nechepurenko",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T03:03:31-04:00",
+        "created_date": "2025-05-09T03:02:25-04:00",
+        "published_date": "2025-05-09T03:02:25-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "World War II (1939-45)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Xi Jinping"
+        ],
+        "geo_facet": [
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-russia-victory-day-mhlv/09int-russia-victory-day-mhlv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1372,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russian military vehicles before a military parade on Victory Day in Moscow, on Friday.",
+                "copyright": "Shamil Zhumatov/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-russia-victory-day-mhlv/09int-russia-victory-day-mhlv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russian military vehicles before a military parade on Victory Day in Moscow, on Friday.",
+                "copyright": "Shamil Zhumatov/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-russia-victory-day-mhlv/09int-russia-victory-day-mhlv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russian military vehicles before a military parade on Victory Day in Moscow, on Friday.",
+                "copyright": "Shamil Zhumatov/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
