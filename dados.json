@@ -80701,5 +80701,124 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: India-Pakistan Enter Third Night of Conflict Amid Efforts at Peace",
+        "abstract": "Both countries accused each other of aiming attacks at territories well beyond their disputed Kashmir border. As night fell late Friday, India reported heavy drone incursions in the country’s north.",
+        "url": "https://www.nytimes.com/live/2025/05/09/world/india-pakistan-kashmir",
+        "uri": "nyt://promo/e6f32c70-ee28-53c1-ac75-90e9e8a3de15",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-09T15:15:12-04:00",
+        "created_date": "2025-05-09T08:31:14-04:00",
+        "published_date": "2025-05-09T08:31:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-200-bchg/09india-200-bchg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Shakil Adil/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-200-bchg/09india-200-bchg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Shakil Adil/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-200-bchg/09india-200-bchg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Shakil Adil/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "On Red Square, Putin Enlists Russian Pride for His War in Ukraine",
+        "abstract": "The military parade marking the Soviet victory over Nazi Germany was intended to impress allies and tap into Russia’s deep sense of national pride.",
+        "url": "https://www.nytimes.com/2025/05/09/world/europe/russia-victory-day-parade-red-square.html",
+        "uri": "nyt://article/a50b9ec5-5602-547b-bc1f-ac78decba45f",
+        "byline": "By Anatoly Kurmanaev",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T14:43:50-04:00",
+        "created_date": "2025-05-09T14:35:45-04:00",
+        "published_date": "2025-05-09T14:35:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "International Relations",
+            "Embargoes and Sanctions",
+            "United States Politics and Government",
+            "Defense and Military Forces",
+            "Parades",
+            "War and Armed Conflicts",
+            "United States International Relations",
+            "Military Vehicles"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V"
+        ],
+        "geo_facet": [
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09russia-scene-1-lwmc/09russia-scene-1-lwmc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russian service members at the Victory Day parade in Moscow on Friday.",
+                "copyright": "Alexander Zemlianichenko/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09russia-scene-1-lwmc/09russia-scene-1-lwmc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russian service members at the Victory Day parade in Moscow on Friday.",
+                "copyright": "Alexander Zemlianichenko/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09russia-scene-1-lwmc/09russia-scene-1-lwmc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Russian service members at the Victory Day parade in Moscow on Friday.",
+                "copyright": "Alexander Zemlianichenko/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
