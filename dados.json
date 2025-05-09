@@ -81489,5 +81489,266 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Illinois Voting Record Shows Pope Voted Regularly, and in Both Parties’ Primaries",
+        "abstract": "Pope Leo XIV voted in Democratic primaries in 2008 and 2010 and in three Republican primaries in the years that followed, state records show.",
+        "url": "https://www.nytimes.com/2025/05/09/world/europe/pope-leo-voting-record-illinois.html",
+        "uri": "nyt://article/d1942efb-5e64-569c-9884-0f7571eb0681",
+        "byline": "By Mitch Smith and Catherine OConnor",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T19:14:20-04:00",
+        "created_date": "2025-05-09T19:13:04-04:00",
+        "published_date": "2025-05-09T19:13:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "Popes",
+            "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Leo XIV"
+        ],
+        "geo_facet": [
+            "Illinois"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-voting-record1-hbgm/09pope-blog-voting-record1-hbgm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 813,
+                "width": 1219,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Robert Francis Prevost spoke at St. Jude Parish in New Lenox, Ill., in 2024.",
+                "copyright": "Midwest Augustinian Province of Our Mother of Good Counsel, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-voting-record1-hbgm/09pope-blog-voting-record1-hbgm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Robert Francis Prevost spoke at St. Jude Parish in New Lenox, Ill., in 2024.",
+                "copyright": "Midwest Augustinian Province of Our Mother of Good Counsel, via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-voting-record1-hbgm/09pope-blog-voting-record1-hbgm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Cardinal Robert Francis Prevost spoke at St. Jude Parish in New Lenox, Ill., in 2024.",
+                "copyright": "Midwest Augustinian Province of Our Mother of Good Counsel, via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Long Before Their Ascensions, Francis and Leo Were Friends",
+        "abstract": "The two clerics met in South America, and when Francis needed to fill an important job at the Vatican, he knew where to turn.",
+        "url": "https://www.nytimes.com/2025/05/09/world/europe/pope-leo-francis.html",
+        "uri": "nyt://article/c64e6b21-e790-56c2-a23f-8226a872801c",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T18:54:26-04:00",
+        "created_date": "2025-05-09T18:54:26-04:00",
+        "published_date": "2025-05-09T18:54:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV",
+            "Francis"
+        ],
+        "geo_facet": [
+            "South America",
+            "Peru"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-francis-prevost1-vmzb/09pope-blog-francis-prevost1-vmzb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in 2023, officiating at part of the process of elevating Robert Francis Prevost, now Leo XIV, to cardinal. ",
+                "copyright": "Riccardo De Luca/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-francis-prevost1-vmzb/09pope-blog-francis-prevost1-vmzb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in 2023, officiating at part of the process of elevating Robert Francis Prevost, now Leo XIV, to cardinal. ",
+                "copyright": "Riccardo De Luca/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-francis-prevost1-vmzb/09pope-blog-francis-prevost1-vmzb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis in 2023, officiating at part of the process of elevating Robert Francis Prevost, now Leo XIV, to cardinal. ",
+                "copyright": "Riccardo De Luca/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "business",
+        "subsection": "",
+        "title": "U.S. Starts Investigation Into Imported Planes and Parts",
+        "abstract": "The Trump administration could use the investigation to impose new tariffs on imported planes, jet engines and other aerospace parts.",
+        "url": "https://www.nytimes.com/2025/05/09/business/trump-tariffs-planes-aviation.html",
+        "uri": "nyt://article/539fe478-ea53-51fb-a9f8-87ae609296c5",
+        "byline": "By Niraj Chokshi",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T18:56:22-04:00",
+        "created_date": "2025-05-09T18:41:31-04:00",
+        "published_date": "2025-05-09T18:41:31-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Airlines and Airplanes",
+            "International Trade and World Market",
+            "United States Politics and Government",
+            "Customs (Tariff)",
+            "United States Economy",
+            "Prices (Fares, Fees and Rates)",
+            "Engines",
+            "Factories and Manufacturing"
+        ],
+        "org_facet": [
+            "Airbus Industrie",
+            "Aerospace Industries Assn",
+            "Boeing Company",
+            "Commerce Department",
+            "European Union"
+        ],
+        "per_facet": [
+            "Trump, Donald J",
+            "Lutnick, Howard W",
+            "Ortberg, Robert K"
+        ],
+        "geo_facet": [
+            "Europe",
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09biz-tariffs-planes-fgcw/09biz-tariffs-planes-fgcw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1381,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Boeing factory in Everett, Wash. An investigation by the Trump administration into imports of jet engines and other aviation parts could be the first step in the imposition of tariffs on those products.",
+                "copyright": "Lindsey Wasson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09biz-tariffs-planes-fgcw/09biz-tariffs-planes-fgcw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Boeing factory in Everett, Wash. An investigation by the Trump administration into imports of jet engines and other aviation parts could be the first step in the imposition of tariffs on those products.",
+                "copyright": "Lindsey Wasson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09biz-tariffs-planes-fgcw/09biz-tariffs-planes-fgcw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Boeing factory in Everett, Wash. An investigation by the Trump administration into imports of jet engines and other aviation parts could be the first step in the imposition of tariffs on those products.",
+                "copyright": "Lindsey Wasson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Pakistan Says India Fired on Its Air Bases as Conflict Sharply Escalates",
+        "abstract": "The reported attacks came as drone warfare was expanding the conflict between the two nuclear-armed neighbors.",
+        "url": "https://www.nytimes.com/2025/05/09/world/asia/india-pakistan-kashmir-drones.html",
+        "uri": "nyt://article/874162c2-71bd-5ae8-acbb-1603e656fd1a",
+        "byline": "By Anupreeta Das and Salman Masood",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T19:12:37-04:00",
+        "created_date": "2025-05-09T16:31:40-04:00",
+        "published_date": "2025-05-09T16:31:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Defense and Military Forces",
+            "Drones (Pilotless Planes)",
+            "Terrorism",
+            "Territorial Disputes",
+            "Nuclear Weapons",
+            "Missiles and Missile Defense Systems",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Pakistan",
+            "Kashmir",
+            "Jaipur (India)",
+            "Jaisalmer (India)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09INT-INDIA-PAKISTAN-LEDEALL-fcjh/09INT-INDIA-PAKISTAN-LEDEALL-fcjh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Streaks in the skies over Jammu, a city in the part of Kashmir that India controls. Residents reported a blackout and sounds of explosions on Friday.",
+                "copyright": "Anindito Mukherjee/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09INT-INDIA-PAKISTAN-LEDEALL-fcjh/09INT-INDIA-PAKISTAN-LEDEALL-fcjh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Streaks in the skies over Jammu, a city in the part of Kashmir that India controls. Residents reported a blackout and sounds of explosions on Friday.",
+                "copyright": "Anindito Mukherjee/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09INT-INDIA-PAKISTAN-LEDEALL-fcjh/09INT-INDIA-PAKISTAN-LEDEALL-fcjh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Streaks in the skies over Jammu, a city in the part of Kashmir that India controls. Residents reported a blackout and sounds of explosions on Friday.",
+                "copyright": "Anindito Mukherjee/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
