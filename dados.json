@@ -78350,5 +78350,111 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Here is the latest.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/09/world/india-pakistan-kashmir/here-is-the-latest",
+        "uri": "nyt://article/d23891c3-97b4-542c-b961-d639b20ecc33",
+        "byline": "By Anupreeta Das",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T02:21:00-04:00",
+        "created_date": "2025-05-09T02:21:00-04:00",
+        "published_date": "2025-05-09T02:21:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "The Pope Appears Uneasy With Trump Immigration Policies",
+        "abstract": "Before Cardinal Robert Francis Prevost became pope, a social media account under his name shared criticisms of the Trump administration’s positions on immigration.",
+        "url": "https://www.nytimes.com/2025/05/08/us/politics/jd-vance-pope-leo-xiv.html",
+        "uri": "nyt://article/781c3b1b-454b-5259-a17c-ecde44d12912",
+        "byline": "By Lisa Lerer",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T01:45:09-04:00",
+        "created_date": "2025-05-08T16:01:04-04:00",
+        "published_date": "2025-05-08T16:01:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "United States Politics and Government",
+            "Deportation",
+            "Immigration and Emigration",
+            "Social Media"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV",
+            "Vance, J D",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-vance-top-qbtj/08pope-conclave-vance-top-qbtj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vice President JD Vance in Rome to meet with Pope Francis last month.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-vance-top-qbtj/08pope-conclave-vance-top-qbtj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vice President JD Vance in Rome to meet with Pope Francis last month.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-vance-top-qbtj/08pope-conclave-vance-top-qbtj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Vice President JD Vance in Rome to meet with Pope Francis last month.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Here’s what happened.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/08/world/pope-conclave-news/latest-pinned",
+        "uri": "nyt://article/86b1fbdc-57c5-5fc5-ade2-ada132ba76ae",
+        "byline": "By Jason Horowitz, Motoko Rich and Elizabeth Dias",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T02:20:35-04:00",
+        "created_date": "2025-05-08T15:13:08-04:00",
+        "published_date": "2025-05-08T15:13:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
     }
 ]
