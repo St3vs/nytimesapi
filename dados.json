@@ -79589,5 +79589,109 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "When the pope was chosen, two tailors in Rome were ready.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/09/world/pope-leo-xiv-news/when-the-pope-was-chosen-two-tailors-in-rome-were-ready",
+        "uri": "nyt://article/a9c85ccd-6dde-5d13-820f-c0034e41f64e",
+        "byline": "By Patricia Mazzei and Jason Horowitz",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T10:00:07-04:00",
+        "created_date": "2025-05-09T10:00:07-04:00",
+        "published_date": "2025-05-09T10:00:07-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-tailor-02-ljmh/07pope-conclave-tailor-02-ljmh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Images of previous popes displayed at Gammarelli, a tailor, which has dressed at least the last eight heads of the Catholic church.",
+                "copyright": "Andrej Isakovic/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-tailor-02-ljmh/07pope-conclave-tailor-02-ljmh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Images of previous popes displayed at Gammarelli, a tailor, which has dressed at least the last eight heads of the Catholic church.",
+                "copyright": "Andrej Isakovic/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/07/multimedia/07pope-conclave-tailor-02-ljmh/07pope-conclave-tailor-02-ljmh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Images of previous popes displayed at Gammarelli, a tailor, which has dressed at least the last eight heads of the Catholic church.",
+                "copyright": "Andrej Isakovic/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "What is a ‘synodal church,’ which Pope Leo XIV vowed to continue?",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/09/world/pope-leo-xiv-news/synodal-church-pope-leo",
+        "uri": "nyt://article/7fb6c586-9ff1-58f1-9708-e4f9a75a464e",
+        "byline": "By Motoko Rich",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T09:37:33-04:00",
+        "created_date": "2025-05-09T09:37:33-04:00",
+        "published_date": "2025-05-09T09:37:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-synod-jqzl/09pope-synod-jqzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1221,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Under Pope Francis, center, the Catholic Church’s gatherings to discuss teachings and policy were opened to lay people. ",
+                "copyright": "Ettore Ferrari/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-synod-jqzl/09pope-synod-jqzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Under Pope Francis, center, the Catholic Church’s gatherings to discuss teachings and policy were opened to lay people. ",
+                "copyright": "Ettore Ferrari/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-synod-jqzl/09pope-synod-jqzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Under Pope Francis, center, the Catholic Church’s gatherings to discuss teachings and policy were opened to lay people. ",
+                "copyright": "Ettore Ferrari/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
     }
 ]
