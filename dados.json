@@ -80290,5 +80290,416 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "El Salvador Put Trump Deportees Behind Bars. Now Their Families Are Suing.",
+        "abstract": "A lawsuit filed with the Inter-American Commission of Human Rights seeks the release of Venezuelan migrants deported from the United States and jailed in a notorious Salvadoran prison.",
+        "url": "https://www.nytimes.com/2025/05/09/world/americas/el-salvador-trump-deportees-lawsuit.html",
+        "uri": "nyt://article/feaed6ae-4432-560b-9a59-f671c5a8568b",
+        "byline": "By Emiliano Rodríguez Mega",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T13:34:16-04:00",
+        "created_date": "2025-05-09T12:32:46-04:00",
+        "published_date": "2025-05-09T12:32:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deportation",
+            "Illegal Immigration",
+            "Suits and Litigation (Civil)",
+            "United States International Relations",
+            "Prisons and Prisoners",
+            "Human Rights and Human Rights Violations"
+        ],
+        "org_facet": [
+            "Tren de Aragua (Gang)"
+        ],
+        "per_facet": [
+            "Bukele, Nayib",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "El Salvador"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-elsalvador-lawsuit-khfl/09int-elsalvador-lawsuit-khfl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People hold a poster that reads, “Freedom to the Venezuelan migrants kidnapped in El Salvador,” during a protest, in San Salvador, El Salvador in March.",
+                "copyright": "Jose Cabezas/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-elsalvador-lawsuit-khfl/09int-elsalvador-lawsuit-khfl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People hold a poster that reads, “Freedom to the Venezuelan migrants kidnapped in El Salvador,” during a protest, in San Salvador, El Salvador in March.",
+                "copyright": "Jose Cabezas/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-elsalvador-lawsuit-khfl/09int-elsalvador-lawsuit-khfl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "People hold a poster that reads, “Freedom to the Venezuelan migrants kidnapped in El Salvador,” during a protest, in San Salvador, El Salvador in March.",
+                "copyright": "Jose Cabezas/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "An American Pope Emerges as a Potential Contrast to Trump on the World Stage",
+        "abstract": "Pope Leo XIV’s focus on refugees and his pluralistic background may offer a different view of U.S. values than the president’s America First approach.",
+        "url": "https://www.nytimes.com/2025/05/09/us/politics/pope-leo-trump.html",
+        "uri": "nyt://article/eff4c9ad-a0ef-52b1-8497-d52f3a7e7ead",
+        "byline": "By Tyler Pager",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T14:25:53-04:00",
+        "created_date": "2025-05-09T14:25:53-04:00",
+        "published_date": "2025-05-09T14:25:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Foreign Aid"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09dc-trump-pope1-ckwg/09dc-trump-pope1-ckwg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Americans cheered the announcement of Cardinal Robert Francis Prevost as the new pope on Thursday. Other spectators were bewildered when his identity emerged.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09dc-trump-pope1-ckwg/09dc-trump-pope1-ckwg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Americans cheered the announcement of Cardinal Robert Francis Prevost as the new pope on Thursday. Other spectators were bewildered when his identity emerged.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09dc-trump-pope1-ckwg/09dc-trump-pope1-ckwg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Americans cheered the announcement of Cardinal Robert Francis Prevost as the new pope on Thursday. Other spectators were bewildered when his identity emerged.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Rising Tensions Force India and Pakistan to Move or Cancel Cricket Games",
+        "abstract": "In the past, cricket helped bring the two countries closer. But separating the growing political tensions from the sport has became almost impossible.",
+        "url": "https://www.nytimes.com/2025/05/09/world/asia/india-pakistan-ipl-cricket.html",
+        "uri": "nyt://article/841d9bca-b9cd-564d-9b00-abb9ed3dcd9d",
+        "byline": "By Pragati K.B. and Zia ur-Rehman",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T14:24:08-04:00",
+        "created_date": "2025-05-09T14:24:08-04:00",
+        "published_date": "2025-05-09T14:24:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Cricket (Game)"
+        ],
+        "org_facet": [
+            "Indian Premier League"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-pakistan-cricket-topart-sub-vtbk/09india-pakistan-cricket-topart-sub-vtbk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Ekana Cricket Stadium in Lucknow, India, was shuttered after the Indian Premier League said it had suspended its matches for a week because of the fighting between India and Pakistan.",
+                "copyright": "Arun Sankar/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-pakistan-cricket-topart-sub-vtbk/09india-pakistan-cricket-topart-sub-vtbk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Ekana Cricket Stadium in Lucknow, India, was shuttered after the Indian Premier League said it had suspended its matches for a week because of the fighting between India and Pakistan.",
+                "copyright": "Arun Sankar/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-pakistan-cricket-topart-sub-vtbk/09india-pakistan-cricket-topart-sub-vtbk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Ekana Cricket Stadium in Lucknow, India, was shuttered after the Indian Premier League said it had suspended its matches for a week because of the fighting between India and Pakistan.",
+                "copyright": "Arun Sankar/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Can Pope Leo Keep U.S. Citizenship?",
+        "abstract": "He now leads a sovereign nation, Vatican City, and the U.S. State Department says that for an American to retain citizenship as a foreign head of state can “raise complex questions of international law.”",
+        "url": "https://www.nytimes.com/2025/05/09/world/europe/pope-leo-xiv-citizenship.html",
+        "uri": "nyt://article/02020a81-fed3-5038-b9f2-94e631d0c5cb",
+        "byline": "By Michael Crowley",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T14:27:41-04:00",
+        "created_date": "2025-05-09T13:39:58-04:00",
+        "published_date": "2025-05-09T13:39:58-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Citizenship and Naturalization"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-citizenship-wmzq/09pope-blog-citizenship-wmzq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Crowds watch Pope Leo XIV on a teleprompter on Thursday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-citizenship-wmzq/09pope-blog-citizenship-wmzq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Crowds watch Pope Leo XIV on a teleprompter on Thursday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-citizenship-wmzq/09pope-blog-citizenship-wmzq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Crowds watch Pope Leo XIV on a teleprompter on Thursday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Drones Complicate the Fight Between India and Pakistan",
+        "abstract": "India has said it identified Turkish drones used by Pakistan; Pakistan said it identified Israeli drones used by India. Neither of those reports could be independently verified.",
+        "url": "https://www.nytimes.com/2025/05/09/world/asia/drones-india-pakistan-fighting.html",
+        "uri": "nyt://article/1a161349-525c-5999-bc2b-17c3e589fc8f",
+        "byline": "By Lara Jakes",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T14:11:31-04:00",
+        "created_date": "2025-05-09T13:33:43-04:00",
+        "published_date": "2025-05-09T13:33:43-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Drones (Pilotless Planes)",
+            "Territorial Disputes"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Israel",
+            "Pakistan",
+            "Turkey"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-pakistan-drones-kzgb/09india-pakistan-drones-kzgb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A damaged restaurant in Rawalpindi, Pakistan, on Thursday. India and Pakistan have been developing their respective drone-building industries in recent years.",
+                "copyright": "Aamir Qureshi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-pakistan-drones-kzgb/09india-pakistan-drones-kzgb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A damaged restaurant in Rawalpindi, Pakistan, on Thursday. India and Pakistan have been developing their respective drone-building industries in recent years.",
+                "copyright": "Aamir Qureshi/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09india-pakistan-drones-kzgb/09india-pakistan-drones-kzgb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A damaged restaurant in Rawalpindi, Pakistan, on Thursday. India and Pakistan have been developing their respective drone-building industries in recent years.",
+                "copyright": "Aamir Qureshi/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "On climate change, the new pope is likely to match Francis’ focus.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/09/world/pope-leo-xiv-news/on-climate-change-the-new-pope-is-likely-to-follow-francis",
+        "uri": "nyt://article/cc647aff-9205-5886-a585-65ecc26a3d0d",
+        "byline": "By Max Bearak",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T13:36:31-04:00",
+        "created_date": "2025-05-09T13:24:50-04:00",
+        "published_date": "2025-05-09T13:24:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-climate-pjwm/09pope-blog-climate-pjwm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "As a cardinal, Pope Leo XIV spoke at a seminar last year in which he urged the world to move from “words to action” on tackling climate change.",
+                "copyright": "Charlie Riedel/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-climate-pjwm/09pope-blog-climate-pjwm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "As a cardinal, Pope Leo XIV spoke at a seminar last year in which he urged the world to move from “words to action” on tackling climate change.",
+                "copyright": "Charlie Riedel/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09pope-blog-climate-pjwm/09pope-blog-climate-pjwm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "As a cardinal, Pope Leo XIV spoke at a seminar last year in which he urged the world to move from “words to action” on tackling climate change.",
+                "copyright": "Charlie Riedel/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The church might resist any rush to make Pope Francis a saint.",
+        "abstract": "St. John Paul II cut the waiting period to five years, but his own canonization nine years after his death has become a cautionary tale.",
+        "url": "https://www.nytimes.com/live/2025/05/09/world/pope-leo-xiv-news/the-church-might-resist-a-rush-to-make-pope-francis-a-saint",
+        "uri": "nyt://article/54f05d5b-17c9-535d-b0f4-03711d070e06",
+        "byline": "By Joe Drape",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T13:37:26-04:00",
+        "created_date": "2025-05-09T12:44:56-04:00",
+        "published_date": "2025-05-09T12:44:56-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [
+            "Leo XIV"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-sainthood-qkjf/08pope-conclave-sainthood-qkjf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope John Paul II cut the waiting period for sainthood to five years, but his canonization has become a cautionary tale.",
+                "copyright": "Vincenzo Pinto/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-sainthood-qkjf/08pope-conclave-sainthood-qkjf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope John Paul II cut the waiting period for sainthood to five years, but his canonization has become a cautionary tale.",
+                "copyright": "Vincenzo Pinto/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/08/multimedia/08pope-conclave-sainthood-qkjf/08pope-conclave-sainthood-qkjf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope John Paul II cut the waiting period for sainthood to five years, but his canonization has become a cautionary tale.",
+                "copyright": "Vincenzo Pinto/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
