@@ -83484,5 +83484,69 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How Front Pages Around the World Covered the Selection of Pope Leo XIV",
+        "abstract": "In a digital age, the front pages of print newspapers can still capture a historic moment as they did on Friday with word-playing headlines, splashy photos and a dose of solemnity.",
+        "url": "https://www.nytimes.com/2025/05/10/world/europe/pope-leo-news-front-pages.html",
+        "uri": "nyt://article/59bd7d9c-5d66-5fe0-9d00-b42a6aed5b19",
+        "byline": "By Simon J. Levien",
+        "item_type": "Article",
+        "updated_date": "2025-05-10T19:07:16-04:00",
+        "created_date": "2025-05-10T19:07:16-04:00",
+        "published_date": "2025-05-10T19:07:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Newspapers"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV"
+        ],
+        "geo_facet": [
+            "United States",
+            "Chicago (Ill)",
+            "Peru",
+            "Philadelphia (Pa)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10xp-popepages-jglp/10xp-popepages-jglp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A person reads the Vatican newspaper L’Osservatore Romano on Friday in Vatican City.",
+                "copyright": "Antonio Masiello/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10xp-popepages-jglp/10xp-popepages-jglp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A person reads the Vatican newspaper L’Osservatore Romano on Friday in Vatican City.",
+                "copyright": "Antonio Masiello/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10xp-popepages-jglp/10xp-popepages-jglp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A person reads the Vatican newspaper L’Osservatore Romano on Friday in Vatican City.",
+                "copyright": "Antonio Masiello/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
