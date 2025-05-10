@@ -82901,5 +82901,68 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "European Leaders Visit Kyiv in a Show of Solidarity for Ukraine",
+        "abstract": "They renewed the push for an unconditional 30-day cease-fire that Russia has rebuffed.",
+        "url": "https://www.nytimes.com/2025/05/10/world/europe/ukraine-war-visit-starmer-macron-zelensky-merz.html",
+        "uri": "nyt://article/f7bab1a1-2d6c-59a0-8f54-97c3a81b0033",
+        "byline": "By Marc Santora",
+        "item_type": "Article",
+        "updated_date": "2025-05-10T07:15:11-04:00",
+        "created_date": "2025-05-10T07:15:11-04:00",
+        "published_date": "2025-05-10T07:15:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Merz, Friedrich",
+            "Macron, Emmanuel (1977- )",
+            "Putin, Vladimir V",
+            "Starmer, Keir"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-europe-hwgl/10int-ukraine-europe-hwgl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left: Prime Minister Donald Tusk of Poland, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine and Chancellor Friedrich Merz of Germany, in Kyiv, Ukraine, on Saturday.",
+                "copyright": "Valentyn Ogirenko/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-europe-hwgl/10int-ukraine-europe-hwgl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left: Prime Minister Donald Tusk of Poland, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine and Chancellor Friedrich Merz of Germany, in Kyiv, Ukraine, on Saturday.",
+                "copyright": "Valentyn Ogirenko/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-europe-hwgl/10int-ukraine-europe-hwgl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left: Prime Minister Donald Tusk of Poland, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine and Chancellor Friedrich Merz of Germany, in Kyiv, Ukraine, on Saturday.",
+                "copyright": "Valentyn Ogirenko/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
