@@ -82064,5 +82064,339 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India and Pakistan Escalate Attacks to Military Bases",
+        "abstract": "Pakistan accused India of launching air-to-surface missiles that targeted at least three bases. Soon after, Pakistani officials said retaliatory action against Indian bases had begun.",
+        "url": "https://www.nytimes.com/2025/05/09/world/asia/india-pakistan-kashmir-drones.html",
+        "uri": "nyt://article/874162c2-71bd-5ae8-acbb-1603e656fd1a",
+        "byline": "By Anupreeta Das and Salman Masood",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T23:38:41-04:00",
+        "created_date": "2025-05-09T16:31:40-04:00",
+        "published_date": "2025-05-09T16:31:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Defense and Military Forces",
+            "Drones (Pilotless Planes)",
+            "Terrorism",
+            "Territorial Disputes",
+            "Nuclear Weapons",
+            "Missiles and Missile Defense Systems",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Pakistan",
+            "Kashmir",
+            "Jaipur (India)",
+            "Jaisalmer (India)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09INT-INDIA-PAKISTAN-LEDEALL-fcjh/09INT-INDIA-PAKISTAN-LEDEALL-fcjh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Streaks in the skies over Jammu, a city in the part of Kashmir that India controls. Residents reported a blackout and sounds of explosions on Friday.",
+                "copyright": "Anindito Mukherjee/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09INT-INDIA-PAKISTAN-LEDEALL-fcjh/09INT-INDIA-PAKISTAN-LEDEALL-fcjh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Streaks in the skies over Jammu, a city in the part of Kashmir that India controls. Residents reported a blackout and sounds of explosions on Friday.",
+                "copyright": "Anindito Mukherjee/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09INT-INDIA-PAKISTAN-LEDEALL-fcjh/09INT-INDIA-PAKISTAN-LEDEALL-fcjh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Streaks in the skies over Jammu, a city in the part of Kashmir that India controls. Residents reported a blackout and sounds of explosions on Friday.",
+                "copyright": "Anindito Mukherjee/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Billionaires’ Battle Over a Sculpture Exposes a Mysterious Art Market",
+        "abstract": "David Geffen and Justin Sun’s unusually public dispute over ownership of a Giacometti sculpture valued at tens of millions of dollars gives a glimpse into a shrouded world.",
+        "url": "https://www.nytimes.com/2025/05/10/world/europe/geffen-sun-giacometti-nez.html",
+        "uri": "nyt://article/2423fc72-c5f3-582d-ba8f-a3986d98bfce",
+        "byline": "By Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-05-10T00:01:13-04:00",
+        "created_date": "2025-05-10T00:01:13-04:00",
+        "published_date": "2025-05-10T00:01:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Frauds and Swindling",
+            "Art",
+            "Collectors and Collections",
+            "Suits and Litigation (Civil)",
+            "Robberies and Thefts",
+            "Virtual Currency"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Geffen, David",
+            "Sun, Justin (1990- )",
+            "Giacometti, Alberto"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/00int-Giacometti-Lawsuit-lhcg/00int-Giacometti-Lawsuit-lhcg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alberto Giacometti’s “Le Nez\" on display at Sotheby’s in New York City in 2021.",
+                "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/00int-Giacometti-Lawsuit-lhcg/00int-Giacometti-Lawsuit-lhcg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alberto Giacometti’s “Le Nez\" on display at Sotheby’s in New York City in 2021.",
+                "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/00int-Giacometti-Lawsuit-lhcg/00int-Giacometti-Lawsuit-lhcg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Alberto Giacometti’s “Le Nez\" on display at Sotheby’s in New York City in 2021.",
+                "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "This Is the Trade Conflict Xi Jinping Has Been Waiting For",
+        "abstract": "For years, the leader of China has planned to make the world dependent on its exports and know-how. But the strategy has costs for his own country.",
+        "url": "https://www.nytimes.com/2025/05/10/world/asia/xi-jinping-china-trade-war.html",
+        "uri": "nyt://article/3bbdbe26-4c73-50b2-bca7-458f01583e67",
+        "byline": "By David Pierson",
+        "item_type": "Article",
+        "updated_date": "2025-05-10T00:01:11-04:00",
+        "created_date": "2025-05-10T00:01:11-04:00",
+        "published_date": "2025-05-10T00:01:11-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "International Relations",
+            "Embargoes and Sanctions",
+            "United States Politics and Government",
+            "United States International Relations",
+            "International Trade and World Market",
+            "United States Economy",
+            "Customs (Tariff)",
+            "Economic Conditions and Trends",
+            "Factories and Manufacturing"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Xi Jinping",
+            "Froman, Michael B",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00int-china-us-01-fjqm/00int-china-us-01-fjqm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1366,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When the Trump administration put huge tariffs on Chinese goods, Xi Jinping was able to go on the offensive.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00int-china-us-01-fjqm/00int-china-us-01-fjqm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When the Trump administration put huge tariffs on Chinese goods, Xi Jinping was able to go on the offensive.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00int-china-us-01-fjqm/00int-china-us-01-fjqm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When the Trump administration put huge tariffs on Chinese goods, Xi Jinping was able to go on the offensive.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How Macron Became a Close Zelensky Ally",
+        "abstract": "The French and Ukrainian presidents have a particular bond, built on a common goal of protecting Ukraine and deflecting Russia.",
+        "url": "https://www.nytimes.com/2025/05/10/world/europe/macron-zelensky-relationship.html",
+        "uri": "nyt://article/132dbb1a-67c0-50cf-be00-8575d265f60d",
+        "byline": "By Catherine Porter and Constant Méheut",
+        "item_type": "Article",
+        "updated_date": "2025-05-10T00:01:09-04:00",
+        "created_date": "2025-05-10T00:01:09-04:00",
+        "published_date": "2025-05-10T00:01:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "United States International Relations",
+            "Russian Invasion of Ukraine (2022)",
+            "Politics and Government",
+            "Foreign Aid",
+            "Defense and Military Forces",
+            "Peace Process"
+        ],
+        "org_facet": [
+            "Elysee Palace (Paris, France)"
+        ],
+        "per_facet": [
+            "Macron, Emmanuel (1977- )",
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Russia",
+            "Ukraine",
+            "France"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-macron-zelensky-01-wpzh/10int-macron-zelensky-01-wpzh-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Emmanuel Macron of France, right, and President Volodymyr Zelensky of Ukraine preparing to board a flight from a military airport near Paris in 2023.",
+                "copyright": "Pool photo by Mohammed Badra"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-macron-zelensky-01-wpzh/10int-macron-zelensky-01-wpzh-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Emmanuel Macron of France, right, and President Volodymyr Zelensky of Ukraine preparing to board a flight from a military airport near Paris in 2023.",
+                "copyright": "Pool photo by Mohammed Badra"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-macron-zelensky-01-wpzh/10int-macron-zelensky-01-wpzh-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Emmanuel Macron of France, right, and President Volodymyr Zelensky of Ukraine preparing to board a flight from a military airport near Paris in 2023.",
+                "copyright": "Pool photo by Mohammed Badra"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "",
+        "title": "In Pope Leo, Some in MAGA Movement See an Antagonist",
+        "abstract": "While President Trump welcomed the U.S.-born cardinal as the new pope, top Trump allies criticized Leo XIV for his similarities to Pope Francis.",
+        "url": "https://www.nytimes.com/2025/05/09/us/pope-leo-maga-donald-trump-steve-bannon.html",
+        "uri": "nyt://article/5082dcd6-1471-56a0-9480-511223349c9e",
+        "byline": "By Tim Balk",
+        "item_type": "Article",
+        "updated_date": "2025-05-09T23:44:09-04:00",
+        "created_date": "2025-05-09T23:44:09-04:00",
+        "published_date": "2025-05-09T23:44:09-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "United States Politics and Government",
+            "Deportation",
+            "Right-Wing Extremism and Alt-Right",
+            "Immigration and Emigration",
+            "Conservatism (US Politics)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Bannon, Stephen K",
+            "Francis",
+            "Leo XIV",
+            "Loomer, Laura"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/pope-maga-mgbq/pope-maga-mgbq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Laura Loomer, center, a far-right activist who holds significant sway with President Trump, described Pope Leo XIV as “anti-Trump, anti-MAGA, pro-open Borders, and a total Marxist” in a social media post on Thursday.",
+                "copyright": "Federico Rios for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/pope-maga-mgbq/pope-maga-mgbq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Laura Loomer, center, a far-right activist who holds significant sway with President Trump, described Pope Leo XIV as “anti-Trump, anti-MAGA, pro-open Borders, and a total Marxist” in a social media post on Thursday.",
+                "copyright": "Federico Rios for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/pope-maga-mgbq/pope-maga-mgbq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Laura Loomer, center, a far-right activist who holds significant sway with President Trump, described Pope Leo XIV as “anti-Trump, anti-MAGA, pro-open Borders, and a total Marxist” in a social media post on Thursday.",
+                "copyright": "Federico Rios for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
