@@ -82529,5 +82529,266 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Voice of Lay Catholics Is Likely to Be Heard in Leo XIV’s Church",
+        "abstract": "When still a cardinal, the new pope led discussions on key issues facing the church during which “every voice had equal value,” whether an archbishop or an unordained believer.",
+        "url": "https://www.nytimes.com/2025/05/10/world/europe/pope-leo-xiv-lay-catholics-synodal.html",
+        "uri": "nyt://article/062b40f4-18ec-53fb-8548-5ecc9f80a6f6",
+        "byline": "By Motoko Rich",
+        "item_type": "Article",
+        "updated_date": "2025-05-10T05:19:55-04:00",
+        "created_date": "2025-05-10T05:03:01-04:00",
+        "published_date": "2025-05-10T05:03:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Religion and Belief",
+            "Cardinals (Roman Catholic Prelates)",
+            "Clergy"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV",
+            "Francis"
+        ],
+        "geo_facet": [
+            "Vatican City"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-pope-synod-tlkq/10int-pope-synod-tlkq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When Pope Leo XIV gave his first address as pontiff, he called for a “synodal church,” indicating that he would continue the practice of listening closely to many voices.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-pope-synod-tlkq/10int-pope-synod-tlkq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When Pope Leo XIV gave his first address as pontiff, he called for a “synodal church,” indicating that he would continue the practice of listening closely to many voices.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-pope-synod-tlkq/10int-pope-synod-tlkq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When Pope Leo XIV gave his first address as pontiff, he called for a “synodal church,” indicating that he would continue the practice of listening closely to many voices.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Putin Puts on Show of Defiance as Cease-Fire Talks Drag On",
+        "abstract": "Russia’s president used the celebration of victory in World War II to highlight the resources he has to keep fighting in Ukraine.",
+        "url": "https://www.nytimes.com/2025/05/10/world/europe/putin-russia-victory-day-parade.html",
+        "uri": "nyt://article/76cd7d0a-a1fb-5c6b-9b3f-555ea2d20b23",
+        "byline": "By Paul Sonne",
+        "item_type": "Article",
+        "updated_date": "2025-05-10T05:01:40-04:00",
+        "created_date": "2025-05-10T05:01:40-04:00",
+        "published_date": "2025-05-10T05:01:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States Politics and Government",
+            "United States International Relations",
+            "Peace Process",
+            "Embargoes and Sanctions"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-russia-assess-1-qlwz/10int-russia-assess-1-qlwz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1289,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The annual Victory Day Parade, in Moscow on Friday, signaled President Vladimir V. Putin’s ability to continue the war in Ukraine.",
+                "copyright": "Maxim Shemetov/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-russia-assess-1-qlwz/10int-russia-assess-1-qlwz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The annual Victory Day Parade, in Moscow on Friday, signaled President Vladimir V. Putin’s ability to continue the war in Ukraine.",
+                "copyright": "Maxim Shemetov/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-russia-assess-1-qlwz/10int-russia-assess-1-qlwz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The annual Victory Day Parade, in Moscow on Friday, signaled President Vladimir V. Putin’s ability to continue the war in Ukraine.",
+                "copyright": "Maxim Shemetov/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Europe Wants to Arm Ukraine, but It’s Losing a Race Against Time",
+        "abstract": "President Trump’s insistence that the United States do less toward securing Europe means that allies, scrambling to arm themselves, have less to give to Ukraine.",
+        "url": "https://www.nytimes.com/2025/05/10/world/europe/eu-ukraine-weapons.html",
+        "uri": "nyt://article/cc142485-c624-55fc-bba7-f874b16dda1e",
+        "byline": "By Lara Jakes",
+        "item_type": "Article",
+        "updated_date": "2025-05-10T05:01:36-04:00",
+        "created_date": "2025-05-10T05:01:36-04:00",
+        "published_date": "2025-05-10T05:01:36-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "Russian Invasion of Ukraine (2022)",
+            "United States International Relations",
+            "Foreign Aid",
+            "Missiles and Missile Defense Systems",
+            "International Relations",
+            "Arms Trade",
+            "Peace Process"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Russia",
+            "Ukraine"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-weapons-fkch/10int-ukraine-weapons-fkch-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Men worked on drones in a basement in Ukraine. With American aid uncertain, Ukraine is expanding fighting units with domestically assembled exploding drones.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-weapons-fkch/10int-ukraine-weapons-fkch-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Men worked on drones in a basement in Ukraine. With American aid uncertain, Ukraine is expanding fighting units with domestically assembled exploding drones.",
+                "copyright": "Tyler Hicks/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-weapons-fkch/10int-ukraine-weapons-fkch-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Men worked on drones in a basement in Ukraine. With American aid uncertain, Ukraine is expanding fighting units with domestically assembled exploding drones.",
+                "copyright": "Tyler Hicks/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "The Trade War’s Impact on Your Barbecue: Pricier Burgers",
+        "abstract": "Americans are eating record amounts of Brazilian beef. Now, tariffs and trade wars could push up U.S. prices and send more of it to China.",
+        "url": "https://www.nytimes.com/2025/05/10/world/americas/trade-war-burgers-brazil-meat.html",
+        "uri": "nyt://article/c95916c9-47b4-5ccd-87a7-f987bad251df",
+        "byline": "By Ana Ionova",
+        "item_type": "Article",
+        "updated_date": "2025-05-10T05:00:19-04:00",
+        "created_date": "2025-05-10T05:00:19-04:00",
+        "published_date": "2025-05-10T05:00:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Beef",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "United States International Relations",
+            "Protectionism (Trade)",
+            "Cattle",
+            "Meat"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Da Silva, Luiz Inacio Lula"
+        ],
+        "geo_facet": [
+            "Brazil",
+            "China",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00int-brazil-us-beef-bhlm/00int-brazil-us-beef-bhlm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1385,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Hamburger patties grilled in American backyard barbecues and fast-food restaurants are often a blend of ground beef, both homegrown and imported from other countries, especially Brazil.",
+                "copyright": "Francesco Tonelli for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00int-brazil-us-beef-bhlm/00int-brazil-us-beef-bhlm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Hamburger patties grilled in American backyard barbecues and fast-food restaurants are often a blend of ground beef, both homegrown and imported from other countries, especially Brazil.",
+                "copyright": "Francesco Tonelli for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/06/multimedia/00int-brazil-us-beef-bhlm/00int-brazil-us-beef-bhlm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Hamburger patties grilled in American backyard barbecues and fast-food restaurants are often a blend of ground beef, both homegrown and imported from other countries, especially Brazil.",
+                "copyright": "Francesco Tonelli for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
