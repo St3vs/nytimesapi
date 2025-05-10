@@ -82964,5 +82964,64 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Leo XIV Outlines a Path for a Modern Church That Follows Francis’ Steps",
+        "abstract": "The new pope said he would be guided by a key document that his predecessor wrote listing the church’s priorities, including a “loving care for the least and the rejected.”",
+        "url": "https://www.nytimes.com/2025/05/10/world/europe/leo-xiv-pope-francis-catholic-church.html",
+        "uri": "nyt://article/2d7c2339-8ba6-5cd9-91d3-b8d4157673a9",
+        "byline": "By Emma Bubola",
+        "item_type": "Article",
+        "updated_date": "2025-05-10T09:20:12-04:00",
+        "created_date": "2025-05-10T09:19:23-04:00",
+        "published_date": "2025-05-10T09:19:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV",
+            "Francis"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10pope-speech-wztg/10pope-speech-wztg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Leo XIV, on Thursday, after he became pope. On Saturday, the pope said that advances in artificial intelligence would “pose new challenges for the defense of human dignity, justice and labor.”",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10pope-speech-wztg/10pope-speech-wztg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Leo XIV, on Thursday, after he became pope. On Saturday, the pope said that advances in artificial intelligence would “pose new challenges for the defense of human dignity, justice and labor.”",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10pope-speech-wztg/10pope-speech-wztg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Leo XIV, on Thursday, after he became pope. On Saturday, the pope said that advances in artificial intelligence would “pose new challenges for the defense of human dignity, justice and labor.”",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
