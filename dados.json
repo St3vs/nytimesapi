@@ -83023,5 +83023,186 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "European Leaders Visit Kyiv and Press Russia for a 30-Day Cease-Fire",
+        "abstract": "They said that if President Vladimir V. Putin did not agree to the cease-fire, more sanctions would be imposed.",
+        "url": "https://www.nytimes.com/2025/05/10/world/europe/ukraine-war-visit-starmer-macron-zelensky-merz.html",
+        "uri": "nyt://article/f7bab1a1-2d6c-59a0-8f54-97c3a81b0033",
+        "byline": "By Marc Santora",
+        "item_type": "Article",
+        "updated_date": "2025-05-10T11:01:00-04:00",
+        "created_date": "2025-05-10T07:15:11-04:00",
+        "published_date": "2025-05-10T07:15:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Merz, Friedrich",
+            "Macron, Emmanuel (1977- )",
+            "Putin, Vladimir V",
+            "Starmer, Keir"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-europe-hwgl/10int-ukraine-europe-hwgl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Donald Tusk of Poland, left, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine and Chancellor Friedrich Merz of Germany on Saturday Kyiv, Ukraine.",
+                "copyright": "Valentyn Ogirenko/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-europe-hwgl/10int-ukraine-europe-hwgl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Donald Tusk of Poland, left, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine and Chancellor Friedrich Merz of Germany on Saturday Kyiv, Ukraine.",
+                "copyright": "Valentyn Ogirenko/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-europe-hwgl/10int-ukraine-europe-hwgl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Donald Tusk of Poland, left, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine and Chancellor Friedrich Merz of Germany on Saturday Kyiv, Ukraine.",
+                "copyright": "Valentyn Ogirenko/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "World Catholics See the First American Pope as Hardly American",
+        "abstract": "Catholics around the world were skeptical at first about an American pope. But Pope Leo XIV’s multicultural and multilingual identity has put them at ease.",
+        "url": "https://www.nytimes.com/2025/05/10/world/americas/pope-leo-american-popular-world-reaction.html",
+        "uri": "nyt://article/497ab20d-e645-5fe0-83ff-5ff9a91229ad",
+        "byline": "By Patricia Mazzei",
+        "item_type": "Article",
+        "updated_date": "2025-05-10T11:20:15-04:00",
+        "created_date": "2025-05-10T10:35:17-04:00",
+        "published_date": "2025-05-10T10:35:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "United States Politics and Government",
+            "Cardinals (Roman Catholic Prelates)",
+            "Religion-State Relations",
+            "Citizenship and Naturalization"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV",
+            "Francis",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-pope-global-bftj/10int-pope-global-bftj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Peruvians celebrating the election of Cardinal Robert Prevost as the new pope, in the city of Chiclayo, Peru, where he once served as bishop.",
+                "copyright": "Marco Garro for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-pope-global-bftj/10int-pope-global-bftj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Peruvians celebrating the election of Cardinal Robert Prevost as the new pope, in the city of Chiclayo, Peru, where he once served as bishop.",
+                "copyright": "Marco Garro for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-pope-global-bftj/10int-pope-global-bftj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Peruvians celebrating the election of Cardinal Robert Prevost as the new pope, in the city of Chiclayo, Peru, where he once served as bishop.",
+                "copyright": "Marco Garro for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "",
+        "title": "India and Pakistan, old enemies, had a new weapon this time: drones.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/10/world/pakistan-india-kashmir/india-and-pakistan-old-enemies-had-a-new-weapon-this-time-drones",
+        "uri": "nyt://article/47678187-751d-5c3e-8841-796d1451b843",
+        "byline": "By Lara Jakes",
+        "item_type": "Article",
+        "updated_date": "2025-05-10T10:23:38-04:00",
+        "created_date": "2025-05-10T10:23:38-04:00",
+        "published_date": "2025-05-10T10:23:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10india-pakistan-drones-bgwl/10india-pakistan-drones-bgwl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1367,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Kamikaze drone deployed in Ukraine in 2023. Both India and Pakistan have been developing their respective drone-building industries in recent years, and both import drones from foreign allies.",
+                "copyright": "Nicole Tung for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10india-pakistan-drones-bgwl/10india-pakistan-drones-bgwl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Kamikaze drone deployed in Ukraine in 2023. Both India and Pakistan have been developing their respective drone-building industries in recent years, and both import drones from foreign allies.",
+                "copyright": "Nicole Tung for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10india-pakistan-drones-bgwl/10india-pakistan-drones-bgwl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A Kamikaze drone deployed in Ukraine in 2023. Both India and Pakistan have been developing their respective drone-building industries in recent years, and both import drones from foreign allies.",
+                "copyright": "Nicole Tung for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
