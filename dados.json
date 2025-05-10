@@ -83204,5 +83204,67 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India and Pakistan Announce Cease-Fire After Days of Escalating Fighting",
+        "abstract": "President Trump also announced the cease-fire, saying it had been mediated by the United States, although only Pakistan quickly acknowledged an American role.",
+        "url": "https://www.nytimes.com/2025/05/10/world/asia/india-pakistan-conflict.html",
+        "uri": "nyt://article/e5d8ac99-d586-5955-b08d-526af0fe6dc2",
+        "byline": "By Anupreeta Das, Mujib Mashal and Salman Masood",
+        "item_type": "Article",
+        "updated_date": "2025-05-10T12:01:02-04:00",
+        "created_date": "2025-05-10T02:21:04-04:00",
+        "published_date": "2025-05-10T02:21:04-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts",
+            "Military Bases and Installations",
+            "Missiles and Missile Defense Systems",
+            "Defense and Military Forces",
+            "Territorial Disputes"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Pakistan",
+            "Kashmir"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-india-pakistan-leadall-wcpm/10int-india-pakistan-leadall-wcpm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Celebrations after the announcement of a cease-fire between Pakistan and India on Saturday in Multan, Pakistan.",
+                "copyright": "Asim Tanveer/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-india-pakistan-leadall-wcpm/10int-india-pakistan-leadall-wcpm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Celebrations after the announcement of a cease-fire between Pakistan and India on Saturday in Multan, Pakistan.",
+                "copyright": "Asim Tanveer/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-india-pakistan-leadall-wcpm/10int-india-pakistan-leadall-wcpm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Celebrations after the announcement of a cease-fire between Pakistan and India on Saturday in Multan, Pakistan.",
+                "copyright": "Asim Tanveer/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
