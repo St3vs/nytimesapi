@@ -83931,5 +83931,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "A Night in Kashmir, Caught Between India and Pakistan’s Fight",
+        "abstract": "Far from the missile strikes and drone combat that grabbed the world’s attention, ordinary Kashmiris suffer the heaviest toll of India and Pakistan’s confrontation.",
+        "url": "https://www.nytimes.com/2025/05/11/world/asia/kashmir-conflict-eyewitness.html",
+        "uri": "nyt://article/f5a86eaf-fd20-5aeb-91ce-bace41167c3c",
+        "byline": "By Showkat Nanda",
+        "item_type": "Article",
+        "updated_date": "2025-05-11T01:58:54-04:00",
+        "created_date": "2025-05-11T01:58:54-04:00",
+        "published_date": "2025-05-11T01:58:54-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Territorial Disputes",
+            "International Relations",
+            "Civilian Casualties",
+            "Missiles and Missile Defense Systems"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kashmir",
+            "India",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-kashmir-scene-01-fhjw/11int-kashmir-scene-01-fhjw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A damaged house on Friday after overnight shelling in Gingal near Garkote, a village on the Indian-adminstered side of Kashmir.",
+                "copyright": "Dar Yasin/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-kashmir-scene-01-fhjw/11int-kashmir-scene-01-fhjw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A damaged house on Friday after overnight shelling in Gingal near Garkote, a village on the Indian-adminstered side of Kashmir.",
+                "copyright": "Dar Yasin/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-kashmir-scene-01-fhjw/11int-kashmir-scene-01-fhjw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A damaged house on Friday after overnight shelling in Gingal near Garkote, a village on the Indian-adminstered side of Kashmir.",
+                "copyright": "Dar Yasin/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
