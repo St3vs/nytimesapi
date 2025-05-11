@@ -84645,5 +84645,65 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "weather",
+        "subsection": "",
+        "title": "Britain Battles Wildfires Amid Drought Warnings",
+        "abstract": "A very dry start to spring has helped set off wildfires across Scotland, Wales and England, and officials have warned of a potential drought this summer.",
+        "url": "https://www.nytimes.com/2025/05/11/weather/uk-wildfires-drought-warnings.html",
+        "uri": "nyt://article/1200dc99-5954-5671-83cd-456eabc27d01",
+        "byline": "By Nazaneen Ghaffar",
+        "item_type": "Article",
+        "updated_date": "2025-05-11T10:33:28-04:00",
+        "created_date": "2025-05-11T10:33:28-04:00",
+        "published_date": "2025-05-11T10:33:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Wildfires",
+            "Weather"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Great Britain",
+            "England",
+            "Wales",
+            "Scotland"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/world/11wea-ukwildfires/11wea-ukwildfires-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 600,
+                "width": 900,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A wildfire in Dartmoor, England, this month.",
+                "copyright": "Devon and Somerset Fire and Rescue Service"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/world/11wea-ukwildfires/11wea-ukwildfires-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A wildfire in Dartmoor, England, this month.",
+                "copyright": "Devon and Somerset Fire and Rescue Service"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/world/11wea-ukwildfires/11wea-ukwildfires-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A wildfire in Dartmoor, England, this month.",
+                "copyright": "Devon and Somerset Fire and Rescue Service"
+            }
+        ],
+        "short_url": ""
     }
 ]
