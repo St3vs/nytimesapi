@@ -83548,5 +83548,135 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "European Leaders Pressure Russia for a Cease-Fire, but Putin Refuses",
+        "abstract": "Faced with the threat of new sanctions, President Vladimir V. Putin called for direct talks between Ukraine and Russia in the coming days.",
+        "url": "https://www.nytimes.com/2025/05/10/world/europe/ukraine-war-visit-starmer-macron-zelensky-merz.html",
+        "uri": "nyt://article/f7bab1a1-2d6c-59a0-8f54-97c3a81b0033",
+        "byline": "By Marc Santora and Anton Troianovski",
+        "item_type": "Article",
+        "updated_date": "2025-05-10T19:58:32-04:00",
+        "created_date": "2025-05-10T07:15:11-04:00",
+        "published_date": "2025-05-10T07:15:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Merz, Friedrich",
+            "Macron, Emmanuel (1977- )",
+            "Putin, Vladimir V",
+            "Starmer, Keir"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-europe-hwgl/10int-ukraine-europe-hwgl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Donald Tusk of Poland, left, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine and Chancellor Friedrich Merz of Germany on Saturday in Kyiv, Ukraine.",
+                "copyright": "Valentyn Ogirenko/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-europe-hwgl/10int-ukraine-europe-hwgl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Donald Tusk of Poland, left, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine and Chancellor Friedrich Merz of Germany on Saturday in Kyiv, Ukraine.",
+                "copyright": "Valentyn Ogirenko/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/10int-ukraine-europe-hwgl/10int-ukraine-europe-hwgl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Donald Tusk of Poland, left, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine and Chancellor Friedrich Merz of Germany on Saturday in Kyiv, Ukraine.",
+                "copyright": "Valentyn Ogirenko/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Margot Friedländer, Holocaust Survivor Who Found Her Voice, Dies at 103",
+        "abstract": "She never spoke of her experience until after her husband’s death, when she returned to Berlin with a mission to tell her story, and to teach tolerance.",
+        "url": "https://www.nytimes.com/2025/05/10/world/europe/margot-friedlander-dead.html",
+        "uri": "nyt://article/37e684a2-d8e7-5bb9-ba69-10d2874b1c37",
+        "byline": "By Penelope Green",
+        "item_type": "Article",
+        "updated_date": "2025-05-10T20:27:49-04:00",
+        "created_date": "2025-05-10T19:16:13-04:00",
+        "published_date": "2025-05-10T19:16:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Deaths (Obituaries)",
+            "Holocaust and the Nazi Era",
+            "World War II (1939-45)",
+            "Jews and Judaism",
+            "Concentration Camps",
+            "Immigration and Emigration",
+            "War Crimes, Genocide and Crimes Against Humanity",
+            "Dont Call It Heimweh (Movie)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Friedlander, Margot (1921-2025)",
+            "Halaczinsky, Thomas"
+        ],
+        "geo_facet": [
+            "Berlin (Germany)",
+            "Manhattan (NYC)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/10Friedlander--01-wmph/10Friedlander--01-wmph-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1520,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Margot Friedländer at a ceremony in Berlin marking International Holocaust Remembrance Day on Jan. 27, 2023. She became a champion of Holocaust remembrance after moving back from New York to Germany in 2010. ",
+                "copyright": "Stefani Loos/Agence France-Presse &mdash; Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/10Friedlander--01-wmph/10Friedlander--01-wmph-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Margot Friedländer at a ceremony in Berlin marking International Holocaust Remembrance Day on Jan. 27, 2023. She became a champion of Holocaust remembrance after moving back from New York to Germany in 2010. ",
+                "copyright": "Stefani Loos/Agence France-Presse &mdash; Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/10Friedlander--01-wmph/10Friedlander--01-wmph-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Margot Friedländer at a ceremony in Berlin marking International Holocaust Remembrance Day on Jan. 27, 2023. She became a champion of Holocaust remembrance after moving back from New York to Germany in 2010. ",
+                "copyright": "Stefani Loos/Agence France-Presse &mdash; Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
