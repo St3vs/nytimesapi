@@ -85018,5 +85018,181 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Diplomatic Brinkmanship as Zelensky and Putin Spar Over Direct Talks on Ukraine",
+        "abstract": "The Ukrainian president claimed he was ready to travel to Turkey to meet with  Russia's leader, but he also insisted on an immediate truce before negotiations can begin.",
+        "url": "https://www.nytimes.com/2025/05/11/world/europe/ukraine-russia-ceasefire-talks-putin-zelensky.html",
+        "uri": "nyt://article/d9c5ce63-ae60-52a3-bf0c-5320a870dede",
+        "byline": "By Andrew E. Kramer",
+        "item_type": "Article",
+        "updated_date": "2025-05-11T17:18:46-04:00",
+        "created_date": "2025-05-11T06:24:46-04:00",
+        "published_date": "2025-05-11T06:24:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Putin, Vladimir V",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-ukraine-talks-qcft/11int-ukraine-talks-qcft-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1272,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left: Chancellor Friedrich Merz of Germany, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine, Prime Minister Keir Starmer of Britain and Prime Minister Donald Tusk of Poland in Kyiv on Saturday.",
+                "copyright": "Pool photo by Ludovic Marin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-ukraine-talks-qcft/11int-ukraine-talks-qcft-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left: Chancellor Friedrich Merz of Germany, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine, Prime Minister Keir Starmer of Britain and Prime Minister Donald Tusk of Poland in Kyiv on Saturday.",
+                "copyright": "Pool photo by Ludovic Marin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-ukraine-talks-qcft/11int-ukraine-talks-qcft-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left: Chancellor Friedrich Merz of Germany, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine, Prime Minister Keir Starmer of Britain and Prime Minister Donald Tusk of Poland in Kyiv on Saturday.",
+                "copyright": "Pool photo by Ludovic Marin"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Monday Briefing: U.S.-China Talks",
+        "abstract": "Plus, crypto bro fight club.",
+        "url": "https://www.nytimes.com/2025/05/11/briefing/us-china-talks-india-pakistan-truce-trump-netanyahu-divide.html",
+        "uri": "nyt://article/a45b0eb5-a7b0-591c-ba48-2e41d1972868",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-05-11T17:00:26-04:00",
+        "created_date": "2025-05-11T17:00:26-04:00",
+        "published_date": "2025-05-11T17:00:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/12ambriefing-asia-china/12ambriefing-asia-china-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Chinese delegation at the trade talks in Geneva.",
+                "copyright": "Denis Balibouse/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/12ambriefing-asia-china/11dc-china-talks-pblv-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Chinese delegation at the trade talks in Geneva.",
+                "copyright": "Denis Balibouse/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/12ambriefing-asia-china/11dc-china-talks-pblv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Members of the Chinese delegation at the trade talks in Geneva.",
+                "copyright": "Denis Balibouse/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "White South Africans Granted Refugee Status by Trump Leave for U.S.",
+        "abstract": "Dozens of Afrikaners who claim discrimination in their home country left Johannesburg on Sunday. Their departure for the U.S. came as the Trump administration was halting virtually all refugee admissions.",
+        "url": "https://www.nytimes.com/2025/05/11/world/africa/white-south-africans-granted-refugee-status-by-trump-leave-for-us.html",
+        "uri": "nyt://article/5284ddfd-a57a-5401-ac1f-7480260a63f1",
+        "byline": "By John Eligon",
+        "item_type": "Article",
+        "updated_date": "2025-05-11T17:00:52-04:00",
+        "created_date": "2025-05-11T16:38:30-04:00",
+        "published_date": "2025-05-11T16:38:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Politics and Government",
+            "Minorities",
+            "Refugees and Displaced Persons"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Ramaphosa, Cyril"
+        ],
+        "geo_facet": [
+            "South Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-safrica-afrikaner-HFO-gqjc/11int-safrica-afrikaner-HFO-gqjc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Afrikaners at the airport in Johannesburg before departing for the U.S. on Sunday.",
+                "copyright": "Ilan Godfrey for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-safrica-afrikaner-HFO-gqjc/11int-safrica-afrikaner-HFO-gqjc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Afrikaners at the airport in Johannesburg before departing for the U.S. on Sunday.",
+                "copyright": "Ilan Godfrey for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-safrica-afrikaner-HFO-gqjc/11int-safrica-afrikaner-HFO-gqjc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Afrikaners at the airport in Johannesburg before departing for the U.S. on Sunday.",
+                "copyright": "Ilan Godfrey for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
