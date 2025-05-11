@@ -84896,5 +84896,127 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Diplomatic Brinkmanship as Zelensky Says He Will Meet Putin for Talks on Ukraine",
+        "abstract": "It was unclear whether Ukraine was still insisting on an immediate truce before negotiations can begin. but President Trump urged both sides to meet this week in Turkey for talks.",
+        "url": "https://www.nytimes.com/2025/05/11/world/europe/ukraine-russia-ceasefire-talks-putin-zelensky.html",
+        "uri": "nyt://article/d9c5ce63-ae60-52a3-bf0c-5320a870dede",
+        "byline": "By Andrew E. Kramer",
+        "item_type": "Article",
+        "updated_date": "2025-05-11T15:55:59-04:00",
+        "created_date": "2025-05-11T06:24:46-04:00",
+        "published_date": "2025-05-11T06:24:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Zelensky, Volodymyr",
+            "Putin, Vladimir V",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Ukraine",
+            "Russia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-ukraine-talks-qcft/11int-ukraine-talks-qcft-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1272,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left: Chancellor Friedrich Merz of Germany, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine, Prime Minister Keir Starmer of Britain and Prime Minister Donald Tusk of Poland in Kyiv on Saturday.",
+                "copyright": "Pool photo by Ludovic Marin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-ukraine-talks-qcft/11int-ukraine-talks-qcft-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left: Chancellor Friedrich Merz of Germany, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine, Prime Minister Keir Starmer of Britain and Prime Minister Donald Tusk of Poland in Kyiv on Saturday.",
+                "copyright": "Pool photo by Ludovic Marin"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-ukraine-talks-qcft/11int-ukraine-talks-qcft-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "From left: Chancellor Friedrich Merz of Germany, President Emmanuel Macron of France, President Volodymyr Zelensky of Ukraine, Prime Minister Keir Starmer of Britain and Prime Minister Donald Tusk of Poland in Kyiv on Saturday.",
+                "copyright": "Pool photo by Ludovic Marin"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Hamas Says It Will Release Its Last American Hostage",
+        "abstract": "The announcement, which did not say when the hostage, Edan Alexander, would be set free, came as President Trump planned to visit the region.",
+        "url": "https://www.nytimes.com/2025/05/11/world/middleeast/hamas-hostage-edan-alexander.html",
+        "uri": "nyt://article/6f2b149b-3a47-5043-b5f2-418a0c4e793a",
+        "byline": "By Adam Rasgon and Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-05-11T16:04:51-04:00",
+        "created_date": "2025-05-11T16:00:35-04:00",
+        "published_date": "2025-05-11T16:00:35-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Kidnapping and Hostages",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [
+            "Alexander, Edan (2003- )"
+        ],
+        "geo_facet": [
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-israel-hostage-hbvk/11int-israel-hostage-hbvk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo of Edan Alexander at his parent’s home in Tenafly, N.J., last year.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-israel-hostage-hbvk/11int-israel-hostage-hbvk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo of Edan Alexander at his parent’s home in Tenafly, N.J., last year.",
+                "copyright": "Kenny Holston/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-israel-hostage-hbvk/11int-israel-hostage-hbvk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo of Edan Alexander at his parent’s home in Tenafly, N.J., last year.",
+                "copyright": "Kenny Holston/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
