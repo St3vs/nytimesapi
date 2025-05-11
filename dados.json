@@ -84514,5 +84514,136 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "",
+        "title": "Pope Leo XIV Calls for End to War in First Sunday Blessing as Pontiff",
+        "abstract": "The new pontiff echoed themes that Francis, his predecessor, regularly addressed, as he appeared in front of thousands of the faithful gathered in St. Peter’s Square.",
+        "url": "https://www.nytimes.com/2025/05/11/world/pope-leo-xiv-address-peace.html",
+        "uri": "nyt://article/e05e10e3-bf6d-5b29-9e92-5e32352f99e8",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-05-11T08:13:29-04:00",
+        "created_date": "2025-05-11T08:12:24-04:00",
+        "published_date": "2025-05-11T08:12:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Popes",
+            "Israel-Gaza War (2023- )",
+            "Russian Invasion of Ukraine (2022)",
+            "World War II (1939-45)",
+            "Mother's Day",
+            "Priests"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Francis",
+            "Leo XIV"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-pope-bhwc/11int-pope-bhwc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV speaks to the faithful on Sunday from the balcony of St. Peter’s Basilica in Vatican City where he first appeared as pope just days ago.",
+                "copyright": "Dan Kitwood/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-pope-bhwc/11int-pope-bhwc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV speaks to the faithful on Sunday from the balcony of St. Peter’s Basilica in Vatican City where he first appeared as pope just days ago.",
+                "copyright": "Dan Kitwood/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-pope-bhwc/11int-pope-bhwc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV speaks to the faithful on Sunday from the balcony of St. Peter’s Basilica in Vatican City where he first appeared as pope just days ago.",
+                "copyright": "Dan Kitwood/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Presidential Candidates Vow to Heal a Divided South Korea. They Are Poles Apart.",
+        "abstract": "Lee Jae-myung and Kim Moon-soo represent the opposite sides of a country polarized over former President Yoon Suk Yeol’s use of martial law and his ouster.",
+        "url": "https://www.nytimes.com/2025/05/11/world/asia/south-korea-presidential-election-candidates.html",
+        "uri": "nyt://article/13b839da-0474-5e86-9ad6-19c534d3f965",
+        "byline": "By Choe Sang-Hun",
+        "item_type": "Article",
+        "updated_date": "2025-05-11T07:36:17-04:00",
+        "created_date": "2025-05-11T06:28:14-04:00",
+        "published_date": "2025-05-11T06:28:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Elections",
+            "Politics and Government",
+            "International Relations",
+            "Martial Law"
+        ],
+        "org_facet": [
+            "People Power Party",
+            "Democratic Party (South Korea)"
+        ],
+        "per_facet": [
+            "Lee Jae-myung",
+            "Han Duck-soo",
+            "Yoon Suk-yeol"
+        ],
+        "geo_facet": [
+            "South Korea"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-skorea-politics-promo-bqcz/11int-skorea-politics-promo-bqcz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1519,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ahn Young-Joon/Associated Press; Kim Hong-Ji/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-skorea-politics-promo-bqcz/11int-skorea-politics-promo-bqcz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ahn Young-Joon/Associated Press; Kim Hong-Ji/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-skorea-politics-promo-bqcz/11int-skorea-politics-promo-bqcz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Ahn Young-Joon/Associated Press; Kim Hong-Ji/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
