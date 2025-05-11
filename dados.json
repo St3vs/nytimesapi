@@ -84188,5 +84188,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Once in Sync, Trump and Netanyahu Now Show Signs of Division",
+        "abstract": "Both men are politically divisive, fiercely combative and have outsize egos. But as Mr. Trump arrives in the Middle East next week, the fate of the region could hinge on their relationship.",
+        "url": "https://www.nytimes.com/2025/05/11/world/europe/trump-netanyahu-iran-yemen.html",
+        "uri": "nyt://article/7d39715b-36bb-5932-b3fd-c1f7db622d7f",
+        "byline": "By Michael D. Shear",
+        "item_type": "Article",
+        "updated_date": "2025-05-11T05:00:47-04:00",
+        "created_date": "2025-05-11T05:00:47-04:00",
+        "published_date": "2025-05-11T05:00:47-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "Houthis",
+            "Hamas"
+        ],
+        "per_facet": [
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip",
+            "Middle East",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-trump-netanyahu-01-fgkw/11int-trump-netanyahu-01-fgkw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When Prime Minister Benjamin Netanyahu of Israel met President Trump at the White House in February, the two men could not have been more in sync.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-trump-netanyahu-01-fgkw/11int-trump-netanyahu-01-fgkw-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When Prime Minister Benjamin Netanyahu of Israel met President Trump at the White House in February, the two men could not have been more in sync.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-trump-netanyahu-01-fgkw/11int-trump-netanyahu-01-fgkw-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "When Prime Minister Benjamin Netanyahu of Israel met President Trump at the White House in February, the two men could not have been more in sync.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
