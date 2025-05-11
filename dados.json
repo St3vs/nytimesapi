@@ -84705,5 +84705,132 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "How a Quiet American Cardinal Became Pope",
+        "abstract": "At a conclave with many new members, a swift, stunning consensus built around an unknown to many outside of the church.",
+        "url": "https://www.nytimes.com/2025/05/11/world/europe/conclave-vote-pope-leo-robert-prevost.html",
+        "uri": "nyt://article/b7eef5a0-62f8-5770-87e7-c4e78903dc9f",
+        "byline": "By Jason Horowitz, Emma Bubola, Elizabeth Dias and Patricia Mazzei",
+        "item_type": "Article",
+        "updated_date": "2025-05-11T11:43:02-04:00",
+        "created_date": "2025-05-11T11:43:02-04:00",
+        "published_date": "2025-05-11T11:43:02-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Clergy",
+            "Popes",
+            "Cardinals (Roman Catholic Prelates)"
+        ],
+        "org_facet": [
+            "Roman Catholic Church",
+            "Sistine Chapel (Vatican City)"
+        ],
+        "per_facet": [
+            "Leo XIV"
+        ],
+        "geo_facet": [
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-conclave-politics-gqjc/11int-conclave-politics-gqjc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1367,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV greeting the crowd from the balcony at St Peter’s Basilica in the Vatican on Thursday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-conclave-politics-gqjc/11int-conclave-politics-gqjc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV greeting the crowd from the balcony at St Peter’s Basilica in the Vatican on Thursday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-conclave-politics-gqjc/11int-conclave-politics-gqjc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV greeting the crowd from the balcony at St Peter’s Basilica in the Vatican on Thursday.",
+                "copyright": "Gianni Cipriano for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "As Truce Seems to Hold, India and Pakistan Both Claim Victory",
+        "abstract": "The Trump administration’s public descriptions of its role in the mediation seemed to touch some sensitive spots politically in India.",
+        "url": "https://www.nytimes.com/2025/05/11/world/asia/india-pakistan-kashmir-ceasefire.html",
+        "uri": "nyt://article/2b870763-bb80-5967-bf68-bf8aa032e5d0",
+        "byline": "By Anupreeta Das, Salman Masood and Hari Kumar",
+        "item_type": "Article",
+        "updated_date": "2025-05-11T12:14:44-04:00",
+        "created_date": "2025-05-11T12:10:16-04:00",
+        "published_date": "2025-05-11T12:10:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Drones (Pilotless Planes)",
+            "Defense and Military Forces",
+            "War and Armed Conflicts"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "India",
+            "Kashmir",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-india-pakistan-01-hwjg/11int-india-pakistan-01-hwjg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A bus depot in Poonch, in the India-governed part of Kashmir, on Sunday.",
+                "copyright": "Punit Paranjpe/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-india-pakistan-01-hwjg/11int-india-pakistan-01-hwjg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A bus depot in Poonch, in the India-governed part of Kashmir, on Sunday.",
+                "copyright": "Punit Paranjpe/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/11/multimedia/11int-india-pakistan-01-hwjg/11int-india-pakistan-01-hwjg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A bus depot in Poonch, in the India-governed part of Kashmir, on Sunday.",
+                "copyright": "Punit Paranjpe/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
