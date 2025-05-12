@@ -85259,5 +85259,74 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "China Courts Lula and Latin America After Trump’s Tariff Shock",
+        "abstract": "President Luiz Inácio Lula da Silva of Brazil is visiting Beijing this week, and China’s Xi Jinping will also meet top officials from other Latin American and Caribbean nations to emphasize their ties.",
+        "url": "https://www.nytimes.com/2025/05/12/world/asia/china-lula-latam-trade.html",
+        "uri": "nyt://article/9ce527be-481e-587d-bf14-238f9e8f0420",
+        "byline": "By Chris Buckley",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T01:21:53-04:00",
+        "created_date": "2025-05-12T01:16:22-04:00",
+        "published_date": "2025-05-12T01:16:22-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "United States International Relations",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Community of Latin American and Caribbean States"
+        ],
+        "per_facet": [
+            "Xi Jinping",
+            "Da Silva, Luiz Inacio Lula",
+            "Rubio, Marco",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "China",
+            "Brazil",
+            "Latin America"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-china-latam-01-fwhz/12int-china-latam-01-fwhz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Xi Jinping, China’s leader, met with President Luiz Inácio Lula da Silva of Brazil in November.",
+                "copyright": "Adriano Machado/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-china-latam-01-fwhz/12int-china-latam-01-fwhz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Xi Jinping, China’s leader, met with President Luiz Inácio Lula da Silva of Brazil in November.",
+                "copyright": "Adriano Machado/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-china-latam-01-fwhz/12int-china-latam-01-fwhz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Xi Jinping, China’s leader, met with President Luiz Inácio Lula da Silva of Brazil in November.",
+                "copyright": "Adriano Machado/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
