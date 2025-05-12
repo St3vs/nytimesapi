@@ -86562,5 +86562,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Europeans Demand Russia Accept Truce; Trump Says He Might Join Peace Talks",
+        "abstract": "European leaders threatened new sanctions unless Moscow accepted a cease-fire right away. President Trump seemed to endorse the idea of a meeting between Ukraine’s and Russia’s presidents, and said he might take part.",
+        "url": "https://www.nytimes.com/2025/05/12/world/europe/russia-ukraine-putin-ceasefire.html",
+        "uri": "nyt://article/f1b285c6-84d3-510d-b43a-870b9dc69df8",
+        "byline": "By Marc Santora",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T14:45:16-04:00",
+        "created_date": "2025-05-12T10:13:53-04:00",
+        "published_date": "2025-05-12T10:13:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Embargoes and Sanctions",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Russia",
+            "Ukraine",
+            "Turkey"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-russia-ukraine-eu-new-tbmp/12int-russia-ukraine-eu-new-tbmp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency workers searching for victims under the rubble of an apartment building that was destroyed by a Russian missile strike in Kyiv, Ukraine, last month.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-russia-ukraine-eu-new-tbmp/12int-russia-ukraine-eu-new-tbmp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency workers searching for victims under the rubble of an apartment building that was destroyed by a Russian missile strike in Kyiv, Ukraine, last month.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-russia-ukraine-eu-new-tbmp/12int-russia-ukraine-eu-new-tbmp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Emergency workers searching for victims under the rubble of an apartment building that was destroyed by a Russian missile strike in Kyiv, Ukraine, last month.",
+                "copyright": "Brendan Hoffman for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
