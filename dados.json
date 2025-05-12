@@ -86437,5 +86437,130 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India and Pakistan Hold Talks Aimed at Extending Cease-Fire",
+        "abstract": "Civilian airports were reopened and stocks jumped in both nations, signs of confidence that the agreement to halt the most alarming fighting in decades was holding.",
+        "url": "https://www.nytimes.com/2025/05/12/world/asia/india-pakistan-cease-fire-extended.html",
+        "uri": "nyt://article/1ead1a46-b8a0-562c-b455-35b4d92a1f49",
+        "byline": "By Mujib Mashal and Hari Kumar",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T14:14:56-04:00",
+        "created_date": "2025-05-12T06:39:34-04:00",
+        "published_date": "2025-05-12T06:39:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Civilian Casualties",
+            "Military Bases and Installations",
+            "Airports",
+            "Defense and Military Forces",
+            "Peace Process",
+            "Territorial Disputes"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Kashmir",
+            "Kashmir and Jammu (India)",
+            "New Delhi (India)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12INT-INDIA-Pakistan-mwlg/12INT-INDIA-Pakistan-mwlg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A house on Sunday that had been damaged by Pakistani artillery shelling in Jammu, in the part of Kashmir controlled by India.",
+                "copyright": "Atul Loke for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12INT-INDIA-Pakistan-mwlg/12INT-INDIA-Pakistan-mwlg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A house on Sunday that had been damaged by Pakistani artillery shelling in Jammu, in the part of Kashmir controlled by India.",
+                "copyright": "Atul Loke for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12INT-INDIA-Pakistan-mwlg/12INT-INDIA-Pakistan-mwlg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A house on Sunday that had been damaged by Pakistani artillery shelling in Jammu, in the part of Kashmir controlled by India.",
+                "copyright": "Atul Loke for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Counterterror Police Investigate Fire at Starmer’s North London Home",
+        "abstract": "Damage was caused to the entrance of a property belonging to the prime minister in Kentish Town, but nobody was hurt, the police said.",
+        "url": "https://www.nytimes.com/2025/05/12/world/europe/keir-starmer-fire-counterterror-police.html",
+        "uri": "nyt://article/03a5c478-25b2-5d62-ace6-e2d400b3aa93",
+        "byline": "By Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T13:50:42-04:00",
+        "created_date": "2025-05-12T13:50:42-04:00",
+        "published_date": "2025-05-12T13:50:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Fires and Firefighters",
+            "Police"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Starmer, Keir"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "London (England)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-uk-fire-ljbm/12int-uk-fire-ljbm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A police forensics officer conducting an investigation after a fire broke out at a property owned by Prime Minister Keir Starmer in north London, on Monday.",
+                "copyright": "Leon Neal/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-uk-fire-ljbm/12int-uk-fire-ljbm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A police forensics officer conducting an investigation after a fire broke out at a property owned by Prime Minister Keir Starmer in north London, on Monday.",
+                "copyright": "Leon Neal/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-uk-fire-ljbm/12int-uk-fire-ljbm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A police forensics officer conducting an investigation after a fire broke out at a property owned by Prime Minister Keir Starmer in north London, on Monday.",
+                "copyright": "Leon Neal/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
