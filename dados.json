@@ -86042,5 +86042,64 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Pope Leo XIV Calls for News Media to Shun Divisive Language",
+        "abstract": "In his first audience with the press as pontiff, Leo renewed his pleas for a more peaceful world and quoted his predecessor, Pope Francis, who had called for communication that is free from aggression.",
+        "url": "https://www.nytimes.com/2025/05/12/world/europe/pope-leo-vatican-journalists.html",
+        "uri": "nyt://article/64962a50-295f-52ff-b8ff-e85ab53f697b",
+        "byline": "By Matthew Mpoke Bigg",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T08:06:52-04:00",
+        "created_date": "2025-05-12T07:51:44-04:00",
+        "published_date": "2025-05-12T07:51:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Francis"
+        ],
+        "geo_facet": [
+            "Vatican City",
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12pope-journalists-mbhz/12pope-journalists-mbhz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1639,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV speaking to the news media at the Vatican on Monday.",
+                "copyright": "Alberto Pizzoli/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12pope-journalists-mbhz/12pope-journalists-mbhz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV speaking to the news media at the Vatican on Monday.",
+                "copyright": "Alberto Pizzoli/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12pope-journalists-mbhz/12pope-journalists-mbhz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV speaking to the news media at the Vatican on Monday.",
+                "copyright": "Alberto Pizzoli/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
