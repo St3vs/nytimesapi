@@ -86688,5 +86688,121 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Energy Department to Repeal Efficiency Rules for Appliances",
+        "abstract": "Experts say the moves, which would apply to household appliances, will raise energy costs for consumers.",
+        "url": "https://www.nytimes.com/2025/05/12/climate/energy-effiency-programs-department-of-energy.html",
+        "uri": "nyt://article/47c9b888-2d6e-5336-8f86-7c12f9044954",
+        "byline": "By Hiroko Tabuchi and Lisa Friedman",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T17:48:32-04:00",
+        "created_date": "2025-05-12T17:48:32-04:00",
+        "published_date": "2025-05-12T17:48:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Energy Efficiency",
+            "Home Appliances",
+            "United States Politics and Government",
+            "Regulation and Deregulation of Industry"
+        ],
+        "org_facet": [
+            "Environmental Protection Agency",
+            "Energy Department"
+        ],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12cli-DOE-rules-plcw/12cli-DOE-rules-plcw-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Energy Department said on Monday that it was planning to roll back 47 regulations, including some energy-efficiency standards for appliances. ",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12cli-DOE-rules-plcw/12cli-DOE-rules-plcw-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Energy Department said on Monday that it was planning to roll back 47 regulations, including some energy-efficiency standards for appliances. ",
+                "copyright": "Mark Abramson for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12cli-DOE-rules-plcw/12cli-DOE-rules-plcw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Energy Department said on Monday that it was planning to roll back 47 regulations, including some energy-efficiency standards for appliances. ",
+                "copyright": "Mark Abramson for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Tuesday Briefing: Trump’s Visit to the Gulf",
+        "abstract": "Plus, a big week for the art world.",
+        "url": "https://www.nytimes.com/2025/05/12/briefing/trump-gulf-visit-china-us-tariffs-ukraine-russia-sanctions.html",
+        "uri": "nyt://article/7dbadab1-4549-5c85-8858-ac3bb02611d3",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T17:00:11-04:00",
+        "created_date": "2025-05-12T17:00:11-04:00",
+        "published_date": "2025-05-12T17:00:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13ambriefing-asia-trump-fmvg/13ambriefing-asia-trump-fmvg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump left yesterday for Riyadh, Saudi Arabia, the first stop in his Gulf tour. ",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13ambriefing-asia-trump-fmvg/13ambriefing-asia-trump-fmvg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump left yesterday for Riyadh, Saudi Arabia, the first stop in his Gulf tour. ",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13ambriefing-asia-trump-fmvg/13ambriefing-asia-trump-fmvg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump left yesterday for Riyadh, Saudi Arabia, the first stop in his Gulf tour. ",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
