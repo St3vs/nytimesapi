@@ -85854,5 +85854,193 @@
         "geo_facet": [],
         "multimedia": null,
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "In India and Pakistan, Signs of Normalcy After Weekend Cease-Fire",
+        "abstract": "Civilian flights were returning to normal, and stocks jumped in both nations, signs of confidence that the agreement to halt fighting was holding.",
+        "url": "https://www.nytimes.com/2025/05/12/world/asia/india-pakistan-cease-fire-extended.html",
+        "uri": "nyt://article/1ead1a46-b8a0-562c-b455-35b4d92a1f49",
+        "byline": "By Mujib Mashal and Hari Kumar",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T06:39:33-04:00",
+        "created_date": "2025-05-12T06:39:33-04:00",
+        "published_date": "2025-05-12T06:39:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Civilian Casualties",
+            "Military Bases and Installations",
+            "Airports",
+            "Defense and Military Forces",
+            "Peace Process",
+            "Territorial Disputes"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Kashmir",
+            "Kashmir and Jammu (India)",
+            "New Delhi (India)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12INT-INDIA-Pakistan-mwlg/12INT-INDIA-Pakistan-mwlg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A house in Jammu, in the part of Kashmir controlled by India, that was damaged by Pakistani artillery shelling, on Sunday.",
+                "copyright": "Atul Loke for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12INT-INDIA-Pakistan-mwlg/12INT-INDIA-Pakistan-mwlg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A house in Jammu, in the part of Kashmir controlled by India, that was damaged by Pakistani artillery shelling, on Sunday.",
+                "copyright": "Atul Loke for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12INT-INDIA-Pakistan-mwlg/12INT-INDIA-Pakistan-mwlg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A house in Jammu, in the part of Kashmir controlled by India, that was damaged by Pakistani artillery shelling, on Sunday.",
+                "copyright": "Atul Loke for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "What to Know About the P.K.K. and Its Fight Against Turkey",
+        "abstract": "The Kurdish group waged a bloody insurgency against the Turkish state for four decades.",
+        "url": "https://www.nytimes.com/article/pkk-turkey-kurds.html",
+        "uri": "nyt://article/b64c2f33-0903-5806-a697-e8384fc2e5e2",
+        "byline": "By Ben Hubbard",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T05:50:43-04:00",
+        "created_date": "2025-02-27T09:29:52-05:00",
+        "published_date": "2025-02-27T09:29:52-05:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Kurds",
+            "Secession and Independence Movements",
+            "War and Armed Conflicts"
+        ],
+        "org_facet": [
+            "Kurdistan Workers' Party"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Turkey"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/27/multimedia/27turkey-pkk-wwk-gjvc/27turkey-pkk-wwk-gjvc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flags depicting Abdullah Ocalan, the jailed leader of the Kurdistan Workers’ Party, at a gathering in northeastern Syria in March.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/27/multimedia/27turkey-pkk-wwk-gjvc/27turkey-pkk-wwk-gjvc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flags depicting Abdullah Ocalan, the jailed leader of the Kurdistan Workers’ Party, at a gathering in northeastern Syria in March.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/27/multimedia/27turkey-pkk-wwk-gjvc/27turkey-pkk-wwk-gjvc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Flags depicting Abdullah Ocalan, the jailed leader of the Kurdistan Workers’ Party, at a gathering in northeastern Syria in March.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Who Is Edan Alexander?",
+        "abstract": "Hamas said it would release the American Israeli national, who was serving in the Israeli Army when he was captured on Oct. 7, 2023.",
+        "url": "https://www.nytimes.com/2025/05/12/world/middleeast/edan-alexander-hamas-american-hostage-who-is.html",
+        "uri": "nyt://article/4f3fab2f-47b0-5917-a28e-ea3a7d6566c3",
+        "byline": "By Amelia Nierenberg",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T06:44:20-04:00",
+        "created_date": "2025-05-12T06:44:20-04:00",
+        "published_date": "2025-05-12T06:44:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Kidnapping and Hostages"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [
+            "Alexander, Edan (2003- )"
+        ],
+        "geo_facet": [
+            "Israel",
+            "Tenafly (NJ)",
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-alexander-who-is-klwc/12int-alexander-who-is-klwc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A display of support in Tel Aviv for Edan Alexander. Mr. Alexander was stationed near the border with Gaza in September 2023.",
+                "copyright": "Ronen Zvulun/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-alexander-who-is-klwc/12int-alexander-who-is-klwc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A display of support in Tel Aviv for Edan Alexander. Mr. Alexander was stationed near the border with Gaza in September 2023.",
+                "copyright": "Ronen Zvulun/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-alexander-who-is-klwc/12int-alexander-who-is-klwc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A display of support in Tel Aviv for Edan Alexander. Mr. Alexander was stationed near the border with Gaza in September 2023.",
+                "copyright": "Ronen Zvulun/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
