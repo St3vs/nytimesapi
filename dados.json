@@ -85328,5 +85328,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Kurdish Insurgent Group Says It Will End Conflict With Turkish State",
+        "abstract": "The Kurdistan Workers’ Party, or P.K.K., said on Monday that it would lay down its arms, a decision that could reverberate across neighboring countries.",
+        "url": "https://www.nytimes.com/2025/05/12/world/europe/kurdish-pkk-turkey.html",
+        "uri": "nyt://article/9c31281e-a0bb-5cd4-b2b1-1adde1d83cca",
+        "byline": "By Erika Solomon",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T02:56:00-04:00",
+        "created_date": "2025-05-12T02:45:23-04:00",
+        "published_date": "2025-05-12T02:45:23-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Secession and Independence Movements",
+            "Kurds",
+            "War and Armed Conflicts",
+            "Politics and Government"
+        ],
+        "org_facet": [
+            "Kurdistan Workers' Party"
+        ],
+        "per_facet": [
+            "Erdogan, Recep Tayyip",
+            "Ocalan, Abdullah"
+        ],
+        "geo_facet": [
+            "Turkey",
+            "Syria",
+            "Kurdistan",
+            "Iraq"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-turkey-pkk-01-wfcz/09int-turkey-pkk-01-wfcz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1357,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kurds in Hasakah, Syria, with flags bearing the image of Abdullah Ocalan, the imprisoned leader of the Kurdistan Workers’ Party. ",
+                "copyright": "Orhan Qereman/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-turkey-pkk-01-wfcz/09int-turkey-pkk-01-wfcz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kurds in Hasakah, Syria, with flags bearing the image of Abdullah Ocalan, the imprisoned leader of the Kurdistan Workers’ Party. ",
+                "copyright": "Orhan Qereman/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/09int-turkey-pkk-01-wfcz/09int-turkey-pkk-01-wfcz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kurds in Hasakah, Syria, with flags bearing the image of Abdullah Ocalan, the imprisoned leader of the Kurdistan Workers’ Party. ",
+                "copyright": "Orhan Qereman/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
