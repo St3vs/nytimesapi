@@ -86101,5 +86101,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "What We Know About How the 4-Day India-Pakistan Clashes Unfolded",
+        "abstract": "Some details are clouded by contradictory statements and disinformation. But a pattern of rapid escalation brought the conflict to the brink of catastrophe.",
+        "url": "https://www.nytimes.com/2025/05/11/world/asia/india-pakistan-what-we-know.html",
+        "uri": "nyt://article/bfef0714-964b-558d-a872-f7f3312c5c7e",
+        "byline": "By Mujib Mashal",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T09:53:07-04:00",
+        "created_date": "2025-05-11T04:00:42-04:00",
+        "published_date": "2025-05-11T04:00:42-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Nuclear Weapons",
+            "Drones (Pilotless Planes)",
+            "Missiles and Missile Defense Systems",
+            "Military Bases and Installations",
+            "Terrorism",
+            "Defense and Military Forces",
+            "Territorial Disputes",
+            "International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "India",
+            "Pakistan",
+            "Kashmir"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/06/11/multimedia/11int-india-pakistan-war-explainer-gfbk/11int-india-pakistan-war-explainer-gfbk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian border security forces at a ceremony for a soldier killed in the conflict between India and Pakistan in the city of Jammu in the Indian-controlled part of Kashmir on Monday.",
+                "copyright": "Atul Loke for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/06/11/multimedia/11int-india-pakistan-war-explainer-gfbk/11int-india-pakistan-war-explainer-gfbk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian border security forces at a ceremony for a soldier killed in the conflict between India and Pakistan in the city of Jammu in the Indian-controlled part of Kashmir on Monday.",
+                "copyright": "Atul Loke for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/06/11/multimedia/11int-india-pakistan-war-explainer-gfbk/11int-india-pakistan-war-explainer-gfbk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Indian border security forces at a ceremony for a soldier killed in the conflict between India and Pakistan in the city of Jammu in the Indian-controlled part of Kashmir on Monday.",
+                "copyright": "Atul Loke for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
