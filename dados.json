@@ -86307,5 +86307,135 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Hamas Frees American Held in Gaza in Deal That Largely Circumvents Israel",
+        "abstract": "Edan Alexander, a dual Israeli American national, was released following pressure from President Trump, who is set to travel to the region.",
+        "url": "https://www.nytimes.com/2025/05/12/world/middleeast/edan-alexander-israel-hamas-hostage-released.html",
+        "uri": "nyt://article/840a21c9-f24a-54ec-a2e5-50bf01f9f43d",
+        "byline": "By Patrick Kingsley, Johnatan Reiss and Adam Rasgon",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T12:39:19-04:00",
+        "created_date": "2025-05-12T12:39:14-04:00",
+        "published_date": "2025-05-12T12:39:14-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Palestinians",
+            "Kidnapping and Hostages",
+            "Israel-Gaza War (2023- )"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [
+            "Alexander, Edan (2003- )",
+            "Netanyahu, Benjamin",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-gaza-hostage-wpqf/12int-gaza-hostage-wpqf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Edan Alexander’s grandmother, Varda Ben Baruch, holding a picture of him near the Gaza border, in April. Mr. Alexander is a dual Israeli American national serving in the Israeli Army.",
+                "copyright": "Ohad Zwigenberg/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-gaza-hostage-wpqf/12int-gaza-hostage-wpqf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Edan Alexander’s grandmother, Varda Ben Baruch, holding a picture of him near the Gaza border, in April. Mr. Alexander is a dual Israeli American national serving in the Israeli Army.",
+                "copyright": "Ohad Zwigenberg/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-gaza-hostage-wpqf/12int-gaza-hostage-wpqf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Edan Alexander’s grandmother, Varda Ben Baruch, holding a picture of him near the Gaza border, in April. Mr. Alexander is a dual Israeli American national serving in the Israeli Army.",
+                "copyright": "Ohad Zwigenberg/Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "From a Cell in Europe, Duterte Is Far Ahead in a Philippine Election",
+        "abstract": "Former President Rodrigo Duterte, who faces international court charges of crimes against humanity, appears to have been elected mayor of Davao City. One of his sons is expected to fill in.",
+        "url": "https://www.nytimes.com/2025/05/11/world/asia/duterte-davao-mayor-election.html",
+        "uri": "nyt://article/6ea5d6ed-ba71-505d-bf8b-a9e2749a5a7e",
+        "byline": "By Sui-Lee Wee",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T12:26:01-04:00",
+        "created_date": "2025-05-11T20:00:06-04:00",
+        "published_date": "2025-05-11T20:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Elections",
+            "Mayors",
+            "War Crimes, Genocide and Crimes Against Humanity"
+        ],
+        "org_facet": [
+            "International Criminal Court"
+        ],
+        "per_facet": [
+            "Duterte, Sara",
+            "Duterte, Rodrigo"
+        ],
+        "geo_facet": [
+            "Hague (Netherlands)",
+            "Davao (Philippines)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-duterte-election-01-mzpj/12int-duterte-election-01-mzpj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of Rodrigo Duterte, the former president of the Philippines, at a demonstration in March in Davao City for his 80th birthday.",
+                "copyright": "Eloisa Lopez/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-duterte-election-01-mzpj/12int-duterte-election-01-mzpj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of Rodrigo Duterte, the former president of the Philippines, at a demonstration in March in Davao City for his 80th birthday.",
+                "copyright": "Eloisa Lopez/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-duterte-election-01-mzpj/12int-duterte-election-01-mzpj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of Rodrigo Duterte, the former president of the Philippines, at a demonstration in March in Davao City for his 80th birthday.",
+                "copyright": "Eloisa Lopez/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
