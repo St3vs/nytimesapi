@@ -86804,5 +86804,127 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "Farmers Sued Over Deleted Climate Data. So the Government Will Put It Back.",
+        "abstract": "The Agriculture Department pledged to restore online climate information that farmers said helped them do business, but which officials had deleted.",
+        "url": "https://www.nytimes.com/2025/05/12/climate/trump-deleted-climate-website-farmers-lawsuit.html",
+        "uri": "nyt://article/79ec87ee-c6a0-55ef-925a-d82eac79ea1c",
+        "byline": "By Karen Zraick",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T18:55:29-04:00",
+        "created_date": "2025-05-12T18:55:29-04:00",
+        "published_date": "2025-05-12T18:55:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Global Warming",
+            "Greenhouse Gas Emissions",
+            "Agriculture and Farming",
+            "Suits and Litigation (Civil)",
+            "United States Politics and Government"
+        ],
+        "org_facet": [
+            "Agriculture Department",
+            "Natural Resources Defense Council",
+            "Northeast Organic Farming Assn",
+            "Environmental Working Group"
+        ],
+        "per_facet": [
+            "Clayton, Walter J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12cli-farmer-data-blvf/12cli-farmer-data-blvf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1536,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Preparing a field in January. Farmers said the data helped them plan for climate risks including heat waves, droughts and wildfires.",
+                "copyright": "Jordan Vonderhaar for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12cli-farmer-data-blvf/12cli-farmer-data-blvf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Preparing a field in January. Farmers said the data helped them plan for climate risks including heat waves, droughts and wildfires.",
+                "copyright": "Jordan Vonderhaar for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12cli-farmer-data-blvf/12cli-farmer-data-blvf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Preparing a field in January. Farmers said the data helped them plan for climate risks including heat waves, droughts and wildfires.",
+                "copyright": "Jordan Vonderhaar for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Palestinian Authority Lifting Ban on Al Jazeera in West Bank",
+        "abstract": "The authority offered scant information about why it issued the ban in January, and it maintained that stance in announcing that it was rescinding it.",
+        "url": "https://www.nytimes.com/2025/05/12/world/middleeast/al-jazeera-ban-palestinian-authority.html",
+        "uri": "nyt://article/a228a3c3-8924-56c8-99fd-c8f705da9047",
+        "byline": "By Fatima AbdulKarim and Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T18:31:08-04:00",
+        "created_date": "2025-05-12T18:31:08-04:00",
+        "published_date": "2025-05-12T18:31:08-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Palestinian Authority",
+            "Al Jazeera"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "West Bank"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12west-bank-aljazeera-new-gbch/12west-bank-aljazeera-new-gbch-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An Al Jazeera office in the West Bank city of Ramallah last year.",
+                "copyright": "Nasser Nasser/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12west-bank-aljazeera-new-gbch/12west-bank-aljazeera-new-gbch-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An Al Jazeera office in the West Bank city of Ramallah last year.",
+                "copyright": "Nasser Nasser/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12west-bank-aljazeera-new-gbch/12west-bank-aljazeera-new-gbch-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "An Al Jazeera office in the West Bank city of Ramallah last year.",
+                "copyright": "Nasser Nasser/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
