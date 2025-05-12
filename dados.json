@@ -86627,5 +86627,66 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "For Catholics, the Pope Is a Holy Father. For the World, He Is a Powerful Voice.",
+        "abstract": "The papacy is a global platform, so the issues Pope Leo chooses to focus on can resonate far beyond the church.",
+        "url": "https://www.nytimes.com/2025/05/12/world/asia/pope-leo-voice-platform.html",
+        "uri": "nyt://article/cc562fcb-aa5f-5220-8f51-90c84477f696",
+        "byline": "By Motoko Rich",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T15:11:14-04:00",
+        "created_date": "2025-05-12T05:44:52-04:00",
+        "published_date": "2025-05-12T05:44:52-04:00",
+        "material_type_facet": "",
+        "kicker": "News analysis",
+        "des_facet": [
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV",
+            "Francis",
+            "Benedict XVI",
+            "John Paul II"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12pope-matters-vmwc/12pope-matters-vmwc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV meeting members of the international media at the Vatican on Monday. He leads close to 1.4 billion followers, a population that equals the size of China or India, so his words matter to nearly one out of every six people in the world.",
+                "copyright": "Andrew Medichini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12pope-matters-vmwc/12pope-matters-vmwc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV meeting members of the international media at the Vatican on Monday. He leads close to 1.4 billion followers, a population that equals the size of China or India, so his words matter to nearly one out of every six people in the world.",
+                "copyright": "Andrew Medichini/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12pope-matters-vmwc/12pope-matters-vmwc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Leo XIV meeting members of the international media at the Vatican on Monday. He leads close to 1.4 billion followers, a population that equals the size of China or India, so his words matter to nearly one out of every six people in the world.",
+                "copyright": "Andrew Medichini/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
