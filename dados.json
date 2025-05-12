@@ -85194,5 +85194,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "From a Cell in Europe, Duterte Is Set to Win an Election in the Philippines",
+        "abstract": "Former President Rodrigo Duterte, who faces international court charges of crimes against humanity, remains very popular at home.",
+        "url": "https://www.nytimes.com/2025/05/11/world/asia/duterte-davao-mayor-election.html",
+        "uri": "nyt://article/6ea5d6ed-ba71-505d-bf8b-a9e2749a5a7e",
+        "byline": "By Sui-Lee Wee",
+        "item_type": "Article",
+        "updated_date": "2025-05-11T20:00:06-04:00",
+        "created_date": "2025-05-11T20:00:06-04:00",
+        "published_date": "2025-05-11T20:00:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Elections",
+            "Mayors",
+            "War Crimes, Genocide and Crimes Against Humanity"
+        ],
+        "org_facet": [
+            "International Criminal Court"
+        ],
+        "per_facet": [
+            "Duterte, Sara",
+            "Duterte, Rodrigo"
+        ],
+        "geo_facet": [
+            "Hague (Netherlands)",
+            "Davao (Philippines)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-duterte-election-01-mzpj/12int-duterte-election-01-mzpj-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of Rodrigo Duterte, the former president of the Philippines, at a demonstration in Davao City to mark his 80th birthday.",
+                "copyright": "Eloisa Lopez/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-duterte-election-01-mzpj/12int-duterte-election-01-mzpj-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of Rodrigo Duterte, the former president of the Philippines, at a demonstration in Davao City to mark his 80th birthday.",
+                "copyright": "Eloisa Lopez/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-duterte-election-01-mzpj/12int-duterte-election-01-mzpj-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Supporters of Rodrigo Duterte, the former president of the Philippines, at a demonstration in Davao City to mark his 80th birthday.",
+                "copyright": "Eloisa Lopez/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
