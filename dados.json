@@ -86166,5 +86166,73 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "‘Clock Is Ticking’: E.U. Leaders Demand Russia Accept Truce by Day’s End",
+        "abstract": "The Kremlin brushed off the threat of further sanctions, saying that “the language of ultimatums is unacceptable.”",
+        "url": "https://www.nytimes.com/2025/05/12/world/europe/russia-ukraine-putin-ceasefire.html",
+        "uri": "nyt://article/f1b285c6-84d3-510d-b43a-870b9dc69df8",
+        "byline": "By Marc Santora",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T10:13:52-04:00",
+        "created_date": "2025-05-12T10:13:52-04:00",
+        "published_date": "2025-05-12T10:13:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "United States Politics and Government",
+            "Embargoes and Sanctions"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Macron, Emmanuel (1977- )",
+            "Peskov, Dmitri S",
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Yermak, Andriy",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Europe",
+            "Russia",
+            "Ukraine",
+            "Turkey"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-russia-ukraine-eu-ljqc/12int-russia-ukraine-eu-ljqc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The German government’s spokesman, Stefan Kornelius, counted the hours until the end of the day in a news conference about the cease-fire demand. ",
+                "copyright": "Odd Andersen/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-russia-ukraine-eu-ljqc/12int-russia-ukraine-eu-ljqc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The German government’s spokesman, Stefan Kornelius, counted the hours until the end of the day in a news conference about the cease-fire demand. ",
+                "copyright": "Odd Andersen/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-russia-ukraine-eu-ljqc/12int-russia-ukraine-eu-ljqc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The German government’s spokesman, Stefan Kornelius, counted the hours until the end of the day in a news conference about the cease-fire demand. ",
+                "copyright": "Odd Andersen/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
