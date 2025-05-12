@@ -85520,5 +85520,191 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "canada",
+        "title": "Does the United States ‘Need’ Canada?",
+        "abstract": "President Trump seems to think not. The industries he constantly mentions when he pushes his case, including autos, energy and lumber, beg to differ.",
+        "url": "https://www.nytimes.com/2025/05/12/world/canada/trump-us-canada-tariffs.html",
+        "uri": "nyt://article/172a8359-4052-55e5-881c-380bf55f3350",
+        "byline": "By Vjosa Isai",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T05:01:37-04:00",
+        "created_date": "2025-05-12T05:01:37-04:00",
+        "published_date": "2025-05-12T05:01:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "International Trade and World Market",
+            "Customs (Tariff)",
+            "Oil (Petroleum) and Gasoline",
+            "Potash",
+            "Agriculture and Farming",
+            "Automobiles"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Carney, Mark J"
+        ],
+        "geo_facet": [
+            "Canada",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/00int-canada-trump-explainer-tqvm/00int-canada-trump-explainer-tqvm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Canadian Prime Minister Mark Carney during a meeting with President Trump at the White House last week.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/00int-canada-trump-explainer-tqvm/00int-canada-trump-explainer-tqvm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Canadian Prime Minister Mark Carney during a meeting with President Trump at the White House last week.",
+                "copyright": "Eric Lee/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/09/multimedia/00int-canada-trump-explainer-tqvm/00int-canada-trump-explainer-tqvm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Canadian Prime Minister Mark Carney during a meeting with President Trump at the White House last week.",
+                "copyright": "Eric Lee/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Trump Wants Saudi Arabia to Invest Its Money in the U.S. All of It.",
+        "abstract": "President Trump goes to the Gulf kingdom this week seeking $1 trillion worth of investments in the United States — a sum equivalent to the entire Saudi gross domestic product for a year.",
+        "url": "https://www.nytimes.com/2025/05/12/world/middleeast/trump-saudi-arabia-investment.html",
+        "uri": "nyt://article/8eb5e82d-7e64-55b5-8a87-69311ad07f31",
+        "byline": "By Vivian Nereim",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T05:01:18-04:00",
+        "created_date": "2025-05-12T05:01:18-04:00",
+        "published_date": "2025-05-12T05:01:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States Politics and Government",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Mohammed bin Salman (1985- )"
+        ],
+        "geo_facet": [
+            "Middle East",
+            "Saudi Arabia",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-saudi-trump-twbg/12int-saudi-trump-twbg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1187,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump was greeted by King Salman of Saudi Arabia at the airport in the capital, Riyadh, in 2017. ",
+                "copyright": "Stephen Crowley/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-saudi-trump-twbg/12int-saudi-trump-twbg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump was greeted by King Salman of Saudi Arabia at the airport in the capital, Riyadh, in 2017. ",
+                "copyright": "Stephen Crowley/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-saudi-trump-twbg/12int-saudi-trump-twbg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump was greeted by King Salman of Saudi Arabia at the airport in the capital, Riyadh, in 2017. ",
+                "copyright": "Stephen Crowley/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "The last 5 pontiffs have held audiences with the news media.",
+        "abstract": "The last five pontiffs have addressed members of the international news media who reported on the conclaves that elected them.",
+        "url": "https://www.nytimes.com/live/2025/05/12/world/pope-leo-news/the-last-5-pontiffs-have-held-audiences-with-the-news-media",
+        "uri": "nyt://article/09a3d385-977d-51b8-8250-87593b64517b",
+        "byline": "By Elisabetta Povoledo",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T04:44:26-04:00",
+        "created_date": "2025-05-12T04:44:26-04:00",
+        "published_date": "2025-05-12T04:44:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Vatican City",
+            "Italy",
+            "Rome (Italy)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/us/politics/12int-pope-leo-media/12int-pope-leo-media-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1628,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis spoke to members of the press three days after being elected.",
+                "copyright": "Michael Sohn/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/us/politics/12int-pope-leo-media/12int-pope-leo-media-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis spoke to members of the press three days after being elected.",
+                "copyright": "Michael Sohn/Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/us/politics/12int-pope-leo-media/12int-pope-leo-media-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope Francis spoke to members of the press three days after being elected.",
+                "copyright": "Michael Sohn/Associated Press"
+            }
+        ],
+        "short_url": ""
     }
 ]
