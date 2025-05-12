@@ -85706,5 +85706,153 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Here are some past memorable encounters between popes and reporters.",
+        "abstract": "",
+        "url": "https://www.nytimes.com/live/2025/05/12/world/pope-leo-news/here-are-some-past-memorable-encounters-between-popes-and-reporters",
+        "uri": "nyt://article/3e8cadb3-5b33-5f18-af1e-efd88e5e9138",
+        "byline": "By Matthew Mpoke Bigg",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T05:58:10-04:00",
+        "created_date": "2025-05-12T05:58:10-04:00",
+        "published_date": "2025-05-12T05:58:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/us/politics/12pope-news-press-encounters/12pope-news-press-encounters-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2000,
+                "width": 1481,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope John Paul II met in prison with his would-be assassin, Mehmet Ali Agca.",
+                "copyright": "via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/us/politics/12pope-news-press-encounters/12pope-news-press-encounters-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope John Paul II met in prison with his would-be assassin, Mehmet Ali Agca.",
+                "copyright": "via Associated Press"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/us/politics/12pope-news-press-encounters/12pope-news-press-encounters-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Pope John Paul II met in prison with his would-be assassin, Mehmet Ali Agca.",
+                "copyright": "via Associated Press"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Starmer, Under Pressure From the Right, Pledges to Cut Immigration to U.K.",
+        "abstract": "Prime Minister Keir Starmer said his government was “taking back control of our borders,” weeks after a right-wing populist party, Reform U.K., made gains in municipal elections.",
+        "url": "https://www.nytimes.com/2025/05/12/world/europe/starmer-uk-immigration.html",
+        "uri": "nyt://article/ae02064c-725f-5f08-b0bc-97e5b67031d7",
+        "byline": "By Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T05:57:04-04:00",
+        "created_date": "2025-05-12T05:53:52-04:00",
+        "published_date": "2025-05-12T05:53:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Foreign Workers",
+            "Immigration and Emigration",
+            "Great Britain Withdrawal from EU (Brexit)",
+            "Illegal Immigration",
+            "Asylum, Right of",
+            "Labor and Jobs"
+        ],
+        "org_facet": [
+            "Labour Party (Great Britain)"
+        ],
+        "per_facet": [
+            "Starmer, Keir"
+        ],
+        "geo_facet": [
+            "Great Britain",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-uk-migration-qvwz/12int-uk-migration-qvwz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1502,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain accused his predecessors of allowing immigration to run out of control and effectively creating an experiment with open borders.",
+                "copyright": "Pool photo by Ian Vogler"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-uk-migration-qvwz/12int-uk-migration-qvwz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain accused his predecessors of allowing immigration to run out of control and effectively creating an experiment with open borders.",
+                "copyright": "Pool photo by Ian Vogler"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/12/multimedia/12int-uk-migration-qvwz/12int-uk-migration-qvwz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Prime Minister Keir Starmer of Britain accused his predecessors of allowing immigration to run out of control and effectively creating an experiment with open borders.",
+                "copyright": "Pool photo by Ian Vogler"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "For Catholics, the Pope Is a Holy Father. For the World, He Is a Powerful Voice",
+        "abstract": "The papacy is a global platform, so the issues Pope Leo chooses to focus on can resonate far beyond the church.",
+        "url": "https://www.nytimes.com/2025/05/12/world/asia/pope-leo-voice-platform.html",
+        "uri": "nyt://article/cc562fcb-aa5f-5220-8f51-90c84477f696",
+        "byline": "By Motoko Rich",
+        "item_type": "Article",
+        "updated_date": "2025-05-12T06:14:09-04:00",
+        "created_date": "2025-05-12T05:44:52-04:00",
+        "published_date": "2025-05-12T05:44:52-04:00",
+        "material_type_facet": "",
+        "kicker": "News analysis",
+        "des_facet": [
+            "Popes"
+        ],
+        "org_facet": [
+            "Roman Catholic Church"
+        ],
+        "per_facet": [
+            "Leo XIV",
+            "Francis",
+            "Benedict XVI",
+            "John Paul II"
+        ],
+        "geo_facet": [],
+        "multimedia": null,
+        "short_url": ""
     }
 ]
