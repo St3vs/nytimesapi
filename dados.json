@@ -86926,5 +86926,128 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Xi Woos Latin America With Promises of Cooperation on Technology",
+        "abstract": "China’s leader Xi Jinping suggests expanding trade ties beyond buying commodities, as he continues to rally nations in the face of Trump’s tariffs.",
+        "url": "https://www.nytimes.com/2025/05/13/world/asia/china-xi-latin-america.html",
+        "uri": "nyt://article/5b6379c0-cc33-5c4f-8443-9b22982afc8d",
+        "byline": "By Chris Buckley",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T03:54:29-04:00",
+        "created_date": "2025-05-13T03:54:29-04:00",
+        "published_date": "2025-05-13T03:54:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "International Trade and World Market",
+            "Soybeans",
+            "Mines and Mining",
+            "Satellites"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "China",
+            "Brazil",
+            "Panama Canal and Canal Zone",
+            "Chile"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13Int-China-Brazil-cwjv/13Int-China-Brazil-cwjv-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Gabriel Boric of Chile, left, President Gustavo Petro of Colombia, China’s leader Xi Jinping and President Luiz Inácio Lula da Silva of Brazil at a meeting in Beijing on Tuesday.",
+                "copyright": "Pool photo by Florence Lo"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13Int-China-Brazil-cwjv/13Int-China-Brazil-cwjv-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Gabriel Boric of Chile, left, President Gustavo Petro of Colombia, China’s leader Xi Jinping and President Luiz Inácio Lula da Silva of Brazil at a meeting in Beijing on Tuesday.",
+                "copyright": "Pool photo by Florence Lo"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13Int-China-Brazil-cwjv/13Int-China-Brazil-cwjv-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Gabriel Boric of Chile, left, President Gustavo Petro of Colombia, China’s leader Xi Jinping and President Luiz Inácio Lula da Silva of Brazil at a meeting in Beijing on Tuesday.",
+                "copyright": "Pool photo by Florence Lo"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Man Arrested Over Fire at Starmer’s North London House",
+        "abstract": "The police said a 21-year-old was held in connection with three fires, including one at a property owned by the British prime minister in the Kentish Town neighborhood.",
+        "url": "https://www.nytimes.com/2025/05/13/world/europe/arrest-starmer-fire-house.html",
+        "uri": "nyt://article/9d5084f9-a732-5efe-a619-7524423fea1c",
+        "byline": "By Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T03:42:32-04:00",
+        "created_date": "2025-05-13T03:22:53-04:00",
+        "published_date": "2025-05-13T03:22:53-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Arson",
+            "Fires and Firefighters",
+            "Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Starmer, Keir"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-UK-STARMER-FIRE-flgq/13int-UK-STARMER-FIRE-flgq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police forensic officers at a London property owned by Prime Minister Keir Starmer of Britain, after a fire broke out there on Monday.",
+                "copyright": "Leon Neal/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-UK-STARMER-FIRE-flgq/13int-UK-STARMER-FIRE-flgq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police forensic officers at a London property owned by Prime Minister Keir Starmer of Britain, after a fire broke out there on Monday.",
+                "copyright": "Leon Neal/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-UK-STARMER-FIRE-flgq/13int-UK-STARMER-FIRE-flgq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Police forensic officers at a London property owned by Prime Minister Keir Starmer of Britain, after a fire broke out there on Monday.",
+                "copyright": "Leon Neal/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
