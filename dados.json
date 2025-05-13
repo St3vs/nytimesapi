@@ -87932,5 +87932,186 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Trump Says He Will Lift Sanctions on Syria",
+        "abstract": "The president announced the planned change in U.S. policy during a speech at a Saudi investment forum at the start of the first major international trip of his second term. He will also visit Qatar and the United Arab Emirates.",
+        "url": "https://www.nytimes.com/live/2025/05/13/us/trump-news-saudi-arabia",
+        "uri": "nyt://promo/58728853-7832-5c48-ad32-c88b2c5239dd",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-13T12:27:57-04:00",
+        "created_date": "2025-05-13T05:31:30-04:00",
+        "published_date": "2025-05-13T05:31:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-reporter-updates-1230pm-bfgq/13trump-news-reporter-updates-1230pm-bfgq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-reporter-updates-1230pm-bfgq/13trump-news-reporter-updates-1230pm-bfgq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-reporter-updates-1230pm-bfgq/13trump-news-reporter-updates-1230pm-bfgq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Zelensky Asks Trump to Attend Peace Talks, but Putin’s Plans Remain Unclear",
+        "abstract": "President Volodymyr Zelensky of Ukraine said that if President Trump attended the talks, it would put pressure Russia’s leader, Vladimir V. Putin, to meet face-to-face.",
+        "url": "https://www.nytimes.com/2025/05/13/world/europe/russia-ukraine-putin-zelensky.html",
+        "uri": "nyt://article/a1f3292a-f1b1-527d-b710-71ca85316956",
+        "byline": "By Nataliya Vasilyeva and Maria Varenikova",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T11:44:20-04:00",
+        "created_date": "2025-05-13T09:17:19-04:00",
+        "published_date": "2025-05-13T09:17:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Peace Process"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Merz, Friedrich",
+            "Peskov, Dmitri S",
+            "Putin, Vladimir V",
+            "Trump, Donald J",
+            "Yermak, Andriy",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [
+            "Kyiv (Ukraine)",
+            "Istanbul (Turkey)",
+            "Ukraine",
+            "Moscow (Russia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-russia-ukraine-vhlk-gcvf/13int-russia-ukraine-vhlk-gcvf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by Russian state media of President Vladimir V. Putin in Moscow on Monday. Russia has yet to say whether Mr. Putin will go to peace talks in Turkey.",
+                "copyright": "Alexander Kazakov/Sputnik, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-russia-ukraine-vhlk-gcvf/13int-russia-ukraine-vhlk-gcvf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by Russian state media of President Vladimir V. Putin in Moscow on Monday. Russia has yet to say whether Mr. Putin will go to peace talks in Turkey.",
+                "copyright": "Alexander Kazakov/Sputnik, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-russia-ukraine-vhlk-gcvf/13int-russia-ukraine-vhlk-gcvf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by Russian state media of President Vladimir V. Putin in Moscow on Monday. Russia has yet to say whether Mr. Putin will go to peace talks in Turkey.",
+                "copyright": "Alexander Kazakov/Sputnik, via Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Kim Kardashian Tells Court She Feared for Her Life in Paris Robbery",
+        "abstract": "The reality TV star, in emotional testimony at a trial in Paris, described being held at gunpoint as jewelry worth millions was stolen in 2016.",
+        "url": "https://www.nytimes.com/2025/05/13/world/europe/kim-kardashian-testimony-paris-robbery-trial.html",
+        "uri": "nyt://article/945ed46e-08a5-5eef-a5e5-f25151b02aa7",
+        "byline": "By Aurelien Breeden",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T11:34:08-04:00",
+        "created_date": "2025-05-13T07:18:12-04:00",
+        "published_date": "2025-05-13T07:18:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Robberies and Thefts",
+            "Reality Television",
+            "Jewels and Jewelry",
+            "Fashion and Apparel"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kardashian, Kim"
+        ],
+        "geo_facet": [
+            "France",
+            "Paris (France)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-france-kardashian-trial-qpgw/13int-france-kardashian-trial-qpgw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Kardashian arriving at court in Paris on Tuesday.",
+                "copyright": "Alain Jocard/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-france-kardashian-trial-qpgw/13int-france-kardashian-trial-qpgw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Kardashian arriving at court in Paris on Tuesday.",
+                "copyright": "Alain Jocard/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-france-kardashian-trial-qpgw/13int-france-kardashian-trial-qpgw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Kardashian arriving at court in Paris on Tuesday.",
+                "copyright": "Alain Jocard/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
