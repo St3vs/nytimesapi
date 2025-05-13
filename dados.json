@@ -88786,5 +88786,199 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "As Trump Crows Over Ending a Conflict, India’s Leaders Feel Betrayed",
+        "abstract": "President Trump’s repeated descriptions of U.S. mediation efforts between India and Pakistan have hit sore spots in Indian politics.",
+        "url": "https://www.nytimes.com/2025/05/13/world/asia/trump-india-pakistan-ceasefire.html",
+        "uri": "nyt://article/8b08e14b-ec13-58ce-86fd-87ba8bc125d9",
+        "byline": "By Mujib Mashal",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T16:54:01-04:00",
+        "created_date": "2025-05-13T16:54:01-04:00",
+        "published_date": "2025-05-13T16:54:01-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "International Relations",
+            "United States International Relations",
+            "United States Politics and Government"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Modi, Narendra",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "India",
+            "Pakistan"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13india-pakistan-1-pczq/13india-pakistan-1-pczq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bairi Ram and his wife, Purno Devi, at their damaged home on Tuesday in India’s Jammu region.",
+                "copyright": "Atul Loke for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13india-pakistan-1-pczq/13india-pakistan-1-pczq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bairi Ram and his wife, Purno Devi, at their damaged home on Tuesday in India’s Jammu region.",
+                "copyright": "Atul Loke for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13india-pakistan-1-pczq/13india-pakistan-1-pczq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Bairi Ram and his wife, Purno Devi, at their damaged home on Tuesday in India’s Jammu region.",
+                "copyright": "Atul Loke for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Inside the Extraordinary Contradictions in Trump’s Immigration Policies",
+        "abstract": "The Trump administration carved out an exception to its refugee ban for white South Africans. But other groups, including Afghans who helped U.S. forces during the war in their country, are being deported.",
+        "url": "https://www.nytimes.com/2025/05/13/us/politics/trump-refugees-white-south-africa-aghanistan.html",
+        "uri": "nyt://article/62ac2d1e-89be-5eff-8472-f4f7cf2d8d4a",
+        "byline": "By Hamed Aleaziz and Michael Crowley",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T16:49:18-04:00",
+        "created_date": "2025-05-13T16:46:43-04:00",
+        "published_date": "2025-05-13T16:46:43-04:00",
+        "material_type_facet": "",
+        "kicker": "News Analysis",
+        "des_facet": [
+            "United States Politics and Government",
+            "Refugees and Displaced Persons",
+            "Race and Ethnicity",
+            "Temporary Protected Status (US Immigration)",
+            "Executive Orders and Memorandums",
+            "Deportation",
+            "United States International Relations",
+            "Whites",
+            "Apartheid (Policy)",
+            "Human Rights and Human Rights Violations",
+            "Discrimination"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Afghanistan",
+            "South Africa"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/00dc-trump-refugees-qtbp/00dc-trump-refugees-qtbp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Afghan refugees unloading their belongings from a truck after arriving in Pakistan last week. ",
+                "copyright": "Sanaullah Seiam/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/00dc-trump-refugees-qtbp/00dc-trump-refugees-qtbp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Afghan refugees unloading their belongings from a truck after arriving in Pakistan last week. ",
+                "copyright": "Sanaullah Seiam/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/00dc-trump-refugees-qtbp/00dc-trump-refugees-qtbp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Afghan refugees unloading their belongings from a truck after arriving in Pakistan last week. ",
+                "copyright": "Sanaullah Seiam/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Saudis Greet Trump to His Tastes, With Pomp, Opulence and Real Estate",
+        "abstract": "The Saudi crown prince gave President Trump a warm and opulent welcome, reflecting the amity between a royal family and presidential family with diplomatic and business alliances.",
+        "url": "https://www.nytimes.com/2025/05/13/world/middleeast/trump-saudi-arabia.html",
+        "uri": "nyt://article/e0bb5fbe-8369-59f2-a393-66ba88f341a3",
+        "byline": "By Jonathan Swan, Vivian Nereim and Luke Broadwater",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T16:56:11-04:00",
+        "created_date": "2025-05-13T16:29:06-04:00",
+        "published_date": "2025-05-13T16:29:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "International Trade and World Market"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Mohammed bin Salman (1985- )",
+            "Biden, Joseph R Jr",
+            "Salman, King of Saudi Arabia"
+        ],
+        "geo_facet": [
+            "Riyadh (Saudi Arabia)",
+            "Diriyah (Saudi Arabia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-trump-royal-treatment-qmhw/13int-trump-royal-treatment-qmhw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump descended stairs covered in a lavender carpet to be greeted by Prince Mohammed bin Salman and an honor guard on Tuesday in Riyadh, Saudi Arabia.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-trump-royal-treatment-qmhw/13int-trump-royal-treatment-qmhw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump descended stairs covered in a lavender carpet to be greeted by Prince Mohammed bin Salman and an honor guard on Tuesday in Riyadh, Saudi Arabia.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-trump-royal-treatment-qmhw/13int-trump-royal-treatment-qmhw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump descended stairs covered in a lavender carpet to be greeted by Prince Mohammed bin Salman and an honor guard on Tuesday in Riyadh, Saudi Arabia.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
