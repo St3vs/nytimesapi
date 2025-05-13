@@ -88661,5 +88661,130 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Trump Cites $600 Billion in Saudi Deals, but Real Figure Appears Lower",
+        "abstract": "The White House was shy on details about the agreements, and the projects’ costs totaled less than half the number it announced.",
+        "url": "https://www.nytimes.com/2025/05/13/world/middleeast/trump-saudi-economic-forum.html",
+        "uri": "nyt://article/46d6181e-bc8c-5f6c-8176-105c66dbae82",
+        "byline": "By Luke Broadwater, Vivian Nereim and Jonathan Swan",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T16:01:42-04:00",
+        "created_date": "2025-05-13T14:37:29-04:00",
+        "published_date": "2025-05-13T14:37:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Foreign Investments",
+            "High Net Worth Individuals"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Sacks, David O",
+            "Fink, Laurence D"
+        ],
+        "geo_facet": [
+            "Riyadh (Saudi Arabia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-saudi-interests-1-fzpg/13trump-saudi-interests-1-fzpg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump addressing the U.S.-Saudi Investment Forum in Riyadh, Saudi Arabia, on Tuesday.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-saudi-interests-1-fzpg/13trump-saudi-interests-1-fzpg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump addressing the U.S.-Saudi Investment Forum in Riyadh, Saudi Arabia, on Tuesday.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-saudi-interests-1-fzpg/13trump-saudi-interests-1-fzpg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump addressing the U.S.-Saudi Investment Forum in Riyadh, Saudi Arabia, on Tuesday.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Trump Says U.S. Will Lift Sanctions on Syria Under New Government",
+        "abstract": "President Trump, on a state visit to Saudi Arabia, said he made the decision after speaking to the Saudi crown prince. The president is trying to drum up Saudi investment in the U.S.",
+        "url": "https://www.nytimes.com/2025/05/13/world/middleeast/trump-syria-president-meeting.html",
+        "uri": "nyt://article/d7004e16-fe8c-5297-bff7-360db7a48714",
+        "byline": "By Ben Hubbard, Jonathan Swan and Erika Solomon",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T16:04:03-04:00",
+        "created_date": "2025-05-13T12:08:17-04:00",
+        "published_date": "2025-05-13T12:08:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Embargoes and Sanctions"
+        ],
+        "org_facet": [
+            "Islamic State in Iraq and Syria (ISIS)"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+            "Assad, Bashar al-",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Damascus (Syria)",
+            "Saudi Arabia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-syria-president-topart-wkjm/13trump-news-syria-president-topart-wkjm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Ahmed al-Shara of Syria during an interview in Damascus, Syria, last month. Mr. al-Shara led a rebel alliance that ousted the dictatorship of President Bashar al-Assad in December.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-syria-president-topart-wkjm/13trump-news-syria-president-topart-wkjm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Ahmed al-Shara of Syria during an interview in Damascus, Syria, last month. Mr. al-Shara led a rebel alliance that ousted the dictatorship of President Bashar al-Assad in December.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-syria-president-topart-wkjm/13trump-news-syria-president-topart-wkjm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Ahmed al-Shara of Syria during an interview in Damascus, Syria, last month. Mr. al-Shara led a rebel alliance that ousted the dictatorship of President Bashar al-Assad in December.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
