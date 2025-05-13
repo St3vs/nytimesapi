@@ -87443,5 +87443,182 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Trump Gets Lavish Welcome in Saudi Arabia as He Kicks Off Gulf Tour",
+        "abstract": "The president, who will also visit Qatar and the United Arab Emirates, is making the first major international trip of his second term. He has told advisers that he wants to sign deals worth more than $1 trillion.",
+        "url": "https://www.nytimes.com/live/2025/05/13/us/trump-news-saudi-arabia",
+        "uri": "nyt://promo/58728853-7832-5c48-ad32-c88b2c5239dd",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-13T09:27:05-04:00",
+        "created_date": "2025-05-13T05:31:30-04:00",
+        "published_date": "2025-05-13T05:31:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-header3/13trump-news-saudi-glitz-mfqp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1282,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump met with Crown Prince Mohammed bin Salman and other Saudi officials in Riyadh on Tuesday.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-header3/13trump-news-saudi-glitz-mfqp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump met with Crown Prince Mohammed bin Salman and other Saudi officials in Riyadh on Tuesday.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-header3/13trump-news-saudi-glitz-mfqp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump met with Crown Prince Mohammed bin Salman and other Saudi officials in Riyadh on Tuesday.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Kremlin Stays Mum on Whether Putin Will Meet Zelensky",
+        "abstract": "President Trump raised the prospect of attending negotiations himself, after Ukraine’s leader said he would go in person and challenged Russia’s to do the same.",
+        "url": "https://www.nytimes.com/2025/05/13/world/europe/russia-ukraine-putin-zelensky.html",
+        "uri": "nyt://article/a1f3292a-f1b1-527d-b710-71ca85316956",
+        "byline": "By Nataliya Vasilyeva",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T09:17:19-04:00",
+        "created_date": "2025-05-13T09:17:19-04:00",
+        "published_date": "2025-05-13T09:17:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Russian Invasion of Ukraine (2022)",
+            "Peace Process"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Merz, Friedrich",
+            "Peskov, Dmitri S",
+            "Putin, Vladimir V",
+            "Rubio, Marco",
+            "Trump, Donald J",
+            "Yermak, Andriy",
+            "Zelensky, Volodymyr"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-russia-ukraine-vhlk-gcvf/13int-russia-ukraine-vhlk-gcvf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by Russian state media of President Vladimir V. Putin in Moscow on Monday. Russia has yet to specify its delegation for talks in Turkey.",
+                "copyright": "Alexander Kazakov/Sputnik, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-russia-ukraine-vhlk-gcvf/13int-russia-ukraine-vhlk-gcvf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by Russian state media of President Vladimir V. Putin in Moscow on Monday. Russia has yet to specify its delegation for talks in Turkey.",
+                "copyright": "Alexander Kazakov/Sputnik, via Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-russia-ukraine-vhlk-gcvf/13int-russia-ukraine-vhlk-gcvf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A photo released by Russian state media of President Vladimir V. Putin in Moscow on Monday. Russia has yet to specify its delegation for talks in Turkey.",
+                "copyright": "Alexander Kazakov/Sputnik, via Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "U.K. Retail Giant M&S Says Customer Data Was Compromised in Cyberattack",
+        "abstract": "The company suspended online orders for weeks after the breach, which may have exposed contact details and birth dates.",
+        "url": "https://www.nytimes.com/2025/05/13/world/europe/marks-spencer-cyber-attack.html",
+        "uri": "nyt://article/f61e2f2e-fee8-5d6f-82f5-8bb9569b7476",
+        "byline": "By Jenny Gross",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T09:16:59-04:00",
+        "created_date": "2025-05-13T09:16:59-04:00",
+        "published_date": "2025-05-13T09:16:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Shopping and Retail",
+            "Cyberattacks and Hackers",
+            "Computers and the Internet",
+            "Computer Security"
+        ],
+        "org_facet": [
+            "Harrods",
+            "MARKS & SPENCER PLC"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13xp-marksandspencers1/13xp-marksandspencers1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The flagship store of the Marks and Spencer chain of shops in London in 2022.",
+                "copyright": "Leon Neal/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13xp-marksandspencers1/13xp-marksandspencers1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The flagship store of the Marks and Spencer chain of shops in London in 2022.",
+                "copyright": "Leon Neal/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13xp-marksandspencers1/13xp-marksandspencers1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The flagship store of the Marks and Spencer chain of shops in London in 2022.",
+                "copyright": "Leon Neal/Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
