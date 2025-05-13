@@ -87676,5 +87676,261 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "africa",
+        "title": "White South Africans Granted Refugee Status by Trump: What We Know",
+        "abstract": "The first group of Afrikaners have arrived in the United States, claiming they were victims of persecution or had reason to fear persecution in their home country.",
+        "url": "https://www.nytimes.com/article/afrikaner-refugees-trump-south-africa.html",
+        "uri": "nyt://article/e13a718f-aa41-58bd-b849-2a57d2244a67",
+        "byline": "By The New York Times",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T10:43:19-04:00",
+        "created_date": "2025-05-13T10:25:24-04:00",
+        "published_date": "2025-05-13T10:25:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Politics and Government",
+            "Executive Orders and Memorandums",
+            "United States International Relations",
+            "Discrimination",
+            "Refugees and Displaced Persons",
+            "Whites",
+            "Race and Ethnicity",
+            "Apartheid (Policy)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "South Africa",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13afrikaner-explainer-1-tbwk/13afrikaner-explainer-1-tbwk-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Newly arrived South Africans listen to Deputy Secretary of State Christopher Landau and Homeland Security Deputy Secretary Troy Edgar deliver welcome statements, near Washington Dulles International Airport, on Monday.",
+                "copyright": "Chip Somodevilla/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13afrikaner-explainer-1-tbwk/13afrikaner-explainer-1-tbwk-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Newly arrived South Africans listen to Deputy Secretary of State Christopher Landau and Homeland Security Deputy Secretary Troy Edgar deliver welcome statements, near Washington Dulles International Airport, on Monday.",
+                "copyright": "Chip Somodevilla/Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13afrikaner-explainer-1-tbwk/13afrikaner-explainer-1-tbwk-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Newly arrived South Africans listen to Deputy Secretary of State Christopher Landau and Homeland Security Deputy Secretary Troy Edgar deliver welcome statements, near Washington Dulles International Airport, on Monday.",
+                "copyright": "Chip Somodevilla/Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "americas",
+        "title": "Tariffs Drive Honda to Move S.U.V. Production From Canada to U.S.",
+        "abstract": "President Trump’s trade war again tests Canada’s new government. Honda is also canceling plans for a major electric vehicle factory in Canada.",
+        "url": "https://www.nytimes.com/2025/05/13/world/americas/honda-trump-tariffs-us-canada.html",
+        "uri": "nyt://article/c33f281f-f6ae-51a3-a2b6-0ef590850465",
+        "byline": "By Ian Austen",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T11:13:10-04:00",
+        "created_date": "2025-05-13T10:33:18-04:00",
+        "published_date": "2025-05-13T10:33:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Automobiles",
+            "International Trade and World Market",
+            "Electric and Hybrid Vehicles",
+            "Customs (Tariff)",
+            "United States International Relations"
+        ],
+        "org_facet": [
+            "Honda Motor Co Ltd"
+        ],
+        "per_facet": [
+            "Carney, Mark J",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Canada",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13canada-cars-qvfl/13canada-cars-qvfl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Honda CR-V vehicles on the assembly line in Alliston, Ontario. Canada’s new prime minister, Mark Carney, has portrayed himself as the leader best suited for dealing with a trade war with the United States.",
+                "copyright": "Cole Burston/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13canada-cars-qvfl/13canada-cars-qvfl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Honda CR-V vehicles on the assembly line in Alliston, Ontario. Canada’s new prime minister, Mark Carney, has portrayed himself as the leader best suited for dealing with a trade war with the United States.",
+                "copyright": "Cole Burston/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13canada-cars-qvfl/13canada-cars-qvfl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Honda CR-V vehicles on the assembly line in Alliston, Ontario. Canada’s new prime minister, Mark Carney, has portrayed himself as the leader best suited for dealing with a trade war with the United States.",
+                "copyright": "Cole Burston/Reuters"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Germany Bans a Far-Right Group and Arrests 4 of Its Leaders",
+        "abstract": "Members of a group calling itself the Kingdom of Germany, which was targeted in nationwide raids, reject the existence of the German state and want to set up a parallel one.",
+        "url": "https://www.nytimes.com/2025/05/13/world/europe/germany-ban-far-right-kingdom.html",
+        "uri": "nyt://article/a92ac269-531f-5aa1-8ff3-c2608cb35f60",
+        "byline": "By Christopher F. Schuetze",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T10:24:16-04:00",
+        "created_date": "2025-05-13T10:24:16-04:00",
+        "published_date": "2025-05-13T10:24:16-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Right-Wing Extremism and Alt-Right",
+            "Fringe Groups and Movements",
+            "Reichsburger"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Alexander Dobrint"
+        ],
+        "geo_facet": [
+            "Germany"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-germany-kingdom-02-mqgb/13int-germany-kingdom-02-mqgb-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Peter Fitzek, the self-proclaimed “king” of a group that calls itself the Kingdom of Germany, in 2023. He was among those recently arrested.",
+                "copyright": "Jens Schlueter/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-germany-kingdom-02-mqgb/13int-germany-kingdom-02-mqgb-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Peter Fitzek, the self-proclaimed “king” of a group that calls itself the Kingdom of Germany, in 2023. He was among those recently arrested.",
+                "copyright": "Jens Schlueter/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-germany-kingdom-02-mqgb/13int-germany-kingdom-02-mqgb-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Peter Fitzek, the self-proclaimed “king” of a group that calls itself the Kingdom of Germany, in 2023. He was among those recently arrested.",
+                "copyright": "Jens Schlueter/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "style",
+        "subsection": "",
+        "title": "Catherine, Princess of Wales, Steps Back Into the Fashion Spotlight",
+        "abstract": "The British royal made a surprise appearance on Tuesday to present a fashion award named for Queen Elizabeth II.",
+        "url": "https://www.nytimes.com/2025/05/13/style/kate-middleton-queen-elizabeth-ii-award-design.html",
+        "uri": "nyt://article/c6fcfad0-cdc7-5c4c-baf5-15965355ffad",
+        "byline": "By Elizabeth Paton",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T11:10:34-04:00",
+        "created_date": "2025-05-13T11:10:34-04:00",
+        "published_date": "2025-05-13T11:10:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Royal Families",
+            "Fashion and Apparel",
+            "Textiles"
+        ],
+        "org_facet": [
+            "British Fashion Council",
+            "Buckingham Palace",
+            "Kensington Palace"
+        ],
+        "per_facet": [
+            "Catherine, Princess of Wales"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13QEII-AWARD-01-lqmw/13QEII-AWARD-01-lqmw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 1365,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Catherine, Princess of Wales, wore an olive suit by the British designer Victoria Beckham for the occasion. ",
+                "copyright": "Shaun James Cox/BFC"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13QEII-AWARD-01-lqmw/13QEII-AWARD-01-lqmw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Catherine, Princess of Wales, wore an olive suit by the British designer Victoria Beckham for the occasion. ",
+                "copyright": "Shaun James Cox/BFC"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13QEII-AWARD-01-lqmw/13QEII-AWARD-01-lqmw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Catherine, Princess of Wales, wore an olive suit by the British designer Victoria Beckham for the occasion. ",
+                "copyright": "Shaun James Cox/BFC"
+            }
+        ],
+        "short_url": ""
     }
 ]
