@@ -87319,5 +87319,129 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "President Trump’s Visit to the Middle East",
+        "abstract": "Mr. Trump has few meetings directly about pressing geopolitical challenges. Instead, he’s in the Persian Gulf to make deals.",
+        "url": "https://www.nytimes.com/2025/05/13/world/europe/trump-middle-east-photos.html",
+        "uri": "nyt://article/a79e9108-a0f9-5b93-afee-5ec3218d0f3b",
+        "byline": "By The New York Times",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T08:00:57-04:00",
+        "created_date": "2025-05-13T07:44:49-04:00",
+        "published_date": "2025-05-13T07:44:49-04:00",
+        "material_type_facet": "",
+        "kicker": "In Photos and Video",
+        "des_facet": [
+            "vis-photo",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Middle East",
+            "Qatar",
+            "United Arab Emirates",
+            "Saudi Arabia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13Trump-ME-Photos-bgmc/13Trump-ME-Photos-bgmc-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1282,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Saudi Crown Prince Mohammed bin Salman, with other officials, at the Royal Palace in Riyadh on Tuesday.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13Trump-ME-Photos-bgmc/13Trump-ME-Photos-bgmc-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Saudi Crown Prince Mohammed bin Salman, with other officials, at the Royal Palace in Riyadh on Tuesday.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13Trump-ME-Photos-bgmc/13Trump-ME-Photos-bgmc-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump and Saudi Crown Prince Mohammed bin Salman, with other officials, at the Royal Palace in Riyadh on Tuesday.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Kim Kardashian Testifies in Paris Court About Robbery Ordeal",
+        "abstract": "The reality TV star and entrepreneur described how she was tied up at gunpoint as jewelry worth millions was stolen in a 2016 attack.",
+        "url": "https://www.nytimes.com/2025/05/13/world/europe/kim-kardashian-testimony-paris-robbery-trial.html",
+        "uri": "nyt://article/945ed46e-08a5-5eef-a5e5-f25151b02aa7",
+        "byline": "By Aurelien Breeden",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T08:43:37-04:00",
+        "created_date": "2025-05-13T07:18:12-04:00",
+        "published_date": "2025-05-13T07:18:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Robberies and Thefts",
+            "Reality Television",
+            "Jewels and Jewelry",
+            "Fashion and Apparel"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kardashian, Kim"
+        ],
+        "geo_facet": [
+            "France",
+            "Paris (France)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-france-kardashian-trial-qpgw/13int-france-kardashian-trial-qpgw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Kardashian arriving at court in Paris on Tuesday.",
+                "copyright": "Alain Jocard/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-france-kardashian-trial-qpgw/13int-france-kardashian-trial-qpgw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Kardashian arriving at court in Paris on Tuesday.",
+                "copyright": "Alain Jocard/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-france-kardashian-trial-qpgw/13int-france-kardashian-trial-qpgw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Kardashian arriving at court in Paris on Tuesday.",
+                "copyright": "Alain Jocard/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
