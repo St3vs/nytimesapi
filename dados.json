@@ -88418,5 +88418,248 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Trump Administration Live Updates: White House Set to Steer More Federal Agents to Immigration Crackdown",
+        "abstract": "The president announced the planned change in U.S. policy during a speech at a Saudi investment forum at the start of the first major international trip of his second term. His meeting with Syria’s new leader will take place Wednesday.",
+        "url": "https://www.nytimes.com/live/2025/05/13/us/trump-news-saudi-arabia",
+        "uri": "nyt://promo/58728853-7832-5c48-ad32-c88b2c5239dd",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-13T15:17:13-04:00",
+        "created_date": "2025-05-13T05:31:30-04:00",
+        "published_date": "2025-05-13T05:31:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-promo-215pm/13trump-news-promo-11am-gkvp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1364,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-promo-215pm/13trump-news-promo-11am-gkvp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-promo-215pm/13trump-news-promo-11am-gkvp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Money Talks (and Listens) at Saudi Investment Forum Attended by Trump",
+        "abstract": "The wealthy and the powerful gathered in Saudi Arabia with the goal of becoming even more so. “They’re going to walk away with a lot of checks,” President Trump said.",
+        "url": "https://www.nytimes.com/2025/05/13/world/middleeast/trump-saudi-economic-forum.html",
+        "uri": "nyt://article/46d6181e-bc8c-5f6c-8176-105c66dbae82",
+        "byline": "By Luke Broadwater, Vivian Nereim and Jonathan Swan",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T14:37:38-04:00",
+        "created_date": "2025-05-13T14:37:29-04:00",
+        "published_date": "2025-05-13T14:37:29-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "United States International Relations",
+            "Foreign Investments",
+            "High Net Worth Individuals"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Sacks, David O",
+            "Fink, Laurence D"
+        ],
+        "geo_facet": [
+            "Riyadh (Saudi Arabia)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-saudi-interests-1-fzpg/13trump-saudi-interests-1-fzpg-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump addressing the U.S.-Saudi Investment Forum in Riyadh, Saudi Arabia, on Tuesday.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-saudi-interests-1-fzpg/13trump-saudi-interests-1-fzpg-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump addressing the U.S.-Saudi Investment Forum in Riyadh, Saudi Arabia, on Tuesday.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-saudi-interests-1-fzpg/13trump-saudi-interests-1-fzpg-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump addressing the U.S.-Saudi Investment Forum in Riyadh, Saudi Arabia, on Tuesday.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "climate",
+        "subsection": "",
+        "title": "3M to Pay New Jersey Up to $450 Million for Drinking-Water Contamination",
+        "abstract": "The state claimed ‘forever chemicals,’ also known as PFAS, contaminated groundwater from an industrial park where they were used for decades.",
+        "url": "https://www.nytimes.com/2025/05/13/climate/3m-pfas-forever-chemical-lawsuit-water-new-jersey.html",
+        "uri": "nyt://article/980dae54-2217-5d28-bb90-a0297f43fcd4",
+        "byline": "By Hiroko Tabuchi",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T14:59:52-04:00",
+        "created_date": "2025-05-13T14:59:52-04:00",
+        "published_date": "2025-05-13T14:59:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Water Pollution",
+            "Chemicals",
+            "PFAS (Per- and Polyfluoroalkyl Substances)",
+            "Compensation for Damages (Law)",
+            "Environment",
+            "Suits and Litigation (Civil)"
+        ],
+        "org_facet": [
+            "3M Company",
+            "Chemours Company",
+            "DuPont Co",
+            "Environmental Protection Agency"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+            "New Jersey"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13CLI-PFAS-LAWSUIT-cbhz/13CLI-PFAS-LAWSUIT-cbhz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "3M’s Minnesota headquarters. The company made chemicals that were used for decades at a major industrial site in New Jersey.",
+                "copyright": "Tim Gruber for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13CLI-PFAS-LAWSUIT-cbhz/13CLI-PFAS-LAWSUIT-cbhz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "3M’s Minnesota headquarters. The company made chemicals that were used for decades at a major industrial site in New Jersey.",
+                "copyright": "Tim Gruber for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13CLI-PFAS-LAWSUIT-cbhz/13CLI-PFAS-LAWSUIT-cbhz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "3M’s Minnesota headquarters. The company made chemicals that were used for decades at a major industrial site in New Jersey.",
+                "copyright": "Tim Gruber for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Trump Says U.S. Will Lift Sanctions on Syria After Rebel Takeover",
+        "abstract": "Syria’s new leaders and their allies in the Arab world have argued that the sanctions, meant to punish the Assad regime that was toppled in December, have outlived their purpose.",
+        "url": "https://www.nytimes.com/2025/05/13/world/middleeast/trump-syria-president-meeting.html",
+        "uri": "nyt://article/d7004e16-fe8c-5297-bff7-360db7a48714",
+        "byline": "By Jonathan Swan and Ben Hubbard",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T14:45:03-04:00",
+        "created_date": "2025-05-13T12:08:17-04:00",
+        "published_date": "2025-05-13T12:08:17-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Embargoes and Sanctions"
+        ],
+        "org_facet": [
+            "Islamic State in Iraq and Syria (ISIS)"
+        ],
+        "per_facet": [
+            "al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )",
+            "Assad, Bashar al-",
+            "Trump, Donald J"
+        ],
+        "geo_facet": [
+            "Damascus (Syria)",
+            "Saudi Arabia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-syria-president-topart-wkjm/13trump-news-syria-president-topart-wkjm-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Ahmed al-Shara of Syria during an interview in Damascus, Syria, last month. Mr. al-Shara led a rebel alliance that ousted the dictatorship of President Bashar al-Assad in December.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-syria-president-topart-wkjm/13trump-news-syria-president-topart-wkjm-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Ahmed al-Shara of Syria during an interview in Damascus, Syria, last month. Mr. al-Shara led a rebel alliance that ousted the dictatorship of President Bashar al-Assad in December.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-syria-president-topart-wkjm/13trump-news-syria-president-topart-wkjm-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Ahmed al-Shara of Syria during an interview in Damascus, Syria, last month. Mr. al-Shara led a rebel alliance that ousted the dictatorship of President Bashar al-Assad in December.",
+                "copyright": "Daniel Berehulak/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
