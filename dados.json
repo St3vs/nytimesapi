@@ -88113,5 +88113,182 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Live Updates: Trump Will Lift Sanctions on Syria and Meet With Its Leader",
+        "abstract": "The president announced the planned change in U.S. policy during a speech at a Saudi investment forum at the start of the first major international trip of his second term. His meeting with Syria’s new leader will take place Wednesday.",
+        "url": "https://www.nytimes.com/live/2025/05/13/us/trump-news-saudi-arabia",
+        "uri": "nyt://promo/58728853-7832-5c48-ad32-c88b2c5239dd",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-13T13:19:22-04:00",
+        "created_date": "2025-05-13T05:31:30-04:00",
+        "published_date": "2025-05-13T05:31:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-reporter-updates-1230pm-bfgq/13trump-news-reporter-updates-1230pm-bfgq-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-reporter-updates-1230pm-bfgq/13trump-news-reporter-updates-1230pm-bfgq-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-reporter-updates-1230pm-bfgq/13trump-news-reporter-updates-1230pm-bfgq-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "In Private, Some Israeli Officers Admit That Gaza Is on the Brink of Starvation",
+        "abstract": "Israel’s government has publicly dismissed warnings of extreme food shortages after it blocked aid deliveries, but an internal analysis concluded that a crisis looms if food supplies are not restored.",
+        "url": "https://www.nytimes.com/2025/05/13/world/middleeast/gaza-famine-starvation-israel.html",
+        "uri": "nyt://article/a1167d94-dc1d-5930-b816-619451e5e852",
+        "byline": "By Natan Odenheimer and Ronen Bergman",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T13:11:20-04:00",
+        "created_date": "2025-05-13T13:00:39-04:00",
+        "published_date": "2025-05-13T13:00:39-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Defense and Military Forces",
+            "Humanitarian Aid",
+            "Food Insecurity",
+            "Palestinians"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Gaza Strip",
+            "Israel"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int.idf-starvation-01-wgth/13int.idf-starvation-01-wgth-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians waiting to receive a cooked meal in Jabaliya camp, northern Gaza Strip, in April. Food supplies have dried up since Israel blocked aid deliveries in March.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int.idf-starvation-01-wgth/13int.idf-starvation-01-wgth-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians waiting to receive a cooked meal in Jabaliya camp, northern Gaza Strip, in April. Food supplies have dried up since Israel blocked aid deliveries in March.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int.idf-starvation-01-wgth/13int.idf-starvation-01-wgth-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Palestinians waiting to receive a cooked meal in Jabaliya camp, northern Gaza Strip, in April. Food supplies have dried up since Israel blocked aid deliveries in March.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Israel Bombards Gaza Seeking to Kill Top Hamas Leader, Officials Say",
+        "abstract": "Israeli officials said the military had launched an attack targeting Mohammad Sinwar, one of Hamas’s top remaining commanders in Gaza and the brother of a leader killed last year.",
+        "url": "https://www.nytimes.com/2025/05/13/world/middleeast/israel-gaza-sinwar-khan-younis.html",
+        "uri": "nyt://article/79bb0d5f-27af-563e-894a-b5e97d11c9c7",
+        "byline": "By Ronen Bergman and Aaron Boxerman",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T13:18:32-04:00",
+        "created_date": "2025-05-13T13:18:32-04:00",
+        "published_date": "2025-05-13T13:18:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Israel-Gaza War (2023- )",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [
+            "Hamas"
+        ],
+        "per_facet": [
+            "Sinwar, Yehya",
+            "Mohammad Sinwar"
+        ],
+        "geo_facet": [
+            "Israel",
+            "Gaza Strip",
+            "Khan Younis (Gaza Strip)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13israel-strike-new-wlvp/13israel-strike-new-wlvp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A wounded Palestinian lying on a stretcher, after Israeli airstrikes near the European Hospital, at Nasser Hospital in Khan Younis, in the southern Gaza Strip, on Tuesday.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13israel-strike-new-wlvp/13israel-strike-new-wlvp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A wounded Palestinian lying on a stretcher, after Israeli airstrikes near the European Hospital, at Nasser Hospital in Khan Younis, in the southern Gaza Strip, on Tuesday.",
+                "copyright": "Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13israel-strike-new-wlvp/13israel-strike-new-wlvp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "A wounded Palestinian lying on a stretcher, after Israeli airstrikes near the European Hospital, at Nasser Hospital in Khan Younis, in the southern Gaza Strip, on Tuesday.",
+                "copyright": "Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
