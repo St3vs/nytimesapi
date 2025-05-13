@@ -88980,5 +88980,109 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Trump Administration Live Updates: Judge Allows Deportation of Venezuelans Under Under Alien Enemies Act",
+        "abstract": "The president announced the planned change in U.S. policy during a speech at a Saudi investment forum at the start of the first major international trip of his second term. His meeting with Syria’s new leader will take place Wednesday.",
+        "url": "https://www.nytimes.com/live/2025/05/13/us/trump-news-saudi-arabia",
+        "uri": "nyt://promo/58728853-7832-5c48-ad32-c88b2c5239dd",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-13T18:08:49-04:00",
+        "created_date": "2025-05-13T05:31:30-04:00",
+        "published_date": "2025-05-13T05:31:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-promo-330pm/13trump-news-syria-president-update-pzkf-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-promo-330pm/13trump-news-syria-president-update-pzkf-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-promo-330pm/13trump-news-syria-president-update-pzkf-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "briefing",
+        "subsection": "",
+        "title": "Wednesday Briefing: Israeli Officers Warn of Famine",
+        "abstract": "Plus, a Hollywood takeover at Cannes.",
+        "url": "https://www.nytimes.com/2025/05/13/briefing/israel-gaza-famine-trump-syria-sanctions-ukraine-russia-talks.html",
+        "uri": "nyt://article/d2c8a84a-8218-504e-9229-2618304ecc01",
+        "byline": "By Emmett Lindner",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T17:03:34-04:00",
+        "created_date": "2025-05-13T17:03:34-04:00",
+        "published_date": "2025-05-13T17:03:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/14ambriefing-asia-starvation/14ambriefing-asia-starvation-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 2048,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Meals provided to Palestinians in Jabaliya, northern Gaza Strip, last month.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/14ambriefing-asia-starvation/14ambriefing-asia-starvation-threeByTwoSmallAt2X-v2.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Meals provided to Palestinians in Jabaliya, northern Gaza Strip, last month.",
+                "copyright": "Saher Alghorra for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/14ambriefing-asia-starvation/14ambriefing-asia-starvation-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Meals provided to Palestinians in Jabaliya, northern Gaza Strip, last month.",
+                "copyright": "Saher Alghorra for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
