@@ -88290,5 +88290,133 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Kim Kardashian Tells Court She Feared for Her Life in 2016 Paris Robbery",
+        "abstract": "The reality TV star, in emotional testimony at a trial in Paris, described being held at gunpoint as jewelry worth millions was stolen.",
+        "url": "https://www.nytimes.com/2025/05/13/world/europe/kim-kardashian-testimony-paris-robbery-trial.html",
+        "uri": "nyt://article/945ed46e-08a5-5eef-a5e5-f25151b02aa7",
+        "byline": "By Aurelien Breeden",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T13:36:34-04:00",
+        "created_date": "2025-05-13T07:18:12-04:00",
+        "published_date": "2025-05-13T07:18:12-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Robberies and Thefts",
+            "Reality Television",
+            "Jewels and Jewelry",
+            "Fashion and Apparel"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Kardashian, Kim"
+        ],
+        "geo_facet": [
+            "France",
+            "Paris (France)"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-france-kardashian-trial-qpgw/13int-france-kardashian-trial-qpgw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Kardashian arriving at court in Paris on Tuesday.",
+                "copyright": "Alain Jocard/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-france-kardashian-trial-qpgw/13int-france-kardashian-trial-qpgw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Kardashian arriving at court in Paris on Tuesday.",
+                "copyright": "Alain Jocard/Agence France-Presse — Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-france-kardashian-trial-qpgw/13int-france-kardashian-trial-qpgw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Kim Kardashian arriving at court in Paris on Tuesday.",
+                "copyright": "Alain Jocard/Agence France-Presse — Getty Images"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "After 38 Years in Prison for Murder, British Man Is Freed by New DNA Evidence",
+        "abstract": "Peter Sullivan was found guilty of a brutal killing in 1987. But an appeals court overturned his conviction on Tuesday and ordered his immediate release.",
+        "url": "https://www.nytimes.com/2025/05/13/world/europe/peter-sullivan-murder-appeal-free-uk.html",
+        "uri": "nyt://article/4fdb41ba-7188-571b-ab25-596cbb48bffa",
+        "byline": "By Stephen Castle",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T13:54:52-04:00",
+        "created_date": "2025-05-13T13:54:52-04:00",
+        "published_date": "2025-05-13T13:54:52-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Murders, Attempted Murders and Homicides",
+            "Decisions and Verdicts",
+            "DNA (Deoxyribonucleic Acid)",
+            "Forensic Science",
+            "Sex Crimes",
+            "False Arrests, Convictions and Imprisonments",
+            "Confessions"
+        ],
+        "org_facet": [
+            "Crown Prosecution Service"
+        ],
+        "per_facet": [
+            "Peter Sullivan"
+        ],
+        "geo_facet": [
+            "Great Britain"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/world/13int-uk-murder-appeal-1/13int-uk-murder-appeal-1-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1080,
+                "width": 1620,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lord Justice Timothy Holroyde was one of three judges presiding over the hearing on Tuesday at the Court of Appeal in London, where Peter Sullivan’s conviction was overturned.",
+                "copyright": "Press Association, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/world/13int-uk-murder-appeal-1/13int-uk-murder-appeal-1-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lord Justice Timothy Holroyde was one of three judges presiding over the hearing on Tuesday at the Court of Appeal in London, where Peter Sullivan’s conviction was overturned.",
+                "copyright": "Press Association, via Getty Images"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/world/13int-uk-murder-appeal-1/13int-uk-murder-appeal-1-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Lord Justice Timothy Holroyde was one of three judges presiding over the hearing on Tuesday at the Court of Appeal in London, where Peter Sullivan’s conviction was overturned.",
+                "copyright": "Press Association, via Getty Images"
+            }
+        ],
+        "short_url": ""
     }
 ]
