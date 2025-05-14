@@ -89255,5 +89255,57 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "",
+        "subsection": "",
+        "title": "Judge Allows Deportation of Venezuelans Under Alien Enemies Act",
+        "abstract": "The president announced the planned change in U.S. policy during a speech at a Saudi investment forum at the start of the first major international trip of his second term. His meeting with Syria’s new leader will take place Wednesday.",
+        "url": "https://www.nytimes.com/live/2025/05/13/us/trump-news-saudi-arabia",
+        "uri": "nyt://promo/58728853-7832-5c48-ad32-c88b2c5239dd",
+        "byline": "",
+        "item_type": "Promo",
+        "updated_date": "2025-05-13T22:38:35-04:00",
+        "created_date": "2025-05-13T05:31:30-04:00",
+        "published_date": "2025-05-13T05:31:30-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-promo915p-fbzl/13trump-news-promo915p-fbzl-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dakota Santiago for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-promo915p-fbzl/13trump-news-promo915p-fbzl-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dakota Santiago for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13trump-news-promo915p-fbzl/13trump-news-promo915p-fbzl-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "Dakota Santiago for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
