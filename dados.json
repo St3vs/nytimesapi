@@ -89372,5 +89372,72 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "europe",
+        "title": "Court Sides With New York Times Over Access to E.U. Covid Vaccine Messages",
+        "abstract": "The case revolved around whether texts between a top E.U. official and a drug company executive counted as a public record that might need to be disclosed.",
+        "url": "https://www.nytimes.com/2025/05/14/world/europe/eu-texts-covid-new-york-times.html",
+        "uri": "nyt://article/5b2fcf87-6248-557a-a96e-9d1468f5a4b0",
+        "byline": "By Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2025-05-14T04:13:24-04:00",
+        "created_date": "2025-05-14T03:53:20-04:00",
+        "published_date": "2025-05-14T03:53:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Text Messaging",
+            "Decisions and Verdicts"
+        ],
+        "org_facet": [
+            "European Commission",
+            "European Union",
+            "General Court (European Union)",
+            "New York Times",
+            "Pfizer Inc"
+        ],
+        "per_facet": [
+            "Bourla, Albert",
+            "von der Leyen, Ursula"
+        ],
+        "geo_facet": [
+            "Brussels (Belgium)",
+            "Europe"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/14/multimedia/14int-eu-texts-vljz/14int-eu-texts-vljz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ursula von der Leyen, the president of the European Commission. The case involved text messages that she and Pfizer exchanged as they negotiated a Covid-19 vaccine contract.",
+                "copyright": "Eva Manez/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/14/multimedia/14int-eu-texts-vljz/14int-eu-texts-vljz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ursula von der Leyen, the president of the European Commission. The case involved text messages that she and Pfizer exchanged as they negotiated a Covid-19 vaccine contract.",
+                "copyright": "Eva Manez/Reuters"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/14/multimedia/14int-eu-texts-vljz/14int-eu-texts-vljz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Ursula von der Leyen, the president of the European Commission. The case involved text messages that she and Pfizer exchanged as they negotiated a Covid-19 vaccine contract.",
+                "copyright": "Eva Manez/Reuters"
+            }
+        ],
+        "short_url": ""
     }
 ]
