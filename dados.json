@@ -89439,5 +89439,188 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "With Trump Visit, Qatar’s Image Makeover Scores Another Success",
+        "abstract": "The emirate, once called “a funder of terrorism” by President Trump, has spent lavishly on overhauling its global reputation.",
+        "url": "https://www.nytimes.com/2025/05/14/world/middleeast/trump-qatar.html",
+        "uri": "nyt://article/6b1e30eb-7afd-5de6-a977-00917fe2738b",
+        "byline": "By Michael D. Shear, Adam Rasgon and Tariq Panja",
+        "item_type": "Article",
+        "updated_date": "2025-05-14T05:03:27-04:00",
+        "created_date": "2025-05-14T05:03:27-04:00",
+        "published_date": "2025-05-14T05:03:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "World Cup 2022 (Soccer)",
+            "Airlines and Airplanes",
+            "Gifts to Public Officials"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Trump, Donald J",
+            "Thani, Tamim bin Hamad al-"
+        ],
+        "geo_facet": [
+            "Doha (Qatar)",
+            "Qatar"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/14/multimedia/14int-qatar-trump-tghp/14int-qatar-trump-tghp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump with Sheikh Tamim bin Hamad al-Thani, left, the emir of Qatar, and other Arab leaders at a summit in Riyadh, Saudi Arabia, on Wednesday.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/14/multimedia/14int-qatar-trump-tghp/14int-qatar-trump-tghp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump with Sheikh Tamim bin Hamad al-Thani, left, the emir of Qatar, and other Arab leaders at a summit in Riyadh, Saudi Arabia, on Wednesday.",
+                "copyright": "Doug Mills/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/14/multimedia/14int-qatar-trump-tghp/14int-qatar-trump-tghp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "President Trump with Sheikh Tamim bin Hamad al-Thani, left, the emir of Qatar, and other Arab leaders at a summit in Riyadh, Saudi Arabia, on Wednesday.",
+                "copyright": "Doug Mills/The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "India and Pakistan Talked Big, But Satellite Imagery Shows Limited Damage",
+        "abstract": "While the attacks were widespread, the damage was far more contained than both sides claimed.",
+        "url": "https://www.nytimes.com/interactive/2025/05/14/world/asia/india-pakistan-attack-damage-satellite-images.html",
+        "uri": "nyt://interactive/d7cb6147-27e3-5c75-b9d4-aebb8620aa6c",
+        "byline": "By Agnes Chang, Pablo Robles and Mujib Mashal",
+        "item_type": "Interactive",
+        "updated_date": "2025-05-14T04:58:21-04:00",
+        "created_date": "2025-05-14T04:58:21-04:00",
+        "published_date": "2025-05-14T04:58:21-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "War and Armed Conflicts"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Kashmir and Jammu (India)",
+            "Pakistan",
+            "India",
+            "Kashmir"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/14/multimedia/2025-05-13-india-pakistan-damage-index/2025-05-13-india-pakistan-damage-index-superJumbo-v3.jpg",
+                "format": "Super Jumbo",
+                "height": 1333,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/14/multimedia/2025-05-13-india-pakistan-damage-index/2025-05-13-india-pakistan-damage-index-threeByTwoSmallAt2X-v5.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/14/multimedia/2025-05-13-india-pakistan-damage-index/2025-05-13-india-pakistan-damage-index-thumbLarge-v3.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "australia",
+        "title": "Australian Cyclist Gets Suspended Sentence Over Death of Wife",
+        "abstract": "Rohan Dennis had pleaded guilty to a charge of committing an aggravated act likely to cause harm, in a vehicle incident that killed Melissa Hoskins, a fellow Olympian.",
+        "url": "https://www.nytimes.com/2025/05/14/world/australia/dennis-sentence-olympic-cyclist-wife-death.html",
+        "uri": "nyt://article/c8a44982-0b1c-502b-b39b-316f9571296a",
+        "byline": "By Yan Zhuang",
+        "item_type": "Article",
+        "updated_date": "2025-05-14T05:09:14-04:00",
+        "created_date": "2025-05-14T04:30:49-04:00",
+        "published_date": "2025-05-14T04:30:49-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Cycling, Road",
+            "Bicycles and Bicycling",
+            "Decisions and Verdicts"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Dennis, Rohan (1990- )"
+        ],
+        "geo_facet": [
+            "Adelaide (Australia)",
+            "Australia"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/15/multimedia/14xp-cyclist-tvkz/15xp-cyclist:-tvkz-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Australian professional cyclist Rohan Dennis competing in Santos Tour Down Under in Australia in 2023.",
+                "copyright": "Matt Turner/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/15/multimedia/14xp-cyclist-tvkz/15xp-cyclist:-tvkz-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Australian professional cyclist Rohan Dennis competing in Santos Tour Down Under in Australia in 2023.",
+                "copyright": "Matt Turner/EPA, via Shutterstock"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/15/multimedia/14xp-cyclist-tvkz/15xp-cyclist:-tvkz-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "The Australian professional cyclist Rohan Dennis competing in Santos Tour Down Under in Australia in 2023.",
+                "copyright": "Matt Turner/EPA, via Shutterstock"
+            }
+        ],
+        "short_url": ""
     }
 ]
