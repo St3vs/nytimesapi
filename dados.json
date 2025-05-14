@@ -89136,5 +89136,124 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "",
+        "title": "Map: 6.0-Magnitude Earthquake Strikes Near Crete, Prompting a Tsunami Alert",
+        "abstract": "View the location of the quake’s epicenter and shake area.",
+        "url": "https://www.nytimes.com/interactive/2025/05/13/world/earthquake-greece-crete.html",
+        "uri": "nyt://interactive/4c881cba-ded9-54e0-878b-74d2e69dfae1",
+        "byline": "By William B. Davis, Madison Dong, Judson Jones, John Keefe, Joey K. Lee and Bea Malsky",
+        "item_type": "Interactive",
+        "updated_date": "2025-05-13T21:42:50-04:00",
+        "created_date": "2025-05-13T19:57:44-04:00",
+        "published_date": "2025-05-13T19:57:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Earthquakes"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+            "Greece"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/world/13wea-quake-tracker-mediterranean-sea-nytgbws9-index/13wea-quake-tracker-mediterranean-sea-nytgbws9-index-superJumbo-v2.jpg",
+                "format": "Super Jumbo",
+                "height": 1332,
+                "width": 2000,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/world/13wea-quake-tracker-mediterranean-sea-nytgbws9-index/13wea-quake-tracker-mediterranean-sea-nytgbws9-index-threeByTwoSmallAt2X-v3.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/world/13wea-quake-tracker-mediterranean-sea-nytgbws9-index/13wea-quake-tracker-mediterranean-sea-nytgbws9-index-thumbLarge-v2.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "",
+                "copyright": "The New York Times"
+            }
+        ],
+        "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "middleeast",
+        "title": "Iran Proposes Novel Path to Nuclear Deal With U.S.",
+        "abstract": "In talks with American negotiators, the Iranians spoke of a consortium with several countries that would allow it to keep producing civilian grade fuel, but with more monitoring.",
+        "url": "https://www.nytimes.com/2025/05/13/world/middleeast/iran-us-nuclear-talks.html",
+        "uri": "nyt://article/784e4e83-4aa4-5140-ae43-fa126de8d3fd",
+        "byline": "By Farnaz Fassihi",
+        "item_type": "Article",
+        "updated_date": "2025-05-13T19:18:15-04:00",
+        "created_date": "2025-05-13T19:18:15-04:00",
+        "published_date": "2025-05-13T19:18:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "Nuclear Energy",
+            "United States International Relations"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Araghchi, Abbas",
+            "Witkoff, Steven"
+        ],
+        "geo_facet": [
+            "Iran",
+            "Saudi Arabia",
+            "United Arab Emirates",
+            "United States"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-iran-talks-flmw/13int-iran-talks-flmw-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1365,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tehran this month. Iranian officials are in talks with the United States about a new nuclear deal.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-iran-talks-flmw/13int-iran-talks-flmw-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tehran this month. Iranian officials are in talks with the United States about a new nuclear deal.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/13/multimedia/13int-iran-talks-flmw/13int-iran-talks-flmw-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Tehran this month. Iranian officials are in talks with the United States about a new nuclear deal.",
+                "copyright": "Arash Khamooshi for The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
