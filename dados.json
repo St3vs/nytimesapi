@@ -89307,5 +89307,70 @@
             }
         ],
         "short_url": ""
+    },
+    {
+        "section": "world",
+        "subsection": "asia",
+        "title": "Beyond Tariff Truce, China Readies for a Rocky Time With U.S.",
+        "abstract": "Beijing is trying to win over other countries with vows of economic cooperation. But it won’t back down from its territorial claims, experts predict.",
+        "url": "https://www.nytimes.com/2025/05/14/world/asia/china-us-tariffs-security.html",
+        "uri": "nyt://article/9273c3ae-34d2-51cf-bb34-3bf347bf922b",
+        "byline": "By Chris Buckley",
+        "item_type": "Article",
+        "updated_date": "2025-05-14T00:02:46-04:00",
+        "created_date": "2025-05-14T00:02:46-04:00",
+        "published_date": "2025-05-14T00:02:46-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+            "International Relations",
+            "Politics and Government",
+            "United States International Relations",
+            "Territorial Disputes",
+            "International Trade and World Market",
+            "Defense and Military Forces"
+        ],
+        "org_facet": [],
+        "per_facet": [
+            "Xi Jinping",
+            "Trump, Donald J",
+            "Rubio, Marco"
+        ],
+        "geo_facet": [
+            "China"
+        ],
+        "multimedia": [
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/00int-china-us-security-lfzp/00int-china-us-security-lfzp-superJumbo.jpg",
+                "format": "Super Jumbo",
+                "height": 1366,
+                "width": 2048,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Xi Jinping, China’s leader, waiting for President Trump to arrive for talks in Osaka, Japan, in 2019.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/00int-china-us-security-lfzp/00int-china-us-security-lfzp-threeByTwoSmallAt2X.jpg",
+                "format": "threeByTwoSmallAt2X",
+                "height": 400,
+                "width": 600,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Xi Jinping, China’s leader, waiting for President Trump to arrive for talks in Osaka, Japan, in 2019.",
+                "copyright": "Erin Schaff/The New York Times"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2025/05/10/multimedia/00int-china-us-security-lfzp/00int-china-us-security-lfzp-thumbLarge.jpg",
+                "format": "Large Thumbnail",
+                "height": 150,
+                "width": 150,
+                "type": "image",
+                "subtype": "photo",
+                "caption": "Xi Jinping, China’s leader, waiting for President Trump to arrive for talks in Osaka, Japan, in 2019.",
+                "copyright": "Erin Schaff/The New York Times"
+            }
+        ],
+        "short_url": ""
     }
 ]
